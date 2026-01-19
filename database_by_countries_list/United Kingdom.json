@@ -9515,41 +9515,6 @@
     "closed": null
   },
   {
-    "id": "JimJamEurope.uk",
-    "name": "JimJam Europe",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "AMC Networks Inc."
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ODhkYyx.png",
-    "stream_url": "https://flexi-s1.purplecdn.xyz/JimJam/tracks-v1a1/mono.ts.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "JimJamEurope.uk",
-      "feed": "SD",
-      "site": "tv2go.t-2.net",
-      "site_id": "1000509",
-      "site_name": "Jim Jam",
-      "lang": "sl"
-    },
-    "website": "https://pe.jimjam.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "KalsanTV.uk",
     "name": "Kalsan TV",
     "alt_names": [],

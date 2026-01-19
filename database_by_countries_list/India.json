@@ -762,6 +762,39 @@
     "closed": null
   },
   {
+    "id": "AaseervathamTV.in",
+    "name": "Aaseervatham TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/GlfrYs7.png",
+    "stream_url": "https://mumt04.tangotv.in/AASEERVATHAMTV/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AaseervathamTV.in",
+      "feed": "SD",
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_AASEERVATHAM_TV",
+      "site_name": "Aaseervatham TV",
+      "lang": "en"
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Aastha.in",
     "name": "Aastha",
     "alt_names": [],
@@ -3385,6 +3418,32 @@
     "closed": null
   },
   {
+    "id": "BflixMovies.in",
+    "name": "Bflix Movies",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5CtiQ45.png",
+    "stream_url": "https://mumt03.tangotv.in/BFLIX/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BhakthiTV.in",
     "name": "Bhakthi TV",
     "alt_names": [],
@@ -3626,6 +3685,39 @@
     "is_nsfw": false,
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Brio_TV.png",
     "stream_url": "http://103.140.254.2:3500/live/3381.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BrioTV.in",
+      "feed": "SD",
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_BRIO_TV",
+      "site_name": "Brio TV",
+      "lang": "en"
+    },
+    "website": null,
+    "launched": "2025-06-30",
+    "closed": null
+  },
+  {
+    "id": "BrioTV.in",
+    "name": "Brio TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Brio_TV.png",
+    "stream_url": "https://mumt02.tangotv.in/BRIOTV/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -4273,6 +4365,43 @@
     "logo": "https://dtil.tmsimg.com/assets/s158145_ld_h15_aa.png",
     "stream_url": "http://103.140.254.2:3500/live/756.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ColorsBangla.in",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "72103",
+      "site_name": "Colors Bangla",
+      "lang": "en"
+    },
+    "website": "https://www.colorstv.com/us/",
+    "launched": "2008-07-21",
+    "closed": null
+  },
+  {
+    "id": "ColorsBangla.in",
+    "name": "Colors Bangla",
+    "alt_names": [],
+    "network": "Colors",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s158145_ld_h15_aa.png",
+    "stream_url": "https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -12391,44 +12520,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/WK4tZ6p.png",
-    "stream_url": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NDTVProfit.in",
-      "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME",
-      "site_name": "NDTV Profit Prime",
-      "lang": "en"
-    },
-    "website": "http://profit.ndtv.com/",
-    "launched": "2005-01-01",
-    "closed": null
-  },
-  {
-    "id": "NDTVProfit.in",
-    "name": "NDTV Profit",
-    "alt_names": [],
-    "network": "NDTV",
-    "owners": [
-      "New Delhi Television Ltd",
-      "The Adani Group"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "business"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/WK4tZ6p.png",
-    "stream_url": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8",
-    "stream_quality": "480p",
+    "stream_url": "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -13984,6 +14077,41 @@
     "closed": null
   },
   {
+    "id": "PasandTV.in",
+    "name": "Pasand TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "OSM Network"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002NFYY1.png",
+    "stream_url": "https://mumt01.tangotv.in/PASANDTV/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PasandTV.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "899",
+      "site_name": "Pasand",
+      "lang": "en"
+    },
+    "website": null,
+    "launched": "2021-11-26",
+    "closed": null
+  },
+  {
     "id": "PeppersTV.in",
     "name": "Peppers TV",
     "alt_names": [],
@@ -14855,6 +14983,37 @@
     },
     "website": null,
     "launched": "2013-10-23",
+    "closed": null
+  },
+  {
+    "id": "RaftaarMedia.in",
+    "name": "Raftaar Media",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/05B5USY.png",
+    "stream_url": "https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc43b001646a.sdp/playlist.m3u8",
+    "stream_quality": "240p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RaftaarMedia.in",
+      "feed": "SD",
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_RAFTAAR_MEDIA",
+      "site_name": "RAFTAAR MEDIA",
+      "lang": "en"
+    },
+    "website": null,
+    "launched": null,
     "closed": null
   },
   {
@@ -19732,6 +19891,44 @@
     "closed": null
   },
   {
+    "id": "SVBC2.in",
+    "name": "SVBC 2",
+    "alt_names": [
+      "ஶ்ரீ வேங்கடேஸ்வரா பக்தி சேனல்"
+    ],
+    "network": "SVBC",
+    "owners": [
+      "Sri Venkateswara Bhakti Channel",
+      " Tirumala Tirupati Devasthanams (TTD)"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143890_ld_h9_aa.png",
+    "stream_url": "https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SVBC2.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "490",
+      "site_name": "SVBC 2",
+      "lang": "en"
+    },
+    "website": "http://www.svbcttd.com/SVBC_LIVE_TAMIL.html",
+    "launched": "2017-04-14",
+    "closed": null
+  },
+  {
     "id": "SVBC3.in",
     "name": "SVBC 3",
     "alt_names": [
@@ -20198,6 +20395,39 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ThanthiOne.in",
+    "name": "Thanthi One",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s158791_ld_h15_aa.png",
+    "stream_url": "https://mumt02.tangotv.in/THANTHIONE/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ThanthiOne.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1322",
+      "site_name": "Thanthi One",
+      "lang": "en"
+    },
+    "website": "https://www.thanthione.com/",
     "launched": null,
     "closed": null
   },
@@ -20785,34 +21015,6 @@
     },
     "website": "http://www.travelxp.tv/",
     "launched": "2011-02-02",
-    "closed": null
-  },
-  {
-    "id": "TribeTV.in",
-    "name": "Tribe TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Kalyani Solvex Private Limited"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/zG2P1WZ.png",
-    "stream_url": "https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.tribetv.in/",
-    "launched": "2021-08-09",
     "closed": null
   },
   {

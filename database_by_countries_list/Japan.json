@@ -186,7 +186,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/WxtftlO.png",
-    "stream_url": "http://171.244.62.178/jptv2/get.php?id=hnsnBqHDt2EXQupW2soBjw==",
+    "stream_url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -201,116 +201,6 @@
     },
     "website": "https://www.nhk.or.jp/shutoken/",
     "launched": "2003-12-01",
-    "closed": null
-  },
-  {
-    "id": "JOAKDTV.jp",
-    "name": "JOAK-DTV",
-    "alt_names": [
-      "NHK総合テレビジョン"
-    ],
-    "network": "NHK G",
-    "owners": [
-      "日本放送協会"
-    ],
-    "country_code": "JP",
-    "country_name": "Japan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/fAZ2BEZ.png",
-    "stream_url": "http://171.244.62.178/jptv2/get.php?id=Zt19NGeOuIq3EwLPZh_KvQ==",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "JOAKDTV.jp",
-      "feed": "SD",
-      "site": "tvguide.myjcom.jp",
-      "site_id": "2_1024_32736",
-      "site_name": "NHK東京　総合",
-      "lang": "ja"
-    },
-    "website": "https://www.nhk.or.jp/shutoken/",
-    "launched": "2003-12-01",
-    "closed": null
-  },
-  {
-    "id": "JOAKDTV.jp",
-    "name": "JOAK-DTV",
-    "alt_names": [
-      "NHK総合テレビジョン"
-    ],
-    "network": "NHK G",
-    "owners": [
-      "日本放送協会"
-    ],
-    "country_code": "JP",
-    "country_name": "Japan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/fAZ2BEZ.png",
-    "stream_url": "http://171.244.62.178/jptv2/get.php?id=mCOs5Hrdk31FTwR6IJj_hA==",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "JOAKDTV.jp",
-      "feed": "SD",
-      "site": "tvguide.myjcom.jp",
-      "site_id": "2_1024_32736",
-      "site_name": "NHK東京　総合",
-      "lang": "ja"
-    },
-    "website": "https://www.nhk.or.jp/shutoken/",
-    "launched": "2003-12-01",
-    "closed": null
-  },
-  {
-    "id": "JOAXDTV.jp",
-    "name": "JOAX-DTV",
-    "alt_names": [
-      "Nippon TV",
-      "日本テレビ"
-    ],
-    "network": "NNN/NNS",
-    "owners": [],
-    "country_code": "JP",
-    "country_name": "Japan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/IxD8V5X.png",
-    "stream_url": "http://171.244.62.178/jptv2/get.php?id=4SlJSS46Vw5igmOdvfKMww==",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "JOAXDTV.jp",
-      "feed": "SD",
-      "site": "tvguide.myjcom.jp",
-      "site_id": "2_1040_32738",
-      "site_name": "日本テレビ",
-      "lang": "ja"
-    },
-    "website": "https://www.ntv.co.jp/",
-    "launched": "1953-08-28",
     "closed": null
   },
   {
@@ -347,118 +237,6 @@
     },
     "website": "https://www.ntv.co.jp/",
     "launched": "1953-08-28",
-    "closed": null
-  },
-  {
-    "id": "JOCXDTV.jp",
-    "name": "JOCX-DTV",
-    "alt_names": [
-      "Fuji TV",
-      "フジテレビ"
-    ],
-    "network": "FNN/FNS",
-    "owners": [
-      "Fuji Television Network"
-    ],
-    "country_code": "JP",
-    "country_name": "Japan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/sEWDmMD.png",
-    "stream_url": "http://171.244.62.178/jptv2/get.php?id=uAJJq7DD6hKyPLoaMOBSUA==",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "JOCXDTV.jp",
-      "feed": "SD",
-      "site": "tvguide.myjcom.jp",
-      "site_id": "2_1056_32740",
-      "site_name": "フジテレビ",
-      "lang": "ja"
-    },
-    "website": "https://www.fujitv.co.jp/",
-    "launched": "1959-03-01",
-    "closed": null
-  },
-  {
-    "id": "JORXDTV.jp",
-    "name": "JORX-DTV",
-    "alt_names": [
-      "TBS TV",
-      "TBSテレビ"
-    ],
-    "network": "JNN/TBS Network",
-    "owners": [],
-    "country_code": "JP",
-    "country_name": "Japan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/dUn2GRn.png",
-    "stream_url": "http://171.244.62.178/jptv2/get.php?id=p1cu_Z3QI6VV01VJmw8vJQ==",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "JORXDTV.jp",
-      "feed": "SD",
-      "site": "tvguide.myjcom.jp",
-      "site_id": "2_1048_32739",
-      "site_name": "TBS",
-      "lang": "ja"
-    },
-    "website": "https://www.tbs.co.jp/",
-    "launched": "1955-04-01",
-    "closed": null
-  },
-  {
-    "id": "JOTXDTV.jp",
-    "name": "JOTX-DTV",
-    "alt_names": [
-      "TV Tokyo",
-      "テレビ東京"
-    ],
-    "network": "TXN Network",
-    "owners": [
-      "TV Tokyo Corporation"
-    ],
-    "country_code": "JP",
-    "country_name": "Japan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/512px-TV_Tokyo_%28Japanese%29_2023.svg.png",
-    "stream_url": "http://171.244.62.178/jptv2/get.php?id=2eX5WUIdzetyhgy8L8plEQ==",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "JOTXDTV.jp",
-      "feed": "SD",
-      "site": "tvguide.myjcom.jp",
-      "site_id": "2_1072_32742",
-      "site_name": "テレビ東京",
-      "lang": "ja"
-    },
-    "website": "https://www.tv-tokyo.co.jp/",
-    "launched": "1964-04-22",
     "closed": null
   },
   {
@@ -514,6 +292,44 @@
     "logo": "https://i.postimg.cc/prRQTsmD/nhkworldjapan.png",
     "stream_url": "https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NHKWorldJapan.jp",
+      "feed": "SD",
+      "site": "www3.nhk.or.jp",
+      "site_id": "0",
+      "site_name": "NHK World-Japan",
+      "lang": "en"
+    },
+    "website": "https://www3.nhk.or.jp/nhkworld/",
+    "launched": "1998-04-01",
+    "closed": null
+  },
+  {
+    "id": "NHKWorldJapan.jp",
+    "name": "NHK World-Japan",
+    "alt_names": [
+      "NHK World"
+    ],
+    "network": null,
+    "owners": [
+      "Government of Japan"
+    ],
+    "country_code": "JP",
+    "country_name": "Japan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news",
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/prRQTsmD/nhkworldjapan.png",
+    "stream_url": "https://nhk.lls.pbs.org/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -890,10 +706,10 @@
     "closed": null
   },
   {
-    "id": "WOWOWPrime.jp",
-    "name": "WOWOW Prime",
+    "id": "WOWOWLive.jp",
+    "name": "WOWOW Live",
     "alt_names": [
-      "WOWOWプライム"
+      "WOWOWライブ"
     ],
     "network": null,
     "owners": [
@@ -906,21 +722,21 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/vACq7w8.png",
-    "stream_url": "http://171.244.62.178/jptv2/get.php?id=CXrJaWUllYhR6k5e0_K46w==",
-    "stream_quality": "720p",
+    "logo": "https://i.imgur.com/jPAYT5F.png",
+    "stream_url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
-      "channel": "WOWOWPrime.jp",
+      "channel": "WOWOWLive.jp",
       "feed": "SD",
       "site": "tvguide.myjcom.jp",
-      "site_id": "3_191_4",
-      "site_name": "ＷＯＷＯＷプライム",
+      "site_id": "3_192_4",
+      "site_name": "ＷＯＷＯＷライブ",
       "lang": "ja"
     },
-    "website": "http://www.wowow.co.jp/prime_ch/",
+    "website": "http://www.wowow.co.jp/live_ch/",
     "launched": null,
     "closed": null
   }

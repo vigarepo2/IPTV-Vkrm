@@ -56,6 +56,37 @@
     "closed": null
   },
   {
+    "id": "DVBTV.mm",
+    "name": "DVB TV",
+    "alt_names": [
+      "Democratic Voice of Burma",
+      "ဒီမိုကရေတစ်မြန်မာ့အသံ"
+    ],
+    "network": null,
+    "owners": [
+      "DVB Multimedia Group"
+    ],
+    "country_code": "MM",
+    "country_name": "Myanmar",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/VdezHOv.png",
+    "stream_url": "https://live-stream.dvb.no/hls/stream_src/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://burmese.dvb.no/",
+    "launched": "2005-05-28",
+    "closed": null
+  },
+  {
     "id": "FortuneTV.mm",
     "name": "Fortune TV",
     "alt_names": [],
