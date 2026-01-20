@@ -240,6 +240,41 @@
     "closed": null
   },
   {
+    "id": "NHKBS.jp",
+    "name": "NHK BS",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Citizens of Japan"
+    ],
+    "country_code": "JP",
+    "country_name": "Japan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/t0uZcSR.png",
+    "stream_url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NHKBS.jp",
+      "feed": "SD",
+      "site": "tvguide.myjcom.jp",
+      "site_id": "3_101_4",
+      "site_name": "ＮＨＫ　ＢＳ",
+      "lang": "ja"
+    },
+    "website": "https://www.nhk.or.jp/",
+    "launched": "1984-05-12",
+    "closed": null
+  },
+  {
     "id": "NHKKishouSaigai.jp",
     "name": "NHK Kishou-Saigai",
     "alt_names": [

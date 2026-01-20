@@ -12538,6 +12538,42 @@
     "closed": null
   },
   {
+    "id": "NDTVProfit.in",
+    "name": "NDTV Profit",
+    "alt_names": [],
+    "network": "NDTV",
+    "owners": [
+      "New Delhi Television Ltd",
+      "The Adani Group"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "business"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/WK4tZ6p.png",
+    "stream_url": "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NDTVProfit.in",
+      "feed": "SD",
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME",
+      "site_name": "NDTV Profit Prime",
+      "lang": "en"
+    },
+    "website": "http://profit.ndtv.com/",
+    "launched": "2005-01-01",
+    "closed": null
+  },
+  {
     "id": "NDTVRajasthan.in",
     "name": "NDTV Rajasthan",
     "alt_names": [
@@ -18425,45 +18461,6 @@
     },
     "website": "https://hotstar.com/",
     "launched": "2007-01-01",
-    "closed": null
-  },
-  {
-    "id": "StarMaa.in",
-    "name": "Star Maa",
-    "alt_names": [
-      "Maa TV"
-    ],
-    "network": "JioStar",
-    "owners": [
-      "JioStar India Pvt. Ltd.",
-      "Reliance Industries(RIL)",
-      "The Walt Disney Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s179620_ld_h15_aa.png",
-    "stream_url": "http://103.167.255.18:8085/play/a0nj/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarMaa.in",
-      "feed": "HD",
-      "site": "tataplay.com",
-      "site_id": "956",
-      "site_name": "STAR Maa HD",
-      "lang": "en"
-    },
-    "website": "https://www.hotstar.com/channels/star-maa",
-    "launched": "2002-04-01",
     "closed": null
   },
   {

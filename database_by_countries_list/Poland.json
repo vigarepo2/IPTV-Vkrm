@@ -320,6 +320,41 @@
     "closed": null
   },
   {
+    "id": "ComedyCentral.pl",
+    "name": "Comedy Central",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Paramount Networks UK & Australia"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/Dysd5c51/comedycentral.png",
+    "stream_url": "https://liveovh010.cda.pl/enc006/comedycentralhdraw/comedycentralhdraw.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ComedyCentral.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "comedy-central-63",
+      "site_name": "Comedy Central",
+      "lang": "pl"
+    },
+    "website": "http://www.comedycentral.pl/",
+    "launched": "2006-10-19",
+    "closed": null
+  },
+  {
     "id": "DisneyChannel.pl",
     "name": "Disney Channel",
     "alt_names": [],
@@ -2135,6 +2170,37 @@
       "lang": "pl"
     },
     "website": "https://tvasta.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVC.pl",
+    "name": "TVC",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/1Wmib2f.png",
+    "stream_url": "https://liveovh010.cda.pl/enc118/tvchdraw/tvchdraw.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVC.pl",
+      "feed": "SD",
+      "site": "m.tv.sms.cz",
+      "site_id": "TVC",
+      "site_name": "TVC",
+      "lang": "cs"
+    },
+    "website": null,
     "launched": null,
     "closed": null
   },

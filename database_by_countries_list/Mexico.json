@@ -266,41 +266,6 @@
     "closed": null
   },
   {
-    "id": "Azteca7.mx",
-    "name": "Azteca 7",
-    "alt_names": [],
-    "network": "Televisión Azteca",
-    "owners": [
-      "TV Azteca"
-    ],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/UtFXjIn.png",
-    "stream_url": "https://d162h6qqsk8wvl.cloudfront.net/91890373-57e0-4162-92a9-f3244f50a35d/manifest.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Azteca7.mx",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "116154",
-      "site_name": "Azteca 7",
-      "lang": "en"
-    },
-    "website": "https://www.tvazteca.com/azteca7",
-    "launched": "1985-05-18",
-    "closed": null
-  },
-  {
     "id": "AztecaInternacional.mx",
     "name": "Azteca Internacional",
     "alt_names": [],
@@ -468,39 +433,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://californiamedios.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Canal5.mx",
-    "name": "Canal 5",
-    "alt_names": [],
-    "network": "Televisa",
-    "owners": [],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/uZdVSoW.png",
-    "stream_url": "https://d162h6qqsk8wvl.cloudfront.net/c219e4b7-9521-4cbc-b94e-7e002ec43462/manifest.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Canal5.mx",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "mx#xh-gc-canal-5",
-      "site_name": "Canal 5",
-      "lang": "es"
-    },
-    "website": "http://www.televisa.com/canal5/",
     "launched": null,
     "closed": null
   },

@@ -4011,6 +4011,37 @@
     "closed": null
   },
   {
+    "id": "ETBEvents1.es",
+    "name": "ETB Events 1",
+    "alt_names": [
+      "ETB Eventos 1"
+    ],
+    "network": null,
+    "owners": [
+      "Department of Culture of the Basque Government"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general",
+      "public"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/bVUEmx9.png",
+    "stream_url": "https://cdn1.etbon.eus/oc1/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.eitb.eus/es/television/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "etv.es",
     "name": "etv",
     "alt_names": [],
