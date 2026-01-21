@@ -23198,7 +23198,7 @@
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00230YYJ.png",
     "stream_url": "https://dwby15d04agvq.cloudfront.net/index_1.m3u8",
-    "stream_quality": "720p",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -23235,6 +23235,42 @@
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00230YYJ.png",
     "stream_url": "https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_3.m3u8",
     "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ZeeBusiness.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "260",
+      "site_name": "Zee Business",
+      "lang": "en"
+    },
+    "website": "https://www.zeebiz.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ZeeBusiness.in",
+    "name": "Zee Business",
+    "alt_names": [],
+    "network": "Zee Media",
+    "owners": [
+      "Zee Media Corporation Limited (ZMCL)",
+      "The Essel Group"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "business"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00230YYJ.png",
+    "stream_url": "https://dwby15d04agvq.cloudfront.net/index_5.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

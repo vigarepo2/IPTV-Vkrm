@@ -3056,34 +3056,6 @@
     "closed": null
   },
   {
-    "id": "TVPM.pl",
-    "name": "TVPM",
-    "alt_names": [
-      "Telewizja Powiatu Milickiego"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/qnGfxCp.png",
-    "stream_url": "https://s68.ipcamlive.com/streams/44s3oc0kjuyiwgxrk/stream.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tvpm.pl/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TVPPolonia.pl",
     "name": "TVP Polonia",
     "alt_names": [],

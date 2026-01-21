@@ -1314,49 +1314,14 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/192wiS1.png",
-    "stream_url": "https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8",
+    "stream_url": "https://tvstreamcast.com/indonesiana.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
+    "referrer": "https://indonesiana.tv/",
     "tv_guide": null,
     "website": "https://indonesiana.tv/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Indosiar.id",
-    "name": "Indosiar",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Surya Citra Media"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png",
-    "stream_url": "http://203.77.246.58:4500/udp/239.1.1.110:5000",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Indosiar.id",
-      "feed": "SD",
-      "site": "vidio.com",
-      "site_id": "205",
-      "site_name": "Indosiar",
-      "lang": "id"
-    },
-    "website": "https://www.indosiar.com/",
-    "launched": "1995-01-11",
     "closed": null
   },
   {

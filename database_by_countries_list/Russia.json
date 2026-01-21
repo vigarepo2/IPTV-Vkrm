@@ -2875,6 +2875,43 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/JvlO3PU.png",
+    "stream_url": "https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DumaTV.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "3209",
+      "site_name": "Дума ТВ",
+      "lang": "ru"
+    },
+    "website": "https://dumatv.ru/",
+    "launched": "2018-01-28",
+    "closed": null
+  },
+  {
+    "id": "DumaTV.ru",
+    "name": "Duma TV",
+    "alt_names": [
+      "Дума ТВ"
+    ],
+    "network": null,
+    "owners": [
+      "ANO Editing Office of the Parliamentary Television of the State Duma of the Federal Assembly of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "legislative"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/JvlO3PU.png",
     "stream_url": "https://dumatv.iptv2022.com/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -13111,6 +13148,43 @@
     },
     "website": "http://tnt-online.ru/",
     "launched": "2014-09-01",
+    "closed": null
+  },
+  {
+    "id": "TNTMusic.ru",
+    "name": "TNT Music",
+    "alt_names": [
+      "ТНТ Music"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/RenuH4S.png",
+    "stream_url": "https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v2a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TNTMusic.ru",
+      "feed": "SD",
+      "site": "tv2go.t-2.net",
+      "site_id": "1000664",
+      "site_name": "TNT Music",
+      "lang": "sl"
+    },
+    "website": "https://tntmusic.ru/",
+    "launched": null,
     "closed": null
   },
   {

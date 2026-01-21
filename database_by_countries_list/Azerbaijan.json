@@ -395,41 +395,6 @@
     "closed": null
   },
   {
-    "id": "MedeniyyetTV.az",
-    "name": "Medeniyyet TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Azerbaijan Television and Radio Broadcasting Closed Joint-stock Company"
-    ],
-    "country_code": "AZ",
-    "country_name": "Azerbaijan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "culture"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/PlvaDIa.png",
-    "stream_url": "https://str.yodacdn.net/medeniyyet/index.m3u8",
-    "stream_quality": "406p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MedeniyyetTV.az",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "2801",
-      "site_name": "Medeniyyet TV",
-      "lang": "az"
-    },
-    "website": "http://www.medeniyyettv.az/",
-    "launched": "2011-01-01",
-    "closed": null
-  },
-  {
     "id": "SpaceTV.az",
     "name": "Space TV",
     "alt_names": [],
