@@ -33821,6 +33821,41 @@
     "closed": null
   },
   {
+    "id": "KVEADT1.us",
+    "name": "KVEA-DT1",
+    "alt_names": [],
+    "network": "Telemundo",
+    "owners": [
+      "Telemundo Station Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",
+    "stream_url": "http://104.238.205.28:9090/278661_.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "KVEADT1.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "42678",
+      "site_name": "Telemundo (KVEA) Los Angeles, CA",
+      "lang": "en"
+    },
+    "website": "https://www.telemundo52.com/",
+    "launched": "1966-06-29",
+    "closed": null
+  },
+  {
     "id": "KVIEDT2.us",
     "name": "KVIE-DT2",
     "alt_names": [],
@@ -60062,6 +60097,39 @@
     "closed": null
   },
   {
+    "id": "Telemundo.us",
+    "name": "Telemundo",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/FR3pDQhj/telemundo.png",
+    "stream_url": "http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/77-TELEMUNDO/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Telemundo.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "73245",
+      "site_name": "Telemundo East (National Feed)",
+      "lang": "en"
+    },
+    "website": "http://www.telemundo.com/",
+    "launched": "1984-06-19",
+    "closed": null
+  },
+  {
     "id": "TelemundoAlDia.us",
     "name": "Telemundo Al Dia",
     "alt_names": [
@@ -71489,6 +71557,30 @@
     "closed": null
   },
   {
+    "id": "WKTBCD2.us",
+    "name": "WKTB-CD2",
+    "alt_names": [],
+    "network": "Telemundo",
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",
+    "stream_url": "http://104.238.205.28:9090/278659_.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "WLCT96.us",
     "name": "WLCT96",
     "alt_names": [],
@@ -72324,6 +72416,68 @@
       "lang": "en"
     },
     "website": "http://www.njtvonline.org/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "WNJUDT1.us",
+    "name": "WNJU-DT1",
+    "alt_names": [],
+    "network": "Telemundo",
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",
+    "stream_url": "http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/77-TELEMUNDO/mpegts",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "WNJUDT1.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "54437",
+      "site_name": "Telemundo (WNJU-DT1) New York, NY",
+      "lang": "en"
+    },
+    "website": "http://www.telemundo47.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "WNJUDT1.us",
+    "name": "WNJU-DT1",
+    "alt_names": [],
+    "network": "Telemundo",
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",
+    "stream_url": "http://104.238.205.28:9090/278678_.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "WNJUDT1.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "54437",
+      "site_name": "Telemundo (WNJU-DT1) New York, NY",
+      "lang": "en"
+    },
+    "website": "http://www.telemundo47.com/",
     "launched": null,
     "closed": null
   },

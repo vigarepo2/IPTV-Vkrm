@@ -425,42 +425,6 @@
     "closed": null
   },
   {
-    "id": "SVT24.se",
-    "name": "SVT24",
-    "alt_names": [
-      "24",
-      "svt 24"
-    ],
-    "network": null,
-    "owners": [
-      "Sveriges Television"
-    ],
-    "country_code": "SE",
-    "country_name": "Sweden",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Ms6qYIV.png",
-    "stream_url": "https://svt-live-channel.akamaized.net/l6/se/svtb/master-fmp4.m3u8?defaultSubLang=1&format=hls",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SVT24.se",
-      "feed": "SD",
-      "site": "tv24.se",
-      "site_id": "svt24",
-      "site_name": "SVT24",
-      "lang": "sv"
-    },
-    "website": "https://www.svt.se/",
-    "launched": "1999-03-15",
-    "closed": null
-  },
-  {
     "id": "SVTBarnSVT24.se",
     "name": "SVT Barn/SVT24",
     "alt_names": [],
