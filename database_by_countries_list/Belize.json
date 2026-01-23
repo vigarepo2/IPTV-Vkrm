@@ -82,36 +82,6 @@
     "closed": null
   },
   {
-    "id": "Channel5.bz",
-    "name": "Channel 5",
-    "alt_names": [
-      "Great Belize Television"
-    ],
-    "network": null,
-    "owners": [
-      "Great Belize Productions"
-    ],
-    "country_code": "BZ",
-    "country_name": "Belize",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/g8LDIWj.png",
-    "stream_url": "https://streamer2.nexgen.bz/05-CHANNEL5/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://edition.channel5belize.com/",
-    "launched": "1991-12-09",
-    "closed": null
-  },
-  {
     "id": "Channel7.bz",
     "name": "Channel 7",
     "alt_names": [],

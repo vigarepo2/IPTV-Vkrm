@@ -329,7 +329,9 @@
       "Channel NewsAsia International"
     ],
     "network": "CNA",
-    "owners": [],
+    "owners": [
+      "Mediacorp"
+    ],
     "country_code": "SG",
     "country_name": "Singapore",
     "subdivision": null,

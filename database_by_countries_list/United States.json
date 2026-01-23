@@ -19336,9 +19336,14 @@
   {
     "id": "EntertainmentTonight.us",
     "name": "Entertainment Tonight",
-    "alt_names": [],
+    "alt_names": [
+      "ET"
+    ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "CBS Media Ventures Inc.",
+      "Paramount Global"
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -19357,7 +19362,7 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.etonline.com/contact",
-    "launched": null,
+    "launched": "1981-09-14",
     "closed": null
   },
   {
