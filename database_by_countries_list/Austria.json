@@ -888,6 +888,41 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.postimg.cc/HLfnBjHn/orf1.png",
+    "stream_url": "http://79.127.207.193/ORF1/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ORF1.at",
+      "feed": "SD",
+      "site": "tvheute.at",
+      "site_id": "orf1",
+      "site_name": "ORF1",
+      "lang": "de"
+    },
+    "website": "https://tv.orf.at/",
+    "launched": "1955-08-01",
+    "closed": null
+  },
+  {
+    "id": "ORF1.at",
+    "name": "ORF 1",
+    "alt_names": [],
+    "network": "ORF",
+    "owners": [
+      "ORF"
+    ],
+    "country_code": "AT",
+    "country_name": "Austria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/HLfnBjHn/orf1.png",
     "stream_url": "https://dash2.antik.sk/live/test_orf_eins_tizen/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -1077,6 +1112,41 @@
       "lang": "de"
     },
     "website": "http://tirol.orf.at/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ORF2Wien.at",
+    "name": "ORF 2 Wien",
+    "alt_names": [],
+    "network": "ORF",
+    "owners": [
+      "ORF"
+    ],
+    "country_code": "AT",
+    "country_name": "Austria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/Xv6mN878/orf2wien.png",
+    "stream_url": "http://79.127.207.193/ORF2/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ORF2Wien.at",
+      "feed": "HD",
+      "site": "tv.magenta.at",
+      "site_id": "206963752351",
+      "site_name": "ORF 2 Wien HD",
+      "lang": "de"
+    },
+    "website": "http://wien.orf.at/",
     "launched": null,
     "closed": null
   },

@@ -248,6 +248,41 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/UtFXjIn.png",
+    "stream_url": "https://dnxdy7xlok3gl.cloudfront.net/5031bd7f-769e-4021-9967-019314f4a1f7/manifest.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Azteca7.mx",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "116154",
+      "site_name": "Azteca 7",
+      "lang": "en"
+    },
+    "website": "https://www.tvazteca.com/azteca7",
+    "launched": "1985-05-18",
+    "closed": null
+  },
+  {
+    "id": "Azteca7.mx",
+    "name": "Azteca 7",
+    "alt_names": [],
+    "network": "Televisión Azteca",
+    "owners": [
+      "TV Azteca"
+    ],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/UtFXjIn.png",
     "stream_url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8",
     "stream_quality": "720p",
     "stream_format": null,

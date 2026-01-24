@@ -669,6 +669,230 @@
     "closed": null
   },
   {
+    "id": "CosmoteSport2.gr",
+    "name": "Cosmote Sport 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "OTE"
+    ],
+    "country_code": "GR",
+    "country_name": "Greece",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/1RSyE5N.png",
+    "stream_url": "http://138.2.160.168:8080/fetch?COSMOTESPORT2",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.cosmote.gr/cosmotetv",
+    "launched": "2009-01-01",
+    "closed": null
+  },
+  {
+    "id": "CosmoteSport3.gr",
+    "name": "Cosmote Sport 3",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "OTE"
+    ],
+    "country_code": "GR",
+    "country_name": "Greece",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/V5qKXx9.png",
+    "stream_url": "http://138.2.160.168:8080/fetch?COSMOTESPORT3",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.cosmote.gr/cosmotetv",
+    "launched": "2009-01-01",
+    "closed": null
+  },
+  {
+    "id": "CosmoteSport4.gr",
+    "name": "Cosmote Sport 4",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "OTE"
+    ],
+    "country_code": "GR",
+    "country_name": "Greece",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/zEdJUZU.png",
+    "stream_url": "http://138.2.160.168:8080/fetch?COSMOTESPORT4",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.cosmote.gr/cosmotetv",
+    "launched": "2009-01-01",
+    "closed": null
+  },
+  {
+    "id": "CosmoteSport5.gr",
+    "name": "Cosmote Sport 5",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "OTE"
+    ],
+    "country_code": "GR",
+    "country_name": "Greece",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/0GKXahH.png",
+    "stream_url": "http://138.2.160.168:8080/fetch?COSMOTESPORT5",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.cosmote.gr/cosmotetv",
+    "launched": "2009-01-01",
+    "closed": null
+  },
+  {
+    "id": "CosmoteSport6.gr",
+    "name": "Cosmote Sport 6",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "OTE"
+    ],
+    "country_code": "GR",
+    "country_name": "Greece",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/KG6VWN1.png",
+    "stream_url": "http://138.2.160.168:8080/fetch?COSMOTESPORT6",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.cosmote.gr/cosmotetv",
+    "launched": "2009-01-01",
+    "closed": null
+  },
+  {
+    "id": "CosmoteSport7.gr",
+    "name": "Cosmote Sport 7",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "OTE"
+    ],
+    "country_code": "GR",
+    "country_name": "Greece",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/p0DKcn2.png",
+    "stream_url": "http://138.2.160.168:8080/fetch?COSMOTESPORT7",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.cosmote.gr/cosmotetv",
+    "launched": "2009-01-01",
+    "closed": null
+  },
+  {
+    "id": "CosmoteSport8.gr",
+    "name": "Cosmote Sport 8",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "OTE"
+    ],
+    "country_code": "GR",
+    "country_name": "Greece",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/DKlW5ka.png",
+    "stream_url": "http://138.2.160.168:8080/fetch?COSMOTESPORT8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.cosmote.gr/cosmotetv",
+    "launched": "2009-01-01",
+    "closed": null
+  },
+  {
+    "id": "CosmoteSport9.gr",
+    "name": "Cosmote Sport 9",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "OTE"
+    ],
+    "country_code": "GR",
+    "country_name": "Greece",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/3YwAXcH.png",
+    "stream_url": "http://138.2.160.168:8080/fetch?COSMOTESPORT9",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.cosmote.gr/cosmotetv",
+    "launched": "2009-01-01",
+    "closed": null
+  },
+  {
     "id": "DELTATV.gr",
     "name": "DELTA TV",
     "alt_names": [

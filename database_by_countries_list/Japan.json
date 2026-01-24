@@ -240,6 +240,42 @@
     "closed": null
   },
   {
+    "id": "JORXDTV.jp",
+    "name": "JORX-DTV",
+    "alt_names": [
+      "TBS TV",
+      "TBSテレビ"
+    ],
+    "network": "JNN/TBS Network",
+    "owners": [],
+    "country_code": "JP",
+    "country_name": "Japan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/dUn2GRn.png",
+    "stream_url": "https://tbs5.mov3.co/hls/tbs.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "JORXDTV.jp",
+      "feed": "SD",
+      "site": "tvguide.myjcom.jp",
+      "site_id": "2_1048_32739",
+      "site_name": "TBS",
+      "lang": "ja"
+    },
+    "website": "https://www.tbs.co.jp/",
+    "launched": "1955-04-01",
+    "closed": null
+  },
+  {
     "id": "NHKBS.jp",
     "name": "NHK BS",
     "alt_names": [],

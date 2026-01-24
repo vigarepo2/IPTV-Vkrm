@@ -7633,6 +7633,41 @@
     "closed": null
   },
   {
+    "id": "SonyOneBlacklist.fr",
+    "name": "Sony One Blacklist",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sony Pictures Entertainment"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/uJC8rXr.png",
+    "stream_url": "https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonyOneBlacklist.fr",
+      "feed": "HD",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/all#6430aa45fc3be5947780904e-69222c105cbe620c1f9b6bbf",
+      "site_name": "Sony One Blacklist",
+      "lang": "fr"
+    },
+    "website": null,
+    "launched": "2024-03-26",
+    "closed": null
+  },
+  {
     "id": "SonyOneFavoris.fr",
     "name": "Sony One Favoris",
     "alt_names": [
@@ -7670,6 +7705,43 @@
     "closed": null
   },
   {
+    "id": "SonyOneFavoris.fr",
+    "name": "Sony One Favoris",
+    "alt_names": [
+      "Sony One Hits Faves"
+    ],
+    "network": null,
+    "owners": [
+      "Sony Pictures Entertainment"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/RO4AM4b.png",
+    "stream_url": "https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonyOneFavoris.fr",
+      "feed": "HD",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/all#6430aa45fc3be5947780904e-692229df50fe592fd6d5b7e2",
+      "site_name": "Sony One Favoris",
+      "lang": "fr"
+    },
+    "website": null,
+    "launched": "2024-03-26",
+    "closed": null
+  },
+  {
     "id": "SonyOneHitsAction.fr",
     "name": "Sony One Hits Action",
     "alt_names": [],
@@ -7688,6 +7760,41 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/pXsZEsR.png",
     "stream_url": "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonyOneHitsAction.fr",
+      "feed": "HD",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/all#6430aa45fc3be5947780904e-692227f850fe592fd6d5b7e0",
+      "site_name": "Sony One Hits Action",
+      "lang": "fr"
+    },
+    "website": null,
+    "launched": "2024-03-26",
+    "closed": null
+  },
+  {
+    "id": "SonyOneHitsAction.fr",
+    "name": "Sony One Hits Action",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sony Pictures Entertainment"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/pXsZEsR.png",
+    "stream_url": "https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -7742,6 +7849,43 @@
     "closed": null
   },
   {
+    "id": "SonyOneHitsComedie.fr",
+    "name": "Sony One Hits Comedie",
+    "alt_names": [
+      "Sony One Hits Comédie"
+    ],
+    "network": null,
+    "owners": [
+      "Sony Pictures Entertainment"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/8sHuxxS.png",
+    "stream_url": "https://d3nvxupr08boay.cloudfront.net/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonyOneHitsComedie.fr",
+      "feed": "HD",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/all#6430aa45fc3be5947780904e-692228985cbe620c1f9b6bb9",
+      "site_name": "Sony One Hits Comédie",
+      "lang": "fr"
+    },
+    "website": null,
+    "launched": "2024-03-26",
+    "closed": null
+  },
+  {
     "id": "SonyOneSeriesComedie.fr",
     "name": "Sony One Series Comedie",
     "alt_names": [
@@ -7779,6 +7923,43 @@
     "closed": null
   },
   {
+    "id": "SonyOneSeriesComedie.fr",
+    "name": "Sony One Series Comedie",
+    "alt_names": [
+      "Sony One Séries Comédie"
+    ],
+    "network": null,
+    "owners": [
+      "Sony Pictures Entertainment"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/ns4Md77B/FR-FAST-Plex-Comedy-TV-logo-dark.png",
+    "stream_url": "https://d1d95b9dbrm3cl.cloudfront.net/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonyOneSeriesComedie.fr",
+      "feed": "HD",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/all#6430aa45fc3be5947780904e-6922294e5cbe620c1f9b6bbb",
+      "site_name": "Sony One Séries Comédie",
+      "lang": "fr"
+    },
+    "website": null,
+    "launched": "2024-03-26",
+    "closed": null
+  },
+  {
     "id": "SonyOneSeriesThriller.fr",
     "name": "Sony One Series Thriller",
     "alt_names": [
@@ -7799,6 +7980,43 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/RVS8LDj.png",
     "stream_url": "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonyOneSeriesThriller.fr",
+      "feed": "HD",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/all#6430aa45fc3be5947780904e-69222b5c5cbe620c1f9b6bbd",
+      "site_name": "Sony One Séries Thriller",
+      "lang": "fr"
+    },
+    "website": null,
+    "launched": "2024-03-26",
+    "closed": null
+  },
+  {
+    "id": "SonyOneSeriesThriller.fr",
+    "name": "Sony One Series Thriller",
+    "alt_names": [
+      "Sony One Séries Thriller"
+    ],
+    "network": null,
+    "owners": [
+      "Sony Pictures Entertainment"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/RVS8LDj.png",
+    "stream_url": "https://d1573iiyr4aa7c.cloudfront.net/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

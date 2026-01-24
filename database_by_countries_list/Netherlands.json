@@ -3939,6 +3939,34 @@
     "closed": null
   },
   {
+    "id": "SBS6Classics.nl",
+    "name": "SBS6 Classics",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Talpa Network"
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/SBS_6_logo_2013.png",
+    "stream_url": "https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.kijk.nl/programmas/sbs6-classics-247",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "SchieTV.nl",
     "name": "Schie TV",
     "alt_names": [],
@@ -5106,6 +5134,34 @@
     },
     "website": "https://xite.com/",
     "launched": "2008-05-21",
+    "closed": null
+  },
+  {
+    "id": "XITERockxMetal.nl",
+    "name": "XITE Rock x Metal",
+    "alt_names": [],
+    "network": "XITE",
+    "owners": [
+      "XITE Networks"
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/szDM09P.png",
+    "stream_url": "https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://xite.com/",
+    "launched": null,
     "closed": null
   },
   {

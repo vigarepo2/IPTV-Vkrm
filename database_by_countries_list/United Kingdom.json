@@ -7440,6 +7440,42 @@
     "closed": null
   },
   {
+    "id": "CNBCUK.uk",
+    "name": "CNBC UK",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Comcast"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news",
+      "business"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png",
+    "stream_url": "https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CNBCUK.uk",
+      "feed": "HD",
+      "site": "tvireland.ie",
+      "site_id": "2242/cnbc-uk-hd",
+      "site_name": "CNBC UK HD",
+      "lang": "en"
+    },
+    "website": "http://www.cnbc.com/europe-television/",
+    "launched": "1995-02-27",
+    "closed": null
+  },
+  {
     "id": "DAZNCombat.uk",
     "name": "DAZN Combat",
     "alt_names": [],

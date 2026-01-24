@@ -1591,6 +1591,34 @@
     "closed": null
   },
   {
+    "id": "AmarUjala.in",
+    "name": "AmarUjala",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Rajul Maheshwari and Sneh Maheshwari"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ndQ8LZp.png",
+    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/amar-ujala/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.amarujala.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "AmritaTV.in",
     "name": "Amrita TV",
     "alt_names": [],
@@ -3765,6 +3793,32 @@
       "site_name": "BRK NEWS",
       "lang": "en"
     },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BVG.in",
+    "name": "BVG",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/BVG.png",
+    "stream_url": "https://mumt05.tangotv.in/BVG/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
     "website": null,
     "launched": null,
     "closed": null
@@ -14085,6 +14139,39 @@
     "logo": "https://dtil.tmsimg.com/assets/s143664_ld_h9_aa.png",
     "stream_url": "https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolimerNews.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "509",
+      "site_name": "Polimer News",
+      "lang": "en"
+    },
+    "website": "https://polimernews.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PolimerNews.in",
+    "name": "Polimer News",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143664_ld_h9_aa.png",
+    "stream_url": "https://live-cf-polimernews.dailyhunt.in/master.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
