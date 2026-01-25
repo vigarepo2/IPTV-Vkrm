@@ -199,6 +199,41 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/1pA0Tid.png",
+    "stream_url": "http://212.186.45.34:9981/stream/channelid/692531719?profile=pass",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ATV.at",
+      "feed": "SD",
+      "site": "tvheute.at",
+      "site_id": "atv",
+      "site_name": "ATV",
+      "lang": "de"
+    },
+    "website": "https://www.atv.at/",
+    "launched": "1997-01-01",
+    "closed": null
+  },
+  {
+    "id": "ATV.at",
+    "name": "ATV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "ProSiebenSat.1 PULS 4"
+    ],
+    "country_code": "AT",
+    "country_name": "Austria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/1pA0Tid.png",
     "stream_url": "https://strm.hdtvizlecanli.com/live/atv.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
