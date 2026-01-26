@@ -504,43 +504,6 @@
     "closed": null
   },
   {
-    "id": "Keshet12.il",
-    "name": "Keshet 12",
-    "alt_names": [
-      "קשת 12"
-    ],
-    "network": null,
-    "owners": [
-      "Keshet Media Group"
-    ],
-    "country_code": "IL",
-    "country_name": "Israel",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/fY3eakc.png",
-    "stream_url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/1/hdntl=exp=1757445516~acl=/*~data=hdntl~hmac=a8baf01127ae46cd6fd241cf61db8590d7eacc3406f4735ed2defef329496b8a/profileManifest.m3u8?_did=6cfbfc673e5d5f7f274bf96b6c72f28ce1a53f82&_uid=0195a46a-9f11-4704-a944-301512682f7d&rK=bn",
-    "stream_quality": "1080i",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Keshet12.il",
-      "feed": "SD",
-      "site": "mako.co.il",
-      "site_id": "#",
-      "site_name": "קשת 12",
-      "lang": "he"
-    },
-    "website": "https://www.mako.co.il/tv",
-    "launched": "2017-11-01",
-    "closed": null
-  },
-  {
     "id": "KnessetChannel.il",
     "name": "Knesset Channel",
     "alt_names": [

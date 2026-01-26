@@ -10914,6 +10914,41 @@
     "closed": null
   },
   {
+    "id": "Maiboli.in",
+    "name": "Maiboli",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sri Adhikari Brothers Television Network Ltd"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Aaih0rw.png",
+    "stream_url": "https://mumt01.tangotv.in/MAIBOLI/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Maiboli.in",
+      "feed": "SD",
+      "site": "dishtv.in",
+      "site_id": "143295",
+      "site_name": "Maiboli",
+      "lang": "en"
+    },
+    "website": "http://www.maiboli.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "MakkalTV.in",
     "name": "Makkal TV",
     "alt_names": [],
@@ -11313,6 +11348,41 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://mntv.in/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Mastiii.in",
+    "name": "Mastiii",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sri Adhikari Brothers Television Network Ltd"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/lxgXHx4.png",
+    "stream_url": "https://mumt02.tangotv.in/MASTIII/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Mastiii.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "17",
+      "site_name": "Mastiii",
+      "lang": "en"
+    },
+    "website": "http://www.mastiii.com/",
     "launched": null,
     "closed": null
   },
@@ -18242,43 +18312,6 @@
     "closed": null
   },
   {
-    "id": "StarGold.in",
-    "name": "Star Gold",
-    "alt_names": [],
-    "network": "JioStar",
-    "owners": [
-      "JioStar India Pvt. Ltd.",
-      "Reliance Industries(RIL)",
-      "The Walt Disney Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143815_ld_h15_aa.png",
-    "stream_url": "http://103.167.255.18:8085/play/a0kv/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarGold.in",
-      "feed": "HD",
-      "site": "tataplay.com",
-      "site_id": "632",
-      "site_name": "Star GOLD HD",
-      "lang": "en"
-    },
-    "website": "https://hotstar.com/",
-    "launched": "1999-01-01",
-    "closed": null
-  },
-  {
     "id": "StarGoldRomance.in",
     "name": "Star Gold Romance",
     "alt_names": [
@@ -18395,80 +18428,6 @@
     "closed": null
   },
   {
-    "id": "StarMovies.in",
-    "name": "Star Movies",
-    "alt_names": [],
-    "network": "JioStar",
-    "owners": [
-      "JioStar India Pvt. Ltd.",
-      "Reliance Industries(RIL)",
-      "The Walt Disney Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png",
-    "stream_url": "http://103.178.78.151:7505/play/a1ge/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarMovies.in",
-      "feed": "HD",
-      "site": "tataplay.com",
-      "site_id": "560",
-      "site_name": "STAR Movies HD",
-      "lang": "en"
-    },
-    "website": "http://www.starmovies.in/",
-    "launched": "1991-04-01",
-    "closed": null
-  },
-  {
-    "id": "StarMoviesSelect.in",
-    "name": "Star Movies Select",
-    "alt_names": [],
-    "network": "JioStar",
-    "owners": [
-      "JioStar India Pvt. Ltd.",
-      "Reliance Industries(RIL)",
-      "The Walt Disney Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png",
-    "stream_url": "http://103.178.78.151:7505/play/a1gd/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarMoviesSelect.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "1069",
-      "site_name": "Star Movies Select",
-      "lang": "en"
-    },
-    "website": "http://www.starmovies.in/",
-    "launched": "2021-12-01",
-    "closed": null
-  },
-  {
     "id": "Starnet.in",
     "name": "Starnet",
     "alt_names": [],
@@ -18516,85 +18475,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143832_ld_h15_aa.png",
-    "stream_url": "http://103.178.78.151:7505/play/a0uh/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarPlus.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "550",
-      "site_name": "STAR Plus",
-      "lang": "en"
-    },
-    "website": "http://www.hotstar.com/channels/star-plus",
-    "launched": "1992-02-21",
-    "closed": null
-  },
-  {
-    "id": "StarPlus.in",
-    "name": "StarPlus",
-    "alt_names": [
-      "Star Plus"
-    ],
-    "network": "JioStar",
-    "owners": [
-      "JioStar India Pvt. Ltd.",
-      "Reliance Industries(RIL)",
-      "The Walt Disney Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143832_ld_h15_aa.png",
-    "stream_url": "http://103.167.255.18:8085/play/a0ke/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarPlus.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "550",
-      "site_name": "STAR Plus",
-      "lang": "en"
-    },
-    "website": "http://www.hotstar.com/channels/star-plus",
-    "launched": "1992-02-21",
-    "closed": null
-  },
-  {
-    "id": "StarPlus.in",
-    "name": "StarPlus",
-    "alt_names": [
-      "Star Plus"
-    ],
-    "network": "JioStar",
-    "owners": [
-      "JioStar India Pvt. Ltd.",
-      "Reliance Industries(RIL)",
-      "The Walt Disney Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143832_ld_h15_aa.png",
-    "stream_url": "http://103.167.255.18:8085/play/a0k5/index.m3u8",
+    "stream_url": "http://103.52.34.182:8001/play/a01l/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
