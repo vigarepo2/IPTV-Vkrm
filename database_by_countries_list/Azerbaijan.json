@@ -152,36 +152,6 @@
     "closed": null
   },
   {
-    "id": "AzadTV.az",
-    "name": "Azad TV",
-    "alt_names": [
-      "Azad Azərbaycan TV"
-    ],
-    "network": null,
-    "owners": [
-      "Azad Azerbaijan TV and Radio Broadcasting Company"
-    ],
-    "country_code": "AZ",
-    "country_name": "Azerbaijan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/rDYSoRL.png",
-    "stream_url": "https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.atv.az/",
-    "launched": "2000-12-25",
-    "closed": null
-  },
-  {
     "id": "AzTV.az",
     "name": "Az TV",
     "alt_names": [

@@ -18295,7 +18295,7 @@
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s158297_ld_h15_aa.png",
     "stream_url": "http://116.90.120.152:8000/play/a0gz/index.m3u8",
-    "stream_quality": "576p",
+    "stream_quality": "480p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
