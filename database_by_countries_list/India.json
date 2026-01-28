@@ -1525,17 +1525,19 @@
   {
     "id": "AlankarTV.in",
     "name": "Alankar TV",
-    "alt_names": [],
-    "network": null,
+    "alt_names": [
+      "ଅଳଙ୍କାର"
+    ],
+    "network": "Odisha Television Network",
     "owners": [
-      "Odisha Television Network"
+      "Odisha Television Ltd."
     ],
     "country_code": "IN",
     "country_name": "India",
     "subdivision": null,
     "city": null,
     "categories": [
-      "entertainment"
+      "movies"
     ],
     "languages": [],
     "is_nsfw": false,
@@ -1554,7 +1556,7 @@
       "lang": "en"
     },
     "website": "https://www.tarangplus.in/all-channels/alankar",
-    "launched": null,
+    "launched": "2015-01-09",
     "closed": null
   },
   {
@@ -14050,11 +14052,12 @@
     "id": "OdishaTV.in",
     "name": "Odisha TV",
     "alt_names": [
-      "ଓଡ଼ିଶା ଟିଭି"
+      "ଓଡ଼ିଶା ଟିଭି",
+      "OTV"
     ],
-    "network": null,
+    "network": "Odisha Television Network",
     "owners": [
-      "Jagi Mangat Panda"
+      "Odisha Television Ltd."
     ],
     "country_code": "IN",
     "country_name": "India",
@@ -19909,10 +19912,12 @@
   {
     "id": "TarangMusic.in",
     "name": "Tarang Music",
-    "alt_names": [],
-    "network": null,
+    "alt_names": [
+      "ତରଙ୍ଗ ମ୍ୟୁଜିକ୍"
+    ],
+    "network": "Odisha Television Network",
     "owners": [
-      "Odisha Television Network"
+      "Odisha Television Ltd."
     ],
     "country_code": "IN",
     "country_name": "India",
@@ -19947,15 +19952,17 @@
     "alt_names": [
       "ତରଙ୍ଗ ଭିଜନ୍"
     ],
-    "network": null,
+    "network": "Odisha Television Network",
     "owners": [
-      "Odisha Television Network"
+      "Odisha Television Ltd."
     ],
     "country_code": "IN",
     "country_name": "India",
     "subdivision": null,
     "city": null,
-    "categories": [],
+    "categories": [
+      "entertainment"
+    ],
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143927_ld_h15_aa.png",

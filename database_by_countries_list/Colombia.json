@@ -77,7 +77,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/yKzV7m7.png",
-    "stream_url": "https://live20.bozztv.com/akamaissh101/ssh101/bendiciontv7/playlist.m3u8",
+    "stream_url": "https://s.emisoras.tv:8081/bendicionchannel/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,

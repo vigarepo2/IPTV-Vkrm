@@ -494,7 +494,9 @@
     "name": "TVR Moldova",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Televiziunea Română"
+    ],
     "country_code": "MD",
     "country_name": "Moldova",
     "subdivision": null,
@@ -518,8 +520,8 @@
       "site_name": "TVR Moldova",
       "lang": "ro"
     },
-    "website": "http://www.tvr.ro/",
-    "launched": null,
+    "website": "https://tvrmoldova.md/",
+    "launched": "2013-09-12",
     "closed": null
   },
   {
