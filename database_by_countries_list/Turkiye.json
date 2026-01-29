@@ -6843,39 +6843,6 @@
     "closed": null
   },
   {
-    "id": "Teve2.tr",
-    "name": "Teve2",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Demirören Group"
-    ],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/rsoSLih.png",
-    "stream_url": "https://demiroren-live.daioncdn.net/teve2/teve2.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Teve2.tr",
-      "feed": "SD",
-      "site": "tvplus.com.tr",
-      "site_id": "teve2/95",
-      "site_name": "TEVE2",
-      "lang": "tr"
-    },
-    "website": "https://www.teve2.com.tr/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TGRTBelgesel.tr",
     "name": "TGRT Belgesel",
     "alt_names": [],

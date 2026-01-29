@@ -2181,6 +2181,41 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/B0nYT0l.png",
+    "stream_url": "http://88.212.15.19/live/m2_hun/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "M2.hu",
+      "feed": "SD",
+      "site": "tvmusor.hu",
+      "site_id": "2",
+      "site_name": "M2 / Petőfi TV",
+      "lang": "hu"
+    },
+    "website": "https://mediaklikk.hu/m2/",
+    "launched": "2015-03-15",
+    "closed": null
+  },
+  {
+    "id": "M2.hu",
+    "name": "M2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Duna Médiaszolgáltató Nonprofit Zrt."
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/B0nYT0l.png",
     "stream_url": "http://146.59.85.40:89/m2hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -2339,41 +2374,6 @@
     "closed": null
   },
   {
-    "id": "M2.hu",
-    "name": "M2",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Duna Médiaszolgáltató Nonprofit Zrt."
-    ],
-    "country_code": "HU",
-    "country_name": "Hungary",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/B0nYT0l.png",
-    "stream_url": "http://88.212.15.19/live/m2_hun/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "M2.hu",
-      "feed": "SD",
-      "site": "tvmusor.hu",
-      "site_id": "2",
-      "site_name": "M2 / Petőfi TV",
-      "lang": "hu"
-    },
-    "website": "https://mediaklikk.hu/m2/",
-    "launched": "2015-03-15",
-    "closed": null
-  },
-  {
     "id": "M4Sport.hu",
     "name": "M4 Sport",
     "alt_names": [],
@@ -2406,6 +2406,41 @@
     },
     "website": "https://m4sport.hu/",
     "launched": "2015-07-18",
+    "closed": null
+  },
+  {
+    "id": "M5.hu",
+    "name": "M5",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Duna Médiaszolgáltató Nonprofit Zrt."
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/y21wFd0.png",
+    "stream_url": "http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "M5.hu",
+      "feed": "SD",
+      "site": "tvmusor.hu",
+      "site_id": "301",
+      "site_name": "M5",
+      "lang": "hu"
+    },
+    "website": "https://www.mediaklikk.hu/m5/",
+    "launched": null,
     "closed": null
   },
   {
@@ -2498,41 +2533,6 @@
     "logo": "https://i.imgur.com/y21wFd0.png",
     "stream_url": "http://194.76.186.33:8000/play/a030/index.m3u8",
     "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "M5.hu",
-      "feed": "SD",
-      "site": "tvmusor.hu",
-      "site_id": "301",
-      "site_name": "M5",
-      "lang": "hu"
-    },
-    "website": "https://www.mediaklikk.hu/m5/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "M5.hu",
-    "name": "M5",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Duna Médiaszolgáltató Nonprofit Zrt."
-    ],
-    "country_code": "HU",
-    "country_name": "Hungary",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "education"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/y21wFd0.png",
-    "stream_url": "http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -3251,6 +3251,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/c4Hhhzs.png",
+    "stream_url": "http://46.149.191.217:9005/play/a01t",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RTLHarom.hu",
+      "feed": "SD",
+      "site": "tvmusor.hu",
+      "site_id": "178",
+      "site_name": "RTL III",
+      "lang": "hu"
+    },
+    "website": "https://rtl.hu/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RTLHarom.hu",
+    "name": "RTL Harom",
+    "alt_names": [
+      "RTL Három",
+      "Poén!",
+      "Prizma TV",
+      "RTL+"
+    ],
+    "network": null,
+    "owners": [
+      "CLT-UFA SA"
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/c4Hhhzs.png",
     "stream_url": "http://194.76.186.33:8000/play/a02a/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -3307,13 +3345,11 @@
     "closed": null
   },
   {
-    "id": "RTLHarom.hu",
-    "name": "RTL Harom",
+    "id": "RTLKetto.hu",
+    "name": "RTL Ketto",
     "alt_names": [
-      "RTL Három",
-      "Poén!",
-      "Prizma TV",
-      "RTL+"
+      "RTL Kettő",
+      "RTL II"
     ],
     "network": null,
     "owners": [
@@ -3326,21 +3362,21 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/c4Hhhzs.png",
-    "stream_url": "http://46.149.191.217:9005/play/a01t",
+    "logo": "https://i.imgur.com/IVv0qrI.png",
+    "stream_url": "http://46.149.191.217:9005/play/a01r",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
-      "channel": "RTLHarom.hu",
+      "channel": "RTLKetto.hu",
       "feed": "SD",
-      "site": "tvmusor.hu",
-      "site_id": "178",
-      "site_name": "RTL III",
-      "lang": "hu"
+      "site": "tvprofil.com",
+      "site_id": "hu/tvmusor#rtl-ii-hu",
+      "site_name": "RTL Ketto",
+      "lang": "hr"
     },
-    "website": "https://rtl.hu/",
+    "website": "https://rtl.hu",
     "launched": null,
     "closed": null
   },
@@ -3437,42 +3473,6 @@
     "logo": "https://i.imgur.com/IVv0qrI.png",
     "stream_url": "http://194.76.186.33:8000/play/a05i/index.m3u8",
     "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RTLKetto.hu",
-      "feed": "SD",
-      "site": "tvprofil.com",
-      "site_id": "hu/tvmusor#rtl-ii-hu",
-      "site_name": "RTL Ketto",
-      "lang": "hr"
-    },
-    "website": "https://rtl.hu",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RTLKetto.hu",
-    "name": "RTL Ketto",
-    "alt_names": [
-      "RTL Kettő",
-      "RTL II"
-    ],
-    "network": null,
-    "owners": [
-      "CLT-UFA SA"
-    ],
-    "country_code": "HU",
-    "country_name": "Hungary",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/IVv0qrI.png",
-    "stream_url": "http://46.149.191.217:9005/play/a01r",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

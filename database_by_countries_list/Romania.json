@@ -2576,8 +2576,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Kxkihds.png",
-    "stream_url": "https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/chunklist_b5160000.m3u8",
-    "stream_quality": null,
+    "stream_url": "http://82.208.141.70:8778/1.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -2609,8 +2609,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Kxkihds.png",
-    "stream_url": "http://82.208.141.70:8778/1.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/chunklist_b5160000.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -2651,6 +2651,41 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.tvrplus.ro/live/tvr-info",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVRInternational.ro",
+    "name": "TVR International",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Societatea Română de Televiziune"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/w28wcHs.png",
+    "stream_url": "https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVRInternational.ro",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "631",
+      "site_name": "TV Romania International",
+      "lang": "ro"
+    },
+    "website": "http://tvri.tvr.ro/",
     "launched": null,
     "closed": null
   },
@@ -2725,41 +2760,6 @@
     "closed": null
   },
   {
-    "id": "TVRInternational.ro",
-    "name": "TVR International",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Societatea Română de Televiziune"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/w28wcHs.png",
-    "stream_url": "https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVRInternational.ro",
-      "feed": "SD",
-      "site": "tv.blue.ch",
-      "site_id": "631",
-      "site_name": "TV Romania International",
-      "lang": "ro"
-    },
-    "website": "http://tvri.tvr.ro/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TVRSport.ro",
     "name": "TVR Sport",
     "alt_names": [],
@@ -2786,6 +2786,39 @@
     "tv_guide": null,
     "website": "http://sport.tvr.ro/",
     "launched": "2024-03-30",
+    "closed": null
+  },
+  {
+    "id": "TVRTarguMures.ro",
+    "name": "TVR Targu-Mures",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9Hptdqj.png",
+    "stream_url": "https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVRTarguMures.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "tvr-targu-mures",
+      "site_name": "TVR Târgu Mureș",
+      "lang": "ro"
+    },
+    "website": "http://www.tvr.ro/",
+    "launched": null,
     "closed": null
   },
   {

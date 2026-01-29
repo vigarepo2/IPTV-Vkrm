@@ -857,7 +857,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/2t7A2yg.png",
-    "stream_url": "https://59d39900ebfb8.streamlock.net:443/girasoltv/girasoltv/playlist.m3u8",
+    "stream_url": "https://59d39900ebfb8.streamlock.net/girasoltv/girasoltv/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

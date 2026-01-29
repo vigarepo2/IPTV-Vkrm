@@ -453,34 +453,6 @@
     "closed": null
   },
   {
-    "id": "ComunicacionesJimenez.cr",
-    "name": "Comunicaciones Jimenez",
-    "alt_names": [
-      "Comunicaciones Jiménez"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "CR",
-    "country_name": "Costa Rica",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/4AvgY72.jpg",
-    "stream_url": "https://s1.tvdatta.com:3156/live/jimeneztvlive.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://comunicacionesjime.wixsite.com/misitio",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "CostaRicaChannel.cr",
     "name": "Costa Rica Channel",
     "alt_names": [],
@@ -1527,36 +1499,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TicaVision.cr",
-    "name": "TicaVision",
-    "alt_names": [
-      "TicaVisión"
-    ],
-    "network": null,
-    "owners": [
-      "Grupo Multimedios FM"
-    ],
-    "country_code": "CR",
-    "country_name": "Costa Rica",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/mev90pC.jpg",
-    "stream_url": "https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://ticavisiontv.com/",
     "launched": null,
     "closed": null
   },
