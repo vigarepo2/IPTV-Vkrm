@@ -82,7 +82,9 @@
     "name": "ZNS-TV",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Broadcasting Corporation of The Bahamas"
+    ],
     "country_code": "BS",
     "country_name": "Bahamas",
     "subdivision": null,

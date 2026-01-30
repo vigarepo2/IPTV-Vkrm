@@ -669,6 +669,34 @@
     "closed": null
   },
   {
+    "id": "CosmoteSport1.gr",
+    "name": "Cosmote Sport 1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "OTE"
+    ],
+    "country_code": "GR",
+    "country_name": "Greece",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/fn0TM6V.png",
+    "stream_url": "http://138.2.160.168:8080/fetch?COSMOTESPORT1",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.cosmote.gr/cosmotetv",
+    "launched": "2009-01-01",
+    "closed": null
+  },
+  {
     "id": "CosmoteSport2.gr",
     "name": "Cosmote Sport 2",
     "alt_names": [],
