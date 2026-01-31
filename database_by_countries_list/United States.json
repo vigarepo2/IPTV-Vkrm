@@ -57258,6 +57258,34 @@
     "closed": null
   },
   {
+    "id": "SNLVault.us",
+    "name": "SNL Vault",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NBCUniversal"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png",
+    "stream_url": "https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2023-07-01",
+    "closed": null
+  },
+  {
     "id": "SonyCanalCompetencias.us",
     "name": "Sony Canal Competencias",
     "alt_names": [],
@@ -69321,6 +69349,37 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/512px-CBS_2.svg.png",
     "stream_url": "https://fl1.moveonjoy.com/CBS/index.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "WCBSDT1.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "16689",
+      "site_name": "CBS (WCBS-DT1) New York, NY",
+      "lang": "en"
+    },
+    "website": "https://newyork.cbslocal.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "WCBSDT1.us",
+    "name": "WCBS-DT1",
+    "alt_names": [],
+    "network": "CBS",
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/512px-CBS_2.svg.png",
+    "stream_url": "https://fl1.moveonjoy.com/NY_NEW_YORK_CBS/index.m3u8?PlaylistM3UCL",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

@@ -115,6 +115,41 @@
     "closed": null
   },
   {
+    "id": "ATV.pe",
+    "name": "ATV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo ATV"
+    ],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/eUzYZfg.png",
+    "stream_url": "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://www.atv.pe/",
+    "tv_guide": {
+      "channel": "ATV.pe",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch2211",
+      "site_name": "ATV",
+      "lang": "es"
+    },
+    "website": "https://www.atv.pe/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ATVPlus.pe",
     "name": "ATV+",
     "alt_names": [],
@@ -137,6 +172,41 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
+    "tv_guide": {
+      "channel": "ATVPlus.pe",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch2220",
+      "site_name": "ATV+",
+      "lang": "es"
+    },
+    "website": "https://www.atv.pe/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ATVPlus.pe",
+    "name": "ATV+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo ATV"
+    ],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/fY9256H.png",
+    "stream_url": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://www.atv.pe/",
     "tv_guide": {
       "channel": "ATVPlus.pe",
       "feed": "SD",

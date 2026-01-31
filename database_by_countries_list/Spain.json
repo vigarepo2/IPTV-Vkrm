@@ -5158,6 +5158,34 @@
     "closed": null
   },
   {
+    "id": "LoveThePlanet.es",
+    "name": "Love The Planet",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Love TV Channels"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/RBcD49X.png",
+    "stream_url": "https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://lovetvchannels.com/en/our-channels/#planet",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "M95TelevisionMarbella.es",
     "name": "M95 Television Marbella",
     "alt_names": [

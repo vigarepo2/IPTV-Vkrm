@@ -15351,41 +15351,6 @@
     "closed": null
   },
   {
-    "id": "RajNews.in",
-    "name": "Raj News",
-    "alt_names": [],
-    "network": "Raj",
-    "owners": [
-      "Raj Television Network"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143709_ld_h9_ab.png",
-    "stream_url": "http://103.140.254.2:3500/live/767.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RajNews.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "525",
-      "site_name": "Raj News Tamil.",
-      "lang": "en"
-    },
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "RajNewsKannada.in",
     "name": "Raj News Kannada",
     "alt_names": [],
@@ -19311,41 +19276,6 @@
       "lang": "en"
     },
     "website": "http://www.sunnetwork.in/tv-channel-details.aspx?Channelid=10&channelname=SUN%20NEWS&LanguageID=1&Type=1",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SunTV.in",
-    "name": "Sun TV",
-    "alt_names": [],
-    "network": "Sun",
-    "owners": [
-      "Sun TV Network"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s158021_ld_h15_aa.png",
-    "stream_url": "https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SunTV.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "521",
-      "site_name": "Sun TV HD",
-      "lang": "en"
-    },
-    "website": "http://www.sun.in/",
     "launched": null,
     "closed": null
   },
