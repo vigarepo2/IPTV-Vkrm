@@ -819,44 +819,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/bqRC3sl.png",
-    "stream_url": "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AsharqNews.sa",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "3726",
-      "site_name": "Asharq News",
-      "lang": "fr"
-    },
-    "website": "https://asharq.com/",
-    "launched": "2020-11-11",
-    "closed": null
-  },
-  {
-    "id": "AsharqNews.sa",
-    "name": "Asharq News",
-    "alt_names": [
-      "الشرق للأخبار"
-    ],
-    "network": null,
-    "owners": [
-      "Saudi Research and Media Group"
-    ],
-    "country_code": "SA",
-    "country_name": "Saudi Arabia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "business",
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/bqRC3sl.png",
     "stream_url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -951,8 +913,8 @@
     "closed": null
   },
   {
-    "id": "AsharqNewsPortrait.sa",
-    "name": "Asharq News Portrait",
+    "id": "AsharqNews.sa",
+    "name": "Asharq News",
     "alt_names": [
       "الشرق للأخبار"
     ],
@@ -971,14 +933,21 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/bqRC3sl.png",
-    "stream_url": "https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8",
-    "stream_quality": "1280p",
+    "stream_url": "https://live-news.asharq.com/asharq.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "AsharqNews.sa",
+      "feed": "SD",
+      "site": "tv.sfr.fr",
+      "site_id": "3726",
+      "site_name": "Asharq News",
+      "lang": "fr"
+    },
     "website": "https://asharq.com/",
-    "launched": null,
+    "launched": "2020-11-11",
     "closed": null
   },
   {

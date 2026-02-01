@@ -267,43 +267,6 @@
     "closed": null
   },
   {
-    "id": "AlNujabaTV.iq",
-    "name": "Al-Nujaba TV",
-    "alt_names": [
-      "قناة النجباء الفضائية"
-    ],
-    "network": null,
-    "owners": [
-      "Harakat Hezbollah al-Nujaba"
-    ],
-    "country_code": "IQ",
-    "country_name": "Iraq",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/XWXehZL.png",
-    "stream_url": "http://63b03f7689049.streamlock.net:1935/live/3/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AlNujabaTV.iq",
-      "feed": "SD",
-      "site": "sat.tv",
-      "site_id": "1#33#Al Nujaba TV",
-      "site_name": "Al Nujaba TV",
-      "lang": "en"
-    },
-    "website": "http://www.alnujaba-news.com/",
-    "launched": "2013-01-01",
-    "closed": null
-  },
-  {
     "id": "Alquran.iq",
     "name": "Alquran",
     "alt_names": [],

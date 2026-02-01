@@ -26,32 +26,6 @@
     "closed": null
   },
   {
-    "id": "AlcanceTV.ve",
-    "name": "Alcance TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "VE",
-    "country_name": "Venezuela",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/veeuqS1.png",
-    "stream_url": "https://videolatam.com:3516/live/tjjqdqurlive.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://alcancetv.org.ve/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "AnzoateguiTV.ve",
     "name": "Anzoategui TV",
     "alt_names": [

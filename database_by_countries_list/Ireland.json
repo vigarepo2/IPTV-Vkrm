@@ -67,6 +67,35 @@
     "closed": null
   },
   {
+    "id": "F1Channel.ie",
+    "name": "F1 Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "C15 Media Networks Ltd.",
+      "Formula One Group"
+    ],
+    "country_code": "IE",
+    "country_name": "Ireland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/cjXzWsI.png",
+    "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=922e06a8-1ba6-4236-9931-06d471735996",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.c15.studio/channels/formula-1-channel/",
+    "launched": "2024-04-25",
+    "closed": null
+  },
+  {
     "id": "OireachtasTV.ie",
     "name": "Oireachtas TV",
     "alt_names": [],

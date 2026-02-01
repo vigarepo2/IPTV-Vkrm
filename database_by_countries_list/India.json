@@ -3786,39 +3786,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Brio_TV.png",
-    "stream_url": "http://103.140.254.2:3500/live/3381.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BrioTV.in",
-      "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_BRIO_TV",
-      "site_name": "Brio TV",
-      "lang": "en"
-    },
-    "website": null,
-    "launched": "2025-06-30",
-    "closed": null
-  },
-  {
-    "id": "BrioTV.in",
-    "name": "Brio TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Brio_TV.png",
     "stream_url": "https://mumt02.tangotv.in/BRIOTV/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -3913,7 +3880,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0029CNNM.png",
-    "stream_url": "http://103.140.254.2:3500/live/3069.m3u8",
+    "stream_url": "https://mumt01.tangotv.in/CAPTAIN/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -11625,7 +11592,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143539_ld_h15_aa.png",
-    "stream_url": "http://103.140.254.2:3500/live/742.m3u8",
+    "stream_url": "https://mumt04.tangotv.in/MHONE/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -11639,41 +11606,6 @@
       "lang": "en"
     },
     "website": "https://music.mhone.in/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Mh1News.in",
-    "name": "Mh 1 News",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "MH One TV Network Pvt Ltd"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143540_ld_h15_aa.png",
-    "stream_url": "http://103.140.254.2:3500/live/511.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Mh1News.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "401",
-      "site_name": "MH One News",
-      "lang": "en"
-    },
-    "website": "http://www.mhone.in/mhone-news/",
     "launched": null,
     "closed": null
   },
@@ -11879,6 +11811,34 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MNaduTV.in",
+    "name": "M Nadu TV",
+    "alt_names": [
+      "எம் நாடு நியூஸ்"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/M_Nadu.png",
+    "stream_url": "https://mumt01.tangotv.in/MNADU/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://mnadu.com/",
     "launched": null,
     "closed": null
   },
@@ -19351,32 +19311,6 @@
       "site_name": "SURIYAN TV",
       "lang": "en"
     },
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SuriyaTV.in",
-    "name": "Suriya TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/suryatvtamil.png",
-    "stream_url": "http://103.140.254.2:3500/live/3394.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
     "website": null,
     "launched": null,
     "closed": null

@@ -659,6 +659,40 @@
     "closed": null
   },
   {
+    "id": "FomixTV.nl",
+    "name": "FomixTV",
+    "alt_names": [
+      "FomixTV",
+      "Radio Fomix",
+      "Fomix"
+    ],
+    "network": "FomixMedia",
+    "owners": [
+      "Stichting FomixMedia"
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music",
+      "public",
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/7SLYEMG.png",
+    "stream_url": "https://stream.fomixmedia.nl/FomixTV/video.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://www.fomix.nl",
+    "tv_guide": null,
+    "website": "https://www.fomix.nl",
+    "launched": "2019-12-24",
+    "closed": null
+  },
+  {
     "id": "GigantFM.nl",
     "name": "Gigant FM",
     "alt_names": [],

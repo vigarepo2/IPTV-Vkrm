@@ -535,37 +535,6 @@
     "closed": null
   },
   {
-    "id": "NBN.lb",
-    "name": "NBN",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "LB",
-    "country_name": "Lebanon",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/EefFcIk.png",
-    "stream_url": "http://5.9.119.146:8883/nbn/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NBN.lb",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "1275",
-      "site_name": "NBN",
-      "lang": "fr"
-    },
-    "website": "https://nbntv.me/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "NourAlKoddass.lb",
     "name": "Nour Al Koddass",
     "alt_names": [
