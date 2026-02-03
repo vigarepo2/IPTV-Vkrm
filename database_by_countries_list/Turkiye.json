@@ -6322,39 +6322,6 @@
     "closed": null
   },
   {
-    "id": "ShowTV.tr",
-    "name": "Show TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Albayrak Holding"
-    ],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/1l7SCCu.png",
-    "stream_url": "https://ciner-live.daioncdn.net/showtv/showtv.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ShowTV.tr",
-      "feed": "SD",
-      "site": "tvplus.com.tr",
-      "site_id": "show-tv/130",
-      "site_name": "SHOW TV",
-      "lang": "tr"
-    },
-    "website": "https://www.showtv.com.tr/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "SinopYildizTV.tr",
     "name": "Sinop Yildiz TV",
     "alt_names": [],
@@ -6540,37 +6507,6 @@
       "lang": "tr"
     },
     "website": "https://www.ssport.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "StarTV.tr",
-    "name": "Star TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/9O3DHRB.png",
-    "stream_url": "https://dogus-live.daioncdn.net/startv/startv.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarTV.tr",
-      "feed": "SD",
-      "site": "tvplus.com.tr",
-      "site_id": "star-tv/89",
-      "site_name": "STAR TV",
-      "lang": "tr"
-    },
-    "website": "https://www.startv.com.tr/",
     "launched": null,
     "closed": null
   },

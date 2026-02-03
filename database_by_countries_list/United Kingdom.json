@@ -7478,9 +7478,9 @@
     "id": "CNBCUK.uk",
     "name": "CNBC UK",
     "alt_names": [],
-    "network": null,
+    "network": "CNBC",
     "owners": [
-      "Comcast"
+      "Versant Media Group Inc."
     ],
     "country_code": "UK",
     "country_name": "United Kingdom",

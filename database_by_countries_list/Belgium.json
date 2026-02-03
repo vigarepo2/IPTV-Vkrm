@@ -1013,36 +1013,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/bIheNAI.png",
-    "stream_url": "https://trn09.bozztv.com/gin-sterk/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://sterktv1.net/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SterkTV.be",
-    "name": "Sterk TV",
-    "alt_names": [
-      "Stêrk TV"
-    ],
-    "network": null,
-    "owners": [
-      "Sterk Productions"
-    ],
-    "country_code": "BE",
-    "country_name": "Belgium",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/bIheNAI.png",
     "stream_url": "https://muzkurd.com/sterktv/sterk/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,

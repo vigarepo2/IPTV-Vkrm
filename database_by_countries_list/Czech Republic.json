@@ -1121,6 +1121,72 @@
     "closed": null
   },
   {
+    "id": "Prima.cz",
+    "name": "Prima",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "FTV Prima"
+    ],
+    "country_code": "CZ",
+    "country_name": "Czech Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/tCQx5SDy/prima.png",
+    "stream_url": "http://88.212.15.19/live/prima_avc_25p/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Prima.cz",
+      "feed": "SD",
+      "site": "mujtvprogram.cz",
+      "site_id": "4",
+      "site_name": "Prima",
+      "lang": "cs"
+    },
+    "website": "http://www.iprima.cz/",
+    "launched": "1993-04-20",
+    "closed": null
+  },
+  {
+    "id": "PrimaLove.cz",
+    "name": "Prima Love",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "FTV Prima"
+    ],
+    "country_code": "CZ",
+    "country_name": "Czech Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/Dw5472hy/primalove.png",
+    "stream_url": "http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PrimaLove.cz",
+      "feed": "SD",
+      "site": "mujtvprogram.cz",
+      "site_id": "226",
+      "site_name": "Prima Love",
+      "lang": "cs"
+    },
+    "website": "http://love.iprima.cz/",
+    "launched": "2011-03-08",
+    "closed": null
+  },
+  {
     "id": "Rebel.cz",
     "name": "Rebel",
     "alt_names": [],

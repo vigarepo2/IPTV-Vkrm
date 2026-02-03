@@ -6415,41 +6415,6 @@
     "closed": null
   },
   {
-    "id": "beINSportsUSA.us",
-    "name": "beIN Sports USA",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "beIN Media Group"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg",
-    "stream_url": "http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "beINSportsUSA.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "76942",
-      "site_name": "BeIn Sports USA",
-      "lang": "en"
-    },
-    "website": "http://www.beinsports.com/us/",
-    "launched": "2012-08-16",
-    "closed": null
-  },
-  {
     "id": "beINSPORTSXTRA.us",
     "name": "beIN SPORTS XTRA",
     "alt_names": [],
@@ -6848,37 +6813,6 @@
       "lang": "en"
     },
     "website": "https://pluto.tv/en/live-tv/best-of-the-drew-barrymore-show",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BET.us",
-    "name": "BET",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/copIbc9.png",
-    "stream_url": "https://fl1.moveonjoy.com/BET_EAST/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BET.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "24483",
-      "site_name": "BET West",
-      "lang": "en"
-    },
-    "website": "http://www.bet.com/",
     "launched": null,
     "closed": null
   },
@@ -14136,9 +14070,9 @@
     "id": "CNBC.us",
     "name": "CNBC",
     "alt_names": [],
-    "network": null,
+    "network": "CNBC",
     "owners": [
-      "Comcast"
+      "Versant Media Group Inc."
     ],
     "country_code": "US",
     "country_name": "United States",
@@ -14171,9 +14105,9 @@
     "id": "CNBC.us",
     "name": "CNBC",
     "alt_names": [],
-    "network": null,
+    "network": "CNBC",
     "owners": [
-      "Comcast"
+      "Versant Media Group Inc."
     ],
     "country_code": "US",
     "country_name": "United States",
@@ -14206,9 +14140,9 @@
     "id": "CNBC.us",
     "name": "CNBC",
     "alt_names": [],
-    "network": null,
+    "network": "CNBC",
     "owners": [
-      "Comcast"
+      "Versant Media Group Inc."
     ],
     "country_code": "US",
     "country_name": "United States",
@@ -14241,9 +14175,9 @@
     "id": "CNBC.us",
     "name": "CNBC",
     "alt_names": [],
-    "network": null,
+    "network": "CNBC",
     "owners": [
-      "Comcast"
+      "Versant Media Group Inc."
     ],
     "country_code": "US",
     "country_name": "United States",
@@ -14276,9 +14210,9 @@
     "id": "CNBCWorld.us",
     "name": "CNBC World",
     "alt_names": [],
-    "network": null,
+    "network": "CNBC",
     "owners": [
-      "NBCUniversal"
+      "Versant Media Group Inc."
     ],
     "country_code": "US",
     "country_name": "United States",
@@ -16622,7 +16556,10 @@
     "name": "Dateline 24/7",
     "alt_names": [],
     "network": "NBC",
-    "owners": [],
+    "owners": [
+      "NBCUniversal",
+      "Comcast Corporation"
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -16646,8 +16583,8 @@
       "site_name": "Dateline 24/7",
       "lang": "en"
     },
-    "website": "https://www.xumo.tv/live-guide/dateline-24-7",
-    "launched": null,
+    "website": "https://www.nbcnews.com/dateline",
+    "launched": "2021-02-09",
     "closed": null
   },
   {
@@ -16655,7 +16592,10 @@
     "name": "Dateline 24/7",
     "alt_names": [],
     "network": "NBC",
-    "owners": [],
+    "owners": [
+      "NBCUniversal",
+      "Comcast Corporation"
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -16679,8 +16619,8 @@
       "site_name": "Dateline 24/7",
       "lang": "en"
     },
-    "website": "https://www.xumo.tv/live-guide/dateline-24-7",
-    "launched": null,
+    "website": "https://www.nbcnews.com/dateline",
+    "launched": "2021-02-09",
     "closed": null
   },
   {
@@ -16688,7 +16628,10 @@
     "name": "Dateline 24/7",
     "alt_names": [],
     "network": "NBC",
-    "owners": [],
+    "owners": [
+      "NBCUniversal",
+      "Comcast Corporation"
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -16712,8 +16655,8 @@
       "site_name": "Dateline 24/7",
       "lang": "en"
     },
-    "website": "https://www.xumo.tv/live-guide/dateline-24-7",
-    "launched": null,
+    "website": "https://www.nbcnews.com/dateline",
+    "launched": "2021-02-09",
     "closed": null
   },
   {
@@ -19394,6 +19337,38 @@
     "closed": null
   },
   {
+    "id": "EntertainmentTonight.us",
+    "name": "Entertainment Tonight",
+    "alt_names": [
+      "ET"
+    ],
+    "network": null,
+    "owners": [
+      "CBS Media Ventures Inc.",
+      "Paramount Global"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/2048px-Entertainment_Tonight_2021.svg.png",
+    "stream_url": "https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.etonline.com/contact",
+    "launched": "1981-09-14",
+    "closed": null
+  },
+  {
     "id": "EntrepreneurTV.us",
     "name": "EntrepreneurTV",
     "alt_names": [],
@@ -21053,37 +21028,6 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "FanDuelSportsNetworkDetroit.us",
-    "name": "FanDuel Sports Network Detroit",
-    "alt_names": [
-      "Bally Sports Detroit",
-      "Fox Sports Detroit"
-    ],
-    "network": "FanDuel Sports Network",
-    "owners": [
-      "Main Street Sports Group"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/FanDuel_Sports_Network_Detroit_logo.svg",
-    "stream_url": "https://fl7.moveonjoy.com/BALLY_SPORTS_DETROIT/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://fanduelsportsNetworknetwork.com/detroit",
-    "launched": "1997-09-17",
     "closed": null
   },
   {
@@ -42892,76 +42836,6 @@
     "closed": null
   },
   {
-    "id": "NFLNetwork.us",
-    "name": "NFL Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "National Football League"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/mg5Sw3ns/nflnetwork.png",
-    "stream_url": "https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NFLNetwork.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "102790",
-      "site_name": "NFL Network",
-      "lang": "en"
-    },
-    "website": "https://www.nfl.com/network",
-    "launched": "2003-11-04",
-    "closed": null
-  },
-  {
-    "id": "NFLRedZone.us",
-    "name": "NFL RedZone",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "National Football League"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/5lPqQj5.png",
-    "stream_url": "https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NFLRedZone.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "89351",
-      "site_name": "NFL Red Zone",
-      "lang": "en"
-    },
-    "website": "https://www.dazn.com/en-CA/welcome",
-    "launched": "2009-09-13",
-    "closed": null
-  },
-  {
     "id": "NFLRedZone.us",
     "name": "NFL RedZone",
     "alt_names": [],
@@ -43029,181 +42903,6 @@
     },
     "website": "https://www.dazn.com/en-CA/welcome",
     "launched": "2009-09-13",
-    "closed": null
-  },
-  {
-    "id": "NFLSundayTicket14.us",
-    "name": "NFL Sunday Ticket 14",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "National Football League"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/WBOM46Z.png",
-    "stream_url": "http://fl2.moveonjoy.com/NFL_14/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NFLSundayTicket14.us",
-      "feed": "SD",
-      "site": "tvpassport.com",
-      "site_id": "nfl-sunday-ticket-14/2906",
-      "site_name": "NFL Sunday Ticket 14",
-      "lang": "en"
-    },
-    "website": "http://www.nfl.com/",
-    "launched": "1994-09-04",
-    "closed": null
-  },
-  {
-    "id": "NHLCenterIce12.us",
-    "name": "NHL Center Ice 12",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Xfinity"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/pBKZZ8z.png",
-    "stream_url": "http://fl1.moveonjoy.com/NHL_12/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NHLCenterIce12.us",
-      "feed": "SD",
-      "site": "directv.com",
-      "site_id": "782#5782",
-      "site_name": "NHL Center Ice 782 HD",
-      "lang": "en"
-    },
-    "website": "http://www.nhl.com/",
-    "launched": "1995-10-01",
-    "closed": null
-  },
-  {
-    "id": "NHLCenterIce13.us",
-    "name": "NHL Center Ice 13",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Xfinity"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/pBKZZ8z.png",
-    "stream_url": "http://fl1.moveonjoy.com/NHL_13/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NHLCenterIce13.us",
-      "feed": "SD",
-      "site": "directv.com",
-      "site_id": "783#5783",
-      "site_name": "NHL Center Ice 783 HD",
-      "lang": "en"
-    },
-    "website": "http://www.nhl.com/",
-    "launched": "1995-10-01",
-    "closed": null
-  },
-  {
-    "id": "NHLCenterIce14.us",
-    "name": "NHL Center Ice 14",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Xfinity"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/pBKZZ8z.png",
-    "stream_url": "http://fl1.moveonjoy.com/NHL_14/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NHLCenterIce14.us",
-      "feed": "SD",
-      "site": "directv.com",
-      "site_id": "784#5784",
-      "site_name": "NHL Center Ice 784 HD",
-      "lang": "en"
-    },
-    "website": "http://www.nhl.com/",
-    "launched": "1995-10-01",
-    "closed": null
-  },
-  {
-    "id": "NHLNetwork.us",
-    "name": "NHL Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "National Hockey League"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/UNZ8bef.png",
-    "stream_url": "https://fl1.moveonjoy.com/NHL_NETWORK/mpegts",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NHLNetwork.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "58570",
-      "site_name": "NHL Network",
-      "lang": "en"
-    },
-    "website": "https://www.nhl.com/info/network",
-    "launched": "2007-10-01",
     "closed": null
   },
   {
@@ -56998,37 +56697,6 @@
     "closed": null
   },
   {
-    "id": "ShowtimeWomen.us",
-    "name": "Showtime Women",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png",
-    "stream_url": "https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ShowtimeWomen.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "25273",
-      "site_name": "Showtime Women West",
-      "lang": "en"
-    },
-    "website": "https://www.sho.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "SkwadPlay.us",
     "name": "Skwad Play",
     "alt_names": [],
@@ -57239,7 +56907,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg",
+    "logo": "https://i.imgur.com/Kt5j8Vr.png",
     "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb094-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=984e1d1d-6d7f-4f0b-98a5-825ccb67a891",
     "stream_quality": null,
     "stream_format": null,
@@ -58189,39 +57857,6 @@
     },
     "website": "https://pluto.tv/en/live-tv/star-trek-1",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "StartTV.us",
-    "name": "Start TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Start TV LLC"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/512px-Start_TV_logo.svg.png",
-    "stream_url": "https://fl1.moveonjoy.com/Start_Tv/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StartTV.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "109454",
-      "site_name": "Start TV",
-      "lang": "en"
-    },
-    "website": "https://www.starttv.com/",
-    "launched": "2018-09-03",
     "closed": null
   },
   {
@@ -60161,39 +59796,6 @@
     "closed": null
   },
   {
-    "id": "TeenNick.us",
-    "name": "TeenNick",
-    "alt_names": [],
-    "network": "Nickelodeon",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/kG4nCtQ7/teennick.png",
-    "stream_url": "https://fl1.moveonjoy.com/Teen_Nick/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TeenNick.us",
-      "feed": "East",
-      "site": "tvtv.us",
-      "site_id": "59036",
-      "site_name": "TeenNick",
-      "lang": "en"
-    },
-    "website": "http://www.teennick.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TeleBoston.us",
     "name": "Tele Boston",
     "alt_names": [],
@@ -61421,39 +61023,6 @@
       "site": "tvtv.us",
       "site_id": "69639",
       "site_name": "The Country Network",
-      "lang": "en"
-    },
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TheCowboyChannel.us",
-    "name": "The Cowboy Channel",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Rural Media Group"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/0F1c7x4.png",
-    "stream_url": "https://fl1.moveonjoy.com/Cowboy_Channel/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TheCowboyChannel.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "80597",
-      "site_name": "The Cowboy Channel",
       "lang": "en"
     },
     "website": null,
@@ -63921,7 +63490,10 @@
     "name": "TODAY All Day",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "NBCUniversal",
+      "Comcast Corporation"
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -63946,7 +63518,7 @@
       "lang": "en"
     },
     "website": "https://www.today.com/allday",
-    "launched": null,
+    "launched": "2020-07-13",
     "closed": null
   },
   {
@@ -63954,7 +63526,10 @@
     "name": "TODAY All Day",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "NBCUniversal",
+      "Comcast Corporation"
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -63979,7 +63554,7 @@
       "lang": "en"
     },
     "website": "https://www.today.com/allday",
-    "launched": null,
+    "launched": "2020-07-13",
     "closed": null
   },
   {
@@ -66412,43 +65987,19 @@
     "name": "USA Network",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Versant Media Group Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
     "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/3rzcT7SQ/usanetwork.png",
-    "stream_url": "http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "USANetwork.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "11208",
-      "site_name": "USA Network West",
-      "lang": "en"
-    },
-    "website": "https://www.usanetwork.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "USANetwork.us",
-    "name": "USA Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
+    "categories": [
+      "movies",
+      "series",
+      "sports",
+      "comedy"
+    ],
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.postimg.cc/3rzcT7SQ/usanetwork.png",
@@ -66474,12 +66025,19 @@
     "name": "USA Network",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Versant Media Group Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
     "city": null,
-    "categories": [],
+    "categories": [
+      "movies",
+      "series",
+      "sports",
+      "comedy"
+    ],
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.postimg.cc/3rzcT7SQ/usanetwork.png",

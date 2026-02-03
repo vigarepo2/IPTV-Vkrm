@@ -82,6 +82,76 @@
     "closed": null
   },
   {
+    "id": "ANTV.id",
+    "name": "ANTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Intermedia Capital"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png",
+    "stream_url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ANTV.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000010",
+      "site_name": "ANTV",
+      "lang": "id"
+    },
+    "website": "https://www.antvklik.com/",
+    "launched": "1993-03-01",
+    "closed": null
+  },
+  {
+    "id": "ANTV.id",
+    "name": "ANTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Intermedia Capital"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png",
+    "stream_url": "http://175.158.57.130:8888/stream/channelid/1272719645",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ANTV.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000010",
+      "site_name": "ANTV",
+      "lang": "id"
+    },
+    "website": "https://www.antvklik.com/",
+    "launched": "1993-03-01",
+    "closed": null
+  },
+  {
     "id": "ArekTV.id",
     "name": "Arek TV",
     "alt_names": [],
@@ -560,6 +630,35 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": "https://youtv.live/",
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BNChannel.id",
+    "name": "BN Channel",
+    "alt_names": [
+      "Business News Channel",
+      "BN TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BN_Channel.png/512px-BN_Channel.png",
+    "stream_url": "http://175.158.57.130:8888/stream/channelid/1402218159",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
     "tv_guide": null,
     "website": null,
     "launched": null,
@@ -1904,6 +2003,34 @@
     "closed": null
   },
   {
+    "id": "KTV.id",
+    "name": "KTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "KG Media"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/j3wtaDc.png",
+    "stream_url": "http://175.158.57.130:8888/stream/channelid/187512145",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.ktv.co.id/",
+    "launched": "2008-09-01",
+    "closed": null
+  },
+  {
     "id": "LingkarTV.id",
     "name": "Lingkar TV",
     "alt_names": [],
@@ -2086,6 +2213,41 @@
     },
     "website": "https://mdtelevision.com/",
     "launched": "2025-02-28",
+    "closed": null
+  },
+  {
+    "id": "MentariTV.id",
+    "name": "Mentari TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Surya Citra Media"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "family"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/QkTgy1M.png",
+    "stream_url": "http://175.158.57.130:8888/stream/channelid/641828885",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MentariTV.id",
+      "feed": "SD",
+      "site": "tivie.id",
+      "site_id": "mentaritv",
+      "site_name": "Mentari TV",
+      "lang": "id"
+    },
+    "website": "http://www.ieg.id/tv-channel/mentari-tv/",
+    "launched": "2021-01-06",
     "closed": null
   },
   {
@@ -2861,6 +3023,68 @@
     "closed": null
   },
   {
+    "id": "RajawaliTV.id",
+    "name": "Rajawali TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/dlsv1sl.png",
+    "stream_url": "http://175.158.57.130:8888/stream/channelid/412436804",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RajawaliTV.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000011",
+      "site_name": "RTV",
+      "lang": "id"
+    },
+    "website": "https://www.rtv.co.id/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RajawaliTV.id",
+    "name": "Rajawali TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/dlsv1sl.png",
+    "stream_url": "http://175.158.57.130:8888/stream/channelid/838561027",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RajawaliTV.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000011",
+      "site_name": "RTV",
+      "lang": "id"
+    },
+    "website": "https://www.rtv.co.id/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RakyatBengkuluTV.id",
     "name": "Rakyat Bengkulu TV",
     "alt_names": [],
@@ -3282,6 +3506,30 @@
     "closed": null
   },
   {
+    "id": "SelaparangTV.id",
+    "name": "Selaparang TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/id/c/ce/Logo_Selaparang_TV.png",
+    "stream_url": "https://selaparangtv.siar.us/live/selaparangtv.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://selaparangtv.net",
+    "tv_guide": null,
+    "website": "https://selaparangtv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "SemarangTV.id",
     "name": "Semarang TV",
     "alt_names": [],
@@ -3666,8 +3914,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.postimg.cc/VvVgb6dN/logo-tawaf.png",
-    "stream_url": "https://streamtawaf.asfatv.com/hls/tawaftv.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "https://tvstreamcast.com/tawaftv.m3u8",
+    "stream_quality": "576i",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -3995,6 +4243,37 @@
     "closed": null
   },
   {
+    "id": "tvOne.id",
+    "name": "tvOne",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png",
+    "stream_url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "tvOne.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000012",
+      "site_name": "TVOne",
+      "lang": "id"
+    },
+    "website": "https://www.tvonenews.com/",
+    "launched": "2002-07-30",
+    "closed": null
+  },
+  {
     "id": "TVRI.id",
     "name": "TVRI",
     "alt_names": [
@@ -4257,41 +4536,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.postimg.cc/NM7W0n5k/tvri.png",
-    "stream_url": "https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVRI.id",
-      "feed": "HD",
-      "site": "vidio.com",
-      "site_id": "6441",
-      "site_name": "TVRI",
-      "lang": "id"
-    },
-    "website": "http://tvri.go.id/",
-    "launched": "1962-08-24",
-    "closed": null
-  },
-  {
-    "id": "TVRI.id",
-    "name": "TVRI",
-    "alt_names": [
-      "TVRI Nasional"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/NM7W0n5k/tvri.png",
     "stream_url": "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -4432,6 +4676,76 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.postimg.cc/NM7W0n5k/tvri.png",
+    "stream_url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVRI.id",
+      "feed": "HD",
+      "site": "vidio.com",
+      "site_id": "6441",
+      "site_name": "TVRI",
+      "lang": "id"
+    },
+    "website": "http://tvri.go.id/",
+    "launched": "1962-08-24",
+    "closed": null
+  },
+  {
+    "id": "TVRI.id",
+    "name": "TVRI",
+    "alt_names": [
+      "TVRI Nasional"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/NM7W0n5k/tvri.png",
+    "stream_url": "https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVRI.id",
+      "feed": "HD",
+      "site": "vidio.com",
+      "site_id": "6441",
+      "site_name": "TVRI",
+      "lang": "id"
+    },
+    "website": "http://tvri.go.id/",
+    "launched": "1962-08-24",
+    "closed": null
+  },
+  {
+    "id": "TVRI.id",
+    "name": "TVRI",
+    "alt_names": [
+      "TVRI Nasional"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/NM7W0n5k/tvri.png",
     "stream_url": "https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -4504,41 +4818,6 @@
     "logo": "https://i.postimg.cc/NM7W0n5k/tvri.png",
     "stream_url": "https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8",
     "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVRI.id",
-      "feed": "HD",
-      "site": "vidio.com",
-      "site_id": "6441",
-      "site_name": "TVRI",
-      "lang": "id"
-    },
-    "website": "http://tvri.go.id/",
-    "launched": "1962-08-24",
-    "closed": null
-  },
-  {
-    "id": "TVRI.id",
-    "name": "TVRI",
-    "alt_names": [
-      "TVRI Nasional"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/NM7W0n5k/tvri.png",
-    "stream_url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
-    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
