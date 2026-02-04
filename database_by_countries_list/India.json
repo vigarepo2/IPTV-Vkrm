@@ -10485,6 +10485,84 @@
     "closed": null
   },
   {
+    "id": "NationalGeographic.in",
+    "name": "National Geographic",
+    "alt_names": [
+      "National Geographic Channel"
+    ],
+    "network": "JioStar",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png",
+    "stream_url": "http://122.165.240.223:1234/stream/zio/nghd/master.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NationalGeographic.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "605",
+      "site_name": "National Geographic HD",
+      "lang": "en"
+    },
+    "website": "https://natgeotv.com/in",
+    "launched": "1998-07-01",
+    "closed": null
+  },
+  {
+    "id": "NationalGeographicWild.in",
+    "name": "National Geographic Wild",
+    "alt_names": [
+      "Nat Geo Wild"
+    ],
+    "network": "JioStar",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143572_ld_h15_aa.png",
+    "stream_url": "http://122.165.240.223:1234/stream/zio/ngwild/master.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NationalGeographicWild.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "184",
+      "site_name": "Nat Geo Wild",
+      "lang": "en"
+    },
+    "website": "https://www.natgeotv.com/in/wild",
+    "launched": "2009-07-31",
+    "closed": null
+  },
+  {
     "id": "Nazara.in",
     "name": "Nazara",
     "alt_names": [],
@@ -15444,6 +15522,82 @@
     },
     "website": "http://www.hotstar.com/channels/star-plus",
     "launched": "1992-02-21",
+    "closed": null
+  },
+  {
+    "id": "StarSports1.in",
+    "name": "Star Sports 1",
+    "alt_names": [
+      "Star Sports"
+    ],
+    "network": "Star Sports",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143837_ld_h15_aa.png",
+    "stream_url": "http://122.165.240.223:1234/stream/tp/sp1/master.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarSports1.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "600",
+      "site_name": "STAR Sports 1",
+      "lang": "en"
+    },
+    "website": "https://www.startv.com/about-us/sports",
+    "launched": "1996-10-28",
+    "closed": null
+  },
+  {
+    "id": "StarSports2.in",
+    "name": "Star Sports 2",
+    "alt_names": [],
+    "network": "Star Sports",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143845_ld_h15_aa.png",
+    "stream_url": "http://122.165.240.223:1234/stream/tp/sp2/master.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarSports2.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "609",
+      "site_name": "STAR Sports 2",
+      "lang": "en"
+    },
+    "website": "https://www.startv.com/about-us/sports",
+    "launched": "2013-03-11",
     "closed": null
   },
   {

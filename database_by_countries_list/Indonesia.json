@@ -310,6 +310,41 @@
     "closed": null
   },
   {
+    "id": "BaliTV.id",
+    "name": "Bali TV",
+    "alt_names": [],
+    "network": "Indonesia Network",
+    "owners": [
+      "Bali Post Media Group"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/uH1Szme.png",
+    "stream_url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000042/1024.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BaliTV.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000026",
+      "site_name": "Bali TV",
+      "lang": "id"
+    },
+    "website": "https://balitv.tv/",
+    "launched": "2002-05-26",
+    "closed": null
+  },
+  {
     "id": "BandungTV.id",
     "name": "Bandung TV",
     "alt_names": [],
