@@ -3083,6 +3083,37 @@
     "closed": null
   },
   {
+    "id": "ViajarTV.ar",
+    "name": "Viajar TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/LxB7ZIu.png",
+    "stream_url": "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8?ads.vf=-ZtA7vYT8Ri",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ViajarTV.ar",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1692",
+      "site_name": "Viajar TV",
+      "lang": "en"
+    },
+    "website": "https://viajartv.tv/",
+    "launched": "2011-12-01",
+    "closed": null
+  },
+  {
     "id": "VTV.ar",
     "name": "VTV",
     "alt_names": [

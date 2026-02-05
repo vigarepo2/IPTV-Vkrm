@@ -497,6 +497,41 @@
     "closed": null
   },
   {
+    "id": "AfricanewsEnglish.fr",
+    "name": "Africanews English",
+    "alt_names": [],
+    "network": "Africanews",
+    "owners": [
+      "Euronews SA"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://a.jsrdn.com/hls/22886/africanews/extras/1080_logo.png",
+    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8?ads.vf=OXCCriJ8fFq",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AfricanewsEnglish.fr",
+      "feed": "SD",
+      "site": "vidio.com",
+      "site_id": "12784",
+      "site_name": "AFRICANEWS TV",
+      "lang": "id"
+    },
+    "website": "https://www.africanews.com/",
+    "launched": "2016-04-20",
+    "closed": null
+  },
+  {
     "id": "AfricanewsFrench.fr",
     "name": "Africanews French",
     "alt_names": [
@@ -1684,41 +1719,6 @@
     "closed": null
   },
   {
-    "id": "CanalPlus.fr",
-    "name": "Canal+",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Vivendi"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/5HcyMnW.png",
-    "stream_url": "https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CanalPlus.fr",
-      "feed": "SD",
-      "site": "tvcesoir.fr",
-      "site_id": "82484954/canal",
-      "site_name": "Canal+",
-      "lang": "fr"
-    },
-    "website": "https://www.canalplus.com/",
-    "launched": "1984-11-04",
-    "closed": null
-  },
-  {
     "id": "CannesLerinsTV.fr",
     "name": "Cannes Lerins TV",
     "alt_names": [
@@ -2224,6 +2224,41 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png",
+    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8?ads.vf=wcz9wNOQ76u",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EuronewsEnglish.fr",
+      "feed": "SD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000117_019351",
+      "site_name": "Euronews",
+      "lang": "en"
+    },
+    "website": "https://www.euronews.com/",
+    "launched": "1993-01-01",
+    "closed": null
+  },
+  {
+    "id": "EuronewsEnglish.fr",
+    "name": "Euronews English",
+    "alt_names": [],
+    "network": "Euronews",
+    "owners": [
+      "Euronews SA"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png",
     "stream_url": "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -2635,6 +2670,44 @@
     "logo": "https://a.jsrdn.com/hls/22886/euronews-spa/extras/1080_logo.png",
     "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EuronewsSpanish.fr",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1559",
+      "site_name": "Euronews Español",
+      "lang": "en"
+    },
+    "website": "https://es.euronews.com/",
+    "launched": "1993-01-01",
+    "closed": null
+  },
+  {
+    "id": "EuronewsSpanish.fr",
+    "name": "Euronews Spanish",
+    "alt_names": [
+      "euronews en español",
+      "euronews español"
+    ],
+    "network": "Euronews",
+    "owners": [
+      "Euronews SA"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://a.jsrdn.com/hls/22886/euronews-spa/extras/1080_logo.png",
+    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.vf=DLlKFAN37a8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -5077,6 +5150,41 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/M1Ee79b.png",
+    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8?ads.vf=gPEEXzG-WvO",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "KozoomTV.fr",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1604",
+      "site_name": "KOZOOM TV",
+      "lang": "en"
+    },
+    "website": "https://tv.kozoom.com/",
+    "launched": "1998-09-01",
+    "closed": null
+  },
+  {
+    "id": "KozoomTV.fr",
+    "name": "Kozoom TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Kozoom International"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/M1Ee79b.png",
     "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -6302,6 +6410,39 @@
     },
     "website": null,
     "launched": "2025-09-01",
+    "closed": null
+  },
+  {
+    "id": "Novocomedy.fr",
+    "name": "Novocomedy",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://novocomedy.com/wp-content/uploads/LogoNovocomedy.png",
+    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/novo-comedy/video.m3u8?ads.vf=WY7qC3DIF58",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Novocomedy.fr",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1814",
+      "site_name": "Novo Comedy",
+      "lang": "en"
+    },
+    "website": "https://novocomedy.com/channel/",
+    "launched": null,
     "closed": null
   },
   {
@@ -8495,6 +8636,39 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/DFBocPu.png",
+    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8?ads.vf=JMr0lvPYYV0",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TraceBrazuca.fr",
+      "feed": "SD",
+      "site": "zap.co.ao",
+      "site_id": "2441",
+      "site_name": "Trace Brasil",
+      "lang": "pt"
+    },
+    "website": "https://trace.company/activities/television/trace-brazuca/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TraceBrazuca.fr",
+    "name": "Trace Brazuca",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/DFBocPu.png",
     "stream_url": "https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -8868,6 +9042,43 @@
     "logo": "https://i.imgur.com/DLIbUMx.png",
     "stream_url": "https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TraceUrban.fr",
+      "feed": "SD",
+      "site": "vodafone.pt",
+      "site_id": "3015",
+      "site_name": "Trace Urban",
+      "lang": "pt"
+    },
+    "website": "https://fr.trace.tv/trace-urban/",
+    "launched": "2010-12-15",
+    "closed": null
+  },
+  {
+    "id": "TraceUrban.fr",
+    "name": "Trace Urban",
+    "alt_names": [
+      "Trace TV"
+    ],
+    "network": null,
+    "owners": [
+      "TPG Capital Trace Partners"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/DLIbUMx.png",
+    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8?ads.vf=Tm-ioUfOiEG",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

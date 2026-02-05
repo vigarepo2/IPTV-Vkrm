@@ -6773,6 +6773,39 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ULm80XF.png",
+    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8?ads.vf=65ah6vw-F20",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BritAsiaTV.uk",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1502",
+      "site_name": "BritAsiaTV",
+      "lang": "en"
+    },
+    "website": "https://britasia.tv/",
+    "launched": "2008-04-07",
+    "closed": null
+  },
+  {
+    "id": "BritAsiaTV.uk",
+    "name": "Brit Asia TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Tony Shergill"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ULm80XF.png",
     "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -12775,6 +12808,39 @@
     "website": "https://trace.tv/uk/",
     "launched": "2021-01-05",
     "closed": null
+  },
+  {
+    "id": "TraceLatina.uk",
+    "name": "Trace Latina",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CUVAi4u.png",
+    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8?ads.vf=jn5xeelzYbm",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TraceLatina.uk",
+      "feed": "SD",
+      "site": "airtelxstream.in",
+      "site_id": "DISTROTV_LIVETVCHANNEL_3242",
+      "site_name": "TRACE Latina",
+      "lang": "en"
+    },
+    "website": "https://trace.company/activities/television/trace-latina/",
+    "launched": "2010-03-25",
+    "closed": "2020-06-01"
   },
   {
     "id": "TVOne.uk",

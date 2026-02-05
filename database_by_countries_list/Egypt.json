@@ -479,6 +479,39 @@
     "closed": null
   },
   {
+    "id": "PNCDrama.eg",
+    "name": "PNC Drama",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "EG",
+    "country_name": "Egypt",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Hg34mg3.png",
+    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8?ads.vf=xdliEBYtdWS",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PNCDrama.eg",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1638",
+      "site_name": "PNC Drama",
+      "lang": "en"
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RotanaCinemaEgypt.eg",
     "name": "Rotana Cinema Egypt",
     "alt_names": [

@@ -1,5 +1,38 @@
 [
   {
+    "id": "BlessTV.jm",
+    "name": "Bless TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "JM",
+    "country_name": "Jamaica",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/USshSMj.png",
+    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bless-tv/master.m3u8?ads.vf=hNDXxFtFEya",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BlessTV.jm",
+      "feed": "SD",
+      "site": "airtelxstream.in",
+      "site_id": "DISTROTV_LIVETVCHANNEL_2930",
+      "site_name": "Bless TV",
+      "lang": "en"
+    },
+    "website": "http://blesstvjm.org/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Fame95FM.jm",
     "name": "Fame95 FM",
     "alt_names": [],

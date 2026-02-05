@@ -2011,6 +2011,41 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/QSi0YTS.png",
+    "stream_url": "https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8?ads.vf=OzgI4vciq6G",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FEVATV.ca",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1624",
+      "site_name": "FEVA TV",
+      "lang": "en"
+    },
+    "website": "https://www.fevatv.com/",
+    "launched": "2014-08-24",
+    "closed": null
+  },
+  {
+    "id": "FEVATV.ca",
+    "name": "FEVA TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Wells Multimedia Entertainment"
+    ],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/QSi0YTS.png",
     "stream_url": "https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -2287,6 +2322,41 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/swUX3hQ.png",
+    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8?ads.vf=z3IfZ8kQYWa",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "GustoTV.ca",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1601",
+      "site_name": "Gusto TV",
+      "lang": "en"
+    },
+    "website": "https://gustotv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "GustoTV.ca",
+    "name": "Gusto TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Gusto Media Worldwide"
+    ],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "cooking"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/swUX3hQ.png",
     "stream_url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -2397,6 +2467,39 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.hamdardtv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HardKnocks.ca",
+    "name": "Hard Knocks",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nt9B6jx.png",
+    "stream_url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=nRzKBGmPlgS",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HardKnocks.ca",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1527",
+      "site_name": "Hard Knocks",
+      "lang": "en"
+    },
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -3111,41 +3214,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.postimg.cc/rwZbxkJf/lovenature.png",
-    "stream_url": "https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "LoveNature.ca",
-      "feed": "SD",
-      "site": "ziggogo.tv",
-      "site_id": "NL_000191_019261",
-      "site_name": "Love Nature",
-      "lang": "nl"
-    },
-    "website": "https://tv.lovenature.com/",
-    "launched": "2006-03-12",
-    "closed": null
-  },
-  {
-    "id": "LoveNature.ca",
-    "name": "Love Nature",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Blue Ant Media"
-    ],
-    "country_code": "CA",
-    "country_name": "Canada",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "outdoor"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/rwZbxkJf/lovenature.png",
     "stream_url": "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -3699,6 +3767,37 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Prime_Asia_HD.png",
     "stream_url": "http://primeasia.selfip.net/Samsung/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PrimeAsiaTV.ca",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "32677",
+      "site_name": "Prime Asia TV",
+      "lang": "en"
+    },
+    "website": "http://primeasiatv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PrimeAsiaTV.ca",
+    "name": "Prime Asia TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Prime_Asia_HD.png",
+    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/prime-asia-tv/index.m3u8?ads.vf=Vg9ARUkV43a",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -5115,6 +5214,37 @@
     "closed": null
   },
   {
+    "id": "TheCowboyChannelCanada.ca",
+    "name": "The Cowboy Channel Canada",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/xwntWOP.png",
+    "stream_url": "https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8?ads.vf=6g9ilXeXVD8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TheCowboyChannelCanada.ca",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1651",
+      "site_name": "Cowboy Channel",
+      "lang": "en"
+    },
+    "website": "https://thecowboychannelcanada.ca/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TheWeatherNetwork.ca",
     "name": "The Weather Network",
     "alt_names": [],
@@ -5801,6 +5931,39 @@
     },
     "website": "https://www.wcgtv.ca/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "WildTV.ca",
+    "name": "Wild TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Wild TV Inc."
+    ],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/wjM2yGbQ/wildtv.png",
+    "stream_url": "https://d1tm3cz23db55z.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildTV/476.m3u8?ads.vf=RmJeARe_EAK",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "WildTV.ca",
+      "feed": "SD",
+      "site": "tvpassport.com",
+      "site_id": "wild-tv/2976",
+      "site_name": "Wild TV",
+      "lang": "en"
+    },
+    "website": "https://wildtv.ca/",
+    "launched": "2004-09-01",
     "closed": null
   },
   {

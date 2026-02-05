@@ -964,7 +964,9 @@
     "country_name": "North Macedonia",
     "subdivision": null,
     "city": null,
-    "categories": [],
+    "categories": [
+      "general"
+    ],
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/IC1f4h3.png",
