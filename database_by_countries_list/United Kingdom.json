@@ -11823,6 +11823,37 @@
     "closed": null
   },
   {
+    "id": "SpaceLivepoweredbysen.uk",
+    "name": "Space Live powered by sen",
+    "alt_names": [
+      "Space Live"
+    ],
+    "network": null,
+    "owners": [
+      "Sen Corporation Ltd."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "relax",
+      "travel"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.frequency.com/studio/itv/channels/1224-400x200.png",
+    "stream_url": "https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.sen.com/live",
+    "launched": "2025-01-27",
+    "closed": null
+  },
+  {
     "id": "TalkingPicturesTV.uk",
     "name": "Talking Pictures TV",
     "alt_names": [],
