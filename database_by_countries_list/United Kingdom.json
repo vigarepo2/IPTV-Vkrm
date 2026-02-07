@@ -10274,76 +10274,6 @@
     "closed": null
   },
   {
-    "id": "MTVMusic.uk",
-    "name": "MTV Music",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Paramount Networks UK & Ireland"
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/hdyJ4PT.png",
-    "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ec342-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a56dace8-66e4-4b9a-a55f-d5348160dae2",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MTVMusic.uk",
-      "feed": "SD",
-      "site": "virgintvgo.virginmedia.com",
-      "site_id": "1733",
-      "site_name": "MTV MUSIC",
-      "lang": "en"
-    },
-    "website": "http://www.mtv.co.uk/mtv-music",
-    "launched": "2011-02-01",
-    "closed": null
-  },
-  {
-    "id": "MTVMusic.uk",
-    "name": "MTV Music",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Paramount Networks UK & Ireland"
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/hdyJ4PT.png",
-    "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae0440-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=64060fde-9aa0-457f-ba59-1d8c28109d33",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MTVMusic.uk",
-      "feed": "SD",
-      "site": "virgintvgo.virginmedia.com",
-      "site_id": "1733",
-      "site_name": "MTV MUSIC",
-      "lang": "en"
-    },
-    "website": "http://www.mtv.co.uk/mtv-music",
-    "launched": "2011-02-01",
-    "closed": null
-  },
-  {
     "id": "MUTV.uk",
     "name": "MUTV",
     "alt_names": [],
@@ -11844,6 +11774,37 @@
     "is_nsfw": false,
     "logo": "https://static.frequency.com/studio/itv/channels/1224-400x200.png",
     "stream_url": "https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.sen.com/live",
+    "launched": "2025-01-27",
+    "closed": null
+  },
+  {
+    "id": "SpaceLivepoweredbysen.uk",
+    "name": "Space Live powered by sen",
+    "alt_names": [
+      "Space Live"
+    ],
+    "network": null,
+    "owners": [
+      "Sen Corporation Ltd."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "relax",
+      "travel"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.frequency.com/studio/itv/channels/1224-400x200.png",
+    "stream_url": "https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/hls/master/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

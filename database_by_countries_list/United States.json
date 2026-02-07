@@ -7232,138 +7232,6 @@
     "closed": null
   },
   {
-    "id": "BigTimeRush.us",
-    "name": "Big Time Rush",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/7RVcgiv.png",
-    "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663385cd06839f0008e00e93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc774-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6d0aa27c-1d61-4798-84aa-6423e65a4423",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BigTimeRush.us",
-      "feed": "Spain",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/es#5f1aa7aab66c76000790ee7e",
-      "site_name": "Big Time Rush",
-      "lang": "es"
-    },
-    "website": "https://pluto.tv/en/live-tv/big-time-rush-es",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BigTimeRush.us",
-    "name": "Big Time Rush",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/7RVcgiv.png",
-    "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663385cd06839f0008e00e93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac7da3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b885ec0-86a3-4a1e-b3cb-90a1f041ddf9",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BigTimeRush.us",
-      "feed": "Spain",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/es#5f1aa7aab66c76000790ee7e",
-      "site_name": "Big Time Rush",
-      "lang": "es"
-    },
-    "website": "https://pluto.tv/en/live-tv/big-time-rush-es",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BilliardTV.us",
-    "name": "Billiard TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/BZijfKh.png",
-    "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc775-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36e4c683-680e-486f-91f0-ce1f0f88c4b6",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BilliardTV.us",
-      "feed": "SD",
-      "site": "plex.tv",
-      "site_id": "5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c",
-      "site_name": "Billiard TV",
-      "lang": "en"
-    },
-    "website": "https://streamstak.com/billiardtv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BilliardTV.us",
-    "name": "Billiard TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/BZijfKh.png",
-    "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac7da4-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a6a5c7ba-51fa-40bf-ba59-05a9daef6fd5",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BilliardTV.us",
-      "feed": "SD",
-      "site": "plex.tv",
-      "site_id": "5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c",
-      "site_name": "Billiard TV",
-      "lang": "en"
-    },
-    "website": "https://streamstak.com/billiardtv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "BilliardTV.us",
     "name": "Billiard TV",
     "alt_names": [],
@@ -16574,6 +16442,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/8mAJuut.png",
+    "stream_url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993007/hls/master.m3u8?ads.xumo_channelId=99993007",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Dateline247.us",
+      "feed": "SD",
+      "site": "i.mjh.nz",
+      "site_id": "PlutoTV/us#637413d8531e0c0007442d6d",
+      "site_name": "Dateline 24/7",
+      "lang": "en"
+    },
+    "website": "https://www.nbcnews.com/dateline",
+    "launched": "2021-02-09",
+    "closed": null
+  },
+  {
+    "id": "Dateline247.us",
+    "name": "Dateline 24/7",
+    "alt_names": [],
+    "network": "NBC",
+    "owners": [
+      "NBCUniversal",
+      "Comcast Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/8mAJuut.png",
     "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/637413d8531e0c0007442d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c41-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9854ee63-3920-417e-933f-bdf38a5a6444",
     "stream_quality": null,
     "stream_format": null,
@@ -17992,6 +17896,76 @@
     "logo": "https://i.imgur.com/x57klfS.png",
     "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/documentary/master.m3u8?ads.vf=1tb_53Uj-0K",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DocumentaryPlus.us",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1565",
+      "site_name": "Documentary+",
+      "lang": "en"
+    },
+    "website": "https://docplus.com/live-channels",
+    "launched": "2021-01-28",
+    "closed": null
+  },
+  {
+    "id": "DocumentaryPlus.us",
+    "name": "Documentary+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "XTR Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/x57klfS.png",
+    "stream_url": "https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DocumentaryPlus.us",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1565",
+      "site_name": "Documentary+",
+      "lang": "en"
+    },
+    "website": "https://docplus.com/live-channels",
+    "launched": "2021-01-28",
+    "closed": null
+  },
+  {
+    "id": "DocumentaryPlus.us",
+    "name": "Documentary+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "XTR Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/x57klfS.png",
+    "stream_url": "https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -41485,6 +41459,37 @@
     "closed": null
   },
   {
+    "id": "NBCSportsNOW.us",
+    "name": "NBC Sports NOW",
+    "alt_names": [
+      "NBC Sports"
+    ],
+    "network": "NBC",
+    "owners": [
+      "NBCUniversal",
+      "Comcast Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/EzNf2Yx.png",
+    "stream_url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.nbcsports.com/now",
+    "launched": "2023-06-29",
+    "closed": null
+  },
+  {
     "id": "NBCSportsPhiladelphia.us",
     "name": "NBC Sports Philadelphia",
     "alt_names": [],
@@ -57286,6 +57291,35 @@
     "is_nsfw": false,
     "logo": "https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png",
     "stream_url": "https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2023-07-01",
+    "closed": null
+  },
+  {
+    "id": "SNLVault.us",
+    "name": "SNL Vault",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NBCUniversal",
+      "Comcast Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png",
+    "stream_url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

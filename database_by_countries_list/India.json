@@ -9401,6 +9401,32 @@
     "closed": null
   },
   {
+    "id": "GangaurTV.in",
+    "name": "Gangaur TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Gangaur.png",
+    "stream_url": "https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "GlobalPunjab.in",
     "name": "Global Punjab",
     "alt_names": [],
@@ -9759,6 +9785,34 @@
     },
     "website": "https://goodnewstelevision.com/",
     "launched": "2016-01-01",
+    "closed": null
+  },
+  {
+    "id": "GTCPunjabi.in",
+    "name": "GTC Punjabi",
+    "alt_names": [],
+    "network": "GTC Network",
+    "owners": [
+      "Galactic Television & Communications Pvt Ltd."
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://media.thegtcnetwork.com/uploads/gtc-pujabin-s.jpg",
+    "stream_url": "https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2025-12-10",
     "closed": null
   },
   {

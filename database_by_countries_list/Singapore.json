@@ -325,6 +325,36 @@
     "closed": null
   },
   {
+    "id": "CNAOriginals.sg",
+    "name": "CNA Originals",
+    "alt_names": [
+      "Channel NewsAsia Originals"
+    ],
+    "network": null,
+    "owners": [
+      "Mediacorp"
+    ],
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/hlFQTrB.png",
+    "stream_url": "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.channelnewsasia.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CNBCAsia.sg",
     "name": "CNBC Asia",
     "alt_names": [],

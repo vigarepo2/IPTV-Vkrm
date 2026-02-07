@@ -1,68 +1,5 @@
 [
   {
-    "id": "CanalPlusSport2.cz",
-    "name": "Canal+ Sport 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CZ",
-    "country_name": "Czech Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/mDZnMnsL/canalplussport2.png",
-    "stream_url": "http://78.130.250.2:8023/play/a02w/index.m3u8",
-    "stream_quality": "1080i",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.canalplussport.cz/",
-    "launched": "2022-08-07",
-    "closed": null
-  },
-  {
-    "id": "CT1.cz",
-    "name": "CT1",
-    "alt_names": [
-      "ČT1"
-    ],
-    "network": null,
-    "owners": [
-      "Czech Television"
-    ],
-    "country_code": "CZ",
-    "country_name": "Czech Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/bJts8mZT/ct1.png",
-    "stream_url": "https://flexi-s1.purplecdn.xyz/CT1_HD/tracks-v1a1/mono.ts.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CT1.cz",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "ct-1-241",
-      "site_name": "CT 1",
-      "lang": "cs"
-    },
-    "website": "http://www.ceskatelevize.cz/vysilani/",
-    "launched": "1953-05-01",
-    "closed": null
-  },
-  {
     "id": "CT1.cz",
     "name": "CT1",
     "alt_names": [
@@ -97,43 +34,6 @@
     },
     "website": "http://www.ceskatelevize.cz/vysilani/",
     "launched": "1953-05-01",
-    "closed": null
-  },
-  {
-    "id": "CT2.cz",
-    "name": "CT2",
-    "alt_names": [
-      "ČT2"
-    ],
-    "network": null,
-    "owners": [
-      "Czech Television"
-    ],
-    "country_code": "CZ",
-    "country_name": "Czech Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/T1vhPnmX/ct2.png",
-    "stream_url": "https://flexi-s1.purplecdn.xyz/CT2_HD/tracks-v1a1/mono.ts.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CT2.cz",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "ct-2-243",
-      "site_name": "CT 2",
-      "lang": "cs"
-    },
-    "website": "http://www.ceskatelevize.cz/",
-    "launched": "1970-05-10",
     "closed": null
   },
   {

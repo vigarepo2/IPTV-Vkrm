@@ -2023,6 +2023,41 @@
     "closed": null
   },
   {
+    "id": "USMPTV.pe",
+    "name": "USMPTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Universidad de San Martin de Porres"
+    ],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9cmIv3q.png",
+    "stream_url": "https://streamusmptv.ddns.net/live/stream.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://usmptv.pe/",
+    "tv_guide": {
+      "channel": "USMPTV.pe",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch4105",
+      "site_name": "USMP TV",
+      "lang": "es"
+    },
+    "website": "https://usmptv.pe/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ViaAltomayo.pe",
     "name": "Via Altomayo",
     "alt_names": [

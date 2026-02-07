@@ -1731,6 +1731,176 @@
     "closed": null
   },
   {
+    "id": "MemoriasdelCorazon.co",
+    "name": "Memorias del Corazon",
+    "alt_names": [
+      "Memorias del Corazón"
+    ],
+    "network": "Memorias TV",
+    "owners": [
+      "Memorias Producciones"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sVLDzzM.png",
+    "stream_url": "https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://memorias.tv/memorias-del-corazon/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MemoriasTVClassic.co",
+    "name": "Memorias TV Classic",
+    "alt_names": [],
+    "network": "Memorias TV",
+    "owners": [
+      "Memorias Producciones"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/tLTQLnv.png",
+    "stream_url": "https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://memorias.tv/memorias-classic/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MemoriasTVFilm.co",
+    "name": "Memorias TV Film",
+    "alt_names": [],
+    "network": "Memorias TV",
+    "owners": [
+      "Memorias Producciones"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/vNfjW6Y.png",
+    "stream_url": "https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://memorias.tv/memorias-film/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MemoriasTVSeries.co",
+    "name": "Memorias TV Series",
+    "alt_names": [],
+    "network": "Memorias TV",
+    "owners": [
+      "Memorias Producciones"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ohCSMhY.png",
+    "stream_url": "https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://memorias.tv/memorias-series-2/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MemoriasTVToons.co",
+    "name": "Memorias TV Toons",
+    "alt_names": [],
+    "network": "Memorias TV",
+    "owners": [
+      "Memorias Producciones"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/2fiiNCz.png",
+    "stream_url": "https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://memorias.tv/memorias-toons/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MemoriasTVTropical.co",
+    "name": "Memorias TV Tropical",
+    "alt_names": [],
+    "network": "Memorias TV",
+    "owners": [
+      "Memorias Producciones"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Y9GFDcV.png",
+    "stream_url": "https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://memorias.tv/memorias-salsa/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "MiGenteTV.co",
     "name": "Mi Gente TV",
     "alt_names": [],

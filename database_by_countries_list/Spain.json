@@ -268,7 +268,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.postimg.cc/fb6msngk/324.png",
+    "logo": "https://statics.3cat.cat/img/logos/3CatInfo_negre.svg",
     "stream_url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -3932,80 +3932,6 @@
     "closed": null
   },
   {
-    "id": "ETB1.es",
-    "name": "ETB 1",
-    "alt_names": [
-      "ETB Bat"
-    ],
-    "network": null,
-    "owners": [
-      "Department of Culture of the Basque Government"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general",
-      "public"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/8cKryj9J/etb1.png",
-    "stream_url": "https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ETB1.es",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "71",
-      "site_name": "ETB1",
-      "lang": "fr"
-    },
-    "website": "https://www.eitb.eus/es/television/",
-    "launched": "1983-02-16",
-    "closed": null
-  },
-  {
-    "id": "ETB2.es",
-    "name": "ETB 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Department of Culture of the Basque Government"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general",
-      "public"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/MZdRZFH6/etb2.png",
-    "stream_url": "https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ETB2.es",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "72",
-      "site_name": "ETB2",
-      "lang": "fr"
-    },
-    "website": "https://www.eitb.eus/es/television/",
-    "launched": "1986-05-31",
-    "closed": null
-  },
-  {
     "id": "ETBBasque.es",
     "name": "ETB Basque",
     "alt_names": [
@@ -4028,11 +3954,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.postimg.cc/zfZHPmtj/etbbasque.png",
-    "stream_url": "https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8",
-    "stream_quality": "480p",
+    "stream_url": "https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/master.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
+    "referrer": "https://www.eitb.eus/",
     "tv_guide": {
       "channel": "ETBBasque.es",
       "feed": "SD",
@@ -4130,45 +4056,6 @@
     "tv_guide": null,
     "website": "https://ewtn.es/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "FactoriadeFiccion.es",
-    "name": "Factoria de Ficcion",
-    "alt_names": [
-      "Factoría de Ficción",
-      "FDF Telecinco",
-      "Telecinco Estrellas"
-    ],
-    "network": null,
-    "owners": [
-      "Mediaset Espana"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png",
-    "stream_url": "http://176.65.146.237:8401/play/a09p/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FactoriadeFiccion.es",
-      "feed": "SD",
-      "site": "programacion-tv.elpais.com",
-      "site_id": "506",
-      "site_name": "FDF Telecinco",
-      "lang": "es"
-    },
-    "website": "https://www.factoriadeficcion.com/",
-    "launched": "2005-11-10",
     "closed": null
   },
   {

@@ -826,44 +826,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/CiA3plN.png",
-    "stream_url": "https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MBC1.ae",
-      "feed": "SD",
-      "site": "tv24.se",
-      "site_id": "mbc",
-      "site_name": "MBC",
-      "lang": "sv"
-    },
-    "website": "http://www.mbc.net/mbc1",
-    "launched": "1991-09-18",
-    "closed": null
-  },
-  {
-    "id": "MBC1.ae",
-    "name": "MBC 1",
-    "alt_names": [
-      "ام بي سي 1"
-    ],
-    "network": null,
-    "owners": [
-      "MBC Group"
-    ],
-    "country_code": "AE",
-    "country_name": "United Arab Emirates",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/CiA3plN.png",
-    "stream_url": "https://shls-live-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8",
+    "stream_url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
