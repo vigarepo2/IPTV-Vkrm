@@ -613,6 +613,43 @@
     "closed": null
   },
   {
+    "id": "arte.de",
+    "name": "arte",
+    "alt_names": [
+      "arte Deutschland"
+    ],
+    "network": null,
+    "owners": [
+      "ARD"
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ecXMjNl.png",
+    "stream_url": "http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15171/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "arte.de",
+      "feed": "SD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000046_020053",
+      "site_name": "arte",
+      "lang": "de"
+    },
+    "website": "https://www.arte.tv/",
+    "launched": "1992-05-30",
+    "closed": null
+  },
+  {
     "id": "AugsburgTV.de",
     "name": "Augsburg TV",
     "alt_names": [],
@@ -3340,43 +3377,6 @@
       "lang": "de"
     },
     "website": "https://morethansports.tv/contact/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Motorvision.de",
-    "name": "Motorvision",
-    "alt_names": [
-      "Motorvision TV"
-    ],
-    "network": null,
-    "owners": [
-      "German Car TV Programm GmbH"
-    ],
-    "country_code": "DE",
-    "country_name": "Germany",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "auto"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/v4kj8pI.png",
-    "stream_url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/mv.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Motorvision.de",
-      "feed": "SD",
-      "site": "zap.co.ao",
-      "site_id": "2357",
-      "site_name": "Motorvision",
-      "lang": "pt"
-    },
-    "website": "https://motorvision.tv/",
     "launched": null,
     "closed": null
   },
@@ -6565,6 +6565,74 @@
     },
     "website": "https://www.rtl.de/",
     "launched": "1984-01-02",
+    "closed": null
+  },
+  {
+    "id": "RTLCrime.de",
+    "name": "RTL Crime",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RTL Group S.A."
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/tTnLXCLK/rtlcrime.png",
+    "stream_url": "http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RTLCrime.de",
+      "feed": "SD",
+      "site": "web.magentatv.de",
+      "site_id": "216",
+      "site_name": "RTL Crime",
+      "lang": "de"
+    },
+    "website": "https://www.rtl-crime.de/",
+    "launched": "2006-11-27",
+    "closed": null
+  },
+  {
+    "id": "RTLPassion.de",
+    "name": "RTL Passion",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RTL Group S.A."
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/1z2jY1fJ/rtlpassion.png",
+    "stream_url": "http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/31369/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RTLPassion.de",
+      "feed": "SD",
+      "site": "web.magentatv.de",
+      "site_id": "209",
+      "site_name": "RTL Passion",
+      "lang": "de"
+    },
+    "website": "http://www.rtlpassion.de/",
+    "launched": "2006-11-27",
     "closed": null
   },
   {

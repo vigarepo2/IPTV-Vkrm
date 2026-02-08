@@ -595,7 +595,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/RVtQTed.png",
-    "stream_url": "https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8",
+    "stream_url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

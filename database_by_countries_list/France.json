@@ -6046,41 +6046,6 @@
     "closed": null
   },
   {
-    "id": "Motorsporttv.fr",
-    "name": "Motorsport.tv",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Motorsport Network"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/qmczb2N.png",
-    "stream_url": "https://25dee28f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0di0xX0hMUw/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Motorsporttv.fr",
-      "feed": "SD",
-      "site": "tv.blue.ch",
-      "site_id": "1723",
-      "site_name": "Motorvision.TV France",
-      "lang": "en"
-    },
-    "website": "https://motorsport.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "MouvTV.fr",
     "name": "Mouv' TV",
     "alt_names": [],
@@ -10127,6 +10092,37 @@
     "tv_guide": null,
     "website": "https://xilam.com/en/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "zenith.fr",
+    "name": "zenith",
+    "alt_names": [
+      "zén!th"
+    ],
+    "network": "Azéna Médias",
+    "owners": [
+      "Azéna Médias"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general",
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://znth.tv/static/site_app/thy%20logo.svg",
+    "stream_url": "https://srv.zenith-tv.fr:8888/zenithwchl/main_stream.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.znth.tv",
+    "launched": "2026-02-01",
     "closed": null
   }
 ]

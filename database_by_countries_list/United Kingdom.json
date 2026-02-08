@@ -12123,33 +12123,6 @@
     "closed": null
   },
   {
-    "id": "TheGuardian.uk",
-    "name": "The Guardian",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news",
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/o9AYq9V.png",
-    "stream_url": "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/master.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TinyPop.uk",
     "name": "Tiny Pop",
     "alt_names": [],

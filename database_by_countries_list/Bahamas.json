@@ -30,7 +30,9 @@
     "name": "Island Luck TV",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "ILTV Studios"
+    ],
     "country_code": "BS",
     "country_name": "Bahamas",
     "subdivision": null,

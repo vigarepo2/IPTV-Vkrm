@@ -1125,6 +1125,32 @@
     "closed": null
   },
   {
+    "id": "AlMaarefTV.qa",
+    "name": "Al Maaref TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "QA",
+    "country_name": "Qatar",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/QFnztgo.png",
+    "stream_url": "https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://almaaref.ch/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "AlRayyanOldTV.qa",
     "name": "Al Rayyan Old TV",
     "alt_names": [],
@@ -1252,6 +1278,34 @@
     },
     "website": "https://www.alrayyan.tv/",
     "launched": "2011-01-01",
+    "closed": null
+  },
+  {
+    "id": "LibyaAlAhrarTV.qa",
+    "name": "Libya Al Ahrar TV",
+    "alt_names": [
+      "ليبيا الأحرار"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "QA",
+    "country_name": "Qatar",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/xkQKVGi.png",
+    "stream_url": "https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/index.fmp4.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://player.castr.com",
+    "tv_guide": null,
+    "website": "https://libyaalahrar.tv/",
+    "launched": "2011-03-01",
     "closed": null
   },
   {
