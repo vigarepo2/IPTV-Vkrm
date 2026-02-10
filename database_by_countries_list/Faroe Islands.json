@@ -66,33 +66,5 @@
     "website": "https://kvf.fo/live/1",
     "launched": "2005-01-01",
     "closed": null
-  },
-  {
-    "id": "KVFTingvarp.fo",
-    "name": "KVF Tingvarp",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Faroe Islands"
-    ],
-    "country_code": "FO",
-    "country_name": "Faroe Islands",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/kk/kvf-sjonvarp-fo.png",
-    "stream_url": "https://live.kringvarp.fo/kvf-2_utland/720/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://kvf.fo/live/tingvarp",
-    "launched": "2005-01-01",
-    "closed": null
   }
 ]

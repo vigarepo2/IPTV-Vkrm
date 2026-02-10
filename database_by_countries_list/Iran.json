@@ -400,32 +400,6 @@
     "closed": null
   },
   {
-    "id": "AlWilayah.ir",
-    "name": "Al Wilayah",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/OI1HQv5.png",
-    "stream_url": "https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "AmouzeshTV.ir",
     "name": "Amouzesh TV",
     "alt_names": [
@@ -1513,41 +1487,6 @@
     "closed": null
   },
   {
-    "id": "iFilmArabic.ir",
-    "name": "iFilm Arabic",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Islamic Republic of Iran Broadcasting"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
-    "stream_url": "https://ncdn.telewebion.com/ifilmar/live/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "iFilmArabic.ir",
-      "feed": "SD",
-      "site": "sat.tv",
-      "site_id": "1#33#iFilm Arabic",
-      "site_name": "iFilm Arabic",
-      "lang": "en"
-    },
-    "website": "http://www.ifilmtv.ir/",
-    "launched": "2010-09-09",
-    "closed": null
-  },
-  {
     "id": "iFilmEnglish.ir",
     "name": "iFilm English",
     "alt_names": [],
@@ -2506,30 +2445,6 @@
     "closed": null
   },
   {
-    "id": "Ketabnama.ir",
-    "name": "Ketabnama",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://static.telewebion.com/channelsLogo/cd0ff86a-5976-402b-b953-96ede1f79caa/default",
-    "stream_url": "http://ncdn.telewebion.com/ketabnama/live/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "KhalijeFarsTV.ir",
     "name": "Khalij-e Fars TV",
     "alt_names": [
@@ -2982,30 +2897,6 @@
     "closed": null
   },
   {
-    "id": "NamaquranTV.ir",
-    "name": "Namaquran TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://static.telewebion.com/channelsLogo/32904008-39bd-48a6-b4c7-2ea26f4a4eb8/default",
-    "stream_url": "https://ncdn.telewebion.com/namaquran/live/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "NamaTV.ir",
     "name": "Nama TV",
     "alt_names": [
@@ -3153,32 +3044,6 @@
     "tv_guide": null,
     "website": "https://tvnasim.ir/",
     "launched": "2013-09-17",
-    "closed": null
-  },
-  {
-    "id": "NegahTV.ir",
-    "name": "Negah TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/NFsBd4D.png",
-    "stream_url": "https://iptv.negahtv.com/negahtv/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://negahtv.com/",
-    "launched": null,
     "closed": null
   },
   {
@@ -3873,34 +3738,6 @@
     "closed": null
   },
   {
-    "id": "SaharAfghanistan.ir",
-    "name": "Sahar Afghanistan",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "IRIB"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "education"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/fa/9/92/Sahar-New.png",
-    "stream_url": "https://ncdn.telewebion.com/saharafghan/live/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://af.sahartv.ir/livehttps://af.sahartv.ir/live",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "SalamatTV.ir",
     "name": "Salamat TV",
     "alt_names": [],
@@ -4387,30 +4224,6 @@
     "is_nsfw": false,
     "logo": "https://static.telewebion.com/channelsLogo/d602596d-7b8d-48ef-8f51-9344b4ac0eb6/default",
     "stream_url": "https://ncdn.telewebion.com/tekyemadahi/live/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TekyesokhanraniTV.ir",
-    "name": "Tekyesokhanrani TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://static.telewebion.com/channelsLogo/9a33a2de-40df-479c-9d29-c4a55122faab/default",
-    "stream_url": "https://ncdn.telewebion.com/tekyesokhanrani/live/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,

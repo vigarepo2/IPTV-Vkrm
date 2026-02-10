@@ -582,30 +582,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/WRYsbjX.png",
-    "stream_url": "https://eu1.servers10.com:8081/8050/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.canal74.cl/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Canal74SanAntonio.cl",
-    "name": "Canal 74 San Antonio",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CL",
-    "country_name": "Chile",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/WRYsbjX.png",
     "stream_url": "https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -679,34 +655,6 @@
       "lang": "es"
     },
     "website": "https://www.canalisb.cl/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "CanalSCN.cl",
-    "name": "Canal SCN",
-    "alt_names": [
-      "Canal SCÑ"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "CL",
-    "country_name": "Chile",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/QXjdiun.png",
-    "stream_url": "https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
     "launched": null,
     "closed": null
   },
@@ -1056,32 +1004,6 @@
     "closed": null
   },
   {
-    "id": "HiperconectadosTV.cl",
-    "name": "Hiperconectados TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CL",
-    "country_name": "Chile",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "science"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/CBbbrkI.png",
-    "stream_url": "https://cdn-edge1.cef-technology.com/chf-cdn/hiper_tv/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.hiperconectados.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "HolvoetTV.cl",
     "name": "Holvoet TV",
     "alt_names": [],
@@ -1414,35 +1336,6 @@
     "closed": null
   },
   {
-    "id": "NTV.cl",
-    "name": "NTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Televisión Nacional de Chile"
-    ],
-    "country_code": "CL",
-    "country_name": "Chile",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "culture",
-      "education"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/NnkSyta.png",
-    "stream_url": "https://panel.miplay.cl:8082/ntv/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.tvn.cl/ntv",
-    "launched": "2021-08-08",
-    "closed": null
-  },
-  {
     "id": "Nublevision.cl",
     "name": "Nublevision",
     "alt_names": [
@@ -1516,34 +1409,6 @@
     "logo": "https://neotv.cl/img/pridetv-512.png",
     "stream_url": "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://pridetvlatam.com",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PRIDEtvLATAM.cl",
-    "name": "PRIDEtv LATAM",
-    "alt_names": [],
-    "network": "OUTtv",
-    "owners": [],
-    "country_code": "CL",
-    "country_name": "Chile",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment",
-      "lifestyle",
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://neotv.cl/img/pridetv-512.png",
-    "stream_url": "https://panel.miplay.cl:8082/spectrumchannel/index.m3u8",
-    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1684,32 +1549,6 @@
     "closed": null
   },
   {
-    "id": "Sextavision.cl",
-    "name": "Sextavision",
-    "alt_names": [
-      "Sextavisión"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "CL",
-    "country_name": "Chile",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/mwUZBU9.png",
-    "stream_url": "https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://sextavision.cl/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "SoloBailalo.cl",
     "name": "Solo Bailalo",
     "alt_names": [
@@ -1762,30 +1601,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.solobailalo.cl/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "StgoTV.cl",
-    "name": "Stgo.TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CL",
-    "country_name": "Chile",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/VrqjFUf.png",
-    "stream_url": "https://panel.miplay.cl:8082/stgotv/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.santiagotelevision.cl/",
     "launched": null,
     "closed": null
   },
@@ -2196,38 +2011,6 @@
     "referrer": "http://www.tvosanvicente.cl/",
     "tv_guide": null,
     "website": "http://www.tvosanvicente.cl/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVPlus2.cl",
-    "name": "TV+ 2",
-    "alt_names": [
-      "TVMás 2"
-    ],
-    "network": null,
-    "owners": [
-      "Media 23 SpA",
-      "PUCV Multimedios SpA"
-    ],
-    "country_code": "CL",
-    "country_name": "Chile",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment",
-      "culture"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/b25bhDc/TV-MAS-2.png",
-    "stream_url": "https://panel.miplay.cl:8082/tvmas2/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.tvmas.tv/",
     "launched": null,
     "closed": null
   },
@@ -2646,39 +2429,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.canalvtv.cl/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Wapp.cl",
-    "name": "Wapp",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CL",
-    "country_name": "Chile",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "lifestyle"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Bv1yJ1d.png",
-    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wapptv/master.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Wapp.cl",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "1572",
-      "site_name": "WappTV",
-      "lang": "en"
-    },
-    "website": "https://www.wapptv.cl/",
     "launched": null,
     "closed": null
   },

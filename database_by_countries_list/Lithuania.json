@@ -33,39 +33,6 @@
     "closed": null
   },
   {
-    "id": "JustTV.lt",
-    "name": "Just TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "LT",
-    "country_name": "Lithuania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/6jRgAdx.png",
-    "stream_url": "https://fenixstream2.online/memfs/0ac46a4f-71ea-4bf7-bb62-312df327b6c8.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "JustTV.lt",
-      "feed": "SD",
-      "site": "epg.iptvx.one",
-      "site_id": "7d7",
-      "site_name": "Just TV",
-      "lang": "ru"
-    },
-    "website": "https://just-tv.lt/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "LietuvosRytasTV.lt",
     "name": "Lietuvos Rytas TV",
     "alt_names": [],

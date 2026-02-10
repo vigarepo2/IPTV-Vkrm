@@ -35,42 +35,6 @@
     "closed": null
   },
   {
-    "id": "BloombergAdria.rs",
-    "name": "Bloomberg Adria",
-    "alt_names": [],
-    "network": "Bloomberg",
-    "owners": [
-      "Arena Channels Group d.o.o",
-      "Delivre a Link2YU Network GmbH"
-    ],
-    "country_code": "RS",
-    "country_name": "Serbia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "business"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/A5ui53C.png",
-    "stream_url": "https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BloombergAdria.rs",
-      "feed": "SD",
-      "site": "neo.io",
-      "site_id": "bloomberg-adria",
-      "site_name": "Bloomberg Adria",
-      "lang": "sr"
-    },
-    "website": "https://bloombergadria.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "DMSat.rs",
     "name": "DM Sat",
     "alt_names": [],
@@ -167,69 +131,6 @@
     "closed": null
   },
   {
-    "id": "EuronewsSerbia.rs",
-    "name": "Euronews Serbia",
-    "alt_names": [],
-    "network": "Euronews",
-    "owners": [
-      "Euronews SA"
-    ],
-    "country_code": "RS",
-    "country_name": "Serbia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/7rK00VE.png",
-    "stream_url": "https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.euronews.rs/",
-    "launched": "2021-06-03",
-    "closed": null
-  },
-  {
-    "id": "KurirTV.rs",
-    "name": "Kurir TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Adria Media Group d.o.o."
-    ],
-    "country_code": "RS",
-    "country_name": "Serbia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/HBPnUD5.png",
-    "stream_url": "https://kurir-tv.haste-cdn.net/providus/live2805.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "KurirTV.rs",
-      "feed": "SD",
-      "site": "tvprofil.com",
-      "site_id": "ba/tvprogram#kurir-tv",
-      "site_name": "Kurir TV",
-      "lang": "hr"
-    },
-    "website": "https://www.kurir.rs/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "NarodnaTV.rs",
     "name": "Narodna TV",
     "alt_names": [],
@@ -260,34 +161,6 @@
     },
     "website": "https://pinkmediagroup.net/",
     "launched": "2024-09-05",
-    "closed": null
-  },
-  {
-    "id": "NisvilleTV.rs",
-    "name": "Nisville TV",
-    "alt_names": [
-      "Nišville TV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "RS",
-    "country_name": "Serbia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/cbtgd2h.png",
-    "stream_url": "https://tv.nisville.com/live/nisville/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://nisville.com/",
-    "launched": null,
     "closed": null
   },
   {
@@ -339,30 +212,6 @@
     "logo": "https://i.imgur.com/66wHb7E.png",
     "stream_url": "https://edge8.pink.rs/pinktv/index.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.rtvpink.co.rs/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Pink.rs",
-    "name": "Pink",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "RS",
-    "country_name": "Serbia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/66wHb7E.png",
-    "stream_url": "https://live.rednet.rs/providus/pink1.m3u8",
-    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -452,54 +301,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://www.karolina.rs/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RedTV.rs",
-    "name": "Red TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "RS",
-    "country_name": "Serbia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/cpN7NrL.png",
-    "stream_url": "https://live.rednet.rs/providus/redtv_multi.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://redportal.rs/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RedTV.rs",
-    "name": "Red TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "RS",
-    "country_name": "Serbia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/cpN7NrL.png",
-    "stream_url": "https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://redportal.rs/",
     "launched": null,
     "closed": null
   },
@@ -809,32 +610,6 @@
     "tv_guide": null,
     "website": "http://www.rtvbap.rs/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RTVNoviPazar.rs",
-    "name": "RTV Novi Pazar",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Radio Televizija Novi Pazar d.o.o."
-    ],
-    "country_code": "RS",
-    "country_name": "Serbia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/NpyRVyC.png",
-    "stream_url": "https://hls.rtvnp.rs/tvlive/75e168bf8304fe9b1fac9a6c2f702d590e1cf986.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://rtvnp.rs/",
-    "launched": "2002-01-01",
     "closed": null
   },
   {

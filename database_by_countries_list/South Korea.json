@@ -696,43 +696,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/W9laHPD.png",
-    "stream_url": "http://www.hwado.net/webtv/catv/52_440DDPPJ.php",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ChannelA.kr",
-      "feed": "SD",
-      "site": "wavve.com",
-      "site_id": "C2501",
-      "site_name": "채널A",
-      "lang": "ko"
-    },
-    "website": "http://www.ichannela.com/",
-    "launched": "2011-12-01",
-    "closed": null
-  },
-  {
-    "id": "ChannelA.kr",
-    "name": "Channel A",
-    "alt_names": [
-      "채널A"
-    ],
-    "network": null,
-    "owners": [
-      "Dong-A Media Group"
-    ],
-    "country_code": "KR",
-    "country_name": "South Korea",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/W9laHPD.png",
     "stream_url": "http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -808,41 +771,6 @@
     "tv_guide": null,
     "website": "http://display.cjonstyle.com/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "CTSTV.kr",
-    "name": "CTS TV",
-    "alt_names": [
-      "CTS기독교TV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "KR",
-    "country_name": "South Korea",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/z3L8uNB.png",
-    "stream_url": "https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CTSTV.kr",
-      "feed": "SD",
-      "site": "wavve.com",
-      "site_id": "F0601",
-      "site_name": "CTS기독교TV",
-      "lang": "ko"
-    },
-    "website": "http://www.cts.tv/",
-    "launched": "1995-12-01",
     "closed": null
   },
   {
@@ -2105,34 +2033,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Y5Zg5SR.png",
-    "stream_url": "http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.jobplustv.or.kr/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "JobplusTV.kr",
-    "name": "Jobplus TV",
-    "alt_names": [
-      "한국직업방송"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "KR",
-    "country_name": "South Korea",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "business"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Y5Zg5SR.png",
     "stream_url": "https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8",
     "stream_quality": "480p",
     "stream_format": null,
@@ -2437,43 +2337,6 @@
     "tv_guide": null,
     "website": "http://www.mbcnet.co.kr/",
     "launched": "2007-01-12",
-    "closed": null
-  },
-  {
-    "id": "MBCTV.kr",
-    "name": "MBC TV",
-    "alt_names": [
-      "주식회사 문화방송"
-    ],
-    "network": null,
-    "owners": [
-      "Government of South Korea"
-    ],
-    "country_code": "KR",
-    "country_name": "South Korea",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bd/Munhwa_Broadcasting_Corporation_2023.svg/revision/latest/scale-to-width-down/512",
-    "stream_url": "http://www.hwado.net/webtv/catv/503_CFEA7803.php",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MBCTV.kr",
-      "feed": "SD",
-      "site": "wavve.com",
-      "site_id": "M01",
-      "site_name": "MBC",
-      "lang": "ko"
-    },
-    "website": "http://www.imbc.com/broad/tv",
-    "launched": "1969-08-08",
     "closed": null
   },
   {
@@ -2828,32 +2691,6 @@
     "closed": null
   },
   {
-    "id": "SBS.kr",
-    "name": "SBS",
-    "alt_names": [
-      "Seoul Broadcasting System"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "KR",
-    "country_name": "South Korea",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/4LHX71N.png",
-    "stream_url": "http://www.hwado.net/webtv/catv/502_76142D8F.php",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.sbs.co.kr/",
-    "launched": "1991-12-09",
-    "closed": null
-  },
-  {
     "id": "ShinsegaeTVShopping.kr",
     "name": "Shinsegae TV Shopping",
     "alt_names": [
@@ -2920,32 +2757,6 @@
       "lang": "ko"
     },
     "website": "https://www.shoppingntmall.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "STB.kr",
-    "name": "STB",
-    "alt_names": [
-      "STB상생방송"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "KR",
-    "country_name": "South Korea",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/MTGJD0m.png",
-    "stream_url": "https://606d65214d80f.streamlock.net/live-stb/_definst_/113988c056b574662480f93ea08de94888b475fb32f740d2449552e043298002/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.stb.co.kr/",
     "launched": null,
     "closed": null
   },
@@ -3075,32 +2886,6 @@
     },
     "website": "http://tvn.tving.com/tvn/",
     "launched": "2006-10-09",
-    "closed": null
-  },
-  {
-    "id": "WBCTV.kr",
-    "name": "WBC TV",
-    "alt_names": [
-      "복지TV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "KR",
-    "country_name": "South Korea",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/IkFev3L.png",
-    "stream_url": "https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.iwbc.co.kr/",
-    "launched": "2005-05-20",
     "closed": null
   },
   {

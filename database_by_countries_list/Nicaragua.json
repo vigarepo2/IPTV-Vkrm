@@ -1,43 +1,5 @@
 [
   {
-    "id": "Canal2.ni",
-    "name": "Canal 2",
-    "alt_names": [
-      "Televicentro de Nicaragua"
-    ],
-    "network": null,
-    "owners": [
-      "Albavisión",
-      "Grupo Ratensa"
-    ],
-    "country_code": "NI",
-    "country_name": "Nicaragua",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/NXfHKV7.png",
-    "stream_url": "https://cootv.cootel.com.ni:8095/Canal02_CooTel/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Canal2.ni",
-      "feed": "SD",
-      "site": "gatotv.com",
-      "site_id": "2_de_nicaragua_televicentro",
-      "site_name": "2 de Nicaragua",
-      "lang": "es"
-    },
-    "website": "https://canal2tv.com/",
-    "launched": "1966-03-06",
-    "closed": null
-  },
-  {
     "id": "Canal4.ni",
     "name": "Canal 4",
     "alt_names": [],
@@ -122,93 +84,6 @@
     "closed": null
   },
   {
-    "id": "Canal10.ni",
-    "name": "Canal 10",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Albavisión",
-      "Grupo Ratensa"
-    ],
-    "country_code": "NI",
-    "country_name": "Nicaragua",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ztp781b.png",
-    "stream_url": "https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.canal10.com.ni/",
-    "launched": "1997-06-23",
-    "closed": null
-  },
-  {
-    "id": "Canal10.ni",
-    "name": "Canal 10",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Albavisión",
-      "Grupo Ratensa"
-    ],
-    "country_code": "NI",
-    "country_name": "Nicaragua",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ztp781b.png",
-    "stream_url": "http://138.117.4.70:8075/Canal10_CooTel/playlist.m3u8",
-    "stream_quality": "768p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.canal10.com.ni/",
-    "launched": "1997-06-23",
-    "closed": null
-  },
-  {
-    "id": "Canal11.ni",
-    "name": "Canal 11",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Albavisión",
-      "Grupo Ratensa"
-    ],
-    "country_code": "NI",
-    "country_name": "Nicaragua",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/heZeqPQ.png",
-    "stream_url": "https://cootv.cootel.com.ni:8095/Canal11_CooTel/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Canal15.ni",
     "name": "Canal 15",
     "alt_names": [
@@ -237,36 +112,6 @@
     "website": null,
     "launched": "2018-12-21",
     "closed": null
-  },
-  {
-    "id": "Canal21.ni",
-    "name": "Canal 21",
-    "alt_names": [
-      "Enlace Nicaragua"
-    ],
-    "network": "TBN",
-    "owners": [
-      "Trinity Broadcasting Network"
-    ],
-    "country_code": "NI",
-    "country_name": "Nicaragua",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ypG437l.png",
-    "stream_url": "https://stmvideo2.livecastv.com/canal21nic3/canal21nic3/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://canal21nicaragua.com/",
-    "launched": "2008-10-29",
-    "closed": "2021-11-09"
   },
   {
     "id": "CanalCvision.ni",
@@ -384,34 +229,6 @@
     "closed": null
   },
   {
-    "id": "LaRock22.ni",
-    "name": "La Rock 22",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Gobierno de Nicaragua"
-    ],
-    "country_code": "NI",
-    "country_name": "Nicaragua",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/Lzv1LQs/LaRock22.jpg",
-    "stream_url": "https://cootv.cootel.com.ni:8095/Canal22_CooTel/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://rockfm.com.ni/",
-    "launched": "2020-07-17",
-    "closed": null
-  },
-  {
     "id": "MegaBox.ni",
     "name": "MegaBox",
     "alt_names": [],
@@ -460,32 +277,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://mtvchontales.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NexoTV.ni",
-    "name": "Nexo TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "NI",
-    "country_name": "Nicaragua",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/HIFZjCj.png",
-    "stream_url": "https://stmvideo1.livecastv.com/nexotv/nexotv/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://nexotvnicaragua.com/",
     "launched": null,
     "closed": null
   },
@@ -599,32 +390,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://tv45nicaragua.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVCentroCanalRegional.ni",
-    "name": "TV Centro Canal Regional",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "NI",
-    "country_name": "Nicaragua",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/w5RYpcZ.png",
-    "stream_url": "https://amixtv.com:19360/tvcentro/tvcentro.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tvcentroregional.com/",
     "launched": null,
     "closed": null
   },

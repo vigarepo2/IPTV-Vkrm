@@ -2176,32 +2176,6 @@
     "closed": null
   },
   {
-    "id": "GoodSound.de",
-    "name": "Good-Sound",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "DE",
-    "country_name": "Germany",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/4kljoX2.jpg",
-    "stream_url": "http://148.251.76.72:8081/goodsound/goodsound.sdp/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://good-sound.de/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "GrjngoWesternMovies.de",
     "name": "Grjngo Western Movies",
     "alt_names": [],
@@ -6513,43 +6487,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/94K94k2.png",
-    "stream_url": "https://strm.hdtvizlecanli.com/live/rtl.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RTL.de",
-      "feed": "SD",
-      "site": "ziggogo.tv",
-      "site_id": "NL_000038_019063",
-      "site_name": "RTL",
-      "lang": "de"
-    },
-    "website": "https://www.rtl.de/",
-    "launched": "1984-01-02",
-    "closed": null
-  },
-  {
-    "id": "RTL.de",
-    "name": "RTL",
-    "alt_names": [
-      "RTL Television",
-      "RTL Plus",
-      "RTL Plus Television"
-    ],
-    "network": null,
-    "owners": [
-      "RTL Group S.A."
-    ],
-    "country_code": "DE",
-    "country_name": "Germany",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/94K94k2.png",
     "stream_url": "https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -6972,30 +6909,6 @@
     "closed": null
   },
   {
-    "id": "SachsenFernsehenVogtland.de",
-    "name": "Sachsen Fernsehen Vogtland",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "DE",
-    "country_name": "Germany",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/s6LluNe.png",
-    "stream_url": "https://vogtland.iptv-playoutcenter.de/vogtland/vogtlandfernsehen.stream_1/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.sachsen-fernsehen.de/kategorie/vogtland/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "SalveTV.de",
     "name": "Salve TV",
     "alt_names": [],
@@ -7057,37 +6970,6 @@
     },
     "website": "https://www.sat1gold.de/",
     "launched": "2013-01-17",
-    "closed": null
-  },
-  {
-    "id": "SchlagerDeluxe.de",
-    "name": "Schlager Deluxe",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "DE",
-    "country_name": "Germany",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/p0W050H.png",
-    "stream_url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SchlagerDeluxe.de",
-      "feed": "SD",
-      "site": "tv.blue.ch",
-      "site_id": "1714",
-      "site_name": "Schlager Deluxe",
-      "lang": "de"
-    },
-    "website": "https://schlagerdeluxe.de/",
-    "launched": null,
     "closed": null
   },
   {
@@ -7328,71 +7210,6 @@
     "tv_guide": null,
     "website": "https://radio-santec.com/fr/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SophiaTVFrancais.de",
-    "name": "Sophia TV Francais",
-    "alt_names": [
-      "Sophia TV Français"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "DE",
-    "country_name": "Germany",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/T2JPCq2.png",
-    "stream_url": "https://www.onairport.live/sophiatv-fr-live/smil:sophia-tv-fr.smil/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://radio-santec.com/fr/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SportdigitalFUSSBALL.de",
-    "name": "Sportdigital FUSSBALL",
-    "alt_names": [
-      "Sportdigital"
-    ],
-    "network": null,
-    "owners": [
-      "Digital Sports"
-    ],
-    "country_code": "DE",
-    "country_name": "Germany",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/NDbWxqF.png",
-    "stream_url": "https://d162h6qqsk8wvl.cloudfront.net/8c880c40-991d-4253-aae9-754f1ed050ce/manifest.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SportdigitalFUSSBALL.de",
-      "feed": "SD",
-      "site": "web.magentatv.de",
-      "site_id": "194",
-      "site_name": "SPORTDIGITAL FUSSBALL",
-      "lang": "de"
-    },
-    "website": "https://start.sportdigital.de/",
-    "launched": "2008-01-01",
     "closed": null
   },
   {
@@ -7861,37 +7678,6 @@
     },
     "website": "https://www.tvaktuell.com/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVBerlin.de",
-    "name": "TV Berlin",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "DE",
-    "country_name": "Germany",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/kgCNqx1Q/tvberlin.png",
-    "stream_url": "https://live2.telvi.de/hls/tvberlin.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVBerlin.de",
-      "feed": "SD",
-      "site": "web.magentatv.de",
-      "site_id": "599",
-      "site_name": "tv.berlin",
-      "lang": "de"
-    },
-    "website": "http://www.tvb.de/",
-    "launched": "1994-01-01",
     "closed": null
   },
   {
@@ -8822,32 +8608,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.worldoffreesports-tv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "YOLTV.de",
-    "name": "YOL TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "DE",
-    "country_name": "Germany",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/rTBX6lS.png",
-    "stream_url": "https://stream.yol.tv:9443/medialive/yol.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.yoltv.eu/",
     "launched": null,
     "closed": null
   },

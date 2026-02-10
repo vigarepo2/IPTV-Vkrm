@@ -96,35 +96,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/tKLYYys.png",
-    "stream_url": "https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.boliviatv.bo/",
-    "launched": "2012-05-29",
-    "closed": null
-  },
-  {
-    "id": "BoliviaTV72.bo",
-    "name": "Bolivia TV 7.2",
-    "alt_names": [
-      "Bolivia TV Deportes",
-      "Bolivia TV +HD"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "BO",
-    "country_name": "Bolivia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/tKLYYys.png",
     "stream_url": "https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -157,44 +128,6 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/tKLYYys.png",
     "stream_url": "http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BoliviaTV.bo",
-      "feed": "SD",
-      "site": "reportv.com.ar",
-      "site_id": "4055",
-      "site_name": "BOLIVIA TV",
-      "lang": "es"
-    },
-    "website": "http://www.boliviatv.bo/principal/vivo71.php",
-    "launched": "1969-08-30",
-    "closed": null
-  },
-  {
-    "id": "BoliviaTV.bo",
-    "name": "Bolivia TV",
-    "alt_names": [
-      "Televisión Boliviana",
-      "Canal 7 TVB"
-    ],
-    "network": null,
-    "owners": [
-      "Empresa Nacional de Televisión de Bolivia"
-    ],
-    "country_code": "BO",
-    "country_name": "Bolivia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/tKLYYys.png",
-    "stream_url": "https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -266,34 +199,6 @@
     "closed": null
   },
   {
-    "id": "Canal29TVA.bo",
-    "name": "Canal 29 TVA",
-    "alt_names": [
-      "Televisión Valle Alto"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "BO",
-    "country_name": "Bolivia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/y3bymuv.jpg",
-    "stream_url": "https://play.agenciastreaming.com:19360/8160/8160.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://canal29tva.com.bo/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "CEACOMTV.bo",
     "name": "CEACOM TV",
     "alt_names": [
@@ -321,32 +226,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.ceacomtv.com",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "CoralTV.bo",
-    "name": "Coral TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BO",
-    "country_name": "Bolivia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/xDrc5MD/CORALTv.png",
-    "stream_url": "https://tv.mediacp.eu:8081/coraltv/index.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://alfasistemas.com/coraltv/",
     "launched": null,
     "closed": null
   },
@@ -431,32 +310,6 @@
     "closed": null
   },
   {
-    "id": "FAPTV.bo",
-    "name": "FAP TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BO",
-    "country_name": "Bolivia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/jZ7g58e.png",
-    "stream_url": "https://envivo.bolivia-link.com:3234/live/faptvlive.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://faptv.bo/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "FTV.bo",
     "name": "FTV",
     "alt_names": [],
@@ -479,84 +332,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.facetas-deportivas.com.bo/facetas-tv-al-vuvo/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Gigavision.bo",
-    "name": "Gigavision",
-    "alt_names": [
-      "RED Gigavisión"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "BO",
-    "country_name": "Bolivia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/fE3BkcT.png",
-    "stream_url": "https://tv2.bitstreaming.net:3896/multi_web/play.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ImperialTV.bo",
-    "name": "Imperial TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BO",
-    "country_name": "Bolivia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/8XHSVWY/IMG-20210613-153444.png",
-    "stream_url": "https://play.agenciastreaming.com:19360/8122/8122.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://imperialradiotv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "INTV.bo",
-    "name": "IN TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BO",
-    "country_name": "Bolivia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/4eNH7JS.png",
-    "stream_url": "https://envivo.bolivia-link.com:3580/live/intvlive.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://in.tv.bo/",
     "launched": null,
     "closed": null
   },

@@ -26,66 +26,6 @@
     "closed": null
   },
   {
-    "id": "13MaxTelevision.ar",
-    "name": "13Max Television",
-    "alt_names": [
-      "13Max Televisión"
-    ],
-    "network": null,
-    "owners": [
-      "Río Paraná TV SRL"
-    ],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/QvF4l2t.png",
-    "stream_url": "http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://live-tv-channels.org/livetv/ar-13-max-tv.html",
-    "launched": "1965-01-01",
-    "closed": null
-  },
-  {
-    "id": "13MaxTelevision.ar",
-    "name": "13Max Television",
-    "alt_names": [
-      "13Max Televisión"
-    ],
-    "network": null,
-    "owners": [
-      "Río Paraná TV SRL"
-    ],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/QvF4l2t.png",
-    "stream_url": "http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://live-tv-channels.org/livetv/ar-13-max-tv.html",
-    "launched": "1965-01-01",
-    "closed": null
-  },
-  {
     "id": "247CanaldeNoticias.ar",
     "name": "24/7 Canal de Noticias",
     "alt_names": [],
@@ -179,40 +119,6 @@
     "tv_guide": null,
     "website": "https://www.airedesantafe.com.ar/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "AlternaTV.ar",
-    "name": "AlternaTV",
-    "alt_names": [
-      "ALTERNATV",
-      "Alterna TV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music",
-      "culture",
-      "entertainment",
-      "documentary",
-      "movies",
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://alternatv.ar/alternatv.png",
-    "stream_url": "https://alternatv.ar/stream/hls/live.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://alternatv.ar",
-    "launched": "2023-07-14",
     "closed": null
   },
   {
@@ -664,30 +570,6 @@
     "closed": null
   },
   {
-    "id": "Canal5PicoTruncado.ar",
-    "name": "Canal 5 Pico Truncado",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/VwUiSVF.png",
-    "stream_url": "https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8",
-    "stream_quality": "540p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.canal5picotruncado.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Canal5SantaFe.ar",
     "name": "Canal 5 Santa Fe",
     "alt_names": [
@@ -918,30 +800,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://noticiero9.com.ar/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Canal9Televida.ar",
-    "name": "Canal 9 Televida",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/JUtAzg4.png",
-    "stream_url": "https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.elnueve.com/",
     "launched": null,
     "closed": null
   },
@@ -1441,32 +1299,6 @@
     "closed": null
   },
   {
-    "id": "CanalSiete.ar",
-    "name": "Canal Siete",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/NdQF9K9.png",
-    "stream_url": "https://vivo.solumedia.com:19360/canalsiete/canalsiete.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.canalsiete.com.ar/vivo/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "CatamarcaTV.ar",
     "name": "Catamarca TV",
     "alt_names": [],
@@ -1601,61 +1433,6 @@
     "closed": null
   },
   {
-    "id": "CosmosTv.ar",
-    "name": "Cosmos Tv",
-    "alt_names": [
-      "Cosmos Tv y Radio online"
-    ],
-    "network": null,
-    "owners": [
-      "ediz@r producciones"
-    ],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies",
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png",
-    "stream_url": "https://canaletaplus.com:3922/hybrid/play.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://fmcosmos.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "CPEtv.ar",
-    "name": "CPEtv",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/zFgbobO.png",
-    "stream_url": "https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.cpe.com.ar/cpetvvivo",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "CumbiaMix.ar",
     "name": "Cumbia Mix",
     "alt_names": [],
@@ -1703,42 +1480,6 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
     "stream_url": "http://201.230.121.186:8000/play/a0fb/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "DisneyChannelLatinAmerica.ar",
-      "feed": "Center",
-      "site": "siba.com.co",
-      "site_id": "430",
-      "site_name": "Disney Channel",
-      "lang": "es"
-    },
-    "website": "https://www.disneylatino.com/tv",
-    "launched": "2000-07-27",
-    "closed": null
-  },
-  {
-    "id": "DisneyChannelLatinAmerica.ar",
-    "name": "Disney Channel Latin America",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Disney Entertainment"
-    ],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "animation",
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
-    "stream_url": "http://201.217.246.177:8000/play/a02r/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -1890,34 +1631,6 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "LapachoTVCanal11.ar",
-    "name": "Lapacho TV Canal 11",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Government of Formosa"
-    ],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/PmFBL7x.png",
-    "stream_url": "https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.lapachotv.com.ar/",
-    "launched": "1978-04-08",
     "closed": null
   },
   {
@@ -2081,32 +1794,6 @@
     "closed": null
   },
   {
-    "id": "NeoxTV.ar",
-    "name": "Neox TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/eIX71c9.png",
-    "stream_url": "https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://sonicaargentina.com.ar/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "NETTV.ar",
     "name": "NET TV",
     "alt_names": [],
@@ -2231,32 +1918,6 @@
     "closed": null
   },
   {
-    "id": "PlayTelevision.ar",
-    "name": "Play Television",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/nR85vvb/2021-01-03.jpg",
-    "stream_url": "https://vivo.solumedia.com:19360/playtv/playtv.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "PowerMaxRadioTV.ar",
     "name": "Power Max Radio TV",
     "alt_names": [],
@@ -2279,58 +1940,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.fmpowermax.com.ar/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "QuanticaTV.ar",
-    "name": "Quantica TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Quantica Medios"
-    ],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/6f8EYC2.jpeg",
-    "stream_url": "https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://quanticaradio.com.ar/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "QuatroTV.ar",
-    "name": "Quatro TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/fhHFGwv.png",
-    "stream_url": "https://stream.arcast.live/quatro/quatro/playlist.m3u8",
-    "stream_quality": "540p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.quatrotv.com/",
     "launched": null,
     "closed": null
   },
@@ -2383,30 +1992,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://radioconexionwebtv.com.ar/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RadioMitre.ar",
-    "name": "Radio Mitre",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/uvck4Vj.png",
-    "stream_url": "https://live-05-13-mitre.vodgc.net/live-05-13-mitre/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://radiomitre.cienradios.com/",
     "launched": null,
     "closed": null
   },
@@ -2589,30 +2174,6 @@
     "closed": null
   },
   {
-    "id": "SomosLaPampa.ar",
-    "name": "Somos La Pampa",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/BUNvyTY.png",
-    "stream_url": "https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.somosnoticias.com.ar/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "SonyChannel.ar",
     "name": "Sony Channel",
     "alt_names": [],
@@ -2677,39 +2238,6 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png",
     "stream_url": "https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Telefe.ar",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "ar#telefe",
-      "site_name": "Telefe",
-      "lang": "es"
-    },
-    "website": "https://telefe.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Telefe.ar",
-    "name": "Telefe",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Grupo Televisión Litoral"
-    ],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png",
-    "stream_url": "http://104.238.205.28:8989/278773_.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -2835,34 +2363,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.telenord.com.ar/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVEstacionMix.ar",
-    "name": "TV Estacion Mix",
-    "alt_names": [
-      "TV Estación Mix"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://image.jimcdn.com/app/cms/image/transf/dimension=512x512:format=png/path/sc40a039d49acf98a/image/icbe12cae2b3da2d2/version/1628894274/image.png",
-    "stream_url": "https://streamingtv.masplay.x10.mx/proxy/mixtv/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://radioestacionmix.jimdofree.com/",
     "launched": null,
     "closed": null
   },
@@ -3190,33 +2690,6 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": "https://xtrematv.com/?p=1434",
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "XtremaAnimal.ar",
-    "name": "Xtrema Animal",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "documentary",
-      "science"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/HQxKLlK.png",
-    "stream_url": "https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://xtrematv.com/?p=1504",
     "tv_guide": null,
     "website": null,
     "launched": null,

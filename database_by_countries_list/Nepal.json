@@ -80,32 +80,6 @@
     "closed": null
   },
   {
-    "id": "KantipurMax.np",
-    "name": "Kantipur Max",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "NP",
-    "country_name": "Nepal",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/EZUyzhG.jpg",
-    "stream_url": "http://ktvlive.ekantipur.com/2436ea84aec1e4993c0f963f58188467/maxhd/hls_maxhd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://kantipurtv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "KantipurTV.np",
     "name": "Kantipur TV",
     "alt_names": [
@@ -160,33 +134,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://mtvnepal.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ParyawaranTV.np",
-    "name": "Paryawaran TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "NP",
-    "country_name": "Nepal",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "education",
-      "outdoor"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/H10qamt.png",
-    "stream_url": "https://webtv-stream.nettv.com.np/broadcaster/Paryawaran.stream/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://paryawarantv.com/",
     "launched": null,
     "closed": null
   }

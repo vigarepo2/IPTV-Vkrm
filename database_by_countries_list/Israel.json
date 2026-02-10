@@ -56,43 +56,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/eFM3bTq.png",
-    "stream_url": "https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Channel13.il",
-      "feed": "SD",
-      "site": "freetv.tv",
-      "site_id": "3328044",
-      "site_name": "רשת 13",
-      "lang": "he"
-    },
-    "website": "https://13tv.co.il/",
-    "launched": "2017-11-01",
-    "closed": null
-  },
-  {
-    "id": "Channel13.il",
-    "name": "Channel 13",
-    "alt_names": [
-      "ערוץ 13"
-    ],
-    "network": null,
-    "owners": [
-      "Reshet"
-    ],
-    "country_code": "IL",
-    "country_name": "Israel",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/eFM3bTq.png",
     "stream_url": "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -335,32 +298,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.i24news.tv/he",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "IsraelParsTV.il",
-    "name": "Israel Pars TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IL",
-    "country_name": "Israel",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/UM5Gf4L.png",
-    "stream_url": "https://live.pars-israel.com/iptv/stream.m3u8",
-    "stream_quality": "540p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://pars-israel.com/",
     "launched": null,
     "closed": null
   },
@@ -610,43 +547,6 @@
     },
     "website": "https://www.makan.org.il/",
     "launched": "2017-05-15",
-    "closed": null
-  },
-  {
-    "id": "Now14.il",
-    "name": "Now 14",
-    "alt_names": [
-      "עכשיו 14"
-    ],
-    "network": null,
-    "owners": [
-      "Jewish Israel Channel Ltd"
-    ],
-    "country_code": "IL",
-    "country_name": "Israel",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Iq2Kb69.png",
-    "stream_url": "https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Now14.il",
-      "feed": "SD",
-      "site": "freetv.tv",
-      "site_id": "3457869",
-      "site_name": "ערוץ 14",
-      "lang": "he"
-    },
-    "website": "https://www.now14.co.il/",
-    "launched": "2014-06-30",
     "closed": null
   },
   {

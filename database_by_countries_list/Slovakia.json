@@ -35,32 +35,6 @@
     "closed": null
   },
   {
-    "id": "BTV.sk",
-    "name": "BTV",
-    "alt_names": [
-      "Bardejovská TV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "SK",
-    "country_name": "Slovakia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/5CZ6HHn.png",
-    "stream_url": "https://fs3.kabelko.sk/9011/index.m3u8?token=btv",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.bardejovskatv.sk/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "ducktv.sk",
     "name": "ducktv",
     "alt_names": [
@@ -224,41 +198,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/aqVki9i.png",
-    "stream_url": "https://sktv.plainrock127.xyz/get.php?x=STV1",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Jednotka.sk",
-      "feed": "SD",
-      "site": "mujtvprogram.cz",
-      "site_id": "181",
-      "site_name": "Jednotka",
-      "lang": "sk"
-    },
-    "website": "http://www.rtvs.sk/televizia/tv",
-    "launched": "1956-11-03",
-    "closed": null
-  },
-  {
-    "id": "Jednotka.sk",
-    "name": "Jednotka",
-    "alt_names": [],
-    "network": "RTVS",
-    "owners": [
-      "STVR"
-    ],
-    "country_code": "SK",
-    "country_name": "Slovakia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/aqVki9i.png",
     "stream_url": "http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -336,36 +275,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.lifetv.sk/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "LubovnianskaTV.sk",
-    "name": "Lubovnianska TV",
-    "alt_names": [
-      "Ľubovnianske Noviny a TV"
-    ],
-    "network": null,
-    "owners": [
-      "ĽMS"
-    ],
-    "country_code": "SK",
-    "country_name": "Slovakia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ZgHIdGn.jpg",
-    "stream_url": "https://kamery.kukni.sk:8181/memfs/fb00d981-d2d4-4d69-bb44-a9ff6aa25a76.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.lms.sk/",
     "launched": null,
     "closed": null
   },
@@ -448,66 +357,6 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/jGZlnzT.png",
     "stream_url": "http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8",
-    "stream_quality": "486p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.nztv.eu/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NZTV.sk",
-    "name": "NZTV",
-    "alt_names": [
-      "TV Nové Zámky"
-    ],
-    "network": null,
-    "owners": [
-      "Novocentrum Nove Zamky a s"
-    ],
-    "country_code": "SK",
-    "country_name": "Slovakia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/jGZlnzT.png",
-    "stream_url": "http://s1.media-planet.sk/live/novezamky/lihattv.m3u8",
-    "stream_quality": "486p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.nztv.eu/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NZTV.sk",
-    "name": "NZTV",
-    "alt_names": [
-      "TV Nové Zámky"
-    ],
-    "network": null,
-    "owners": [
-      "Novocentrum Nove Zamky a s"
-    ],
-    "country_code": "SK",
-    "country_name": "Slovakia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/jGZlnzT.png",
-    "stream_url": "http://s1.media-planet.sk/live/novezamky/playlist.m3u8",
     "stream_quality": "486p",
     "stream_format": null,
     "user_agent": null,
@@ -636,37 +485,6 @@
       "lang": "sk"
     },
     "website": "https://www.rtvs.sk/televizia/sport",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TA3.sk",
-    "name": "TA3",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "SK",
-    "country_name": "Slovakia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/DFeWp93.png",
-    "stream_url": "https://sktv.plainrock127.xyz/get.php?x=TA3",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TA3.sk",
-      "feed": "SD",
-      "site": "mujtvprogram.cz",
-      "site_id": "192",
-      "site_name": "TA3",
-      "lang": "sk"
-    },
-    "website": "https://www.ta3.com/",
     "launched": null,
     "closed": null
   },
@@ -1251,30 +1069,6 @@
     "closed": null
   },
   {
-    "id": "TVReduta.sk",
-    "name": "TV Reduta",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "SK",
-    "country_name": "Slovakia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/smizIrT.png",
-    "stream_url": "https://5ca49f2417d90.streamlock.net/live/reduta/playlist.m3u8",
-    "stream_quality": "486p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.snv.sk/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TVRomana.sk",
     "name": "TV Romana",
     "alt_names": [],
@@ -1580,35 +1374,6 @@
     "logo": "https://i.imgur.com/D72Y1IB.png",
     "stream_url": "https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8",
     "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://zstv.sk/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ZapadoslovenskaTV.sk",
-    "name": "Zapadoslovenska TV",
-    "alt_names": [
-      "Západoslovenská TV",
-      "ZSTV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "SK",
-    "country_name": "Slovakia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/D72Y1IB.png",
-    "stream_url": "https://live.zstv.sk/memfs/5b0f9dd2-8f77-4fe5-9527-bc11bb8b18e5.m3u8",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

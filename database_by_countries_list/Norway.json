@@ -151,96 +151,6 @@
     "closed": null
   },
   {
-    "id": "HopeChannelNorway.no",
-    "name": "Hope Channel Norway",
-    "alt_names": [
-      "Hope Channel Norge"
-    ],
-    "network": null,
-    "owners": [
-      "Seventh-day Adventist Church"
-    ],
-    "country_code": "NO",
-    "country_name": "Norway",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/fQPIZn9.png",
-    "stream_url": "http://media1.adventist.no:1935/live/hope1/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.hopechannel.no/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "HopeChannelNorway.no",
-    "name": "Hope Channel Norway",
-    "alt_names": [
-      "Hope Channel Norge"
-    ],
-    "network": null,
-    "owners": [
-      "Seventh-day Adventist Church"
-    ],
-    "country_code": "NO",
-    "country_name": "Norway",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/fQPIZn9.png",
-    "stream_url": "http://media1.adventist.no:1935/live/hope2/playlist.m3u8",
-    "stream_quality": "540p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.hopechannel.no/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "HopeChannelNorway.no",
-    "name": "Hope Channel Norway",
-    "alt_names": [
-      "Hope Channel Norge"
-    ],
-    "network": null,
-    "owners": [
-      "Seventh-day Adventist Church"
-    ],
-    "country_code": "NO",
-    "country_name": "Norway",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/fQPIZn9.png",
-    "stream_url": "http://media1.adventist.no:1935/live/hope3/playlist.m3u8",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.hopechannel.no/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "NRK1.no",
     "name": "NRK1",
     "alt_names": [],
@@ -378,34 +288,6 @@
     },
     "website": "http://www.nrksuper.no/",
     "launched": "2006-05-21",
-    "closed": null
-  },
-  {
-    "id": "SunnmoreLIVE.no",
-    "name": "Sunnmore LIVE",
-    "alt_names": [
-      "Sunnmøre LIVE"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "NO",
-    "country_name": "Norway",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Vreqm1O.png",
-    "stream_url": "https://live03.delivery.twentythree.com/live/amlst:ids06jcunt260s3olais9ck283:68173018-4011529d07c63c7759cd.mp4/playlist.m3u8?referer=https://slive.no/&uuid=cbe9a779-6917-09f8-8f17-7a011ce0b34c",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://slive.no/",
-    "tv_guide": null,
-    "website": "https://slive.no/",
-    "launched": null,
     "closed": null
   },
   {

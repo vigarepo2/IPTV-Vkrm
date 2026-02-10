@@ -138,32 +138,6 @@
     "closed": null
   },
   {
-    "id": "BenieTV.ci",
-    "name": "Benie TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CI",
-    "country_name": "Ivory Coast",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/7FXi05e.jpeg",
-    "stream_url": "https://voozmedia.fun/benietv/livestream/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.benie.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Business24Africa.ci",
     "name": "Business 24 Africa",
     "alt_names": [],
@@ -186,32 +160,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.business24tv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ChampionTV.ci",
-    "name": "Champion TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CI",
-    "country_name": "Ivory Coast",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "business"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/WjHSrHN.png",
-    "stream_url": "https://stream.berosat.live:19360/champion-tv/720p.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.championtv.ci/",
     "launched": null,
     "closed": null
   },
@@ -292,32 +240,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://ecclesiatvci.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ExploitsTV.ci",
-    "name": "Exploits TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CI",
-    "country_name": "Ivory Coast",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/3wC7tSG.jpeg",
-    "stream_url": "https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
     "launched": null,
     "closed": null
   },
@@ -621,32 +543,6 @@
     "closed": null
   },
   {
-    "id": "PassionNovelas.ci",
-    "name": "Passion Novelas",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CI",
-    "country_name": "Ivory Coast",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/boo9jmf.png",
-    "stream_url": "https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "RefletTV.ci",
     "name": "Reflet TV",
     "alt_names": [],
@@ -692,41 +588,6 @@
     "logo": "https://i.imgur.com/TybQZQS.png",
     "stream_url": "http://69.64.57.208:8080/rti1/playlist.m3u8",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RTI1.ci",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "846",
-      "site_name": "RTI 1",
-      "lang": "fr"
-    },
-    "website": "https://www.rti.ci/rti1",
-    "launched": "1963-08-07",
-    "closed": null
-  },
-  {
-    "id": "RTI1.ci",
-    "name": "RTI 1",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Radiodiffusion télévision ivoirienne"
-    ],
-    "country_code": "CI",
-    "country_name": "Ivory Coast",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/TybQZQS.png",
-    "stream_url": "https://stream.ecable.tv/rti1/tracks-v1a1/mono.m3u8",
-    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

@@ -1102,34 +1102,6 @@
     "closed": null
   },
   {
-    "id": "EsanTV.th",
-    "name": "Esan TV",
-    "alt_names": [
-      "ทีวีของคนอีสาน"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "TH",
-    "country_name": "Thailand",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/cpNg9Fy.png",
-    "stream_url": "https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.mvtv.co.th/channel/esan-tv",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "ETV.th",
     "name": "ETV",
     "alt_names": [],
@@ -1302,30 +1274,6 @@
     },
     "website": "https://www.jknglobal.com/",
     "launched": "2012-02-15",
-    "closed": null
-  },
-  {
-    "id": "KasetChannel.th",
-    "name": "Kaset Channel",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TH",
-    "country_name": "Thailand",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/kk/kaset-th.png",
-    "stream_url": "http://103.120.113.107/Kasat70/video.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://kasettv.com/",
-    "launched": null,
     "closed": null
   },
   {
@@ -1653,101 +1601,6 @@
     "closed": null
   },
   {
-    "id": "NBT2HD.th",
-    "name": "NBT 2 HD",
-    "alt_names": [
-      "เอ็นบีที 2 เอชดี"
-    ],
-    "network": null,
-    "owners": [
-      "Public Relations Department of the Office of the Prime Minister"
-    ],
-    "country_code": "TH",
-    "country_name": "Thailand",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/IJh6SHb.png",
-    "stream_url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/chunklist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NBT2HD.th",
-      "feed": "SD",
-      "site": "tv.trueid.net",
-      "site_id": "nbt",
-      "site_name": "เอ็นบีที",
-      "lang": "th"
-    },
-    "website": "http://nbt2hd.prd.go.th/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NBT11.th",
-    "name": "NBT 11",
-    "alt_names": [
-      "สถานีวิทยุโทรทัศน์แห่งประเทศไทย"
-    ],
-    "network": null,
-    "owners": [
-      "Public Relations Department of the Office of the Prime Minister"
-    ],
-    "country_code": "TH",
-    "country_name": "Thailand",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/8hYQIxS.png",
-    "stream_url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://nbt2hd.prd.go.th/",
-    "launched": "1988-07-11",
-    "closed": null
-  },
-  {
-    "id": "NBTWorld.th",
-    "name": "NBT World",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "National News Bureau of Thailand"
-    ],
-    "country_code": "TH",
-    "country_name": "Thailand",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/GUQhLeg.png",
-    "stream_url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_w507269531_b2128000.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://thainews.prd.go.th/en/live",
-    "launched": "2013-01-01",
-    "closed": null
-  },
-  {
     "id": "News1.th",
     "name": "News1",
     "alt_names": [],
@@ -1874,30 +1727,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.policetv.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PSISaradee99.th",
-    "name": "PSI Saradee 99",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TH",
-    "country_name": "Thailand",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/TmDI6Tz.png",
-    "stream_url": "http://103.120.113.107/Saradee/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://psisaradee99.com/",
     "launched": null,
     "closed": null
   },
@@ -2042,30 +1871,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.mvtv.co.th/channel/thaiban",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ThaiChaiyo.th",
-    "name": "Thai Chaiyo",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TH",
-    "country_name": "Thailand",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/uOfb3y1.png",
-    "stream_url": "https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
     "launched": null,
     "closed": null
   },
@@ -2302,30 +2107,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://tvmuslim.org/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "UmmTV.th",
-    "name": "Umm TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TH",
-    "country_name": "Thailand",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/5AV0JpL.png",
-    "stream_url": "http://psilive1.sky-cdn.com:1935/psi-62/psi-62.stream/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://ummtv.com/",
     "launched": null,
     "closed": null
   },

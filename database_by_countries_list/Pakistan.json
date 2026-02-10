@@ -1,59 +1,5 @@
 [
   {
-    "id": "8XM.pk",
-    "name": "8XM",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/KLrfKRn.png",
-    "stream_url": "https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://8xm.tv/",
-    "launched": "2011-07-11",
-    "closed": null
-  },
-  {
-    "id": "24NewsHD.pk",
-    "name": "24 News HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "City News Network Mohsin Naqvi"
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/en/9/93/24_News_HD_Logo.png",
-    "stream_url": "http://66.102.120.18:8000/play/a04v/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.24newshd.tv/",
-    "launched": "2015-01-01",
-    "closed": null
-  },
-  {
     "id": "92NewsHD.pk",
     "name": "92 News HD",
     "alt_names": [
@@ -81,62 +27,6 @@
     "tv_guide": null,
     "website": "https://92newshd.tv/live-tv",
     "launched": "2015-02-06",
-    "closed": null
-  },
-  {
-    "id": "AajEntertainment.pk",
-    "name": "Aaj Entertainment",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Recorder Television Network"
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/WK5Cqap.png",
-    "stream_url": "http://66.102.120.18:8000/play/a05b/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://aajentertainment.tv/",
-    "launched": "2015-12-01",
-    "closed": null
-  },
-  {
-    "id": "AbbTakk.pk",
-    "name": "Abb Takk",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Apna Group"
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/D6IHRrP.png",
-    "stream_url": "http://66.102.120.18:8000/play/a051/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.abbtakk.tv/",
-    "launched": "2013-04-19",
     "closed": null
   },
   {
@@ -193,73 +83,6 @@
     "tv_guide": null,
     "website": "https://www.aiknewshd.tv/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ApnaChannel.pk",
-    "name": "Apna Channel",
-    "alt_names": [
-      "اپنا چینل"
-    ],
-    "network": null,
-    "owners": [
-      "Ahmed Hussain"
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ICSA4W6.png",
-    "stream_url": "http://66.102.120.18:8000/play/a04z/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://apna.tv/",
-    "launched": "2004-10-14",
-    "closed": null
-  },
-  {
-    "id": "ARYDigital.pk",
-    "name": "ARY Digital",
-    "alt_names": [
-      "ڈیجیٹل"
-    ],
-    "network": "ARY Digital Network",
-    "owners": [
-      "ARY Group"
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/TVP7g03.png",
-    "stream_url": "http://66.102.120.18:8000/play/a030/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ARYDigital.pk",
-      "feed": "UK",
-      "site": "sky.com",
-      "site_id": "4265",
-      "site_name": "ARY Digital",
-      "lang": "en"
-    },
-    "website": "https://arydigital.tv/",
-    "launched": "2000-09-16",
     "closed": null
   },
   {
@@ -330,92 +153,6 @@
     "closed": null
   },
   {
-    "id": "ARYNews.pk",
-    "name": "ARY News",
-    "alt_names": [
-      "ARY نیوز"
-    ],
-    "network": "ARY Digital Network",
-    "owners": [
-      "ARY Group"
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/R4KtTbJ.jpg",
-    "stream_url": "http://66.102.120.18:8000/play/a02z/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.arynews.tv/en/",
-    "launched": "2004-09-26",
-    "closed": null
-  },
-  {
-    "id": "ARYZindagi.pk",
-    "name": "ARY Zindagi",
-    "alt_names": [],
-    "network": "ARY Digital Network",
-    "owners": [
-      "ARY Group"
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": null,
-    "stream_url": "http://66.102.120.18:8000/play/a031/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.aryzindagi.tv/",
-    "launched": "2014-04-11",
-    "closed": null
-  },
-  {
-    "id": "ATV.pk",
-    "name": "ATV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Shalimar Recording & Broadcasting"
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/en/8/83/Atv_pakistan.PNG",
-    "stream_url": "http://66.102.120.18:8000/play/a03t/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://atv.com.pk/",
-    "launched": "2005-06-24",
-    "closed": null
-  },
-  {
     "id": "aurLifeHD.pk",
     "name": "aurLife HD",
     "alt_names": [],
@@ -439,86 +176,6 @@
     "tv_guide": null,
     "website": "https://aurlife.tv/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "AVTKhyber.pk",
-    "name": "AVT Khyber",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Kamran Hamid Raja"
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/FqkABWT.png",
-    "stream_url": "https://trn03.tulix.tv/gf-khybertv/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.avtchannels.com/",
-    "launched": "2004-07-01",
-    "closed": null
-  },
-  {
-    "id": "BolNews.pk",
-    "name": "Bol News",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/chHLi5u.png",
-    "stream_url": "http://66.102.120.18:8000/play/a038/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.bolnews.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "CapitalTV.pk",
-    "name": "Capital TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/UxAE5O4.png",
-    "stream_url": "http://66.102.120.18:8000/play/a02y/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://capitaldigital.pk/",
-    "launched": "2013-04-10",
     "closed": null
   },
   {
@@ -547,60 +204,6 @@
     "tv_guide": null,
     "website": "http://www.city41.tv/",
     "launched": "2016-06-06",
-    "closed": null
-  },
-  {
-    "id": "City42.pk",
-    "name": "City 42",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "City News Network"
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/vcSFetk.png",
-    "stream_url": "http://66.102.120.18:8000/play/a05x/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.city42.tv/",
-    "launched": "2008-01-01",
-    "closed": null
-  },
-  {
-    "id": "CityNewsHD.pk",
-    "name": "City News HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/GtYG9lG.png",
-    "stream_url": "http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://citynewshd.tv/",
-    "launched": null,
     "closed": null
   },
   {
@@ -694,93 +297,6 @@
     "closed": null
   },
   {
-    "id": "ExpressEntertainment.pk",
-    "name": "Express Entertainment",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Lakson Group"
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/rgHbb8W.png",
-    "stream_url": "https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.expressentertainment.tv/",
-    "launched": "2012-01-01",
-    "closed": null
-  },
-  {
-    "id": "ExpressNews.pk",
-    "name": "Express News",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/2ugiEOt.png",
-    "stream_url": "http://66.102.120.18:8000/play/a053/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.express.pk/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "FastSports.pk",
-    "name": "Fast Sports",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/cl7vugU.png",
-    "stream_url": "http://66.102.120.18:8000/play/a05f/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FastSports.pk",
-      "feed": "SD",
-      "site": "epg.iptvx.one",
-      "site_id": "fast-sport-am",
-      "site_name": "Fast Sports",
-      "lang": "ru"
-    },
-    "website": "https://www.fastsports.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "FazalTV.pk",
     "name": "Fazal TV",
     "alt_names": [],
@@ -856,97 +372,6 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "GawahiTV.pk",
-    "name": "Gawahi TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/0W6zzHS.png",
-    "stream_url": "https://livecdn.live247stream.com/gawahi/tv/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://gawahi.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "GeoKahani.pk",
-    "name": "Geo Kahani",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Jang Media Group"
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/uKYH0IM.png",
-    "stream_url": "http://66.102.120.18:8000/play/a064/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://geokahani.tv/",
-    "launched": "2002-10-01",
-    "closed": null
-  },
-  {
-    "id": "GeoNews.pk",
-    "name": "Geo News",
-    "alt_names": [
-      "جیو نیوز"
-    ],
-    "network": null,
-    "owners": [
-      "Jang Media Group"
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Op4EsaB.png",
-    "stream_url": "https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "GeoNews.pk",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "951",
-      "site_name": "Geo News",
-      "lang": "fr"
-    },
-    "website": "https://www.geo.tv/",
-    "launched": "2002-10-01",
     "closed": null
   },
   {
@@ -1202,34 +627,6 @@
     "closed": null
   },
   {
-    "id": "GourmetNewsNetwork.pk",
-    "name": "Gourmet News Network",
-    "alt_names": [
-      "GNN HD"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/VXVnXXi.png",
-    "stream_url": "http://66.102.120.18:8000/play/a06p/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://gnnhd.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "GraceNetwork.pk",
     "name": "Grace Network",
     "alt_names": [],
@@ -1282,95 +679,6 @@
     "closed": null
   },
   {
-    "id": "HKTV.pk",
-    "name": "HK TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/brAY4XF.png",
-    "stream_url": "https://streamer12.vdn.dstreamone.net/hktv/hktv/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://hktv.pk/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "HumNews.pk",
-    "name": "Hum News",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Hum Network Limited"
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/9OroocT.png",
-    "stream_url": "http://66.102.120.18:8000/play/a05e/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.humnews.pk/",
-    "launched": "2018-05-11",
-    "closed": null
-  },
-  {
-    "id": "HumTV.pk",
-    "name": "Hum TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "HUM Network Ltd"
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png",
-    "stream_url": "https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "HumTV.pk",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "66899",
-      "site_name": "Hum TV",
-      "lang": "en"
-    },
-    "website": "https://www.hum.tv/",
-    "launched": "2005-01-17",
-    "closed": null
-  },
-  {
     "id": "IsaacTV.pk",
     "name": "Isaac TV",
     "alt_names": [],
@@ -1394,36 +702,6 @@
     "tv_guide": null,
     "website": "https://isaactelevision.tv/Isaac%20Tv%20Pakistan/",
     "launched": "2006-01-01",
-    "closed": null
-  },
-  {
-    "id": "JalwaTV.pk",
-    "name": "Jalwa TV",
-    "alt_names": [
-      "جلوہ"
-    ],
-    "network": "Apna Channel",
-    "owners": [
-      "Ahmed Hussain"
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/HWb5Iat.png",
-    "stream_url": "http://66.102.120.18:8000/play/a052/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://jalwa.tv/",
-    "launched": "2013-01-01",
     "closed": null
   },
   {
@@ -1507,62 +785,6 @@
     "closed": null
   },
   {
-    "id": "KhyberNews.pk",
-    "name": "Khyber News",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Kamran Hamid Raja"
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/7SyLba4.png",
-    "stream_url": "https://trn03.tulix.tv/gf-khybernews/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://khybernews.tv/",
-    "launched": "2004-07-01",
-    "closed": null
-  },
-  {
-    "id": "KidsZone.pk",
-    "name": "Kids Zone",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Mediacon Network Pvt Ltd"
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/mJWBVH1.png",
-    "stream_url": "http://66.102.120.18:8000/play/a02l/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": "2018-12-01",
-    "closed": null
-  },
-  {
     "id": "KingTV.pk",
     "name": "King TV",
     "alt_names": [],
@@ -1616,34 +838,6 @@
     "tv_guide": null,
     "website": "https://lahorenews.tv/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "LTNFamily.pk",
-    "name": "LTN Family",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "LEO Communications Pvt. Ltd."
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "family"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/n4CenYn.png",
-    "stream_url": "http://66.102.120.18:8000/play/a04a/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://ltnfamily.tv/",
-    "launched": "2019-04-19",
     "closed": null
   },
   {
@@ -1740,60 +934,6 @@
     "closed": null
   },
   {
-    "id": "NeoNews.pk",
-    "name": "Neo News",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Chauhdry Abdul Rehman"
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/9mrbPRs.png",
-    "stream_url": "http://66.102.120.18:8000/play/a05g/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.neonetwork.pk/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NewsOne.pk",
-    "name": "News One",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ivrRYMk.png",
-    "stream_url": "http://66.102.120.18:8000/play/a057/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.newsone.tv/",
-    "launched": "2007-11-27",
-    "closed": null
-  },
-  {
     "id": "OneGolf.pk",
     "name": "One Golf",
     "alt_names": [],
@@ -1820,32 +960,6 @@
     "closed": null
   },
   {
-    "id": "Pashto1.pk",
-    "name": "Pashto 1",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/QB9xOSZ.png",
-    "stream_url": "http://66.102.120.18:8000/play/a03x/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://humpashto1.tv/",
-    "launched": "2020-03-09",
-    "closed": null
-  },
-  {
     "id": "PMITV.pk",
     "name": "PMI TV",
     "alt_names": [],
@@ -1866,32 +980,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://www.pmitv.org/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PNNNews.pk",
-    "name": "PNN News",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/edKutxd.png",
-    "stream_url": "https://cdn.bmstudiopk.com/pnn/smil:PNN.smil/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://pnntv.pk/",
     "launched": null,
     "closed": null
   },
@@ -1944,86 +1032,6 @@
     "closed": null
   },
   {
-    "id": "PTVHome.pk",
-    "name": "PTV Home",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Pakistan Television Corporation"
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/O1Bavlz.png",
-    "stream_url": "http://66.102.120.18:8000/play/a04r/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": "1964-11-26",
-    "closed": null
-  },
-  {
-    "id": "PTVNews.pk",
-    "name": "PTV News",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Pakistan Television Corporation"
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Fpn8VU7.png",
-    "stream_url": "http://66.102.120.18:8000/play/a04s/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": "2007-01-01",
-    "closed": null
-  },
-  {
-    "id": "QuranTV.pk",
-    "name": "Quran TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/nc7X3Ux.png",
-    "stream_url": "http://66.102.120.18:8000/play/a04h/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://paigham.tv/paigham-quran-tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "RaaviTV.pk",
     "name": "Raavi TV",
     "alt_names": [],
@@ -2045,32 +1053,6 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SamaaTV.pk",
-    "name": "Samaa TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Park View Limited"
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/r3U4A1P.png",
-    "stream_url": "http://66.102.120.18:8000/play/a06o/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.samaa.tv/",
-    "launched": "2007-12-08",
     "closed": null
   },
   {
@@ -2122,86 +1104,6 @@
     "closed": null
   },
   {
-    "id": "SindhTV.pk",
-    "name": "Sindh TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Dolphin Media House"
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/izpeOsx.png",
-    "stream_url": "http://66.102.120.18:8000/play/a03y/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://sindhtv.tv/",
-    "launched": "2004-10-01",
-    "closed": null
-  },
-  {
-    "id": "SindhTV.pk",
-    "name": "Sindh TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Dolphin Media House"
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/izpeOsx.png",
-    "stream_url": "https://stream717.duckdns.org/hls/stream1.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://sindhtv.tv/",
-    "launched": "2004-10-01",
-    "closed": null
-  },
-  {
-    "id": "SindhTVNews.pk",
-    "name": "Sindh TV News",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Dolphin Media House"
-    ],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Ap9K1lj.png",
-    "stream_url": "http://66.102.120.18:8000/play/a03z/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://sindhtvnews.net/",
-    "launched": "2004-10-01",
-    "closed": null
-  },
-  {
     "id": "SuchTV.pk",
     "name": "Such TV",
     "alt_names": [],
@@ -2228,32 +1130,6 @@
     "closed": null
   },
   {
-    "id": "SunoNewsHD.pk",
-    "name": "Suno News HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/FeSntVO.jpg",
-    "stream_url": "https://cdn.bmstudiopk.com/sunotv/live/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.sunonews.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TenSportsPakistan.pk",
     "name": "Ten Sports Pakistan",
     "alt_names": [],
@@ -2276,104 +1152,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVOneGlobal.pk",
-    "name": "TV One Global",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Xn3XxMY.png",
-    "stream_url": "http://66.102.120.18:8000/play/a055/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "VenusHD.pk",
-    "name": "Venus HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/0C9KunR.png",
-    "stream_url": "http://66.102.120.18:8000/play/a03w/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.venustv.net/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "VoiceNews.pk",
-    "name": "Voice News",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/rlYzN6J.png",
-    "stream_url": "https://cdn.bmstudiopk.com/vop/live/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://voicenewspk.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "WasebTV.pk",
-    "name": "Waseb TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/RsF5yVA.png",
-    "stream_url": "http://66.102.120.18:8000/play/a056/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.waseb.tv/home",
     "launched": null,
     "closed": null
   },

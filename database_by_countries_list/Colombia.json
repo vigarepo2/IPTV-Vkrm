@@ -912,32 +912,6 @@
     "closed": null
   },
   {
-    "id": "ChampionTV.co",
-    "name": "Champion TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/A144MfR.png",
-    "stream_url": "https://canal.mediaserver.com.co/live/ChampionTv.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://mediaserver.com.co/champion-tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "CMBTelevision.co",
     "name": "CMB Television",
     "alt_names": [
@@ -1372,34 +1346,6 @@
     "closed": null
   },
   {
-    "id": "Eureka.co",
-    "name": "Eureka",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Capital Sistema de Comunicación Pública de Bogotá"
-    ],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/WgnZPol.png",
-    "stream_url": "https://cdns.livewave.co:19360/eurekatv/eurekatv.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://conexioncapital.co/eureka-tu-canal/",
-    "launched": "2021-08-16",
-    "closed": null
-  },
-  {
     "id": "FrecuenciaFTV.co",
     "name": "Frecuencia F TV",
     "alt_names": [],
@@ -1424,32 +1370,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.frecuenciaf.com/canal",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "HeliconiaRadioTV.co",
-    "name": "Heliconia Radio TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/AJ182BG.png",
-    "stream_url": "https://rtv.fullhd-streaming.com:19360/heliconiaradiotv/heliconiaradiotv.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://heliconiaradio.com/",
     "launched": null,
     "closed": null
   },
@@ -2039,34 +1959,6 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ES6xFAv.png",
     "stream_url": "http://138.186.23.7:22281/nstv/nstv/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NSTV.co",
-    "name": "NSTV",
-    "alt_names": [
-      "Televisora del Norte de Santander"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ES6xFAv.png",
-    "stream_url": "https://stmv4.voxtvhd.com.br/nstv/nstv/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -2743,32 +2635,6 @@
     "closed": null
   },
   {
-    "id": "TeleCesar.co",
-    "name": "TeleCesar",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/bmXdDfp.jpeg",
-    "stream_url": "https://eu1.servers10.com:8081/8020/index.m3u8",
-    "stream_quality": "432p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.telecesar.com.co/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Teleislas.co",
     "name": "Teleislas",
     "alt_names": [],
@@ -2867,58 +2733,6 @@
     "closed": null
   },
   {
-    "id": "TeleSanJacinto.co",
-    "name": "Tele San Jacinto",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/t8aT4eT.png",
-    "stream_url": "https://movil.ejeserver.com/live/telesanjacinto.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.telesanjacinto.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TeleSanJacinto.co",
-    "name": "Tele San Jacinto",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/t8aT4eT.png",
-    "stream_url": "https://video.ejeserver.com/live/telesanjacinto.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.telesanjacinto.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TeleVid.co",
     "name": "Tele Vid",
     "alt_names": [],
@@ -2951,69 +2765,6 @@
     },
     "website": "https://televid.tv/",
     "launched": "2000-10-26",
-    "closed": null
-  },
-  {
-    "id": "Trece.co",
-    "name": "Trece",
-    "alt_names": [],
-    "network": "RTVC Sistema de Medios Públicos",
-    "owners": [
-      "Government of Colombia"
-    ],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/jsuXXIg.png",
-    "stream_url": "https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Trece.co",
-      "feed": "SD",
-      "site": "siba.com.co",
-      "site_id": "392",
-      "site_name": "Trece",
-      "lang": "es"
-    },
-    "website": "https://canaltrece.com.co/",
-    "launched": "1998-09-01",
-    "closed": null
-  },
-  {
-    "id": "TrecePlus.co",
-    "name": "Trece+",
-    "alt_names": [],
-    "network": "RTVC Sistema de Medios Públicos",
-    "owners": [
-      "Government of Colombia"
-    ],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/jySvMsw.png",
-    "stream_url": "https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://canaltrece.com.co/",
-    "launched": "2019-06-25",
     "closed": null
   },
   {

@@ -26,43 +26,6 @@
     "closed": null
   },
   {
-    "id": "CreationTV.hk",
-    "name": "Creation TV",
-    "alt_names": [
-      "創世電視"
-    ],
-    "network": null,
-    "owners": [
-      "Audiovisual Mission Limited"
-    ],
-    "country_code": "HK",
-    "country_name": "Hong Kong",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/f8bTPRn.png",
-    "stream_url": "https://cdn.deepcore.online/hlsme/ctv_hk.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CreationTV.hk",
-      "feed": "SD",
-      "site": "mytvsuper.com",
-      "site_id": "CRE",
-      "site_name": "創世電視",
-      "lang": "zh"
-    },
-    "website": "http://www.creation-tv.com/ctv_hk/",
-    "launched": "2003-03-07",
-    "closed": null
-  },
-  {
     "id": "HKIBC.hk",
     "name": "HKIBC",
     "alt_names": [

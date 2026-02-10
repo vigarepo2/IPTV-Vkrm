@@ -526,70 +526,6 @@
     "closed": null
   },
   {
-    "id": "BollywoodClassic.ro",
-    "name": "Bollywood Classic",
-    "alt_names": [
-      "Bollywood Clasic"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies",
-      "classic"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ugPo6ca.png",
-    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BollywoodClassic.ro",
-      "feed": "SD",
-      "site": "programetv.ro",
-      "site_id": "bollywood-classic",
-      "site_name": "Bollywood Classic",
-      "lang": "ro"
-    },
-    "website": "http://www.bollywoodtv.ro/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BollywoodHD.ro",
-    "name": "Bollywood HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "ISG Media"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/scDKOLS.png",
-    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.isgmedia.com/channels.php?channel=bollywood-hd",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "BucovinaTV.ro",
     "name": "Bucovina TV",
     "alt_names": [],
@@ -636,32 +572,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://catine.ro/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ColumnaTV.ro",
-    "name": "Columna TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/C5dIgsc.png",
-    "stream_url": "http://live.columnatv.ro:1935/columnatv/live/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.columnatv.ro/",
     "launched": null,
     "closed": null
   },
@@ -1800,32 +1710,6 @@
     "closed": null
   },
   {
-    "id": "QubTV.ro",
-    "name": "Qub TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/GvyF2Wh.png",
-    "stream_url": "https://live.djemba.ro/live/qubtvlive/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.qubtv.ro/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "RapsodiaTV.ro",
     "name": "Rapsodia TV",
     "alt_names": [],
@@ -2189,32 +2073,6 @@
     "closed": null
   },
   {
-    "id": "TVArad.ro",
-    "name": "TV Arad",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/4yZV72X.png",
-    "stream_url": "https://live.djemba.ro/live/tvaradlive/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tvarad.ro/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TVBuzau.ro",
     "name": "TV Buzau",
     "alt_names": [],
@@ -2496,35 +2354,6 @@
     "tv_guide": null,
     "website": "http://www.tvr.ro/",
     "launched": "2022-12-01",
-    "closed": null
-  },
-  {
-    "id": "TVRFolclor.ro",
-    "name": "TVR Folclor",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Televiziunea Română"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general",
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/9Mj6C2Ff/tvrfolclor.png",
-    "stream_url": "https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/chunklist_b5160000.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://folclor.tvr.ro/",
-    "launched": "2023-11-27",
     "closed": null
   },
   {

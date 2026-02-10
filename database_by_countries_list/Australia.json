@@ -1084,32 +1084,6 @@
     "closed": null
   },
   {
-    "id": "IndoOzTV.au",
-    "name": "Indo Oz TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "AU",
-    "country_name": "Australia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/4LECwDh.png",
-    "stream_url": "https://stream.e2is.in/hls/indoztv.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://indoozaustralia.com.au/web-channel/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "INTVAustralia.au",
     "name": "INTV Australia",
     "alt_names": [],

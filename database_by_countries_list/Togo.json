@@ -222,32 +222,6 @@
     "closed": null
   },
   {
-    "id": "SMATogoTV.tg",
-    "name": "SMA Togo TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TG",
-    "country_name": "Togo",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/t91FPZf.png",
-    "stream_url": "https://smatogo.tv:89/smatogo/smatogo.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://smatogo.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "SOSDocteurTV.tg",
     "name": "SOS Docteur TV",
     "alt_names": [],

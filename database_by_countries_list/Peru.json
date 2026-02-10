@@ -500,30 +500,6 @@
     "closed": null
   },
   {
-    "id": "DiarioHechicera.pe",
-    "name": "Diario Hechicera",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/I6tRVkA.png",
-    "stream_url": "https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://diariohechicera.com/hechicera-tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "ECOTelevision.pe",
     "name": "ECO Television",
     "alt_names": [
@@ -1231,34 +1207,6 @@
     "closed": null
   },
   {
-    "id": "RadioOndaDigital.pe",
-    "name": "Radio Onda Digital",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Grupo Onda Radio"
-    ],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Lid5RTv.png",
-    "stream_url": "https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://radioondadigital.com/cabinaenvivo/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "RadioTropical.pe",
     "name": "Radio Tropical",
     "alt_names": [],
@@ -1553,32 +1501,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://telecolortv.pe/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Telelima.pe",
-    "name": "Telelima",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/HzWRvXc.png",
-    "stream_url": "https://live.telelima.net/TL_GRUPO-MVCE/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://www.telelima.pe/",
-    "tv_guide": null,
-    "website": "https://www.telelima.pe/",
     "launched": null,
     "closed": null
   },

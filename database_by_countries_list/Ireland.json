@@ -1,43 +1,5 @@
 [
   {
-    "id": "Cula4.ie",
-    "name": "Cula4",
-    "alt_names": [
-      "Cúla4",
-      "Cúlabúla"
-    ],
-    "network": "TG4",
-    "owners": [
-      "Teilifís na Gaeilge"
-    ],
-    "country_code": "IE",
-    "country_name": "Ireland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/brRYNWpQ/cula4.png",
-    "stream_url": "https://d3eq0jseza7fm5.cloudfront.net/tg4_vod_3.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Cula4.ie",
-      "feed": "HD",
-      "site": "tvireland.ie",
-      "site_id": "2438/cula4-hd",
-      "site_name": "Cula4 HD",
-      "lang": "en"
-    },
-    "website": "https://www.cula4.com/",
-    "launched": "1996-10-31",
-    "closed": null
-  },
-  {
     "id": "F1Channel.ie",
     "name": "F1 Channel",
     "alt_names": [],

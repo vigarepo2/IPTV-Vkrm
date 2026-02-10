@@ -50,32 +50,6 @@
     "closed": null
   },
   {
-    "id": "FacultyTV.gh",
-    "name": "Faculty TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GH",
-    "country_name": "Ghana",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "education"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/gAQVPTV.png",
-    "stream_url": "https://stream-server9-jupiter.muxlive.com/hls/facultytv/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://facultytvgh.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "FishTV.gh",
     "name": "Fish TV",
     "alt_names": [],
@@ -126,58 +100,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.hopetvgh.org/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "MaranathaTV.gh",
-    "name": "Maranatha TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GH",
-    "country_name": "Ghana",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/MargDV9.png",
-    "stream_url": "https://media.streambrothers.com:1936/8298/8298/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.maranathatvonline.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "MaxTV.gh",
-    "name": "Max TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GH",
-    "country_name": "Ghana",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/KKomvF9.png",
-    "stream_url": "https://tv.qixapps.com/hls/006bea00-06e8-440e-babe-0a588e1138f2.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.maxtvgh.com/",
     "launched": null,
     "closed": null
   },
@@ -291,34 +213,6 @@
       "lang": "en"
     },
     "website": "http://live.oceanstvgh.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PentTV.gh",
-    "name": "Pent TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "The Church of Pentecost"
-    ],
-    "country_code": "GH",
-    "country_name": "Ghana",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Jw6d3dR.png",
-    "stream_url": "https://iptv-trans.ecntv.net/live/penttv.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://thecophq.org/pent-tv/",
     "launched": null,
     "closed": null
   },

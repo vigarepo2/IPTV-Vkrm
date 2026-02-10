@@ -26,37 +26,6 @@
     "closed": null
   },
   {
-    "id": "APlusGuate.gt",
-    "name": "A+ Guate",
-    "alt_names": [
-      "A Más Guate"
-    ],
-    "network": "Televisión Azteca",
-    "owners": [
-      "Grupo Salinas ",
-      " TV Azteca (Televisión Azteca)"
-    ],
-    "country_code": "GT",
-    "country_name": "Guatemala",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/BtGK7iZ.png",
-    "stream_url": "https://ch2-tva.duin.dev/hls/stream.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tvaztecaguate.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "AuroraMediaFilms.gt",
     "name": "Aurora Media Films",
     "alt_names": [],
@@ -80,41 +49,6 @@
     "tv_guide": null,
     "website": "https://www.playgt.net/auroramediafilms",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "AztecaGuatemala.gt",
-    "name": "Azteca Guatemala",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "TV Azteca"
-    ],
-    "country_code": "GT",
-    "country_name": "Guatemala",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/UJhQoUK.png",
-    "stream_url": "https://ch1-tva.duin.dev/hls/stream.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AztecaGuatemala.gt",
-      "feed": "SD",
-      "site": "gatotv.com",
-      "site_id": "azteca_guatemala",
-      "site_name": "Azteca Guate",
-      "lang": "es"
-    },
-    "website": "http://www.azteca.com.gt/",
-    "launched": "2006-06-05",
     "closed": null
   },
   {
@@ -200,58 +134,6 @@
     "closed": null
   },
   {
-    "id": "Canal8SantaRosa.gt",
-    "name": "Canal 8 Santa Rosa",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GT",
-    "country_name": "Guatemala",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Nenn6gE.png",
-    "stream_url": "https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Canal9Toliman.gt",
-    "name": "Canal9 Toliman",
-    "alt_names": [
-      "Canal9 Tolimán"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "GT",
-    "country_name": "Guatemala",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ytg9oTf.png",
-    "stream_url": "https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.playgt.net/canal9gt",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Canal13Esquipulas.gt",
     "name": "Canal 13 Esquipulas",
     "alt_names": [],
@@ -326,32 +208,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://canal30tvbethel.blogspot.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Canal35Yepocapa.gt",
-    "name": "Canal 35 Yepocapa",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GT",
-    "country_name": "Guatemala",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/Kw1JNrm/Logo-Canal-yepotv.png",
-    "stream_url": "https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
     "launched": null,
     "closed": null
   },
@@ -538,32 +394,6 @@
     "closed": null
   },
   {
-    "id": "CNI.gt",
-    "name": "CNI",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GT",
-    "country_name": "Guatemala",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/9kRYdSp.png",
-    "stream_url": "https://cdn.streamhispanatv.net:3003/live/cnidigitallive.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "CristoTV.gt",
     "name": "Cristo TV",
     "alt_names": [],
@@ -586,32 +416,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ElOlamTV.gt",
-    "name": "El Olam TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GT",
-    "country_name": "Guatemala",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/QR7yrHg.png",
-    "stream_url": "https://live.elolam.tv:3743/live/elolamtvlivelive.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.elolam.tv/",
     "launched": null,
     "closed": null
   },
@@ -752,30 +556,6 @@
     "closed": null
   },
   {
-    "id": "FullChannel.gt",
-    "name": "Full Channel",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GT",
-    "country_name": "Guatemala",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/e8sIMF3.png",
-    "stream_url": "https://cdn.streamhispanatv.net:3845/live/fullchannelgtlive.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.playgt.net/fullchannel",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "GardeniasTV.gt",
     "name": "Gardenias TV",
     "alt_names": [],
@@ -830,32 +610,6 @@
     "closed": null
   },
   {
-    "id": "GuaTV.gt",
-    "name": "GuaTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GT",
-    "country_name": "Guatemala",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "legislative"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/YxBrM4u.png",
-    "stream_url": "https://cdn.streamhispanatv.net:3352/live/guatvlive.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://guatemala.gob.gt/guatemala-tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "IglesiaDelCamino.gt",
     "name": "Iglesia Del Camino",
     "alt_names": [],
@@ -878,60 +632,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://iglesiadelcaminogt.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "IxchiguanEstereoTV.gt",
-    "name": "Ixchiguan Estereo TV",
-    "alt_names": [
-      "Ixchiguán Estereo TV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "GT",
-    "country_name": "Guatemala",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/FMrB17k.png",
-    "stream_url": "https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "IzabalTV.gt",
-    "name": "Izabal TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GT",
-    "country_name": "Guatemala",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/BnRITjB.png",
-    "stream_url": "https://cdn.streamhispanatv.net:3718/live/izabaltvlive.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://izabaltv.com",
     "launched": null,
     "closed": null
   },
@@ -984,35 +684,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "JesusTV.gt",
-    "name": "Jesus TV",
-    "alt_names": [
-      "Jesús TV",
-      "Canal 98"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "GT",
-    "country_name": "Guatemala",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/WR2QoZn.png",
-    "stream_url": "https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.canaljesustv.com/",
     "launched": null,
     "closed": null
   },
@@ -1101,34 +772,6 @@
     "closed": null
   },
   {
-    "id": "MCNTelevision.gt",
-    "name": "MCN Television",
-    "alt_names": [
-      "MCN Televisión"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "GT",
-    "country_name": "Guatemala",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/SNUaCCw.png",
-    "stream_url": "https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8",
-    "stream_quality": "768p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://mcntelevision.org/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "MultivisionCanal3.gt",
     "name": "Multivision Canal 3",
     "alt_names": [
@@ -1207,34 +850,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.playgt.net/nimtv",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NuevoMundoTV.gt",
-    "name": "Nuevo Mundo TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Grupo Nuevo Mundo"
-    ],
-    "country_code": "GT",
-    "country_name": "Guatemala",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/j3OGO3V.png",
-    "stream_url": "https://tvlatina.live:1936/8008/8008/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://nuevomundoradio.com/nuevomundo-tv/",
     "launched": null,
     "closed": null
   },
@@ -1364,34 +979,6 @@
     "logo": "https://i.imgur.com/BFJ7EGj.png",
     "stream_url": "https://stream.oursnetworktv.com/latin/PlenitudGtm/playlist.m3u8",
     "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PMCSTV.gt",
-    "name": "PMCS TV",
-    "alt_names": [
-      "Pastoral de Medios de Comunicación Social"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "GT",
-    "country_name": "Guatemala",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/dgzuhLo.png",
-    "stream_url": "https://cdn.streamhispanatv.net:3787/live/pmcstvlive.m3u8",
-    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1605,34 +1192,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.playgt.net/telemax",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Totovision.gt",
-    "name": "Totovision",
-    "alt_names": [
-      "Totovisión"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "GT",
-    "country_name": "Guatemala",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png",
-    "stream_url": "https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://totovision.net/",
     "launched": null,
     "closed": null
   },

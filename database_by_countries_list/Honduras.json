@@ -1,57 +1,5 @@
 [
   {
-    "id": "45TV.hn",
-    "name": "45 TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/SjUnQlg.png",
-    "stream_url": "https://stream.alojamientowebgt.com:3656/live/tv45live.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://45tvhn.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "504TV.hn",
-    "name": "504 TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/c2HLI3k.png",
-    "stream_url": "https://mediacp.us:8081/504tvhn/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://504tvhn.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "AlfaOmegaVision.hn",
     "name": "Alfa & Omega Vision",
     "alt_names": [],
@@ -133,32 +81,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://avivahn.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "AZATVHD.hn",
-    "name": "AZA TV HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Jytpy32.png",
-    "stream_url": "https://mediacp.us:8081/azatvhd/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.azatvhdhn.com/",
     "launched": null,
     "closed": null
   },
@@ -284,36 +206,6 @@
     "closed": null
   },
   {
-    "id": "Canal6.hn",
-    "name": "Canal 6",
-    "alt_names": [
-      "CBC Canal 6"
-    ],
-    "network": null,
-    "owners": [
-      "Compañía Broadcasting Centroamericana S.A. de C.V."
-    ],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/vygCUNz.png",
-    "stream_url": "https://envivo.canal6.com.hn/hls/0/stream.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://canal6hn.com/",
-    "launched": "1982-04-17",
-    "closed": null
-  },
-  {
     "id": "Canal7TalangaVision.hn",
     "name": "Canal 7 Talanga Vision",
     "alt_names": [
@@ -377,32 +269,6 @@
     "closed": null
   },
   {
-    "id": "Canal15DTP.hn",
-    "name": "Canal 15 DTP",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/QQNcob1.png",
-    "stream_url": "https://s.emisoras.tv:8081/dtp/index.m3u8",
-    "stream_quality": "352p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://channelstore.roku.com/details/0ac4aefcf5dd97a2381d32b3f3744c7f/canal-15-dtp",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Canal32STO.hn",
     "name": "Canal 32 STO",
     "alt_names": [],
@@ -425,65 +291,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Canal51.hn",
-    "name": "Canal 51",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/xhVEEA1.png",
-    "stream_url": "https://tvcn51.com/hls/cn51480.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://cn51hn.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "CCIChannel.hn",
-    "name": "CCI Channel",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/c6hm03f.png",
-    "stream_url": "https://cdn.playcloud.us/cci/srtin3.stream/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CCIChannel.hn",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "hn#cci-channel",
-      "site_name": "CCI Channel",
-      "lang": "es"
-    },
-    "website": "https://www.ccichannel.tv/",
     "launched": null,
     "closed": null
   },
@@ -589,60 +396,6 @@
     "tv_guide": null,
     "website": "http://chtv.hn/",
     "launched": "2013-06-10",
-    "closed": null
-  },
-  {
-    "id": "CRTelevisionCholuteca.hn",
-    "name": "CR Television Choluteca",
-    "alt_names": [
-      "CR Televisión Choluteca"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/pUnenh6.png",
-    "stream_url": "https://www.televinterserver.com:19360/crtvcholuteca/crtvcholuteca.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.crtvcholuteca.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "CTVInternacional.hn",
-    "name": "CTV Internacional",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/BcmQhry.png",
-    "stream_url": "https://mediacp.us:8081/ctvhn/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://canal20copanruinas.com/",
-    "launched": null,
     "closed": null
   },
   {
@@ -842,32 +595,6 @@
     "closed": null
   },
   {
-    "id": "ENTV.hn",
-    "name": "EN TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/GQ3ka8z.jpg",
-    "stream_url": "https://cp.cast-live.net:1936/exodotv/exodotv/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "GirasolTV.hn",
     "name": "Girasol TV",
     "alt_names": [],
@@ -1029,88 +756,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://inmaculadatv.jimdofree.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "JBNTV.hn",
-    "name": "JBN TV",
-    "alt_names": [
-      "Canal 51"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/4EbHIvf.png",
-    "stream_url": "https://mediacp.us:8081/jbntv/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://jbntv.org/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "JehovaTV.hn",
-    "name": "Jehova TV",
-    "alt_names": [
-      "Jehová TV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ylZKG57.png",
-    "stream_url": "https://video.misistemareseller.com/jehovatelevision/jehovatelevision/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://jehovatelevision.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "JuncoTv.hn",
-    "name": "Junco Tv",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/KAsAwxP.png",
-    "stream_url": "https://mediacp.us:8081/juncotv/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://multicablemedios.hn/juncotv",
     "launched": null,
     "closed": null
   },
@@ -1405,58 +1050,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ParadiseTV.hn",
-    "name": "Paradise TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/9yMyYCn.png",
-    "stream_url": "https://s2.tvdatta.com:3840/live/paradisetvlive.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://paradisetvhn.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PuringlaTV.hn",
-    "name": "Puringla TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/CGyjxPO.jpg",
-    "stream_url": "https://stmv1.srvif.com/puringla/puringla/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.puringlatv.com/",
     "launched": null,
     "closed": null
   },
@@ -1910,30 +1503,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/yBDI3AF.png",
-    "stream_url": "https://livestreamhd.us:8077/teleprogreso/live/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.teleprogreso.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TeleProgreso.hn",
-    "name": "TeleProgreso",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/yBDI3AF.png",
     "stream_url": "https://dvrfl03.bozztv.com/hondu-teleprogreso/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -2218,60 +1787,6 @@
     "closed": null
   },
   {
-    "id": "TVEstrella.hn",
-    "name": "TV Estrella",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/QqSR7l7.png",
-    "stream_url": "https://stream.castr.com/6540085553d46d4f7a2ec2e5/live_ab3fd7a07fff11eea3d485758bf6a333/index.fmp4.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://player.castr.com/live_ab3fd7a07fff11eea3d485758bf6a333",
-    "tv_guide": null,
-    "website": "https://www.tvestrella.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVMASHD.hn",
-    "name": "TV MAS HD",
-    "alt_names": [
-      "TV MÁS HD"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/tjnTbRR.jpg",
-    "stream_url": "https://s1.tvdatta.com:3991/live/tvmashdlive.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tvmashd.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "UNAHUTV.hn",
     "name": "UNAH UTV",
     "alt_names": [],
@@ -2320,34 +1835,6 @@
     "closed": null
   },
   {
-    "id": "Vallevision.hn",
-    "name": "Vallevision",
-    "alt_names": [
-      "Vallevisión"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/hvn2tVA.jpg",
-    "stream_url": "https://mediacp.us:8081/vallevision/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.multicablemedios.hn/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "VTV.hn",
     "name": "VTV",
     "alt_names": [
@@ -2383,34 +1870,6 @@
     },
     "website": "https://www.vtv.com.hn/",
     "launched": "1985-03-09",
-    "closed": null
-  },
-  {
-    "id": "WaldivisionInternacional.hn",
-    "name": "Waldivision Internacional",
-    "alt_names": [
-      "Waldivisión Internacional"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/NB8pfpb.png",
-    "stream_url": "https://cloud5.streaminglivehd.com:3114/live/tnnhonduraslive.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tnnwaldivision.com/",
-    "launched": null,
     "closed": null
   }
 ]

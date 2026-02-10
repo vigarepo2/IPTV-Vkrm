@@ -89,32 +89,6 @@
     "closed": null
   },
   {
-    "id": "JamaicaTravelChannel.jm",
-    "name": "Jamaica Travel Channel",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "JM",
-    "country_name": "Jamaica",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "travel"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ewdPTh8.png",
-    "stream_url": "https://stream.castr.com/651b2d8bde8119abf5dabf19/live_2e935360c78c11eea7a2615e1a7388f3/index.fmp4.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://player.castr.com/live_2e935360c78c11eea7a2615e1a7388f3",
-    "tv_guide": null,
-    "website": "https://www.visitjamaica.com/travel-channel/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "MercyandTruthMinistriesTelevision.jm",
     "name": "Mercy and Truth Ministries Television",
     "alt_names": [
@@ -172,32 +146,6 @@
     "tv_guide": null,
     "website": "https://www.televisionjamaica.com/",
     "launched": "1963-08-06",
-    "closed": null
-  },
-  {
-    "id": "WorldVybzTV.jm",
-    "name": "World Vybz TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "JM",
-    "country_name": "Jamaica",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/x6xdqxx.jpg",
-    "stream_url": "https://tv.wowzahosting.com:3292/stream/play.m3u8",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://worlvybzradio.weebly.com/",
-    "launched": null,
     "closed": null
   }
 ]

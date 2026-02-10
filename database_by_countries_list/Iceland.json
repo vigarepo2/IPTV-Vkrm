@@ -26,34 +26,6 @@
     "closed": null
   },
   {
-    "id": "Omega.is",
-    "name": "Omega",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Eirkur Sigurbjornsson"
-    ],
-    "country_code": "IS",
-    "country_name": "Iceland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/doybFbZ.png",
-    "stream_url": "https://196914.global.ssl.fastly.net/63fe5f3a8f037f47ac36fb2a/live_1d411f00b7a411eda9b5d3bb4704377e/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://omega.is/",
-    "launched": "1992-07-28",
-    "closed": null
-  },
-  {
     "id": "RUV2.is",
     "name": "RUV 2",
     "alt_names": [

@@ -353,34 +353,6 @@
     "closed": null
   },
   {
-    "id": "AtticaTV.gr",
-    "name": "Attica TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Municipal Television Company of the Municipality of Aspropyrgos"
-    ],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Attica_logo_155.jpg",
-    "stream_url": "http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.atticatv.gr/",
-    "launched": "1997-03-20",
-    "closed": null
-  },
-  {
     "id": "BarazaTV.gr",
     "name": "Baraza TV",
     "alt_names": [],
@@ -397,32 +369,6 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/TZ1unwF.png",
     "stream_url": "https://panik.cast-control.eu:1936/Admin_1/Admin_1/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BarazaTV.gr",
-    "name": "Baraza TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/TZ1unwF.png",
-    "stream_url": "https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -450,32 +396,6 @@
     "logo": "https://i.imgur.com/TZ1unwF.png",
     "stream_url": "https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://barazaradio.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BarazaTVGreekMusicHits.gr",
-    "name": "Baraza TV Greek Music Hits",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/TZ1unwF.png",
-    "stream_url": "https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -669,258 +589,6 @@
     "closed": null
   },
   {
-    "id": "CosmoteSport1.gr",
-    "name": "Cosmote Sport 1",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "OTE"
-    ],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/fn0TM6V.png",
-    "stream_url": "http://138.2.160.168:8080/fetch?COSMOTESPORT1",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.cosmote.gr/cosmotetv",
-    "launched": "2009-01-01",
-    "closed": null
-  },
-  {
-    "id": "CosmoteSport2.gr",
-    "name": "Cosmote Sport 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "OTE"
-    ],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/1RSyE5N.png",
-    "stream_url": "http://138.2.160.168:8080/fetch?COSMOTESPORT2",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.cosmote.gr/cosmotetv",
-    "launched": "2009-01-01",
-    "closed": null
-  },
-  {
-    "id": "CosmoteSport3.gr",
-    "name": "Cosmote Sport 3",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "OTE"
-    ],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/V5qKXx9.png",
-    "stream_url": "http://138.2.160.168:8080/fetch?COSMOTESPORT3",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.cosmote.gr/cosmotetv",
-    "launched": "2009-01-01",
-    "closed": null
-  },
-  {
-    "id": "CosmoteSport4.gr",
-    "name": "Cosmote Sport 4",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "OTE"
-    ],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/zEdJUZU.png",
-    "stream_url": "http://138.2.160.168:8080/fetch?COSMOTESPORT4",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.cosmote.gr/cosmotetv",
-    "launched": "2009-01-01",
-    "closed": null
-  },
-  {
-    "id": "CosmoteSport5.gr",
-    "name": "Cosmote Sport 5",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "OTE"
-    ],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/0GKXahH.png",
-    "stream_url": "http://138.2.160.168:8080/fetch?COSMOTESPORT5",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.cosmote.gr/cosmotetv",
-    "launched": "2009-01-01",
-    "closed": null
-  },
-  {
-    "id": "CosmoteSport6.gr",
-    "name": "Cosmote Sport 6",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "OTE"
-    ],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/KG6VWN1.png",
-    "stream_url": "http://138.2.160.168:8080/fetch?COSMOTESPORT6",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.cosmote.gr/cosmotetv",
-    "launched": "2009-01-01",
-    "closed": null
-  },
-  {
-    "id": "CosmoteSport7.gr",
-    "name": "Cosmote Sport 7",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "OTE"
-    ],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/p0DKcn2.png",
-    "stream_url": "http://138.2.160.168:8080/fetch?COSMOTESPORT7",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.cosmote.gr/cosmotetv",
-    "launched": "2009-01-01",
-    "closed": null
-  },
-  {
-    "id": "CosmoteSport8.gr",
-    "name": "Cosmote Sport 8",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "OTE"
-    ],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/DKlW5ka.png",
-    "stream_url": "http://138.2.160.168:8080/fetch?COSMOTESPORT8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.cosmote.gr/cosmotetv",
-    "launched": "2009-01-01",
-    "closed": null
-  },
-  {
-    "id": "CosmoteSport9.gr",
-    "name": "Cosmote Sport 9",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "OTE"
-    ],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/3YwAXcH.png",
-    "stream_url": "http://138.2.160.168:8080/fetch?COSMOTESPORT9",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.cosmote.gr/cosmotetv",
-    "launched": "2009-01-01",
-    "closed": null
-  },
-  {
     "id": "DELTATV.gr",
     "name": "DELTA TV",
     "alt_names": [
@@ -969,34 +637,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://diavatatv.gr/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "DiktyoTV.gr",
-    "name": "Diktyo TV",
-    "alt_names": [
-      "Δίκτυο Τηλεόραση"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/02V5ecC.jpg",
-    "stream_url": "https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://diktyotv.gr/live/",
     "launched": null,
     "closed": null
   },
@@ -1083,62 +723,6 @@
     "closed": null
   },
   {
-    "id": "ENAChannel.gr",
-    "name": "ENA Channel",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "ENA Channel S.A."
-    ],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/3g3yjAq.png",
-    "stream_url": "https://storemusic.top:8222/enachannel/enachannel/enachannel/playlist.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://enachannel.gr/",
-    "launched": "1991-01-01",
-    "closed": null
-  },
-  {
-    "id": "EpilogesTV.gr",
-    "name": "Epiloges TV",
-    "alt_names": [
-      "Ειδήσεις"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/3S4P7ob.png",
-    "stream_url": "https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://epiloges.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "EpirusTV1.gr",
     "name": "Epirus TV1",
     "alt_names": [
@@ -1166,36 +750,6 @@
     "tv_guide": null,
     "website": "https://www.epirustv1.eu/",
     "launched": "1990-01-01",
-    "closed": null
-  },
-  {
-    "id": "EpsilonTV.gr",
-    "name": "Epsilon TV",
-    "alt_names": [
-      "Έψιλον Τηλεόραση"
-    ],
-    "network": null,
-    "owners": [
-      "Star Hellenic Radio Television"
-    ],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ZiiPNf6.png",
-    "stream_url": "https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://epsilon-tv.com/",
-    "launched": "1996-01-01",
     "closed": null
   },
   {
@@ -1461,32 +1015,6 @@
     "closed": null
   },
   {
-    "id": "ExtacyTV.gr",
-    "name": "Extacy TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/DGZFlvp.png",
-    "stream_url": "https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://extacytv.gr/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "FarosTV2.gr",
     "name": "Faros TV2",
     "alt_names": [],
@@ -1578,32 +1106,6 @@
     "logo": "https://i.ibb.co/ZNCXr79/gnomi-logo.png",
     "stream_url": "https://live.streams.ovh:8081/gnomitv/index.m3u8",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.gnomi.eu/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "GnomiTV.gr",
-    "name": "Gnomi TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/ZNCXr79/gnomi-logo.png",
-    "stream_url": "https://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8",
-    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1920,36 +1422,6 @@
     "closed": null
   },
   {
-    "id": "MadGreekz.gr",
-    "name": "Mad Greekz",
-    "alt_names": [
-      "Mad Greekζ"
-    ],
-    "network": null,
-    "owners": [
-      "Solar Media Inc."
-    ],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/lJKJplM.png",
-    "stream_url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://mad.gr/mad-greekz/",
-    "launched": "2008-09-12",
-    "closed": null
-  },
-  {
     "id": "MesogeiosTV.gr",
     "name": "Mesogeios TV",
     "alt_names": [],
@@ -2025,69 +1497,6 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NaftemporikiTV.gr",
-    "name": "Naftemporiki TV",
-    "alt_names": [
-      "Ναυτεμπορική TV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/9OFdMud.png",
-    "stream_url": "https://stream-188125.castr.net/631af9c016e5eace19ff9a5b/live_048998706a2311ee83b33fe7fbad252d/index.fmp4.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.naftemporiki.gr/ntv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NationalGeographic.gr",
-    "name": "National Geographic",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "The Walt Disney Company Greece"
-    ],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/FsPGHpzX/nationalgeographic.png",
-    "stream_url": "http://62.210.211.188:2095/play/a00d",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NationalGeographic.gr",
-      "feed": "HD",
-      "site": "novacyprus.com",
-      "site_id": "617",
-      "site_name": "National Geographic HD",
-      "lang": "el"
-    },
-    "website": "https://www.natgeotv.com/gr",
-    "launched": "2001-01-01",
     "closed": null
   },
   {
@@ -2195,32 +1604,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://netmaxtv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NG.gr",
-    "name": "NG",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/IcgbJKF.png",
-    "stream_url": "http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8",
-    "stream_quality": "614p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
     "launched": null,
     "closed": null
   },
@@ -2359,38 +1742,6 @@
     },
     "website": "https://www.onetv.gr/",
     "launched": "2019-05-02",
-    "closed": null
-  },
-  {
-    "id": "OpenTV.gr",
-    "name": "Open TV",
-    "alt_names": [
-      "Epsilon TV",
-      "epsilontv",
-      "Open Beyond"
-    ],
-    "network": null,
-    "owners": [
-      "Radiotelevision S.A."
-    ],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/el/thumb/e/e5/Open_TV_logo.png/498px-Open_TV_logo.png",
-    "stream_url": "http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.tvopen.gr/",
-    "launched": "2013-09-11",
     "closed": null
   },
   {
@@ -2583,32 +1934,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://primenewstv.gr/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RealMusicTV.gr",
-    "name": "Real Music TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/0t1KZR0/331060270-1228498987772287-4242923007504860527-n.jpg",
-    "stream_url": "https://livetv.streams.ovh:1936/realmusictv/realmusictv/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.realmusic.gr/",
     "launched": null,
     "closed": null
   },
@@ -3028,30 +2353,6 @@
     "logo": "https://i.imgur.com/wb4pLkW.jpg",
     "stream_url": "http://wpso.com:1936/hls/music1.m3u8",
     "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Tilemousiki.gr",
-    "name": "Tilemousiki",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/wb4pLkW.jpg",
-    "stream_url": "https://live20.bozztv.com/akamaissh101/ssh101/tilemousiki/playlist.m3u8",
-    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

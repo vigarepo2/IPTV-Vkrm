@@ -1,31 +1,5 @@
 [
   {
-    "id": "AsluTV.mv",
-    "name": "Aslu TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "MV",
-    "country_name": "Maldives",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/RTv6klV.jpeg",
-    "stream_url": "http://xui.neongreenlight.com:8081/memfs/b2ee6ee7-28c6-4a71-8ae4-c47ec07bcd22.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://aslu.com.mv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Channel13.mv",
     "name": "Channel 13",
     "alt_names": [],
@@ -162,32 +136,6 @@
     "closed": null
   },
   {
-    "id": "OceanTVNetwork.mv",
-    "name": "Ocean TV Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "MV",
-    "country_name": "Maldives",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/nqdkLl5.jpeg",
-    "stream_url": "https://egress-stkplz7mbu4ftbof3zr94.live.streamer.wpstream.net/ev_wps_52076_oceant53da84_221_1717304220/hls/5yjq1wbd06ffe4t4.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://oceantvnetwork.com/",
-    "launched": "2023-08-01",
-    "closed": null
-  },
-  {
     "id": "PSMNews.mv",
     "name": "PSM News",
     "alt_names": [],
@@ -213,58 +161,6 @@
     "tv_guide": null,
     "website": "http://psmnews.mv/",
     "launched": "2017-05-03",
-    "closed": null
-  },
-  {
-    "id": "RaajjeTV.mv",
-    "name": "Raajje TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "MV",
-    "country_name": "Maldives",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/NvYCCGl.png",
-    "stream_url": "https://stream.raajje.mv/live/rtv_live/index.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://raajje.mv/",
-    "launched": "2008-06-05",
-    "closed": null
-  },
-  {
-    "id": "SanguTV.mv",
-    "name": "Sangu TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "MV",
-    "country_name": "Maldives",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/zR2jvmM.png",
-    "stream_url": "http://xui.neongreenlight.com:8081/memfs/44ad185e-2d15-4a26-8422-04df8fd4e4bd.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://sangu.mv/",
-    "launched": null,
     "closed": null
   },
   {
@@ -314,34 +210,6 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/1c7rFKC.png",
     "stream_url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/9e93379c0d46ee588b99263d95bd9c42/manifest/video.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.psm.mv/",
-    "launched": "1978-03-29",
-    "closed": null
-  },
-  {
-    "id": "TVMaldives.mv",
-    "name": "TV Maldives",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Public Service Media"
-    ],
-    "country_code": "MV",
-    "country_name": "Maldives",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/1c7rFKC.png",
-    "stream_url": "https://hugh.cdn.rumble.cloud/live/v0xi25uh/live-hls/wzj2-sdca/chunklist_i1_DVR.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,

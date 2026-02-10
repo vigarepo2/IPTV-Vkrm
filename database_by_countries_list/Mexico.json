@@ -87,41 +87,6 @@
     "closed": null
   },
   {
-    "id": "Afizzionados.mx",
-    "name": "Afizzionados",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Grupo Televisa"
-    ],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/HBOHkgL.png",
-    "stream_url": "https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Afizzionados.mx",
-      "feed": "SD",
-      "site": "gatotv.com",
-      "site_id": "afizzionados",
-      "site_name": "Afizzionados",
-      "lang": "es"
-    },
-    "website": "https://afizzionados.tv/",
-    "launched": null,
-    "closed": "2024-04-30"
-  },
-  {
     "id": "AlcanceTV.mx",
     "name": "Alcance TV",
     "alt_names": [],
@@ -176,32 +141,6 @@
     "closed": null
   },
   {
-    "id": "AntenaTV.mx",
-    "name": "Antena TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/1sAgSME.png",
-    "stream_url": "https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.antenatele.com.mx/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "AsiSucedeGuanajuato.mx",
     "name": "Asi Sucede Guanajuato",
     "alt_names": [
@@ -228,41 +167,6 @@
     "tv_guide": null,
     "website": "https://asisucedegto.mx/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Azteca7.mx",
-    "name": "Azteca 7",
-    "alt_names": [],
-    "network": "Televisión Azteca",
-    "owners": [
-      "TV Azteca"
-    ],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/UtFXjIn.png",
-    "stream_url": "https://dnxdy7xlok3gl.cloudfront.net/5031bd7f-769e-4021-9967-019314f4a1f7/manifest.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Azteca7.mx",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "116154",
-      "site_name": "Azteca 7",
-      "lang": "en"
-    },
-    "website": "https://www.tvazteca.com/azteca7",
-    "launched": "1985-05-18",
     "closed": null
   },
   {
@@ -1097,32 +1001,6 @@
     "closed": null
   },
   {
-    "id": "CorTV.mx",
-    "name": "CorTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Oaxacan Radio and Television Corporation"
-    ],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/NLO7HO4.png",
-    "stream_url": "https://s5.mexside.net:1936/cortv/cortv/playlist.m3u8",
-    "stream_quality": "800p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.cortv.oaxaca.gob.mx/television-2/",
-    "launched": "1980-01-01",
-    "closed": null
-  },
-  {
     "id": "CreaLaTV.mx",
     "name": "CreaLaTV",
     "alt_names": [],
@@ -1349,96 +1227,6 @@
     },
     "website": "https://www.nmas.com.mx/foro-tv",
     "launched": "2010-02-15",
-    "closed": null
-  },
-  {
-    "id": "FoxSports.mx",
-    "name": "Fox Sports",
-    "alt_names": [
-      "Fox Sports México"
-    ],
-    "network": "Fox Sports International",
-    "owners": [
-      "Fox Sports Media Group"
-    ],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/RhywSWdr/foxsports.png",
-    "stream_url": "https://ott.udptv.com/stream/udptv/foxsports/master.m3u8?p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a&u=discord.gg/civ3",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.foxsports.com.mx/",
-    "launched": "1995-10-31",
-    "closed": "2021-12-01"
-  },
-  {
-    "id": "FoxSportsPremium.mx",
-    "name": "Fox Sports Premium",
-    "alt_names": [
-      "Fox Sports Premium México"
-    ],
-    "network": "Fox Sports International",
-    "owners": [
-      "Fox Sports Media Group"
-    ],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/3lOZWeD.png",
-    "stream_url": "https://live20.bozztv.com/akamaissh101/ssh101/foxsports/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.foxsports.com.mx/",
-    "launched": "2022-04-02",
-    "closed": null
-  },
-  {
-    "id": "GikTVMX.mx",
-    "name": "GikTVMX",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "G3 N Media MX"
-    ],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "culture",
-      "animation",
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Gwz78jZ.png",
-    "stream_url": "https://pistream.ddns.net/hls/stream.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://giktvmx.g3radio.mx",
-    "tv_guide": null,
-    "website": "https://giktvmx.g3radio.mx",
-    "launched": "2023-06-15",
     "closed": null
   },
   {
@@ -1705,34 +1493,6 @@
     "closed": null
   },
   {
-    "id": "LaRancheradeCuauhtemoc.mx",
-    "name": "La Ranchera de Cuauhtemoc",
-    "alt_names": [
-      "La Ranchera de Cuauhtémoc"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/jbeojin.png",
-    "stream_url": "https://5fa5de1a545ae.streamlock.net/8010/8010/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://dp.gbmradio.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "LasEstrellas.mx",
     "name": "Las Estrellas",
     "alt_names": [],
@@ -1751,41 +1511,6 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/g5ShxZ7.png",
     "stream_url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "LasEstrellas.mx",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "588",
-      "site_name": "Las Estrellas",
-      "lang": "fr"
-    },
-    "website": "https://www.lasestrellas.tv/",
-    "launched": "1951-03-11",
-    "closed": null
-  },
-  {
-    "id": "LasEstrellas.mx",
-    "name": "Las Estrellas",
-    "alt_names": [],
-    "network": "Televisa",
-    "owners": [
-      "TelevisaUnivision"
-    ],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/g5ShxZ7.png",
-    "stream_url": "https://d162h6qqsk8wvl.cloudfront.net/e4025399-d1b6-4e51-8505-de9ec123a3fb/manifest.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -1860,39 +1585,6 @@
       "lang": "es"
     },
     "website": "https://www.mariavision.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "MeganoticiasMX.mx",
-    "name": "Meganoticias MX",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/kARz7SR.png",
-    "stream_url": "https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MeganoticiasMX.mx",
-      "feed": "SD",
-      "site": "gatotv.com",
-      "site_id": "meganoticias_mx",
-      "site_name": "Meganoticias MX",
-      "lang": "es"
-    },
-    "website": "https://meganoticias.mx/",
     "launched": null,
     "closed": null
   },
@@ -2005,32 +1697,6 @@
     },
     "website": "https://www.milenio.com/mileniotv",
     "launched": "2008-08-20",
-    "closed": null
-  },
-  {
-    "id": "MiSURtv.mx",
-    "name": "MiSURtv",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/qStNac7.png",
-    "stream_url": "https://stream8.mexiserver.com:1936/misurtv/misurtv/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
     "closed": null
   },
   {
@@ -2344,34 +2010,6 @@
     "closed": null
   },
   {
-    "id": "MVSTV.mx",
-    "name": "MVS TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "MVS Comunicaciones"
-    ],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/TcB37yV.png",
-    "stream_url": "https://mvs.daioncdn.net/mvstv/mvstv.m3u8?app=web",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://mvstv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "MyTimeMovieNetwork.mx",
     "name": "MyTime Movie Network",
     "alt_names": [],
@@ -2424,121 +2062,6 @@
     "closed": null
   },
   {
-    "id": "NRTMexicoInternacional.mx",
-    "name": "NRT Mexico Internacional",
-    "alt_names": [
-      "NRT México Internacional"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/W2E0fSy.png",
-    "stream_url": "https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal24nrt/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://noticiasnrt.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NRTMexicoRegionCarbonifera.mx",
-    "name": "NRT Mexico Region Carbonifera",
-    "alt_names": [
-      "NRT México Región Carbonífera",
-      "Canal 10 Sabinas"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ZqFJhAk.jpg",
-    "stream_url": "https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal10nrt/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://noticiasnrt.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NRTMexicoRegionCentro.mx",
-    "name": "NRT Mexico Region Centro",
-    "alt_names": [
-      "NRT México Región Centro",
-      "Canal 4 Monclova"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/yjNUzYD.jpg",
-    "stream_url": "https://5c001c2729b09.streamlock.net:4443/live/ngrp:canal4mva_all/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://noticiasnrt.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NRTMexicoRegionSureste.mx",
-    "name": "NRT Mexico Region Sureste",
-    "alt_names": [
-      "NRT México Región Sureste",
-      "Canal 6 Saltillo"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/rxVVrZV.jpg",
-    "stream_url": "https://5c001c2729b09.streamlock.net:4443/live/ngrp:canal6nrt_all/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://noticiasnrt.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "NueveTV.mx",
     "name": "Nueve TV",
     "alt_names": [
@@ -2566,32 +2089,6 @@
     "tv_guide": null,
     "website": "https://www.ntvslp.com/",
     "launched": "1968-09-01",
-    "closed": null
-  },
-  {
-    "id": "OlaGrupera.mx",
-    "name": "Ola Grupera",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ZnUtNHE.png",
-    "stream_url": "https://s.emisoras.tv:8081/olagruperamx/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://gruperaola.wixsite.com/olagruperamagazine-3",
-    "launched": null,
     "closed": null
   },
   {
@@ -2706,34 +2203,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://radiotele.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RadioyTelevisionBudokan.mx",
-    "name": "Radio y Television Budokan",
-    "alt_names": [
-      "Radio y Televisión Budokan"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/1rfoSt8.png",
-    "stream_url": "https://stella.streamerr.co:3065/live/budokantvlive.m3u8",
-    "stream_quality": "352p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://budokanveracruzmultimedios.com/",
     "launched": null,
     "closed": null
   },
@@ -2891,34 +2360,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SintesisTV.mx",
-    "name": "Sintesis TV",
-    "alt_names": [
-      "Síntesis TV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/1g9mbqi.png",
-    "stream_url": "https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/sintesis_tv.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://sintesistv.com.mx/",
     "launched": null,
     "closed": null
   },
@@ -3462,37 +2903,6 @@
     "closed": null
   },
   {
-    "id": "TUDN.mx",
-    "name": "TUDN",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/oT5CAvd.png",
-    "stream_url": "https://d162h6qqsk8wvl.cloudfront.net/c84794a7-80f2-4598-a92d-f8641cc684f4/manifest.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TUDN.mx",
-      "feed": "SD",
-      "site": "gatotv.com",
-      "site_id": "tudn_mexico",
-      "site_name": "TUDN México",
-      "lang": "es"
-    },
-    "website": "https://www.tudn.mx/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TuristikTV.mx",
     "name": "Turistik TV",
     "alt_names": [],
@@ -3599,34 +3009,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://tvcuatro.tv/4-2/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVCuatro43.mx",
-    "name": "TV Cuatro 4.3",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Gobierno del Estado de Guanajuato"
-    ],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Of044Jx.png",
-    "stream_url": "https://5f1af61612fb5.streamlock.net/tv43/tv43.smil/.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tvcuatro.tv/4-3/",
     "launched": null,
     "closed": null
   },
@@ -3809,32 +3191,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://tvmar.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVMigrante.mx",
-    "name": "TV Migrante",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/tVgkiJF.png",
-    "stream_url": "https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://mxplus.tv/television/tv-migrante",
     "launched": null,
     "closed": null
   },
@@ -4373,36 +3729,6 @@
     "closed": null
   },
   {
-    "id": "XHFNTDT1.mx",
-    "name": "XHFN-TDT1",
-    "alt_names": [
-      "Azteca 7"
-    ],
-    "network": "Azteca Noreste",
-    "owners": [
-      "TV Azteca"
-    ],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/aGup2ag.png",
-    "stream_url": "https://d162h6qqsk8wvl.cloudfront.net/9dd2f454-148b-43f2-8ad4-17f74d749895/manifest.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.info7.mx/",
-    "launched": "1974-02-01",
-    "closed": null
-  },
-  {
     "id": "XHGVTDT.mx",
     "name": "XHGV-TDT",
     "alt_names": [],
@@ -4534,37 +3860,6 @@
     "tv_guide": null,
     "website": "http://www.setpuebla.mx/television/",
     "launched": "2003-11-26",
-    "closed": null
-  },
-  {
-    "id": "XHSPRTDT1.mx",
-    "name": "XHSPR-TDT1",
-    "alt_names": [
-      "Canal Catorce"
-    ],
-    "network": null,
-    "owners": [
-      "Sistema Público de Radiodifusión del Estado Mexicano"
-    ],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "education",
-      "culture"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/AWLWu91.png",
-    "stream_url": "https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://www.canalcatorce.tv/",
-    "tv_guide": null,
-    "website": "https://canalcatorce.tv/",
-    "launched": "2012-01-01",
     "closed": null
   },
   {

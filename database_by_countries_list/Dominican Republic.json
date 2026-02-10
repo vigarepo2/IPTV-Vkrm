@@ -134,32 +134,6 @@
     "closed": null
   },
   {
-    "id": "AlcarrizosTV.do",
-    "name": "Alcarrizos TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/C3fdPYGs/Alcarrizo.jpg",
-    "stream_url": "https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://alcarrizostv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "AlegreTVRD.do",
     "name": "Alegre TV RD",
     "alt_names": [],
@@ -391,32 +365,6 @@
     "tv_guide": null,
     "website": "https://www.antena7.com.do/",
     "launched": "1991-08-13",
-    "closed": null
-  },
-  {
-    "id": "Area809ElOriginal.do",
-    "name": "Area 809 El Original",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/WkMfnGs/Channels4-profile-8.jpg",
-    "stream_url": "https://vdo.voxhdnet.com:3159/stream/play.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.rudyrudisimo.com",
-    "launched": null,
     "closed": null
   },
   {
@@ -1030,41 +978,6 @@
     "closed": null
   },
   {
-    "id": "CDN.do",
-    "name": "CDN",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Banco Popular Dominicano"
-    ],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/eQyjIgf.png",
-    "stream_url": "http://38.159.227.126:8000/play/a05d/index.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CDN.do",
-      "feed": "SD",
-      "site": "gatotv.com",
-      "site_id": "37_republica_dominicana",
-      "site_name": "37 de República Dominicana",
-      "lang": "es"
-    },
-    "website": "https://cdn.com.do/",
-    "launched": "1988-01-01",
-    "closed": null
-  },
-  {
     "id": "CDNDeportes.do",
     "name": "CDN Deportes",
     "alt_names": [],
@@ -1251,8 +1164,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg",
-    "stream_url": "https://rdn.essastream.com:3996/live/citricotvlive.m3u8",
-    "stream_quality": "240p",
+    "stream_url": "https://mlb.essastream.com:8081/citricotv/playlist.m3u8",
+    "stream_quality": "360p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1592,32 +1505,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.cromtv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "CTVCanal76.do",
-    "name": "CTV Canal 76",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/nLRLsPn.png",
-    "stream_url": "https://vdo2.streamgato.us:3978/live/ctvlive.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
     "launched": null,
     "closed": null
   },
@@ -2327,32 +2214,6 @@
     "tv_guide": null,
     "website": "https://grupomediosdelnorte.com/",
     "launched": "2007-01-01",
-    "closed": null
-  },
-  {
-    "id": "GETtv.do",
-    "name": "GET tv",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/gg/get-tv-do.png",
-    "stream_url": "https://cnn.livestreaminggroup.info:3050/live/gettvlive.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.gettvrd.com/",
-    "launched": null,
     "closed": null
   },
   {
@@ -3205,34 +3066,6 @@
     "closed": null
   },
   {
-    "id": "MaimonTVCanal3.do",
-    "name": "Maimon TV Canal 3",
-    "alt_names": [
-      "Maimón TV Canal 3"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/twldaaC.png",
-    "stream_url": "https://ss3.domint.net:3138/mtv_str/maimon/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.maimontv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "MakaoTV.do",
     "name": "Makao TV",
     "alt_names": [
@@ -3629,32 +3462,6 @@
     "closed": null
   },
   {
-    "id": "Mun2TV.do",
-    "name": "Mun2TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/e38DNzI.png",
-    "stream_url": "https://vdo2.streamgato.us:3144/live/mund2tvlive.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.mun2-tv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Musavision.do",
     "name": "Musavision",
     "alt_names": [
@@ -3741,32 +3548,6 @@
     "closed": null
   },
   {
-    "id": "NicolStudioRD.do",
-    "name": "Nicol Studio RD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3895-294x165-FFFFFF.jpg",
-    "stream_url": "https://vdopanel.jlahozconsulting.com:3948/live/studitvrdlive.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.vivalivetv.com/channel/nicol-studio-rd",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "NitidaTV.do",
     "name": "Nitida TV",
     "alt_names": [
@@ -3812,7 +3593,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://www.lyngsat.com/logo/tv/nn/noticias-16-do.png",
-    "stream_url": "https://mlb.essastream.com:8081/noticiasn16/playlist.m3u8",
+    "stream_url": "https://mlb.essastream.com:8081/noticias16/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -4295,30 +4076,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://dominicanchannels.com/reportero-tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ResplandorTV.do",
-    "name": "Resplandor TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/PkDMero.png",
-    "stream_url": "https://ss2.domint.net:3100/rtv_str/rvision/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://resplandorvision.com/",
     "launched": null,
     "closed": null
   },
@@ -6693,34 +6450,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.xtremochannel.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Yunavision.do",
-    "name": "Yunavision",
-    "alt_names": [
-      "Yunavisión"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/YjceEv5.png",
-    "stream_url": "https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.yunavision.com/",
     "launched": null,
     "closed": null
   },

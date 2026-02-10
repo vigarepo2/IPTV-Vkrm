@@ -28,34 +28,6 @@
     "closed": null
   },
   {
-    "id": "ABCTVParaguay.py",
-    "name": "ABC-TV Paraguay",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Grupo ABC Comunicaciones"
-    ],
-    "country_code": "PY",
-    "country_name": "Paraguay",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/OqfBMGy.png",
-    "stream_url": "https://cdn.jwplayer.com/live/broadcast/GQagSggs.mpd",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.abc.com.py/tv/",
-    "launched": "2017-08-07",
-    "closed": null
-  },
-  {
     "id": "BrunoMasiTV.py",
     "name": "Bruno Masi TV",
     "alt_names": [],
@@ -177,34 +149,6 @@
     "closed": null
   },
   {
-    "id": "CausaComunTV.py",
-    "name": "Causa Comun TV",
-    "alt_names": [
-      "Causa Común TV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "PY",
-    "country_name": "Paraguay",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/8LZvYn1.jpg",
-    "stream_url": "https://live.enhdtv.com:8081/8172/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "CosmosTV.py",
     "name": "Cosmos TV",
     "alt_names": [],
@@ -280,34 +224,6 @@
     "tv_guide": null,
     "website": "http://www.farra.com.py/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Gen.py",
-    "name": "Gen",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Nacion Media Group"
-    ],
-    "country_code": "PY",
-    "country_name": "Paraguay",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/vEMnZF4.png",
-    "stream_url": "https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_baja/playlist.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.gen.com.py/",
-    "launched": "2017-06-07",
     "closed": null
   },
   {
@@ -438,32 +354,6 @@
     "tv_guide": null,
     "website": "https://nexthdpy.blogspot.com/",
     "launched": "2022-01-10",
-    "closed": null
-  },
-  {
-    "id": "PanambiDigitalTV.py",
-    "name": "Panambi Digital TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PY",
-    "country_name": "Paraguay",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/5KX4NvS.jpg",
-    "stream_url": "https://video.hostingcaaguazu.com:19360/panambiveratv/panambiveratv.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://panambidigital.com/",
-    "launched": null,
     "closed": null
   },
   {

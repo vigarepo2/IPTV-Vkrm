@@ -1,33 +1,5 @@
 [
   {
-    "id": "Aqlvoy.uz",
-    "name": "Aqlvoy",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Ministry of Preschool Education"
-    ],
-    "country_code": "UZ",
-    "country_name": "Uzbekistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ekF5cAi.png",
-    "stream_url": "http://gohoski.fvds.ru:3000/mediabay/645/playlist.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://aqlvoy.uz/",
-    "launched": "2021-03-22",
-    "closed": null
-  },
-  {
     "id": "BIZCinema.uz",
     "name": "BIZ Cinema",
     "alt_names": [],
@@ -132,32 +104,6 @@
     "closed": null
   },
   {
-    "id": "Bolajon.uz",
-    "name": "Bolajon",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "UZ",
-    "country_name": "Uzbekistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/s7o0ifu.png",
-    "stream_url": "http://gohoski.fvds.ru:3000/mediabay/148/playlist.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.mtrk.uz/uz/tv/bolajon/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "DasturxonTV.uz",
     "name": "Dasturxon TV",
     "alt_names": [],
@@ -201,32 +147,6 @@
     "logo": "https://i.imgur.com/KArB5U6.png",
     "stream_url": "https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.mtrk.uz/uz/tv/dunyo/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Dunyoboylab.uz",
-    "name": "Dunyo bo'ylab",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "UZ",
-    "country_name": "Uzbekistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/KArB5U6.png",
-    "stream_url": "http://gohoski.fvds.ru:3000/mediabay/144/playlist.m3u8",
-    "stream_quality": "480p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -314,32 +234,6 @@
     "closed": null
   },
   {
-    "id": "Madaniyatvamarifat.uz",
-    "name": "Madaniyat va ma'rifat",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "UZ",
-    "country_name": "Uzbekistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/eeNLXCP.png",
-    "stream_url": "http://gohoski.fvds.ru:3000/mediabay/146/playlist.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.mtrk.uz/uz/tv/madaniyat/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Mahalla.uz",
     "name": "Mahalla",
     "alt_names": [],
@@ -357,32 +251,6 @@
     "logo": "https://i.imgur.com/GtABiJI.png",
     "stream_url": "https://stream8.cinerama.uz/1013/tracks-v1a1/playlist.m3u8",
     "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.mtrk.uz/uz/tv/mahalla/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Mahalla.uz",
-    "name": "Mahalla",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "National Television and Radio Company of Uzbekistan"
-    ],
-    "country_code": "UZ",
-    "country_name": "Uzbekistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/GtABiJI.png",
-    "stream_url": "http://gohoski.fvds.ru:3000/mediabay/394/playlist.m3u8",
-    "stream_quality": "480p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -434,32 +302,6 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/v4FBm26.png",
     "stream_url": "http://milliy.tv/hls/index.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Milliy.uz",
-    "name": "Milliy",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "UZ",
-    "country_name": "Uzbekistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/v4FBm26.png",
-    "stream_url": "http://gohoski.fvds.ru:3000/mediabay/391/playlist.m3u8",
     "stream_quality": "480p",
     "stream_format": null,
     "user_agent": null,
@@ -552,32 +394,6 @@
     "closed": null
   },
   {
-    "id": "Navo.uz",
-    "name": "Navo",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "UZ",
-    "country_name": "Uzbekistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/7dZ64y9.png",
-    "stream_url": "http://gohoski.fvds.ru:3000/mediabay/254/playlist.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.mtrk.uz/uz/tv/navo/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Ozbekiston24.uz",
     "name": "O'zbekiston 24",
     "alt_names": [],
@@ -606,34 +422,6 @@
     "closed": null
   },
   {
-    "id": "Ozbekiston24.uz",
-    "name": "O'zbekiston 24",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "National Television and Radio Company of Uzbekistan"
-    ],
-    "country_code": "UZ",
-    "country_name": "Uzbekistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/VRFhKbw.png",
-    "stream_url": "http://gohoski.fvds.ru:3000/mediabay/393/playlist.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://uzbekistan24.uz/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Ozbekiston.uz",
     "name": "O'zbekiston",
     "alt_names": [],
@@ -653,34 +441,6 @@
     "logo": "https://i.imgur.com/QUIIhTD.png",
     "stream_url": "https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8",
     "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.mtrk.uz/uz/tv/ozbekiston/",
-    "launched": "1956-11-01",
-    "closed": null
-  },
-  {
-    "id": "Ozbekiston.uz",
-    "name": "O'zbekiston",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "National Television and Radio Company of Uzbekistan"
-    ],
-    "country_code": "UZ",
-    "country_name": "Uzbekistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/QUIIhTD.png",
-    "stream_url": "http://gohoski.fvds.ru:3000/mediabay/140/playlist.m3u8",
-    "stream_quality": "480p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -824,32 +584,6 @@
     "closed": null
   },
   {
-    "id": "Toshkent.uz",
-    "name": "Toshkent",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "UZ",
-    "country_name": "Uzbekistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Z9R4nZg.png",
-    "stream_url": "http://gohoski.fvds.ru:3000/mediabay/136/playlist.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.mtrk.uz/uz/tv/toshkent/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "UzReportTV.uz",
     "name": "UzReport TV",
     "alt_names": [],
@@ -893,32 +627,6 @@
     "logo": "https://i.imgur.com/s4xfUSx.png",
     "stream_url": "https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.mtrk.uz/uz/tv/yoshlar/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Yoshlar.uz",
-    "name": "Yoshlar",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "UZ",
-    "country_name": "Uzbekistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/s4xfUSx.png",
-    "stream_url": "http://gohoski.fvds.ru:3000/mediabay/134/playlist.m3u8",
-    "stream_quality": "480p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

@@ -214,32 +214,6 @@
     "closed": null
   },
   {
-    "id": "BemTV.br",
-    "name": "Bem TV",
-    "alt_names": [],
-    "network": "SBT",
-    "owners": [],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ifGQGJx.png",
-    "stream_url": "http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.bemtv.online/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "BoasNovas.br",
     "name": "Boas Novas",
     "alt_names": [],
@@ -567,32 +541,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.canalsaude.fiocruz.br/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "CanalSete.br",
-    "name": "Canal Sete",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/0cq0BPp.png",
-    "stream_url": "http://189.51.193.70:1935/canalsete/xpl-c7/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.canalsete.com.br/",
     "launched": null,
     "closed": null
   },
@@ -1285,32 +1233,6 @@
     "closed": null
   },
   {
-    "id": "IMPDTV.br",
-    "name": "IMPD TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/23m7LHH.png",
-    "stream_url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://impd.org.br/?tv=",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "IMPDTVWorldwide.br",
     "name": "IMPD TV Worldwide",
     "alt_names": [],
@@ -1461,32 +1383,6 @@
     "closed": "2021-05-07"
   },
   {
-    "id": "MasterShowTV.br",
-    "name": "Master Show TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/haXHFCT.png",
-    "stream_url": "https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.mastershowtv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "MKKWebTV.br",
     "name": "MKK Web TV",
     "alt_names": [],
@@ -1592,33 +1488,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://novaeratv.net/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NovaTVAgrotour.br",
-    "name": "Nova TV Agrotour",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "science",
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/cgN2hfm.png",
-    "stream_url": "https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.novatvagrotour.com.br/",
     "launched": null,
     "closed": null
   },
@@ -2326,34 +2195,6 @@
     "closed": null
   },
   {
-    "id": "RedeMetropole.br",
-    "name": "Rede Metropole",
-    "alt_names": [
-      "Rede Metrópole"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/qJx9Zvd.png",
-    "stream_url": "https://acesso.ecast.site:3456/hybrid/play.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://redemetropole.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "RedeMinas.br",
     "name": "Rede Minas",
     "alt_names": [],
@@ -2459,39 +2300,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.redesptv.com.br/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RedeTV.br",
-    "name": "Rede TV!",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ZJgD38F.png",
-    "stream_url": "https://cdn.jmvstream.com/w/AVJ-15235/playlist/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RedeTV.br",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "br#rede-tv",
-      "site_name": "RedeTV!",
-      "lang": "pt"
-    },
-    "website": null,
     "launched": null,
     "closed": null
   },
@@ -2780,34 +2588,6 @@
     "closed": null
   },
   {
-    "id": "SuperflixTV.br",
-    "name": "Superflix TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment",
-      "series",
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/lvUbMen.png",
-    "stream_url": "https://streaming.cloudecast.com/hls/superflix/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TCM10HD.br",
     "name": "TCM 10 HD",
     "alt_names": [],
@@ -2860,36 +2640,6 @@
     "tv_guide": null,
     "website": "https://timesbrasil.com.br/",
     "launched": "2024-11-17",
-    "closed": null
-  },
-  {
-    "id": "TVA7Plus.br",
-    "name": "TV A7 Plus",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Fundação Nelson Castilho"
-    ],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment",
-      "music",
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/qeo2oPM.png",
-    "stream_url": "https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tva7.com.br/",
-    "launched": null,
     "closed": null
   },
   {
@@ -3155,65 +2905,6 @@
     "closed": null
   },
   {
-    "id": "TVBEJoinville.br",
-    "name": "TVBE Joinville",
-    "alt_names": [],
-    "network": "TV Brasil",
-    "owners": [
-      "Fundação Cultural e Educacional de Itajaí"
-    ],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "culture",
-      "education"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/zUpWcUN.png",
-    "stream_url": "https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.tvbejoinville.com.br/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVBeltrao.br",
-    "name": "TV Beltrao",
-    "alt_names": [
-      "TV Beltrão"
-    ],
-    "network": "TV Brasil",
-    "owners": [
-      "Fundação TV Beltraõ"
-    ],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/JxsyXCD.png",
-    "stream_url": "https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tvbeltrao.com.br/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TVBirigui.br",
     "name": "TV Birigui",
     "alt_names": [],
@@ -3292,35 +2983,6 @@
     "closed": null
   },
   {
-    "id": "TVBoqueirao.br",
-    "name": "TV Boqueirao",
-    "alt_names": [
-      "TV Boqueirão",
-      "TVB"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/1XrArrG.png",
-    "stream_url": "https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TVBrasil.br",
     "name": "TV Brasil",
     "alt_names": [],
@@ -3351,30 +3013,6 @@
     },
     "website": "https://tvbrasil.ebc.com.br/",
     "launched": "1975-11-05",
-    "closed": null
-  },
-  {
-    "id": "TVBrasilCentral.br",
-    "name": "TV Brasil Central",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/VgjVlp3.png",
-    "stream_url": "https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.abc.go.gov.br/tv-radio-imprensa-oficial/ao-vivo-tbc.html",
-    "launched": null,
     "closed": null
   },
   {
@@ -3584,39 +3222,6 @@
     "closed": null
   },
   {
-    "id": "TVCeara.br",
-    "name": "TV Ceara",
-    "alt_names": [
-      "TV Ceará"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/rvQucQg.png",
-    "stream_url": "https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVCeara.br",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "br#tv-ceara",
-      "site_name": "TV Ceará",
-      "lang": "pt"
-    },
-    "website": "https://www.tvceara.ce.gov.br/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TVCidadedePetropolis.br",
     "name": "TV Cidade de Petropolis",
     "alt_names": [
@@ -3759,32 +3364,6 @@
     "closed": null
   },
   {
-    "id": "TVCNAgitos.br",
-    "name": "TV CN Agitos",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/5gvGC0P.png",
-    "stream_url": "https://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://cnagitos.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TVCOMMaceio.br",
     "name": "TVCOM Maceio",
     "alt_names": [
@@ -3809,32 +3388,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://tvcommaceio.tv.br/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVCOMSantos.br",
-    "name": "TV COM Santos",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/KX3fner.png",
-    "stream_url": "https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8",
-    "stream_quality": "416p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tvcomsantos.com/",
     "launched": null,
     "closed": null
   },
@@ -4478,34 +4031,6 @@
     "closed": null
   },
   {
-    "id": "TVGuarapari.br",
-    "name": "TV Guarapari",
-    "alt_names": [
-      "TV Guaraparí"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/eDNzwK0.png",
-    "stream_url": "https://ikki.hubcloud.tv.br/TVGuarapari/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.tvguarapari.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TVideoNews.br",
     "name": "TVideoNews",
     "alt_names": [
@@ -4586,32 +4111,6 @@
     "closed": null
   },
   {
-    "id": "TVJapi.br",
-    "name": "TV Japi",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/dnmzIhF.png",
-    "stream_url": "https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.tvjapi.com.br/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TVLiberdade.br",
     "name": "TV Liberdade",
     "alt_names": [],
@@ -4658,34 +4157,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://tvlifeamerica.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVMaceio.br",
-    "name": "TV Maceio",
-    "alt_names": [
-      "TV Maceió"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/zZ9LEOZ.png",
-    "stream_url": "https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tvmaceio.tv.br/",
     "launched": null,
     "closed": null
   },
@@ -4766,32 +4237,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.grupomarajoara.com.br/tv-marajoara/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVMaster.br",
-    "name": "TVMaster",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/fTgGvNJ.png",
-    "stream_url": "https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.tvmaster.tv/",
     "launched": null,
     "closed": null
   },
@@ -5024,30 +4469,6 @@
     "closed": null
   },
   {
-    "id": "TVMon.br",
-    "name": "TV Mon",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Gjan8rl.png",
-    "stream_url": "https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TVNBN.br",
     "name": "TVNBN",
     "alt_names": [],
@@ -5070,34 +4491,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.tvnbn.com.br/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVOmindare.br",
-    "name": "TV Omindare",
-    "alt_names": [
-      "TV Omindaré"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "culture"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/naZZUIT.png",
-    "stream_url": "https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist.m3u8",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.tvomindare.tv.br/",
     "launched": null,
     "closed": null
   },
@@ -5240,58 +4633,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://tvpassofundo.com.br/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVPlan.br",
-    "name": "TV Plan",
-    "alt_names": [],
-    "network": "TV Brasil",
-    "owners": [],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/U1cYYuy.png",
-    "stream_url": "https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tvplan.com.br/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVRioPreto.br",
-    "name": "TV Rio Preto",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/9EqSKLc.png",
-    "stream_url": "https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tvriopreto.tv/",
     "launched": null,
     "closed": null
   },
@@ -5634,34 +4975,6 @@
     "closed": null
   },
   {
-    "id": "TVValedoUruara.br",
-    "name": "TV Vale do Uruara",
-    "alt_names": [
-      "TV Vale do Uruará"
-    ],
-    "network": "Rede Bandeirantes",
-    "owners": [],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/WgXsfIa.png",
-    "stream_url": "https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8",
-    "stream_quality": "614p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TVVicosa.br",
     "name": "TV Vicosa",
     "alt_names": [
@@ -5737,32 +5050,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://tvzoom.com.br/tag/brasil/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "UMATV.br",
-    "name": "UMA TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/m0RVb79.png",
-    "stream_url": "https://acesso.ecast.site:3011/live/umatvlive.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.umatv.com.br/",
     "launched": null,
     "closed": null
   },

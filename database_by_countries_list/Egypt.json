@@ -35,32 +35,6 @@
     "closed": null
   },
   {
-    "id": "AlfathSonnahTV.eg",
-    "name": "Alfath Sonnah TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "EG",
-    "country_name": "Egypt",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/7VYJStp.png",
-    "stream_url": "https://alfat7-q.com:5443/LiveApp/streams/986613792230697141226562.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://alfath.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "AlGhadTV.eg",
     "name": "Al Ghad TV",
     "alt_names": [
@@ -129,34 +103,6 @@
     },
     "website": "http://dotnet.ertu.org/",
     "launched": "1990-01-01",
-    "closed": null
-  },
-  {
-    "id": "AlShoub.eg",
-    "name": "AlShoub",
-    "alt_names": [
-      "الشعوب"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "EG",
-    "country_name": "Egypt",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://alshoub.tv/wp-content/uploads/2023/09/logo@2x-1-1.png",
-    "stream_url": "https://play.tactivemedia.com/memfs/c5919b97-5329-4b84-91b2-613c6ed9953e.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://alshoub.tv",
-    "launched": null,
     "closed": null
   },
   {
@@ -442,39 +388,6 @@
       "lang": "en"
     },
     "website": "https://www.nogoumfm.net/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PNCDrama.eg",
-    "name": "PNC Drama",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "EG",
-    "country_name": "Egypt",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Hg34mg3.png",
-    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PNCDrama.eg",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "1638",
-      "site_name": "PNC Drama",
-      "lang": "en"
-    },
-    "website": null,
     "launched": null,
     "closed": null
   },

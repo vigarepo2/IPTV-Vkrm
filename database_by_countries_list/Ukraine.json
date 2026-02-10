@@ -154,38 +154,6 @@
     "closed": null
   },
   {
-    "id": "BlackSeaTV.ua",
-    "name": "Black Sea TV",
-    "alt_names": [
-      "Чорноморська телерадіокомпанія",
-      "Chernomorskaya Television and Radio Company",
-      "Black Sea Television and Radio Company"
-    ],
-    "network": null,
-    "owners": [
-      "Chernomorskaya Television and Radio Company"
-    ],
-    "country_code": "UA",
-    "country_name": "Ukraine",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/D8YJzHV.png",
-    "stream_url": "https://stream.skyvision.com.ua/blackseatv/stream/main/playlist.m3u8",
-    "stream_quality": "432p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://blackseatv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Channel7Ukraine.ua",
     "name": "Channel 7 Ukraine",
     "alt_names": [
@@ -273,34 +241,6 @@
     "tv_guide": null,
     "website": "https://24tv.ua/",
     "launched": "2006-03-01",
-    "closed": null
-  },
-  {
-    "id": "Cherniveckiypromin.ua",
-    "name": "Cherniveckiy promin",
-    "alt_names": [
-      "Чернівецький промінь"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "UA",
-    "country_name": "Ukraine",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/O9nQ5po.png",
-    "stream_url": "http://langate.tv/promin/live_720/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://promin.cv.ua/",
-    "launched": null,
     "closed": null
   },
   {
@@ -796,34 +736,6 @@
     },
     "website": "http://inter.ua/",
     "launched": "1996-10-20",
-    "closed": null
-  },
-  {
-    "id": "InterPlus.ua",
-    "name": "Inter+",
-    "alt_names": [
-      "Інтер+"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "UA",
-    "country_name": "Ukraine",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Y392Hh4.png",
-    "stream_url": "http://62.233.57.226:8001/play/a00q",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://interplus.ua/",
-    "launched": null,
     "closed": null
   },
   {
@@ -1553,80 +1465,6 @@
     "closed": null
   },
   {
-    "id": "PTV.ua",
-    "name": "PTV",
-    "alt_names": [
-      "Poltavske TV",
-      "Полтавське телебачення",
-      "Полтавское ТВ"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "UA",
-    "country_name": "Ukraine",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/WDHoSVz.png",
-    "stream_url": "https://cdn10.live-tv.cloud/hrpl/hrpl-abr/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PTV.ua",
-      "feed": "SD",
-      "site": "epg.iptvx.one",
-      "site_id": "ptv-ua",
-      "site_name": "PTV",
-      "lang": "ru"
-    },
-    "website": "https://ptv.ua/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PTV.ua",
-    "name": "PTV",
-    "alt_names": [
-      "Poltavske TV",
-      "Полтавське телебачення",
-      "Полтавское ТВ"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "UA",
-    "country_name": "Ukraine",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/WDHoSVz.png",
-    "stream_url": "http://cdn10.live-tv.od.ua:8081/hrpl/hrpl-abr/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PTV.ua",
-      "feed": "SD",
-      "site": "epg.iptvx.one",
-      "site_id": "ptv-ua",
-      "site_name": "PTV",
-      "lang": "ru"
-    },
-    "website": "https://ptv.ua/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "RenomeTV.ua",
     "name": "Renome TV",
     "alt_names": [],
@@ -1896,45 +1734,6 @@
     "closed": null
   },
   {
-    "id": "Svarozhychy.ua",
-    "name": "Svarozhychy",
-    "alt_names": [
-      "Сварожичи",
-      "Горизонт ТВ"
-    ],
-    "network": null,
-    "owners": [
-      "Unika-TV",
-      "Planeta"
-    ],
-    "country_code": "UA",
-    "country_name": "Ukraine",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/VnAgQA4.png",
-    "stream_url": "http://tv.tv-project.com:1935/live/live1/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Svarozhychy.ua",
-      "feed": "SD",
-      "site": "epg.iptvx.one",
-      "site_id": "svarozhichi",
-      "site_name": "Сварожичи",
-      "lang": "ru"
-    },
-    "website": "https://svarozhichi.ua/",
-    "launched": "2016-01-01",
-    "closed": null
-  },
-  {
     "id": "TelekanalRAI.ua",
     "name": "Telekanal RAI",
     "alt_names": [
@@ -2079,32 +1878,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://ildana.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TRKKrug.ua",
-    "name": "TRK Krug",
-    "alt_names": [
-      "ТРК Круг"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "UA",
-    "country_name": "Ukraine",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/CCxEt0w.png",
-    "stream_url": "http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://krug.com.ua/",
     "launched": null,
     "closed": null
   },

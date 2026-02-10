@@ -152,34 +152,6 @@
     "closed": null
   },
   {
-    "id": "ArekTV.id",
-    "name": "Arek TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Bakrie Group"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Bw8fLiD.png",
-    "stream_url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://arek.tv/",
-    "launched": "2008-05-20",
-    "closed": null
-  },
-  {
     "id": "AshiilTV.id",
     "name": "Ashiil TV",
     "alt_names": [],
@@ -482,63 +454,6 @@
     },
     "website": "https://www.beritasatu.com/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BeritaSatuEnglish.id",
-    "name": "BeritaSatu English",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/SRDWxRGs/13092012142252.jpg",
-    "stream_url": "https://stream.broadpeak.io/2e5c2cb8d13e8fbadca22a46d7ffe606/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BeritaSatuEnglish.id",
-      "feed": "SD",
-      "site": "vidio.com",
-      "site_id": "18280",
-      "site_name": "BeritaSatu",
-      "lang": "id"
-    },
-    "website": "https://www.beritasatu.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BETV.id",
-    "name": "BE TV",
-    "alt_names": [],
-    "network": "Jawa Pos Multimedia",
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/3EX0zax.png",
-    "stream_url": "https://flv.intechmedia.net/live/ch58.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://youtv.live/",
-    "tv_guide": null,
-    "website": "http://betv.rakyatbengkulu.com/",
-    "launched": "2013-12-18",
     "closed": null
   },
   {
@@ -1072,32 +987,6 @@
     "closed": null
   },
   {
-    "id": "dTVi.id",
-    "name": "dTVi",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_DTVI.png",
-    "stream_url": "https://e.siar.us/live/dtvi.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://dtv-indonesia.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "DutaTV.id",
     "name": "Duta TV",
     "alt_names": [],
@@ -1274,41 +1163,6 @@
     "closed": null
   },
   {
-    "id": "GTV.id",
-    "name": "GTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "MNC Media"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/jjuKnYs.png",
-    "stream_url": "https://allcutv.rctiplus.id/gtv2023.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "GTV.id",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000003",
-      "site_name": "GTV",
-      "lang": "id"
-    },
-    "website": "https://www.gtv.id/",
-    "launched": "2002-10-08",
-    "closed": null
-  },
-  {
     "id": "HumaBetangTV.id",
     "name": "Huma Betang TV",
     "alt_names": [],
@@ -1357,32 +1211,6 @@
     "referrer": "https://iamchannel.org/",
     "tv_guide": null,
     "website": "https://iamchannel.org/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "iBerkah.id",
-    "name": "iBerkah",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "shop"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/CxK5DjjP/iberkah-logo.png",
-    "stream_url": "https://play.accolamedia.id/accola/iberkah.stream/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://iberkah.co.id/",
     "launched": null,
     "closed": null
   },
@@ -1445,41 +1273,6 @@
     "tv_guide": null,
     "website": "https://indonesiana.tv/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "iNews.id",
-    "name": "iNews",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "PT. MNC Televisi Network"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/M2R3lfg.png",
-    "stream_url": "https://allcutv.rctiplus.id/inews2023.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://www.rctiplus.com/",
-    "tv_guide": {
-      "channel": "iNews.id",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000004",
-      "site_name": "iNews",
-      "lang": "id"
-    },
-    "website": "https://www.inews.id/",
-    "launched": "2008-03-05",
     "closed": null
   },
   {
@@ -2187,39 +1980,6 @@
     "closed": null
   },
   {
-    "id": "MAXStream.id",
-    "name": "MAX Stream",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/QxbFGWcM/maxstream.png",
-    "stream_url": "https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MAXStream.id",
-      "feed": "SD",
-      "site": "indihometv.com",
-      "site_id": "maxstream",
-      "site_name": "Maxstream",
-      "lang": "id"
-    },
-    "website": "https://maxstream.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "MDTV.id",
     "name": "MDTV",
     "alt_names": [],
@@ -2402,76 +2162,6 @@
     "tv_guide": null,
     "website": "https://mgstv.co.id/",
     "launched": "2004-11-07",
-    "closed": null
-  },
-  {
-    "id": "MNCTV.id",
-    "name": "MNCTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Media Nusantara Citra"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/SK8pjQy.png",
-    "stream_url": "http://203.77.246.58:4500/udp/239.1.3.78:5000",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MNCTV.id",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000002",
-      "site_name": "MNCTV",
-      "lang": "id"
-    },
-    "website": "https://m.rctiplus.com/tv/mnctv",
-    "launched": "1991-01-23",
-    "closed": null
-  },
-  {
-    "id": "MNCTV.id",
-    "name": "MNCTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Media Nusantara Citra"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/SK8pjQy.png",
-    "stream_url": "https://allcutv.rctiplus.id/mnctv2023.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://www.rctiplus.com/",
-    "tv_guide": {
-      "channel": "MNCTV.id",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000002",
-      "site_name": "MNCTV",
-      "lang": "id"
-    },
-    "website": "https://m.rctiplus.com/tv/mnctv",
-    "launched": "1991-01-23",
     "closed": null
   },
   {
@@ -2822,34 +2512,6 @@
     "closed": null
   },
   {
-    "id": "PalembangTV.id",
-    "name": "Palembang TV",
-    "alt_names": [],
-    "network": "Jawa Pos Multimedia",
-    "owners": [
-      "General Daily Sumatra Express"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/e2F1zyU.png",
-    "stream_url": "https://flv.intechmedia.net/live/ch18.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://youtv.live/",
-    "tv_guide": null,
-    "website": "https://paltv.co.id/",
-    "launched": "2005-09-09",
-    "closed": null
-  },
-  {
     "id": "PKTV.id",
     "name": "PKTV",
     "alt_names": [],
@@ -2894,37 +2556,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.pontv.id/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PSJTV.id",
-    "name": "PSJ TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/1XSf22bM/PSJTV-LOGO.png",
-    "stream_url": "https://play.accolamedia.id/accola/psj.stream/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PSJTV.id",
-      "feed": "SD",
-      "site": "cubmu.com",
-      "site_id": "4028c6858d6351f0018dc0100d513246",
-      "site_name": "PSJ TV",
-      "lang": "id"
-    },
-    "website": "https://www.psjtv.id/",
     "launched": null,
     "closed": null
   },
@@ -2998,32 +2629,6 @@
     "tv_guide": null,
     "website": "https://radartasikmalaya.tv/",
     "launched": "2010-09-25",
-    "closed": null
-  },
-  {
-    "id": "RadioKitaTV.id",
-    "name": "Radio Kita TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Dz3BzBe.png",
-    "stream_url": "https://streaming.yufid.com/hls/radiokitatv.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://radiokita.tv/",
-    "tv_guide": null,
-    "website": "http://radiokita.tv/",
-    "launched": null,
     "closed": null
   },
   {
@@ -3141,69 +2746,6 @@
     "tv_guide": null,
     "website": "https://rbtv.rakyatbengkulu.com/",
     "launched": "2009-11-18",
-    "closed": null
-  },
-  {
-    "id": "RBTVJogja.id",
-    "name": "RBTV Jogja",
-    "alt_names": [
-      "Reksa Birama TV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/id/3/31/RBTV_Jogjakarta.png",
-    "stream_url": "http://live.rbtvjogja.tv/hls/0/stream.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "http://live.rbtvjogja.tv/",
-    "tv_guide": null,
-    "website": "http://www.rbtvjogja.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RCTI.id",
-    "name": "RCTI",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "MNC Media"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/iLFx8ia.png",
-    "stream_url": "https://allcutv.rctiplus.id/rcti2023.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://www.rctiplus.com/",
-    "tv_guide": {
-      "channel": "RCTI.id",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000001",
-      "site_name": "RCTI",
-      "lang": "id"
-    },
-    "website": "https://www.rcti.tv/",
-    "launched": "1989-08-24",
     "closed": null
   },
   {
@@ -3505,39 +3047,6 @@
     "tv_guide": null,
     "website": "https://sangajitv.co.id/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SCTV.id",
-    "name": "SCTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/EMmOvnQ.png",
-    "stream_url": "http://203.77.246.58:4500/udp/239.1.1.108:5000",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SCTV.id",
-      "feed": "SD",
-      "site": "vidio.com",
-      "site_id": "204",
-      "site_name": "SCTV",
-      "lang": "id"
-    },
-    "website": "https://www.sctv.co.id/",
-    "launched": "1990-08-24",
     "closed": null
   },
   {
@@ -3967,30 +3476,6 @@
     "closed": null
   },
   {
-    "id": "TegarTVJogja.id",
-    "name": "Tegar TV Jogja",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/XamnylQ.png",
-    "stream_url": "http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.tegartv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TegarTVLampung.id",
     "name": "Tegar TV Lampung",
     "alt_names": [],
@@ -4164,34 +3649,6 @@
     "closed": null
   },
   {
-    "id": "TVKesehatan.id",
-    "name": "TV Kesehatan",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Kementerian Kesehatan Republik Indonesia"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "lifestyle"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/IGIX3o8.jpg",
-    "stream_url": "https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.kemkes.go.id/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TVKU.id",
     "name": "TVKU",
     "alt_names": [],
@@ -4243,37 +3700,6 @@
       "lang": "id"
     },
     "website": "http://tvmu.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVMUI.id",
-    "name": "TV MUI",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/vWtViyC.png",
-    "stream_url": "https://mui.siar.us/mui/live/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVMUI.id",
-      "feed": "SD",
-      "site": "indihometv.com",
-      "site_id": "muitv",
-      "site_name": "MUI TV",
-      "lang": "id"
-    },
-    "website": "https://mui.or.id/",
     "launched": null,
     "closed": null
   },

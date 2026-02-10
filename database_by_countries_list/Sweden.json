@@ -31,32 +31,6 @@
     "closed": null
   },
   {
-    "id": "ATG.se",
-    "name": "ATG",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "SE",
-    "country_name": "Sweden",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/5CdW62M.png",
-    "stream_url": "https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8",
-    "stream_quality": "432p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.atg.se/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "ATGLive.se",
     "name": "ATG Live",
     "alt_names": [],
@@ -453,42 +427,6 @@
     },
     "website": "https://www.svt.se/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "VSportVinter.se",
-    "name": "V Sport Vinter",
-    "alt_names": [
-      "V Sport Hockey",
-      "Viasat Hockey"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "SE",
-    "country_name": "Sweden",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/1vtjktv.png",
-    "stream_url": "http://62.210.211.188:2095/play/a00q",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "VSportVinter.se",
-      "feed": "SD",
-      "site": "tv24.se",
-      "site_id": "v-sport-vinter",
-      "site_name": "V Sport Vinter",
-      "lang": "sv"
-    },
-    "website": "http://www.viasat.no/content/viasat-hockey-4",
-    "launched": "2009-09-01",
     "closed": null
   }
 ]

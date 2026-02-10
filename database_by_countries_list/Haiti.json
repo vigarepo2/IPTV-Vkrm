@@ -313,32 +313,6 @@
     "closed": null
   },
   {
-    "id": "RadioTeleStanneCharitab.ht",
-    "name": "Radio Tele Stanne Charitab",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "HT",
-    "country_name": "Haiti",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/wB0brbD/unnamed.png",
-    "stream_url": "https://59d39900ebfb8.streamlock.net/radiotelestannecharitab/radiotelestannecharitab/playlist.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "RadioTeleSuperStar.ht",
     "name": "Radio Tele SuperStar",
     "alt_names": [
@@ -363,34 +337,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.superstarhaiti.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RadioTelevisionHirondelle.ht",
-    "name": "Radio Television Hirondelle",
-    "alt_names": [
-      "Radio Télévision Hirondelle"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "HT",
-    "country_name": "Haiti",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/37CauvG.png",
-    "stream_url": "https://acwstream.com/acw/hbrtvh/index.fmp4.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://radiotelehirondelle.com/",
     "launched": null,
     "closed": null
   },
@@ -423,34 +369,6 @@
     "closed": null
   },
   {
-    "id": "RadioTeleYaguana.ht",
-    "name": "Radio Tele Yaguana",
-    "alt_names": [
-      "Radio Télé Yaguana"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "HT",
-    "country_name": "Haiti",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/pHMnNoT.jpg",
-    "stream_url": "https://lakay.online/relay/teleyaguana/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.radioyaguana.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TeleHaiti.ht",
     "name": "Tele Haiti",
     "alt_names": [
@@ -479,35 +397,6 @@
     "closed": null
   },
   {
-    "id": "TeleLaBrise.ht",
-    "name": "Tele La Brise",
-    "alt_names": [
-      "Télé La Brise",
-      "Canal 28"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "HT",
-    "country_name": "Haiti",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/MBTj9Nq.png",
-    "stream_url": "http://lakay.online/public/telelabrise/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.telelabrise.com/",
-    "launched": "2010-07-23",
-    "closed": null
-  },
-  {
     "id": "TeleLouange.ht",
     "name": "Tele Louange",
     "alt_names": [
@@ -532,62 +421,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://telelouange.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TelePacific.ht",
-    "name": "Tele Pacific",
-    "alt_names": [
-      "Télé Pacific"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "HT",
-    "country_name": "Haiti",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/jgnOSU1.png",
-    "stream_url": "https://pacific.zekletech.com:2002/live/acw_01/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.radiotelepacific.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TelePacific.ht",
-    "name": "Tele Pacific",
-    "alt_names": [
-      "Télé Pacific"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "HT",
-    "country_name": "Haiti",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/jgnOSU1.png",
-    "stream_url": "https://hls-p1st0n8r.livepush.io/live_cdn/nsOk3qoty1d5HDD/emB7xoUdyMbnjH8/tracks-v1a1/mono.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.radiotelepacific.com/",
     "launched": null,
     "closed": null
   },

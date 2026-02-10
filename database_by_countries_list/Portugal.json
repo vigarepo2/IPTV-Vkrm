@@ -17,34 +17,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.ibb.co/HGfTJwt/ADBTV.jpg",
-    "stream_url": "https://customer-dxeagripmkqbhyeq.cloudflarestream.com/580c36d77be200bf5c7d3efc06487bd4/manifest/video.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://live.adburaca.org/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ADBTV.pt",
-    "name": "ADB TV",
-    "alt_names": [
-      "AD Buraca TV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "PT",
-    "country_name": "Portugal",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/HGfTJwt/ADBTV.jpg",
     "stream_url": "https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -452,36 +424,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://www.igreja-online.ru/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NPCRadioeTV.pt",
-    "name": "NPC Radio e TV",
-    "alt_names": [
-      "NPC Rádio e TV"
-    ],
-    "network": null,
-    "owners": [
-      "Alexandre Faria"
-    ],
-    "country_code": "PT",
-    "country_name": "Portugal",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/mw1lYWE.png",
-    "stream_url": "https://stmv1.srvif.com/npc/npc/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.nasciparacantar.pt/",
     "launched": null,
     "closed": null
   },
@@ -1505,32 +1447,6 @@
     },
     "website": "https://tvi.iol.pt/vmais/",
     "launched": "2024-08-09",
-    "closed": null
-  },
-  {
-    "id": "WayTV.pt",
-    "name": "Way TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PT",
-    "country_name": "Portugal",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/gdpvKpS/cropped-Asset-1.png",
-    "stream_url": "http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.waytv.pt/",
-    "launched": null,
     "closed": null
   },
   {

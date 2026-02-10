@@ -620,6 +620,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s142507_ld_h15_aa.png",
+    "stream_url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AajTak.in",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "48512",
+      "site_name": "Aaj Tak",
+      "lang": "en"
+    },
+    "website": "https://www.aajtak.in/livetv",
+    "launched": "2000-12-31",
+    "closed": null
+  },
+  {
+    "id": "AajTak.in",
+    "name": "Aaj Tak",
+    "alt_names": [],
+    "network": "India Today Group",
+    "owners": [
+      "TV Today Network Ltd",
+      " Living Media India Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s142507_ld_h15_aa.png",
     "stream_url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8",
     "stream_quality": "404p",
     "stream_format": null,
@@ -656,8 +692,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s142507_ld_h15_aa.png",
-    "stream_url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
-    "stream_quality": null,
+    "stream_url": "https://feeds.intoday.in/aajtak/api/master.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -3671,41 +3707,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png",
-    "stream_url": "https://mumt04.tangotv.in/B4UMUSIC/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "B4UMusic.in",
-      "feed": "UK",
-      "site": "virgintvgo.virginmedia.com",
-      "site_id": "431",
-      "site_name": "B4U Music",
-      "lang": "en"
-    },
-    "website": "https://b4umusic.in/",
-    "launched": "2000-09-03",
-    "closed": null
-  },
-  {
-    "id": "B4UMusic.in",
-    "name": "B4U Music",
-    "alt_names": [],
-    "network": "B4U",
-    "owners": [
-      "B4U Television Network India Limited"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png",
     "stream_url": "http://103.78.149.54:8000/play/a00a/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -4787,7 +4788,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s142738_ld_h15_aa.png",
+    "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/CHITHIRAM_Transparent_0a0a1cd6-cba5-4899-b22d-ce53fa1236dd.png",
     "stream_url": "https://cdn-6.pishow.tv/live/1243/master.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -5828,6 +5829,41 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s142779_ld_h15_aa.png",
+    "stream_url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DDBharati.in",
+      "feed": "SD",
+      "site": "tvpassport.com",
+      "site_id": "dd-bharati-doordarshan/13649",
+      "site_name": "DD Bharati (Doordarshan)",
+      "lang": "en"
+    },
+    "website": "https://prasarbharati.gov.in/doordarshan/",
+    "launched": "2002-01-26",
+    "closed": null
+  },
+  {
+    "id": "DDBharati.in",
+    "name": "DD Bharati",
+    "alt_names": [],
+    "network": "Doordarshan",
+    "owners": [
+      "Prasar Bharati"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s142779_ld_h15_aa.png",
     "stream_url": "http://103.78.149.54:8000/play/a024/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -6616,8 +6652,8 @@
     "closed": null
   },
   {
-    "id": "DDKashir.in",
-    "name": "DD Kashir",
+    "id": "DDKisan.in",
+    "name": "DD Kisan",
     "alt_names": [],
     "network": "Doordarshan",
     "owners": [
@@ -6628,26 +6664,27 @@
     "subdivision": null,
     "city": null,
     "categories": [
-      "general"
+      "education",
+      "outdoor"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s142788_ld_h15_aa.png",
-    "stream_url": "https://cdn-6.pishow.tv/live/16/master.m3u8",
-    "stream_quality": "720p",
+    "logo": "https://dtil.tmsimg.com/assets/s142789_ld_h9_aa.png",
+    "stream_url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
-      "channel": "DDKashir.in",
+      "channel": "DDKisan.in",
       "feed": "SD",
       "site": "tataplay.com",
-      "site_id": "325",
-      "site_name": "DD Kashir",
+      "site_id": "326",
+      "site_name": "DD Kisan",
       "lang": "en"
     },
-    "website": "https://prasarbharati.gov.in/doordarshan/",
-    "launched": "1999-01-01",
+    "website": "https://prasarbharati.gov.in/dd-kisan-homepage/",
+    "launched": "2015-05-26",
     "closed": null
   },
   {
@@ -7342,41 +7379,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s158254_ld_h15_aa.png",
-    "stream_url": "http://103.78.149.54:8000/play/a002/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "DDNews.in",
-      "feed": "SD",
-      "site": "tvpassport.com",
-      "site_id": "dd-news-doordarshan/13651",
-      "site_name": "DD News (Doordarshan)",
-      "lang": "en"
-    },
-    "website": "https://ddnews.gov.in/",
-    "launched": "2003-11-03",
-    "closed": null
-  },
-  {
-    "id": "DDNews.in",
-    "name": "DD News",
-    "alt_names": [],
-    "network": "Doordarshan",
-    "owners": [
-      "Prasar Bharati"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s158254_ld_h15_aa.png",
     "stream_url": "http://103.78.149.54:8000/play/a02f/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -7414,6 +7416,41 @@
     "logo": "https://dtil.tmsimg.com/assets/s158254_ld_h15_aa.png",
     "stream_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DDNews.in",
+      "feed": "SD",
+      "site": "tvpassport.com",
+      "site_id": "dd-news-doordarshan/13651",
+      "site_name": "DD News (Doordarshan)",
+      "lang": "en"
+    },
+    "website": "https://ddnews.gov.in/",
+    "launched": "2003-11-03",
+    "closed": null
+  },
+  {
+    "id": "DDNews.in",
+    "name": "DD News",
+    "alt_names": [],
+    "network": "Doordarshan",
+    "owners": [
+      "Prasar Bharati"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s158254_ld_h15_aa.png",
+    "stream_url": "http://103.78.149.54:8000/play/a002/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -7873,6 +7910,41 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png",
+    "stream_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DDSports.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "223",
+      "site_name": "DD Sports",
+      "lang": "en"
+    },
+    "website": "http://doordarshan.gov.in/ddsports",
+    "launched": "1998-03-18",
+    "closed": null
+  },
+  {
+    "id": "DDSports.in",
+    "name": "DD Sports",
+    "alt_names": [],
+    "network": "Doordarshan",
+    "owners": [
+      "Prasar Bharati"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png",
     "stream_url": "http://103.78.149.54:8000/play/a02r/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -8102,6 +8174,41 @@
     },
     "website": null,
     "launched": "2021-01-21",
+    "closed": null
+  },
+  {
+    "id": "DDUrdu.in",
+    "name": "DD Urdu",
+    "alt_names": [],
+    "network": "Doordarshan",
+    "owners": [
+      "Prasar Bharati"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s142808_ld_h9_aa.png",
+    "stream_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DDUrdu.in",
+      "feed": "SD",
+      "site": "tvpassport.com",
+      "site_id": "dd-urdu-doordarshan/13648",
+      "site_name": "DD Urdu (Doordarshan)",
+      "lang": "en"
+    },
+    "website": "https://prasarbharati.gov.in/doordarshan/",
+    "launched": "2006-08-15",
     "closed": null
   },
   {
@@ -11153,41 +11260,6 @@
     "closed": null
   },
   {
-    "id": "IsaiAruvi.in",
-    "name": "Isai Aruvi",
-    "alt_names": [],
-    "network": "Kalaignar TV",
-    "owners": [
-      "Kalaignar TV Private Limited"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143212_ld_h15_aa.png",
-    "stream_url": "https://edge2-moblive.yuppcdn.net/drm1/smil:isaiaruvitvdrm.smil/manifest.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "IsaiAruvi.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "647",
-      "site_name": "Isaiaruvi",
-      "lang": "en"
-    },
-    "website": null,
-    "launched": "2008-02-22",
-    "closed": null
-  },
-  {
     "id": "IsharaTV.in",
     "name": "Ishara TV",
     "alt_names": [],
@@ -13867,43 +13939,6 @@
     "closed": null
   },
   {
-    "id": "MTV.in",
-    "name": "MTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "JioStar India Pvt. Ltd.",
-      "Reliance Industries(RIL)",
-      "The Walt Disney Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png",
-    "stream_url": "http://103.253.18.58:8000/play/a01t",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MTV.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "103",
-      "site_name": "MTV",
-      "lang": "en"
-    },
-    "website": "http://www.mtvindia.com/",
-    "launched": "1996-10-28",
-    "closed": null
-  },
-  {
     "id": "MunsifTV.in",
     "name": "Munsif TV",
     "alt_names": [],
@@ -14235,32 +14270,6 @@
     },
     "website": "https://www.epicon.in/live-tv/nazara-live-tv",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NCV.in",
-    "name": "NCV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/HZy6x27.png",
-    "stream_url": "http://131.153.22.8:1935/NCV/ncvstream/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": "2009-01-01",
     "closed": null
   },
   {
@@ -19046,6 +19055,43 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143760_ld_h15_aa.png",
+    "stream_url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SansadTV1.in",
+      "feed": "SD",
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_SANSAD_TV_SYMHYP_1_HD",
+      "site_name": "Sansad TV - 1 HD",
+      "lang": "en"
+    },
+    "website": "https://sansadtv.nic.in/",
+    "launched": "2021-09-15",
+    "closed": null
+  },
+  {
+    "id": "SansadTV1.in",
+    "name": "Sansad TV 1",
+    "alt_names": [
+      "Lok Sabha"
+    ],
+    "network": null,
+    "owners": [
+      "Government of India"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "legislative"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143760_ld_h15_aa.png",
     "stream_url": "http://103.78.149.54:8000/play/a00s/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -19162,6 +19208,43 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": "https://webcast.gov.in/",
+    "tv_guide": {
+      "channel": "SansadTV2.in",
+      "feed": "HD",
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_SANSAD_TV_HD",
+      "site_name": "Sansad TV - 2 HD",
+      "lang": "en"
+    },
+    "website": "https://sansadtv.nic.in/",
+    "launched": "2021-09-15",
+    "closed": null
+  },
+  {
+    "id": "SansadTV2.in",
+    "name": "Sansad TV 2",
+    "alt_names": [
+      "Rajya Sabha"
+    ],
+    "network": null,
+    "owners": [
+      "Government of India"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "legislative"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143761_ld_h15_aa.png",
+    "stream_url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
     "tv_guide": {
       "channel": "SansadTV2.in",
       "feed": "HD",
@@ -20160,41 +20243,6 @@
     "closed": null
   },
   {
-    "id": "SirippoliTV.in",
-    "name": "Sirippoli TV",
-    "alt_names": [],
-    "network": "Kalaignar TV",
-    "owners": [
-      "Kalaignar TV Private Limited"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "comedy"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143791_ld_h9_aa.png",
-    "stream_url": "https://edge2-moblive.yuppcdn.net/drm1/smil:sirippolitvdrm.smil/manifest.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SirippoliTV.in",
-      "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_SIRIPPOLI",
-      "site_name": "Sirippoli",
-      "lang": "en"
-    },
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "SongdewTV.in",
     "name": "Songdew TV",
     "alt_names": [],
@@ -20225,6 +20273,46 @@
     },
     "website": "https://songdew.com/songdew-tv",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SonyEntertainmentTelevision.in",
+    "name": "Sony Entertainment Television",
+    "alt_names": [
+      "SET",
+      "Sony TV",
+      "SET India"
+    ],
+    "network": "Sony Pictures Networks",
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png",
+    "stream_url": "http://217.20.112.199/sethd/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonyEntertainmentTelevision.in",
+      "feed": "SD",
+      "site": "starhubtvplus.com",
+      "site_id": "1ed77994-5ab6-4d38-88f2-d662f3cfe5b0",
+      "site_name": "Sony Entertainment Television",
+      "lang": "zh"
+    },
+    "website": "https://www.setindia.com/",
+    "launched": "1995-09-30",
     "closed": null
   },
   {
@@ -20261,47 +20349,6 @@
     },
     "website": "http://www.sonypal.in/",
     "launched": "2014-09-01",
-    "closed": null
-  },
-  {
-    "id": "SonySportsTen3Hindi.in",
-    "name": "Sony Sports Ten 3 Hindi",
-    "alt_names": [
-      "Sony Sports Ten 3",
-      "Sony Ten 3",
-      "Ten 3",
-      "Ten Cricket"
-    ],
-    "network": "Sony Sports Network",
-    "owners": [
-      "Sony Pictures Networks India (SPNI)",
-      "Culver Max Entertainment Private Limited"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png",
-    "stream_url": "http://103.253.18.58:8000/play/a00b",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SonySportsTen3Hindi.in",
-      "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3",
-      "site_name": "Sony Sports Ten 3 Hindi",
-      "lang": "en"
-    },
-    "website": "https://www.sonysportsnetwork.com/",
-    "launched": "2010-01-01",
     "closed": null
   },
   {
@@ -20364,45 +20411,6 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "StarPlus.in",
-    "name": "StarPlus",
-    "alt_names": [
-      "Star Plus"
-    ],
-    "network": "JioStar",
-    "owners": [
-      "JioStar India Pvt. Ltd.",
-      "Reliance Industries(RIL)",
-      "The Walt Disney Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143832_ld_h15_aa.png",
-    "stream_url": "http://103.52.34.182:8001/play/a01l/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarPlus.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "550",
-      "site_name": "STAR Plus",
-      "lang": "en"
-    },
-    "website": "http://www.hotstar.com/channels/star-plus",
-    "launched": "1992-02-21",
     "closed": null
   },
   {
@@ -21215,39 +21223,6 @@
       "lang": "en"
     },
     "website": "https://swatantralive.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TabbarHits.in",
-    "name": "Tabbar Hits",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143292_ld_h15_aa.png",
-    "stream_url": "https://live1.ottlive.co.in/tabbarhitsswift/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TabbarHits.in",
-      "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_TABBAR_HITS",
-      "site_name": "Tabbar Hits",
-      "lang": "en"
-    },
-    "website": null,
     "launched": null,
     "closed": null
   },
@@ -23597,39 +23572,6 @@
     "closed": null
   },
   {
-    "id": "WowCinemaOne.in",
-    "name": "Wow Cinema One",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/x1Rict5.png",
-    "stream_url": "https://cdn-2.pishow.tv/live/231/master.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "WowCinemaOne.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "276",
-      "site_name": "WoW Cinema One",
-      "lang": "en"
-    },
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "YRFMusic.in",
     "name": "YRF Music",
     "alt_names": [],
@@ -24769,41 +24711,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ZeeTalkies.in",
-    "name": "Zee Talkies",
-    "alt_names": [],
-    "network": "Z",
-    "owners": [
-      "Zee Entertainment Enterprises Limited"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022S299.png",
-    "stream_url": "http://103.52.34.182:8001/play/a04r/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ZeeTalkies.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "249",
-      "site_name": "Zee Talkies",
-      "lang": "en"
-    },
-    "website": "http://www.zeetalkies.tv/",
     "launched": null,
     "closed": null
   },

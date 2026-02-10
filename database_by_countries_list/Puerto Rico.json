@@ -418,32 +418,6 @@
     "closed": null
   },
   {
-    "id": "MasterVideo.pr",
-    "name": "Master Video",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PR",
-    "country_name": "Puerto Rico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/0jj9Vx0.png",
-    "stream_url": "https://5fd5567570c0e.streamlock.net/222/stream/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.mastervideopro.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "NGRadioTV.pr",
     "name": "NG Radio TV",
     "alt_names": [],
@@ -601,32 +575,6 @@
     "closed": null
   },
   {
-    "id": "RadioYaucanaTV.pr",
-    "name": "Radio Yaucana TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PR",
-    "country_name": "Puerto Rico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/QT0UgZk.png",
-    "stream_url": "https://stmvideo6.livecastv.com/rytv2015/rytv2015/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://radioyaucanatv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "SalvacionTV.pr",
     "name": "Salvacion TV",
     "alt_names": [
@@ -739,32 +687,6 @@
       "lang": "en"
     },
     "website": "https://teleonce.com/en-vivo/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TheRetroChannel.pr",
-    "name": "The Retro Channel",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PR",
-    "country_name": "Puerto Rico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/t3i1HtE.jpg",
-    "stream_url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.theretrochannel.tv/",
     "launched": null,
     "closed": null
   },

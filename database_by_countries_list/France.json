@@ -479,41 +479,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://a.jsrdn.com/hls/22886/africanews/extras/1080_logo.png",
-    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AfricanewsEnglish.fr",
-      "feed": "SD",
-      "site": "vidio.com",
-      "site_id": "12784",
-      "site_name": "AFRICANEWS TV",
-      "lang": "id"
-    },
-    "website": "https://www.africanews.com/",
-    "launched": "2016-04-20",
-    "closed": null
-  },
-  {
-    "id": "AfricanewsEnglish.fr",
-    "name": "Africanews English",
-    "alt_names": [],
-    "network": "Africanews",
-    "owners": [
-      "Euronews SA"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://a.jsrdn.com/hls/22886/africanews/extras/1080_logo.png",
     "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8?ads.vf=OXCCriJ8fFq",
     "stream_quality": null,
     "stream_format": null,
@@ -1154,41 +1119,6 @@
     "closed": null
   },
   {
-    "id": "BFMGrandLille.fr",
-    "name": "BFM Grand Lille",
-    "alt_names": [],
-    "network": "BFM Régions",
-    "owners": [
-      "Altice Média"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/HE5xP0r.png",
-    "stream_url": "https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BFMGrandLille.fr",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "930",
-      "site_name": "BFM Grand Lille",
-      "lang": "fr"
-    },
-    "website": "https://www.bfmtv.com/grand-lille/",
-    "launched": "2020-02-03",
-    "closed": null
-  },
-  {
     "id": "BFMGrandLittoral.fr",
     "name": "BFM Grand Littoral",
     "alt_names": [],
@@ -1210,41 +1140,6 @@
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BFMGrandLittoral.fr",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "2317",
-      "site_name": "BFM Grand Littoral",
-      "lang": "fr"
-    },
-    "website": "https://www.bfmtv.com/grand-littoral/",
-    "launched": "2020-02-03",
-    "closed": null
-  },
-  {
-    "id": "BFMGrandLittoral.fr",
-    "name": "BFM Grand Littoral",
-    "alt_names": [],
-    "network": "BFM Régions",
-    "owners": [
-      "Altice Média"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/j7F9MwH.png",
-    "stream_url": "https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "BFMGrandLittoral.fr",
@@ -2668,44 +2563,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://a.jsrdn.com/hls/22886/euronews-spa/extras/1080_logo.png",
-    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "EuronewsSpanish.fr",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "1559",
-      "site_name": "Euronews Español",
-      "lang": "en"
-    },
-    "website": "https://es.euronews.com/",
-    "launched": "1993-01-01",
-    "closed": null
-  },
-  {
-    "id": "EuronewsSpanish.fr",
-    "name": "Euronews Spanish",
-    "alt_names": [
-      "euronews en español",
-      "euronews español"
-    ],
-    "network": "Euronews",
-    "owners": [
-      "Euronews SA"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://a.jsrdn.com/hls/22886/euronews-spa/extras/1080_logo.png",
     "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.vf=DLlKFAN37a8",
     "stream_quality": null,
     "stream_format": null,
@@ -2759,69 +2616,6 @@
     "closed": null
   },
   {
-    "id": "FashionTVEurope.fr",
-    "name": "FashionTV Europe",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Michel Adam Lisowski"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "lifestyle"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png",
-    "stream_url": "https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FashionTVEurope.fr",
-      "feed": "SD",
-      "site": "ziggogo.tv",
-      "site_id": "NL_000067_020024",
-      "site_name": "Fashion TV",
-      "lang": "en"
-    },
-    "website": "https://www.fashiontv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "FashionTVParis.fr",
-    "name": "FashionTV Paris",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Michel Adam Lisowski"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "lifestyle"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png",
-    "stream_url": "https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8",
-    "stream_quality": "144p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.fashiontv.com/",
-    "launched": "1997-04-01",
-    "closed": null
-  },
-  {
     "id": "FashionTVParisLOriginal.fr",
     "name": "FashionTV Paris L'Original",
     "alt_names": [],
@@ -2841,34 +2635,6 @@
     "logo": "https://i.imgur.com/GFTAN5Q.png",
     "stream_url": "https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.fashiontv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "FashionTVPG16.fr",
-    "name": "FashionTV PG16",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Michel Adam Lisowski"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "lifestyle"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/GFTAN5Q.png",
-    "stream_url": "https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8",
-    "stream_quality": "144p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -6317,32 +6083,6 @@
     "closed": null
   },
   {
-    "id": "NLMTV.fr",
-    "name": "NLM TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/v46PWq3.png",
-    "stream_url": "https://ktismaservers.in:3394/stream/play.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.newlivingministries.org/index.php/nlm-tv",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "NOVO19.fr",
     "name": "NOVO19",
     "alt_names": [],
@@ -9698,32 +9438,6 @@
     "closed": null
   },
   {
-    "id": "TVFinance.fr",
-    "name": "TV Finance",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "business"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/G3qimo4.png",
-    "stream_url": "https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.tvfmedia.fr/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TVR.fr",
     "name": "TVR",
     "alt_names": [],
@@ -9751,34 +9465,6 @@
       "lang": "fr"
     },
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVTarn.fr",
-    "name": "TV Tarn",
-    "alt_names": [
-      "Albi TV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/MJdY1m3.png",
-    "stream_url": "https://live.creacast.com/albi-tv-ch1/stream/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.tvtarn.fr/",
     "launched": null,
     "closed": null
   },
@@ -10067,34 +9753,6 @@
     "closed": null
   },
   {
-    "id": "XilamTV.fr",
-    "name": "XilamTV",
-    "alt_names": [],
-    "network": "_No reponse_",
-    "owners": [
-      "Xilam Animation"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "animation"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_k6spR1AVLZ0ISqrFP-Z9JeBMHPpAc9T-pmFlG6_lSkNw=s160-c-k-c0x00ffffff-no-rj",
-    "stream_url": "https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://xilam.com/en/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "zenith.fr",
     "name": "zenith",
     "alt_names": [
@@ -10120,6 +9778,37 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.znth.tv",
+    "launched": "2026-02-01",
+    "closed": null
+  },
+  {
+    "id": "zenith.fr",
+    "name": "zenith",
+    "alt_names": [
+      "zén!th"
+    ],
+    "network": "Azéna Médias",
+    "owners": [
+      "Azéna Médias"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general",
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://znth.tv/static/site_app/thy%20logo.svg",
+    "stream_url": "https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://znth.tv",
     "tv_guide": null,
     "website": "https://www.znth.tv",
     "launched": "2026-02-01",

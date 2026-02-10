@@ -162,41 +162,6 @@
     "closed": null
   },
   {
-    "id": "A2TV.tr",
-    "name": "A2TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Turkuvaz Media Group"
-    ],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png",
-    "stream_url": "https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "A2TV.tr",
-      "feed": "SD",
-      "site": "tvplus.com.tr",
-      "site_id": "a2/2",
-      "site_name": "A2",
-      "lang": "tr"
-    },
-    "website": "https://www.atv.com.tr/a2tv",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "AfroturkTV.tr",
     "name": "Afroturk TV",
     "alt_names": [],
@@ -493,41 +458,6 @@
     "tv_guide": null,
     "website": "http://aras.tv/",
     "launched": "2015-01-01",
-    "closed": null
-  },
-  {
-    "id": "ASpor.tr",
-    "name": "A Spor",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Turkuvaz Medya"
-    ],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ZhkZzLf.png",
-    "stream_url": "https://trkvz-live.daioncdn.net/aspor/aspor.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ASpor.tr",
-      "feed": "SD",
-      "site": "tvplus.com.tr",
-      "site_id": "a-spor/3",
-      "site_name": "A SPOR",
-      "lang": "tr"
-    },
-    "website": "https://www.aspor.com.tr/",
-    "launched": "2014-09-18",
     "closed": null
   },
   {
@@ -872,30 +802,6 @@
     "logo": "https://i.imgur.com/BxxH8wE.png",
     "stream_url": "https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BesiktasWebTV.tr",
-    "name": "Besiktas Web TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/bRhnM6W/qti5aea.png",
-    "stream_url": "https://s01.vpis.io/besiktas/besiktas.m3u8",
-    "stream_quality": "360p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1453,60 +1359,6 @@
     "closed": null
   },
   {
-    "id": "Cine1.tr",
-    "name": "Cine 1",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/ZRTqNJnW/cine1.png",
-    "stream_url": "https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.artidijitalmedya.com/embed/tv/cine1/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Cine5.tr",
-    "name": "Cine5",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Mehmet Emin Karamehmet"
-    ],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/AmcOAIY.png",
-    "stream_url": "https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://cine5tv.com.tr/",
-    "launched": "1993-09-20",
-    "closed": "2015-12-30"
-  },
-  {
     "id": "CNBCe.tr",
     "name": "CNBC-e",
     "alt_names": [
@@ -1595,32 +1447,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.denizpostasi.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Dersim62TV.tr",
-    "name": "Dersim62 TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/wFTl8aQ.png",
-    "stream_url": "http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
     "launched": null,
     "closed": null
   },
@@ -1779,32 +1605,6 @@
     "closed": null
   },
   {
-    "id": "DiyarTV.tr",
-    "name": "Diyar TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/qWkHjRA.png",
-    "stream_url": "https://yayin30.haber100.com/live/diyartv/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.diyartv.com.tr/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "DostTV.tr",
     "name": "Dost TV",
     "alt_names": [],
@@ -1865,32 +1665,6 @@
     },
     "website": "https://www.dreamturk.com.tr/",
     "launched": "2003-03-15",
-    "closed": null
-  },
-  {
-    "id": "DRTDenizli.tr",
-    "name": "DRT Denizli",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ZLX2RB7.png",
-    "stream_url": "https://edge1.socialsmart.tv/drttv/bant1/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.drttv.com.tr/",
-    "launched": null,
     "closed": null
   },
   {
@@ -2170,43 +1944,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/kb165Ot.png",
-    "stream_url": "https://gknnowtv.onrender.com/eurostar.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "EuroStar.tr",
-      "feed": "SD",
-      "site": "ziggogo.tv",
-      "site_id": "NL_000158_019266",
-      "site_name": "Eurostar",
-      "lang": "tr"
-    },
-    "website": "http://www.eurostartv.com.tr/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "EuroStar.tr",
-    "name": "EuroStar",
-    "alt_names": [
-      "Star Avrupa Radyo ve Televizyon"
-    ],
-    "network": null,
-    "owners": [
-      "Dogus Yayin Grubu"
-    ],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/kb165Ot.png",
     "stream_url": "https://canlitvulusal.xyz/live/eurostar/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -2371,34 +2108,6 @@
     },
     "website": "https://www.fxturkiye.com.tr/",
     "launched": "2008-04-14",
-    "closed": null
-  },
-  {
-    "id": "GEM24B.tr",
-    "name": "GEM 24B",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "GEM Group"
-    ],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/8LgdPst.png",
-    "stream_url": "http://66.102.120.18:8000/play/a044/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.gemgroup.tv/",
-    "launched": null,
     "closed": null
   },
   {
@@ -3018,60 +2727,6 @@
     "closed": null
   },
   {
-    "id": "GEMTVPlus.tr",
-    "name": "GEM TV +",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Gem Group"
-    ],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://gemgroup.tv/assets/images/channels/icon_17.png",
-    "stream_url": "http://66.102.120.18:8000/play/a045/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.gemgroup.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "GoncaTV.tr",
-    "name": "Gonca TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/TwqIJwo.png",
-    "stream_url": "https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.goncatv.com.tr/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "GrandCinema.tr",
     "name": "Grand Cinema",
     "alt_names": [],
@@ -3146,32 +2801,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://www.guneydogutv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "GuneyTVTarsus.tr",
-    "name": "Guney TV Tarsus",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/solQ9nj.png",
-    "stream_url": "https://live.artidijitalmedya.com/artidijital_guneytv/guneytv/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.guneytv.com.tr/",
     "launched": null,
     "closed": null
   },
@@ -3564,32 +3193,6 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/aXxAz84.png",
     "stream_url": "https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "IBBTV.tr",
-    "name": "IBB TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/aXxAz84.png",
-    "stream_url": "http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -4446,32 +4049,6 @@
     "closed": null
   },
   {
-    "id": "KardelenTV.tr",
-    "name": "Kardelen TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/0RATxcN.png",
-    "stream_url": "https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://kardelentv.com.tr/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "KayTV.tr",
     "name": "Kay TV",
     "alt_names": [],
@@ -4629,34 +4206,6 @@
     "tv_guide": null,
     "website": "https://www.kralmuzik.com.tr/tv/kral-pop-tv",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "KralTV.tr",
-    "name": "Kral TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Dogus Group"
-    ],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/GeEDOPN.png",
-    "stream_url": "https://dogus-live.daioncdn.net/kraltv/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.kraltv.com.tr/",
-    "launched": "1994-08-16",
     "closed": null
   },
   {
@@ -5033,41 +4582,6 @@
     "closed": null
   },
   {
-    "id": "MinikaCocuk.tr",
-    "name": "Minika Cocuk",
-    "alt_names": [
-      "Minika Çocuk"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/VCywMTv.png",
-    "stream_url": "https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MinikaCocuk.tr",
-      "feed": "SD",
-      "site": "tvplus.com.tr",
-      "site_id": "minika-cocuk/102",
-      "site_name": "MİNİKA ÇOCUK",
-      "lang": "tr"
-    },
-    "website": "http://www.minikacocuk.com.tr/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "MinikaGo.tr",
     "name": "Minika Go",
     "alt_names": [],
@@ -5085,39 +4599,6 @@
     "logo": "https://i.imgur.com/qIoipDq.png",
     "stream_url": "https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8",
     "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MinikaGo.tr",
-      "feed": "SD",
-      "site": "tvplus.com.tr",
-      "site_id": "minika-go/7",
-      "site_name": "MİNİKA GO",
-      "lang": "tr"
-    },
-    "website": "http://www.minikago.com.tr/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "MinikaGo.tr",
-    "name": "Minika Go",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/qIoipDq.png",
-    "stream_url": "https://trkvz-live.daioncdn.net/minikago/minikago.m3u8",
-    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -5508,32 +4989,6 @@
     "closed": null
   },
   {
-    "id": "Number1Dance.tr",
-    "name": "Number 1 Dance",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ZM4PSyq.png",
-    "stream_url": "http://wms.brtk.net:1935/live/brt1/playlist.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.numberone.com.tr/",
-    "launched": "1994-08-01",
-    "closed": null
-  },
-  {
     "id": "Number1Turk.tr",
     "name": "Number 1 Turk",
     "alt_names": [
@@ -5776,32 +5231,6 @@
     "closed": null
   },
   {
-    "id": "PamukkaleTV.tr",
-    "name": "Pamukkale TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/8fHgTIr.png",
-    "stream_url": "http://ms1.sanlisoy.com:1935/pamukkaletv/pamukkaletv/playlist.m3u8",
-    "stream_quality": "614p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://pamukkaletv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "PowerDance.tr",
     "name": "Power Dance",
     "alt_names": [],
@@ -5854,32 +5283,6 @@
     "closed": null
   },
   {
-    "id": "PowerPlus.tr",
-    "name": "Power Plus",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/susAPo6.png",
-    "stream_url": "https://livetv.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.powerapp.com.tr/powerplus/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "PowerTurkAkustik.tr",
     "name": "PowerTurk Akustik",
     "alt_names": [
@@ -5904,34 +5307,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.powerapp.com.tr/radios/powerturkakustik/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PowerTurkEnIyiler.tr",
-    "name": "PowerTurk En Iyiler",
-    "alt_names": [
-      "PowerTürk En İyiler"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/CM2Z9lg.png",
-    "stream_url": "https://livetv.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.powerapp.com.tr/radios/powerturkbestof/",
     "launched": null,
     "closed": null
   },
@@ -6210,54 +5585,6 @@
     "closed": null
   },
   {
-    "id": "RehberTV.tr",
-    "name": "Rehber TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/fpkaw78.png",
-    "stream_url": "https://yayin30.haber100.com/live/rehbertv/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.rehbertv.com.tr/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SariyerTV.tr",
-    "name": "Sariyer TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/lfHVabz.png",
-    "stream_url": "https://s01.vpis.io/sariyer/sariyer.m3u8",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://sariyer.tv.tr/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "SemerkandTV.tr",
     "name": "Semerkand TV",
     "alt_names": [],
@@ -6285,63 +5612,6 @@
       "lang": "tr"
     },
     "website": "http://www.semerkandtv.com.tr/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ShowMax.tr",
-    "name": "Show Max",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/456FWA7.png",
-    "stream_url": "https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/showmax.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ShowMax.tr",
-      "feed": "SD",
-      "site": "web.magentatv.de",
-      "site_id": "3827",
-      "site_name": "Show Max",
-      "lang": "de"
-    },
-    "website": "http://www.showmax.com.tr/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SinopYildizTV.tr",
-    "name": "Sinop Yildiz TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/CjgbQTk.png",
-    "stream_url": "https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
     "launched": null,
     "closed": null
   },
@@ -6412,39 +5682,6 @@
     "closed": null
   },
   {
-    "id": "SSport2.tr",
-    "name": "S Sport 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/2jIItAy.png",
-    "stream_url": "https://gknnowtv.onrender.com/ss2.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SSport2.tr",
-      "feed": "SD",
-      "site": "tvplus.com.tr",
-      "site_id": "s-sport-2/170",
-      "site_name": "S SPORT 2",
-      "lang": "tr"
-    },
-    "website": "https://www.ssport.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "SSport.tr",
     "name": "S Sport",
     "alt_names": [],
@@ -6461,39 +5698,6 @@
     "is_nsfw": false,
     "logo": "https://i.postimg.cc/3xrkRd30/ssport.png",
     "stream_url": "https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SSport.tr",
-      "feed": "SD",
-      "site": "tvplus.com.tr",
-      "site_id": "s-sport/11",
-      "site_name": "S SPORT",
-      "lang": "tr"
-    },
-    "website": "https://www.ssport.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SSport.tr",
-    "name": "S Sport",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/3xrkRd30/ssport.png",
-    "stream_url": "https://gknnowtv.onrender.com/ss1.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -6697,30 +5901,6 @@
     "tv_guide": null,
     "website": "https://www.tbmm.gov.tr/",
     "launched": "1994-12-10",
-    "closed": null
-  },
-  {
-    "id": "TekRumeliTV.tr",
-    "name": "Tek Rumeli TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/skeNzbc.png",
-    "stream_url": "https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.tekrumelitv.com/",
-    "launched": null,
     "closed": null
   },
   {
@@ -8225,37 +7405,6 @@
     "closed": null
   },
   {
-    "id": "TV85.tr",
-    "name": "TV 8.5",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/QuelSsc.png",
-    "stream_url": "http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TV85.tr",
-      "feed": "SD",
-      "site": "tvplus.com.tr",
-      "site_id": "tv85/188",
-      "site_name": "TV8,5",
-      "lang": "tr"
-    },
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TV100.tr",
     "name": "TV 100",
     "alt_names": [],
@@ -8307,32 +7456,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://tv264.com.tr/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVA.tr",
-    "name": "TVA",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/tt/tva-tr.png",
-    "stream_url": "https://live.artidijitalmedya.com/artidijital_tva/tva/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tva.com.tr/?page_id=3683",
     "launched": null,
     "closed": null
   },
@@ -8430,32 +7553,6 @@
     "closed": null
   },
   {
-    "id": "UcanKusTV.tr",
-    "name": "UcanKus TV",
-    "alt_names": [
-      "UçanKus TV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/4j8WrIu.png",
-    "stream_url": "https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.ucankus.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "UlkeTV.tr",
     "name": "Ulke TV",
     "alt_names": [
@@ -8486,39 +7583,6 @@
     },
     "website": "https://www.ulketv.com.tr/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "UlusalKanal.tr",
-    "name": "Ulusal Kanal",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Yalçın Büyükdağlı"
-    ],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/EwSg612.png",
-    "stream_url": "https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "UlusalKanal.tr",
-      "feed": "SD",
-      "site": "tvplus.com.tr",
-      "site_id": "ulusal-kanal/2240",
-      "site_name": "ULUSAL KANAL",
-      "lang": "tr"
-    },
-    "website": "https://www.ulusal.com.tr/",
-    "launched": "2000-01-01",
     "closed": null
   },
   {
@@ -8568,32 +7632,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://urfanatiktv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "UUTV1.tr",
-    "name": "UU TV 1",
-    "alt_names": [
-      "ÜÜ TV 1"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/H5kOQz5.png",
-    "stream_url": "https://uskudarunv.mediatriple.net/uskudarunv/uskudar1/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tv.uskudar.edu.tr/",
     "launched": null,
     "closed": null
   },

@@ -316,37 +316,6 @@
     "closed": null
   },
   {
-    "id": "PROTVChisinau.md",
-    "name": "PRO TV Chisinau",
-    "alt_names": [
-      "PRO TV Chișinău"
-    ],
-    "network": "CME PRO",
-    "owners": [
-      "PRO Digital SRL"
-    ],
-    "country_code": "MD",
-    "country_name": "Moldova",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general",
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/X5PYRxF.png",
-    "stream_url": "http://stream.protv.md/live/sursa-2/index.m3u8",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://protv.md/",
-    "launched": "1999-09-03",
-    "closed": null
-  },
-  {
     "id": "PublikaTV.md",
     "name": "Publika TV",
     "alt_names": [],
@@ -434,32 +403,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://news.sortv.md",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TezaurTV.md",
-    "name": "Tezaur TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "MD",
-    "country_name": "Moldova",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/eAagwLW.png",
-    "stream_url": "https://tezaurtv.md/wp-content/uploads/live/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tezaurtv.md",
     "launched": null,
     "closed": null
   },

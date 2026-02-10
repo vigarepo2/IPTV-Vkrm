@@ -1245,73 +1245,6 @@
     "closed": null
   },
   {
-    "id": "KSASports1.sa",
-    "name": "KSA Sports 1",
-    "alt_names": [
-      "القناة الرياضية السعودية"
-    ],
-    "network": null,
-    "owners": [
-      "Saudi Broadcasting Authority"
-    ],
-    "country_code": "SA",
-    "country_name": "Saudi Arabia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ONKNOAp.png",
-    "stream_url": "http://66.102.120.18:8000/play/a03o/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "KSASports1.sa",
-      "feed": "SD",
-      "site": "sat.tv",
-      "site_id": "1#33#KSA sports 1",
-      "site_name": "KSA sports 1",
-      "lang": "en"
-    },
-    "website": "https://www.aloula.sa/live/ksa-sports1",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "KSASports2.sa",
-    "name": "KSA Sports 2",
-    "alt_names": [
-      "القناة الرياضية السعودية"
-    ],
-    "network": null,
-    "owners": [
-      "Saudi Broadcasting Authority"
-    ],
-    "country_code": "SA",
-    "country_name": "Saudi Arabia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/v8ULLqg.png",
-    "stream_url": "http://66.102.120.18:8000/play/a03p/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.aloula.sa/live/ksa-sports2",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "LBC.sa",
     "name": "LBC",
     "alt_names": [
@@ -1678,8 +1611,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Ho8N310.png",
-    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8?ads.vf=6otIjpqWKPe",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1903,8 +1836,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/DLDfFpu.png",
-    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8?ads.vf=0PRJnP3xh_q",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

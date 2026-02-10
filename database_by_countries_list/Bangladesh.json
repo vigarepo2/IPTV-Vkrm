@@ -1,35 +1,5 @@
 [
   {
-    "id": "AsianTV.bd",
-    "name": "Asian TV",
-    "alt_names": [
-      "এশিয়ান টিভি"
-    ],
-    "network": null,
-    "owners": [
-      "Asian Group of Industries"
-    ],
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/k2adSjA.png",
-    "stream_url": "https://mtlivestream.site/asian/ytlive/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.asiantv.com.bd/",
-    "launched": "2013-01-18",
-    "closed": null
-  },
-  {
     "id": "BoishakhiTV.bd",
     "name": "Boishakhi TV",
     "alt_names": [],

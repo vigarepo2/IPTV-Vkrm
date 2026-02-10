@@ -642,36 +642,6 @@
     "closed": null
   },
   {
-    "id": "OrbitaFM.sv",
-    "name": "Orbita FM",
-    "alt_names": [
-      "Órbita FM"
-    ],
-    "network": null,
-    "owners": [
-      "Jorge Hernández"
-    ],
-    "country_code": "SV",
-    "country_name": "El Salvador",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/KTgTjQi.png",
-    "stream_url": "https://live20.bozztv.com/akamaissh101/ssh101/OrbitaFM953/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://orbitafm.com.sv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "RTVCanal57.sv",
     "name": "RTV Canal 57",
     "alt_names": [],
@@ -694,34 +664,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://rtvcanal57.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RTVCatolica.sv",
-    "name": "RTV Catolica",
-    "alt_names": [
-      "RTV Católica"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "SV",
-    "country_name": "El Salvador",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/MIlw7GI.png",
-    "stream_url": "https://stream.giostreaming.app/canal40/canal40.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.radioytelevisioncatolica.com/",
     "launched": null,
     "closed": null
   },

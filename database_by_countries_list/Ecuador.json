@@ -519,32 +519,6 @@
     "closed": null
   },
   {
-    "id": "EcuaStereoRadioTV.ec",
-    "name": "Ecua Stereo Radio TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "EC",
-    "country_name": "Ecuador",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/tnFZY5O.png",
-    "stream_url": "https://video.misistemareseller.com/ecuastereotv/ecuastereotv/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://ecuastereo.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Ecuavisa.ec",
     "name": "Ecuavisa",
     "alt_names": [
@@ -898,32 +872,6 @@
       "lang": "es"
     },
     "website": "https://inti.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "KCHTV.ec",
-    "name": "KCHTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "EC",
-    "country_name": "Ecuador",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/CwQmZm7.jpeg",
-    "stream_url": "https://www.kchtv.com/stream/hls/stream.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://kchtv.com/",
     "launched": null,
     "closed": null
   },
@@ -1641,32 +1589,6 @@
     "closed": null
   },
   {
-    "id": "RadioLaOriginalTV.ec",
-    "name": "Radio La Original TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "EC",
-    "country_name": "Ecuador",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/niPTXLQ.jpg",
-    "stream_url": "https://cloudvideo.servers10.com:8081/8216/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.laoriginaltvradio.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "RadioMonumentalTV.ec",
     "name": "Radio Monumental TV",
     "alt_names": [],
@@ -2279,32 +2201,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.vosytv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "WuanPlus.ec",
-    "name": "Wuan+",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "EC",
-    "country_name": "Ecuador",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/pJNx1za.png",
-    "stream_url": "https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://wuanplus.tv/",
     "launched": null,
     "closed": null
   },

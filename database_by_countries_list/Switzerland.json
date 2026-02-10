@@ -1,38 +1,5 @@
 [
   {
-    "id": "BlueSport2.ch",
-    "name": "Blue Sport 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CH",
-    "country_name": "Switzerland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/GTbOgdT.png",
-    "stream_url": "http://62.210.211.188:2095/play/a00f",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BlueSport2.ch",
-      "feed": "SD",
-      "site": "tv.blue.ch",
-      "site_id": "950",
-      "site_name": "blue Sport 1 direct",
-      "lang": "fr"
-    },
-    "website": "https://tv.blue.ch/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "BlueZoomF.ch",
     "name": "Blue Zoom F",
     "alt_names": [],
@@ -729,43 +696,6 @@
     },
     "website": "https://canal9.ch/de/direct/",
     "launched": "1984-09-29",
-    "closed": null
-  },
-  {
-    "id": "LaTele.ch",
-    "name": "La Tele",
-    "alt_names": [
-      "La Télé"
-    ],
-    "network": null,
-    "owners": [
-      "Vaud-Fribourg TV S A"
-    ],
-    "country_code": "CH",
-    "country_name": "Switzerland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/DdCfl4n.png",
-    "stream_url": "https://latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "LaTele.ch",
-      "feed": "SD",
-      "site": "tv.blue.ch",
-      "site_id": "242",
-      "site_name": "La Télé",
-      "lang": "fr"
-    },
-    "website": "https://latele.ch/",
-    "launched": "2009-01-01",
     "closed": null
   },
   {
@@ -1691,37 +1621,6 @@
     "closed": null
   },
   {
-    "id": "Tele1.ch",
-    "name": "Tele 1",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CH",
-    "country_name": "Switzerland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/WIfBbLj.png",
-    "stream_url": "https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Tele1.ch",
-      "feed": "SD",
-      "site": "tv.blue.ch",
-      "site_id": "570",
-      "site_name": "Tele 1",
-      "lang": "de"
-    },
-    "website": "https://www.tele1.ch/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TeleBarn.ch",
     "name": "TeleBarn",
     "alt_names": [
@@ -1739,39 +1638,6 @@
     "logo": "https://i.imgur.com/YwUbbKA.png",
     "stream_url": "https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TeleBarn.ch",
-      "feed": "SD",
-      "site": "tv.blue.ch",
-      "site_id": "572",
-      "site_name": "Tele Bärn",
-      "lang": "de"
-    },
-    "website": "https://www.telebaern.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TeleBarn.ch",
-    "name": "TeleBarn",
-    "alt_names": [
-      "TeleBärn"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "CH",
-    "country_name": "Switzerland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/YwUbbKA.png",
-    "stream_url": "https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_obr1n222/protocol/https/format/applehttp/flavorIds/1_ilmyd94i,1_ndclh5za,1_y4atcpo4/a.m3u8",
-    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1838,39 +1704,6 @@
     "logo": "https://i.postimg.cc/pT0HsXg4/telebielingue.png",
     "stream_url": "https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TeleBielingue.ch",
-      "feed": "SD",
-      "site": "tv.blue.ch",
-      "site_id": "573",
-      "site_name": "Tele Bielingue",
-      "lang": "de"
-    },
-    "website": null,
-    "launched": "1999-03-15",
-    "closed": null
-  },
-  {
-    "id": "TeleBielingue.ch",
-    "name": "TeleBielingue",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Bureau Cortesi Editions W. Gassmann"
-    ],
-    "country_code": "CH",
-    "country_name": "Switzerland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/pT0HsXg4/telebielingue.png",
-    "stream_url": "https://edge20.vedge.infomaniak.com/livecast/ik:telebielinguech/manifest.m3u8",
-    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1981,39 +1814,6 @@
     },
     "website": null,
     "launched": "1994-01-01",
-    "closed": null
-  },
-  {
-    "id": "TeleZuri.ch",
-    "name": "TeleZuri",
-    "alt_names": [
-      "TeleZüri"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "CH",
-    "country_name": "Switzerland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/f8kzNT1.png",
-    "stream_url": "https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_se36k3uk/protocol/https/format/applehttp/flavorIds/1_i4zc9zv3,1_2vzxm8zl,1_yjohpwzj/a.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TeleZuri.ch",
-      "feed": "SD",
-      "site": "tv.blue.ch",
-      "site_id": "585",
-      "site_name": "TeleZüri",
-      "lang": "de"
-    },
-    "website": "https://www.telezueri.ch/",
-    "launched": "1994-10-03",
     "closed": null
   },
   {
@@ -2170,37 +1970,6 @@
       "lang": "fr"
     },
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVO.ch",
-    "name": "TVO",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CH",
-    "country_name": "Switzerland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/i57Vst6.png",
-    "stream_url": "https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVO.ch",
-      "feed": "SD",
-      "site": "tv.blue.ch",
-      "site_id": "641",
-      "site_name": "TVO",
-      "lang": "de"
-    },
-    "website": "https://www.tvo-online.ch/",
     "launched": null,
     "closed": null
   },

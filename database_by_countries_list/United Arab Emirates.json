@@ -235,80 +235,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/NXFkYFj.png",
-    "stream_url": "https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Alarabiya.ae",
-      "feed": "SD",
-      "site": "tv24.se",
-      "site_id": "al-arabiya",
-      "site_name": "Al Arabiya",
-      "lang": "sv"
-    },
-    "website": "https://www.alarabiya.net/",
-    "launched": "2003-03-03",
-    "closed": null
-  },
-  {
-    "id": "Alarabiya.ae",
-    "name": "Alarabiya",
-    "alt_names": [
-      "العربية"
-    ],
-    "network": null,
-    "owners": [
-      "MBC Group"
-    ],
-    "country_code": "AE",
-    "country_name": "United Arab Emirates",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/NXFkYFj.png",
-    "stream_url": "https://shls-live-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Alarabiya.ae",
-      "feed": "SD",
-      "site": "tv24.se",
-      "site_id": "al-arabiya",
-      "site_name": "Al Arabiya",
-      "lang": "sv"
-    },
-    "website": "https://www.alarabiya.net/",
-    "launched": "2003-03-03",
-    "closed": null
-  },
-  {
-    "id": "Alarabiya.ae",
-    "name": "Alarabiya",
-    "alt_names": [
-      "العربية"
-    ],
-    "network": null,
-    "owners": [
-      "MBC Group"
-    ],
-    "country_code": "AE",
-    "country_name": "United Arab Emirates",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/NXFkYFj.png",
     "stream_url": "https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-dash/alarabiya.mpd",
     "stream_quality": null,
     "stream_format": null,
@@ -348,6 +274,43 @@
     "logo": "https://i.imgur.com/NXFkYFj.png",
     "stream_url": "https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-HLS8/alarabiya.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Alarabiya.ae",
+      "feed": "SD",
+      "site": "tv24.se",
+      "site_id": "al-arabiya",
+      "site_name": "Al Arabiya",
+      "lang": "sv"
+    },
+    "website": "https://www.alarabiya.net/",
+    "launched": "2003-03-03",
+    "closed": null
+  },
+  {
+    "id": "Alarabiya.ae",
+    "name": "Alarabiya",
+    "alt_names": [
+      "العربية"
+    ],
+    "network": null,
+    "owners": [
+      "MBC Group"
+    ],
+    "country_code": "AE",
+    "country_name": "United Arab Emirates",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/NXFkYFj.png",
+    "stream_url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -463,41 +426,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.alarabiya.net/programs",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "AlDafrahTV.ae",
-    "name": "Al Dafrah TV",
-    "alt_names": [
-      "قناة الظفرة"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "AE",
-    "country_name": "United Arab Emirates",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/sOMOe9t.png",
-    "stream_url": "https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/23cf2e00-28b0-b7b4-2569-ab7d19233fd7/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AlDafrahTV.ae",
-      "feed": "SD",
-      "site": "elcinema.com",
-      "site_id": "1264",
-      "site_name": "Al Dafrah",
-      "lang": "en"
-    },
-    "website": "https://aldafrah.ae/",
     "launched": null,
     "closed": null
   },
@@ -706,41 +634,6 @@
     },
     "website": "https://www.cnbcarabia.com/",
     "launched": "2003-01-01",
-    "closed": null
-  },
-  {
-    "id": "DubaiOne.ae",
-    "name": "Dubai One",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Dubai Media Incorporated"
-    ],
-    "country_code": "AE",
-    "country_name": "United Arab Emirates",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Dj16oKL.png",
-    "stream_url": "https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "DubaiOne.ae",
-      "feed": "SD",
-      "site": "melita.com",
-      "site_id": "b41afdcb-2204-48ee-b40a-a0db64e4bd91",
-      "site_name": "Dubai One",
-      "lang": "en"
-    },
-    "website": "http://www.dubaione.ae/",
-    "launched": "1994-05-14",
     "closed": null
   },
   {
@@ -972,7 +865,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/g5PWnqp.png",
-    "stream_url": "https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8",
+    "stream_url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -1872,7 +1765,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/nLtiXNf.png",
-    "stream_url": "https://wanasah-prod-dub-enc.edgenextcdn.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8",
+    "stream_url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

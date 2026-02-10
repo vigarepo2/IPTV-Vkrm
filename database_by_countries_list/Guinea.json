@@ -191,31 +191,5 @@
     "website": "https://rtgkoloma.info/tv/",
     "launched": null,
     "closed": null
-  },
-  {
-    "id": "RTG2.gn",
-    "name": "RTG 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GN",
-    "country_name": "Guinea",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/E1sMcXz.png",
-    "stream_url": "https://stream.castr.com/6358a30fa50e3ae11b6d0424/live_e05d20809c3611edadb72177341481c3/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://player.castr.com/",
-    "tv_guide": null,
-    "website": "https://rtgkoloma.info/tv/",
-    "launched": null,
-    "closed": null
   }
 ]

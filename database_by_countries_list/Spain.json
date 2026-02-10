@@ -619,32 +619,6 @@
     "closed": null
   },
   {
-    "id": "101tvAntequera.es",
-    "name": "101tv Antequera",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/GzI3RC4.png",
-    "stream_url": "https://www.streaming101tv.es:19360/antequera/antequera.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://www.101tv.es/antequera/",
-    "tv_guide": null,
-    "website": "https://www.101tv.es/antequera/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "101tvAxarquia.es",
     "name": "101tv Axarquia",
     "alt_names": [
@@ -725,32 +699,6 @@
     "referrer": "https://player.instantvideocloud.net/",
     "tv_guide": null,
     "website": "https://www.101tv.es/endirecto101tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "101tvRonda.es",
-    "name": "101tv Ronda",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/GzI3RC4.png",
-    "stream_url": "https://streaming101tv.es/hls/webronda.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.101tv.es/ronda/",
     "launched": null,
     "closed": null
   },
@@ -1057,41 +1005,6 @@
     },
     "website": "https://www.antena3.com/",
     "launched": "1990-01-25",
-    "closed": null
-  },
-  {
-    "id": "Antena3Internacional.es",
-    "name": "Antena 3 Internacional",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Atresmedia Corporación de Medios de Comunicación SA"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/pXXw8gqm/antena3internacional.png",
-    "stream_url": "http://38.180.133.31:8000/play/a0ki",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Antena3Internacional.es",
-      "feed": "SD",
-      "site": "tv.movistar.com.pe",
-      "site_id": "lch6292",
-      "site_name": "ANTENA 3",
-      "lang": "es"
-    },
-    "website": "https://www.antena3internacional.com/",
-    "launched": "1995-01-01",
     "closed": null
   },
   {
@@ -1441,58 +1354,6 @@
     },
     "website": "https://www.bemad.es/",
     "launched": "2016-01-01",
-    "closed": null
-  },
-  {
-    "id": "Beteve.es",
-    "name": "Beteve",
-    "alt_names": [
-      "Betevé"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logotip_betev%C3%A9.svg/512px-Logotip_betev%C3%A9.svg.png",
-    "stream_url": "https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://beteve.cat/",
-    "launched": "1994-11-03",
-    "closed": null
-  },
-  {
-    "id": "Beteve.es",
-    "name": "Beteve",
-    "alt_names": [
-      "Betevé"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logotip_betev%C3%A9.svg/512px-Logotip_betev%C3%A9.svg.png",
-    "stream_url": "https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://beteve.cat/",
-    "launched": "1994-11-03",
     "closed": null
   },
   {
@@ -3552,60 +3413,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ElConfidencialTV.es",
-    "name": "El Confidencial TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/W2Qqz2F.png",
-    "stream_url": "https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.elconfidencial.com/television/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ElPaisTV.es",
-    "name": "El Pais TV",
-    "alt_names": [
-      "El País TV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/JzAzsft.png",
-    "stream_url": "https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://elpais.com/",
     "launched": null,
     "closed": null
   },
@@ -6162,34 +5969,6 @@
     "closed": null
   },
   {
-    "id": "PTVAlmeria.es",
-    "name": "PTV Almeria",
-    "alt_names": [
-      "PTV Almería"
-    ],
-    "network": "PTV",
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/X3eIdVf.png",
-    "stream_url": "https://streamer.zapitv.com/ptv_almeria/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.ptvtelecom.com/canales/almeria.html",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "PTVCordoba.es",
     "name": "PTV Cordoba",
     "alt_names": [
@@ -6421,32 +6200,6 @@
     "logo": "https://i.imgur.com/o9Ro8TR.png",
     "stream_url": "https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RadioTelevisionMogan.es",
-    "name": "Radio Television Mogan",
-    "alt_names": [
-      "Radio Televisión Mogán"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/oefjONS.png",
-    "stream_url": "https://cloudvideo.servers10.com:8081/8028/index.m3u8",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -7525,41 +7278,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/5pMo7dL.png",
-    "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RealMadridTV.es",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "3600",
-      "site_name": "REAL MADRID TV",
-      "lang": "fr"
-    },
-    "website": "https://www.realmadrid.com/real-madrid-tv",
-    "launched": "1999-02-14",
-    "closed": null
-  },
-  {
-    "id": "RealMadridTV.es",
-    "name": "Real Madrid TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Real Madrid Club de Fútbol"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/5pMo7dL.png",
     "stream_url": "https://aegis-cloudfront-1.tubi.video/6009b36d-1660-4a24-b1b9-f4d3371b352e/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -7728,32 +7446,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://vidartv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SalTelevision.es",
-    "name": "Sal Television",
-    "alt_names": [
-      "Sal Televisión"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/7ewYJ4Y.jpg",
-    "stream_url": "https://cloudvideo.servers10.com:8081/8254/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://saltv.es/",
     "launched": null,
     "closed": null
   },
@@ -8742,32 +8434,6 @@
     },
     "website": "https://www.cope.es/trecetv",
     "launched": "2010-01-01",
-    "closed": null
-  },
-  {
-    "id": "TuyaLaJandaTelevision.es",
-    "name": "Tuya La Janda Television",
-    "alt_names": [
-      "Tuya La Janda Televisión"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://tuyatv.com/wp-content/uploads/2023/11/Tuya-TV-La-Janda-en-directo-Online-1-400x225.png",
-    "stream_url": "https://play.agenciastreaming.com:8081/tuyaespana/tracks-v1a1/mono.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tuyatv.com/",
-    "launched": null,
     "closed": null
   },
   {
@@ -9834,32 +9500,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://vivamovil.tv/en-directo/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "VivaMurciaTV.es",
-    "name": "Viva Murcia TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/8G2FlfF.jpg",
-    "stream_url": "http://185.36.211.142:8080/tmp_hls/viva/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.vivamurcia.com/",
     "launched": null,
     "closed": null
   },

@@ -181,72 +181,6 @@
     "closed": null
   },
   {
-    "id": "RadioAktual.si",
-    "name": "Radio Aktual",
-    "alt_names": [
-      "Aktual TV HD"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "SI",
-    "country_name": "Slovenia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/HwO1h74.png",
-    "stream_url": "https://vr1.radioaktual.si/hls/stream.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RadioAktual.si",
-      "feed": "SD",
-      "site": "neo.io",
-      "site_id": "aktual-tv",
-      "site_name": "Aktual TV",
-      "lang": "sl"
-    },
-    "website": "https://radioaktual.svet24.si/",
-    "launched": "2023-03-13",
-    "closed": null
-  },
-  {
-    "id": "SIPTV.si",
-    "name": "SIP TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "SI",
-    "country_name": "Slovenia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/SkrpQ5l.png",
-    "stream_url": "https://data.siptv.si/live-siptv/hls/index.m3u8",
-    "stream_quality": "1084p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SIPTV.si",
-      "feed": "SD",
-      "site": "tv2go.t-2.net",
-      "site_id": "1000498",
-      "site_name": "SIP TV",
-      "lang": "sl"
-    },
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TelevizijaUrslja.si",
     "name": "Televizija Urslja",
     "alt_names": [
@@ -301,34 +235,6 @@
       "site_name": "Tržič TV",
       "lang": "sl"
     },
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVSehara.si",
-    "name": "TV Sehara",
-    "alt_names": [
-      "Televizija Sehara"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "SI",
-    "country_name": "Slovenia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/189FW4H.png",
-    "stream_url": "http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
     "website": null,
     "launched": null,
     "closed": null
@@ -603,37 +509,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://veseljak.svet24.si/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "VeseljakTV.si",
-    "name": "Veseljak TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "SI",
-    "country_name": "Slovenia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/JtWEyXX.png",
-    "stream_url": "https://vr.veseljak.tv/hls/stream.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "VeseljakTV.si",
-      "feed": "SD",
-      "site": "tv2go.t-2.net",
-      "site_id": "13",
-      "site_name": "Best TV",
-      "lang": "sl"
-    },
-    "website": null,
     "launched": null,
     "closed": null
   }

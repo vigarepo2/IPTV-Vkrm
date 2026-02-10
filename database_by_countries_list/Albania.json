@@ -161,32 +161,6 @@
     "closed": null
   },
   {
-    "id": "MCNTV.al",
-    "name": "MCN TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "AL",
-    "country_name": "Albania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/bcAMVVk.png",
-    "stream_url": "https://mcn24.tv/hidden_stream/mcntv.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0",
-    "referrer": "https://mcn24.tv/hls/",
-    "tv_guide": null,
-    "website": "http://www.mcntv.al/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "News24.al",
     "name": "News 24",
     "alt_names": [],
@@ -289,34 +263,6 @@
     },
     "website": "https://www.oranews.tv/",
     "launched": "2010-01-01",
-    "closed": null
-  },
-  {
-    "id": "PanoramaTV.al",
-    "name": "Panorama TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Panorama Group"
-    ],
-    "country_code": "AL",
-    "country_name": "Albania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/512px-Panorama_logo.svg.png",
-    "stream_url": "https://tv.panorama.com.al/panorama/livestream/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.panorama.com.al/panoramatv/",
-    "launched": null,
     "closed": null
   },
   {

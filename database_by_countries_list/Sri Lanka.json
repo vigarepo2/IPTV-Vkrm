@@ -113,34 +113,6 @@
     "closed": null
   },
   {
-    "id": "HiruTV.lk",
-    "name": "Hiru TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Asia Broadcasting Corporation"
-    ],
-    "country_code": "LK",
-    "country_name": "Sri Lanka",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/M66UqPB.png",
-    "stream_url": "https://dc2.serverse.com:19360/hirutv/hirutv.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.hirutv.lk/",
-    "launched": "2012-05-23",
-    "closed": null
-  },
-  {
     "id": "ITN.lk",
     "name": "ITN",
     "alt_names": [],

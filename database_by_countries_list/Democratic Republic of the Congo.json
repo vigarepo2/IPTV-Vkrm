@@ -54,32 +54,6 @@
     "closed": null
   },
   {
-    "id": "CBCTV.cd",
-    "name": "CBC TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CD",
-    "country_name": "Democratic Republic of the Congo",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/zmsDo6X.png",
-    "stream_url": "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "CCPVTelevision.cd",
     "name": "CCPV Television",
     "alt_names": [
@@ -303,34 +277,6 @@
     "closed": null
   },
   {
-    "id": "MetanoiaTV.cd",
-    "name": "Metanoia TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Metanoia Ministries"
-    ],
-    "country_code": "CD",
-    "country_name": "Democratic Republic of the Congo",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Bf00ttL.png",
-    "stream_url": "https://tnt-television.com/METANOIA-STREAM1/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://metanoia.tv/",
-    "launched": "2020-03-22",
-    "closed": null
-  },
-  {
     "id": "MikubaTV.cd",
     "name": "Mikuba TV",
     "alt_names": [],
@@ -451,32 +397,6 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/xQlkuAa.png",
     "stream_url": "http://51.254.199.122:8080/PSTV/index.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PSTVHD.cd",
-    "name": "PSTV HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CD",
-    "country_name": "Democratic Republic of the Congo",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/xQlkuAa.png",
-    "stream_url": "https://tnt-television.com/PSTV_TVHD/index.m3u8",
     "stream_quality": "480p",
     "stream_format": null,
     "user_agent": null,

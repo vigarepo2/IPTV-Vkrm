@@ -80,67 +80,6 @@
     "closed": null
   },
   {
-    "id": "AfroSportNigeria.ng",
-    "name": "AfroSport Nigeria",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "NG",
-    "country_name": "Nigeria",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://pbs.twimg.com/profile_images/1451668129042599936/Uh-Z6Sh1_400x400.jpg",
-    "stream_url": "https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.afrosportgroup.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "AITNational.ng",
-    "name": "AIT National",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "DAAR Communications"
-    ],
-    "country_code": "NG",
-    "country_name": "Nigeria",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/n9sZsWv.jpeg",
-    "stream_url": "https://webstreaming.viewmedia.tv/web_036/Stream/playlist.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AITNational.ng",
-      "feed": "SD",
-      "site": "startimestv.com",
-      "site_id": "224",
-      "site_name": "AIT",
-      "lang": "en"
-    },
-    "website": "https://ait.live/",
-    "launched": "1996-11-22",
-    "closed": null
-  },
-  {
     "id": "AMusicChannel.ng",
     "name": "AMusic Channel",
     "alt_names": [],
@@ -268,62 +207,6 @@
     "tv_guide": null,
     "website": "https://live.approvaltv.com",
     "launched": "2025-04-21",
-    "closed": null
-  },
-  {
-    "id": "APTIMTV.ng",
-    "name": "APTIM TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Apostolic Power Ministries"
-    ],
-    "country_code": "NG",
-    "country_name": "Nigeria",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/gWgvm0I.png",
-    "stream_url": "https://stream.commec.tv/6447b2559d8b0711e2fa75cc/live_222c2dc0b69f11ee8c3c99218c8c67c4/index.fmp4.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.aptimministries.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ATN.ng",
-    "name": "ATN",
-    "alt_names": [
-      "Atlantic Television Network"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "NG",
-    "country_name": "Nigeria",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/9nHgK9t/logo-light.jpg",
-    "stream_url": "https://tv2.ifastekpanel.com:3013/live/atntvlive.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://atlanticnetwork.tv/",
-    "launched": null,
     "closed": null
   },
   {
@@ -656,88 +539,6 @@
     "closed": null
   },
   {
-    "id": "GalaxyTV.ng",
-    "name": "Galaxy TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "NG",
-    "country_name": "Nigeria",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/BV0JuyX.png",
-    "stream_url": "https://5d846bfda90fc.streamlock.net:1935/live/galaxytv/playlist.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.galaxytvonline.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "GMTV.ng",
-    "name": "GMTV",
-    "alt_names": [
-      "Global Mission Television"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "NG",
-    "country_name": "Nigeria",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/cvDyWs1/IMG-20230628-152516.jpg",
-    "stream_url": "https://webstreaming-11.viewmedia.tv/web_160/Stream/playlist.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "HoremowTV.ng",
-    "name": "HoremowTV",
-    "alt_names": [
-      "Holiness TV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "NG",
-    "country_name": "Nigeria",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/LzTqsW9.png",
-    "stream_url": "https://tvsw6-hls.secdn.net/tvsw6-chorigin/play/prod-2859eecc9b514f2bb955290066ef172d/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.horemowtv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "ItageTV.ng",
     "name": "Itage TV",
     "alt_names": [],
@@ -790,56 +591,6 @@
     "closed": null
   },
   {
-    "id": "LiberationTV.ng",
-    "name": "Liberation TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "NG",
-    "country_name": "Nigeria",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/MjbLGOu.png",
-    "stream_url": "https://webstreaming.viewmedia.tv/web_011/Stream/playlist.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://gracenation.ng/liberationtv",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "LifeCenterNetwork.ng",
-    "name": "Life Center Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "NG",
-    "country_name": "Nigeria",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/ll/life-center-network-ng.png",
-    "stream_url": "https://webstreaming-11.viewmedia.tv/web_152/Stream/playlist.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "LN247.ng",
     "name": "LN247",
     "alt_names": [],
@@ -862,32 +613,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://ln247.news/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "LovetoonsTV.ng",
-    "name": "Lovetoons TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "NG",
-    "country_name": "Nigeria",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/omsvAEM.png",
-    "stream_url": "https://kali1.everestcast.com:3674/stream/play.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://lovetoons.org/",
     "launched": null,
     "closed": null
   },
@@ -916,118 +641,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://loveworldarabic.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "LoveWorldAsia.ng",
-    "name": "LoveWorld Asia",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Believers' Love World Incorporated"
-    ],
-    "country_code": "NG",
-    "country_name": "Nigeria",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/ll/love_world_ng_asia.png",
-    "stream_url": "https://cdnstack.internetmultimediaonline.org/auxano/Hindilanx/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://cloveworld.org/?tv=5a098fdb0c4105wjug1qiet7v",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "LoveWorldCASA.ng",
-    "name": "LoveWorld CASA",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Believers' Love World Incorporated"
-    ],
-    "country_code": "NG",
-    "country_name": "Nigeria",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/ll/loveworld-casa-ng.png",
-    "stream_url": "https://j78dp6reyq5r-hls-live.5centscdn.com/kview/5c6d78cffa59e129f040fcec2d788532.sdp/playlist.m3u8",
-    "stream_quality": "614p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://cloveworld.org/?tv=5a099019dcdbax4kpil9ujrzy",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "LoveWorldEuro.ng",
-    "name": "LoveWorld Euro",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Believers' Love World Incorporated"
-    ],
-    "country_code": "NG",
-    "country_name": "Nigeria",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/ll/love_world_ng_euro.png",
-    "stream_url": "https://cdnstack.internetmultimediaonline.org/auxano/Cespain/index.m3u8",
-    "stream_quality": "270p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://cloveworld.org/?tv=5a098ffad71f9cy8g5uns1x70",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "LoveWorldItalia.ng",
-    "name": "LoveWorld Italia",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Believers' Love World Incorporated"
-    ],
-    "country_code": "NG",
-    "country_name": "Nigeria",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/ll/loveworld-italia-ng-it.png",
-    "stream_url": "https://cdnstack.internetmultimediaonline.org/auxano/italianlanx/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://cloveworld.org/?tv=60f97930bc0830lwf4sx1zrnc",
     "launched": null,
     "closed": null
   },
@@ -1116,34 +729,6 @@
     "closed": null
   },
   {
-    "id": "LoveworldXP.ng",
-    "name": "Loveworld XP",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Believers' Love World Incorporated"
-    ],
-    "country_code": "NG",
-    "country_name": "Nigeria",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/ll/loveworld-xp-ng.png",
-    "stream_url": "https://bus-asia-east-1-cimzmgnuu-cdn.sa.metacdn.com/live/ngrp:livestream2022_main_all_transcode/playlist.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.lxp.tv/watch/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "MastersTV.ng",
     "name": "Master's TV",
     "alt_names": [],
@@ -1192,32 +777,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://moregrace.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NewFrontiersTV.ng",
-    "name": "New Frontiers TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "NG",
-    "country_name": "Nigeria",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/dYRIJjh.png",
-    "stream_url": "https://media2.streambrothers.com:1936/8044/8044/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://newfrontierstv.info/",
     "launched": null,
     "closed": null
   },
