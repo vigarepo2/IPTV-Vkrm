@@ -315,7 +315,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/o2elx0u.png",
-    "stream_url": "https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8",
+    "stream_url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

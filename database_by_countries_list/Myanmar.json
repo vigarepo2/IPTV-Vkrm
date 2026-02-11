@@ -229,6 +229,34 @@
     "closed": null
   },
   {
+    "id": "MRTVEntertainment.mm",
+    "name": "MRTV Entertainment",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Ministry of Information"
+    ],
+    "country_code": "MM",
+    "country_name": "Myanmar",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/c9q6oT0.png",
+    "stream_url": "https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://mrtv.gov.mm/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "MRTVNRC.mm",
     "name": "MRTV NRC",
     "alt_names": [],

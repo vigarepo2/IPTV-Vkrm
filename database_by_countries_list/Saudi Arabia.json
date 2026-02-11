@@ -1434,7 +1434,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://media0070.elcinema.com/tvguide/1399_1.png",
-    "stream_url": "https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8",
+    "stream_url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

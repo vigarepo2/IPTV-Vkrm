@@ -9,7 +9,9 @@
     "country_name": "Moldova",
     "subdivision": null,
     "city": null,
-    "categories": [],
+    "categories": [
+      "general"
+    ],
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/S1vEqZp.png",

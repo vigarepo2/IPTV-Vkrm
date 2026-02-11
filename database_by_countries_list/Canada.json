@@ -3103,6 +3103,41 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.postimg.cc/rwZbxkJf/lovenature.png",
+    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66df8a29b25d2b0008fc5fe0/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "LoveNature.ca",
+      "feed": "SD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000191_019261",
+      "site_name": "Love Nature",
+      "lang": "nl"
+    },
+    "website": "https://tv.lovenature.com/",
+    "launched": "2006-03-12",
+    "closed": null
+  },
+  {
+    "id": "LoveNature.ca",
+    "name": "Love Nature",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Blue Ant Media"
+    ],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "outdoor"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/rwZbxkJf/lovenature.png",
     "stream_url": "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -3669,41 +3704,6 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/IRyFTWq.png",
     "stream_url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "QelloConcertsbyStingray.ca",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "113296",
-      "site_name": "Qello Concerts by Stingray",
-      "lang": "en"
-    },
-    "website": "https://qello.com/en/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "QelloConcertsbyStingray.ca",
-    "name": "Qello Concerts by Stingray",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Stingray Group Inc."
-    ],
-    "country_code": "CA",
-    "country_name": "Canada",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/IRyFTWq.png",
-    "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240d3d466225000827412b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb439-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ba3de05-22ef-4ab2-8d11-c4a6c21d39ba",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -4403,41 +4403,6 @@
     "closed": null
   },
   {
-    "id": "StingrayNaturescape.ca",
-    "name": "Stingray Naturescape",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Stingray Group Inc."
-    ],
-    "country_code": "CA",
-    "country_name": "Canada",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/882kd90.png",
-    "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2ac7255b-3bb1-4cd4-80c9-afb0bcb127dd",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StingrayNaturescape.ca",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "90613",
-      "site_name": "Stingray Naturescape",
-      "lang": "en"
-    },
-    "website": "https://www.stingray.com/stingray-naturescape",
-    "launched": "2014-09-01",
-    "closed": null
-  },
-  {
     "id": "StingrayNothinBut90s.ca",
     "name": "Stingray Nothin' But 90s",
     "alt_names": [],
@@ -4975,41 +4940,6 @@
     },
     "website": "https://thecowboychannelcanada.ca/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TheWeatherNetwork.ca",
-    "name": "The Weather Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Pelmorex"
-    ],
-    "country_code": "CA",
-    "country_name": "Canada",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "weather"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/V6ZUwUY.png",
-    "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da370e2e477400081cf8b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7782-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b5c5f52-01b7-44d8-a06c-1f05f3169a75",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TheWeatherNetwork.ca",
-      "feed": "SD",
-      "site": "tvpassport.com",
-      "site_id": "weather-network/419",
-      "site_name": "Weather Network",
-      "lang": "en"
-    },
-    "website": "https://www.theweathernetwork.com/",
-    "launched": "1988-09-01",
     "closed": null
   },
   {

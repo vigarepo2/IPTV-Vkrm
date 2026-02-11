@@ -400,6 +400,32 @@
     "closed": null
   },
   {
+    "id": "AlWilayah.ir",
+    "name": "Al Wilayah",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IR",
+    "country_name": "Iran",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/OI1HQv5.png",
+    "stream_url": "https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "AmouzeshTV.ir",
     "name": "Amouzesh TV",
     "alt_names": [

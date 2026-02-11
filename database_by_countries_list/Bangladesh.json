@@ -186,6 +186,34 @@
     "closed": null
   },
   {
+    "id": "GaanBangla.bd",
+    "name": "Gaan Bangla",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "One More Zero Group"
+    ],
+    "country_code": "BD",
+    "country_name": "Bangladesh",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/XS9mq4n.png",
+    "stream_url": "http://vmi3039524.contaboserver.net:5050/music/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.gaanbangla.tv/",
+    "launched": "2013-12-16",
+    "closed": null
+  },
+  {
     "id": "MadaniChannelBangla.bd",
     "name": "Madani Channel Bangla",
     "alt_names": [],
