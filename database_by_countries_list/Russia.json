@@ -111,6 +111,34 @@
     "closed": null
   },
   {
+    "id": "15PlusMusic.ru",
+    "name": "15+ Music",
+    "alt_names": [],
+    "network": "VXDGroup Network",
+    "owners": [
+      "VXDGroup"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/kj21hwd.png",
+    "stream_url": "https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://15plusmg.ru",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "86.ru",
     "name": "86",
     "alt_names": [
@@ -473,6 +501,99 @@
       "lang": "ru"
     },
     "website": "https://www.almaz-media.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "alphaCinema.ru",
+    "name": "alpha Cinema",
+    "alt_names": [
+      "Альфа Синема"
+    ],
+    "network": "VXDGroup Network",
+    "owners": [
+      "VXDGroup"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy",
+      "movies",
+      "family"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/146OgfU.png",
+    "stream_url": "https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://15plusmg.ru",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "alphaFunny.ru",
+    "name": "alpha Funny",
+    "alt_names": [
+      "Альфа Фанни"
+    ],
+    "network": "VXDGroup Network",
+    "owners": [
+      "VXDGroup"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/ZcCXw5P/alphaf.png",
+    "stream_url": "https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://15plusmg.ru",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "alphaMoretime.ru",
+    "name": "alpha Moretime",
+    "alt_names": [
+      "Альфа Мортайм"
+    ],
+    "network": "VXDGroup Network",
+    "owners": [
+      "VXDGroup"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy",
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ibQfUr7.png",
+    "stream_url": "https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://15plusmg.ru",
     "launched": null,
     "closed": null
   },
@@ -5834,6 +5955,36 @@
     "closed": null
   },
   {
+    "id": "NovyiRusskii.ru",
+    "name": "Novyi Russkii",
+    "alt_names": [
+      "Новый Русский"
+    ],
+    "network": "VXDGroup Network",
+    "owners": [
+      "VXDGroup"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/iuRSScH.png",
+    "stream_url": "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://15plusmg.ru",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "NovyVek.ru",
     "name": "Novy Vek",
     "alt_names": [
@@ -5858,6 +6009,36 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://tvtambov.ru/novyj-vek-online/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NSCPlus.ru",
+    "name": "NSC Plus",
+    "alt_names": [
+      "NSC Плюс"
+    ],
+    "network": "VXDGroup Network",
+    "owners": [
+      "VXDGroup"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/6k9LYOw.png",
+    "stream_url": "https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://15plusmg.ru",
     "launched": null,
     "closed": null
   },
@@ -8413,7 +8594,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/cheboksar/russia1-hd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/velikiy-novgorod/russia1-hd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -8450,7 +8631,81 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chita/russia1-hd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladikavkaz/russia1-hd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladimir/russia1-hd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia1-hd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -8524,7 +8779,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia1-hd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/russia1-hd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -8561,7 +8816,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/russia1-hd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yoshkar-ola/russia1-hd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kazan/russia1-hd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -8672,43 +8964,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kazan/russia1-hd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/russia1-hd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -8783,43 +9038,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kisil/russia1-hd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kostroma/russia1-hd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -8858,6 +9076,43 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kurgan/russia1-hd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kisil/russia1-hd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -9227,7 +9482,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/petropavlosk/russia1-hd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/petrozavodsk/russia1-hd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -9264,7 +9519,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/petrozavodsk/russia1-hd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/petropavlosk/russia1-hd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -9412,6 +9667,43 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia1-hd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saransk/russia1-hd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -9523,7 +9815,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia1-hd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-hd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -9560,7 +9852,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-hd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tver/russia1-hd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -9671,7 +9963,118 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tver/russia1-hd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/russia1-hd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia1-hd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/cheboksar/russia1-hd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chita/russia1-hd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -9745,266 +10148,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/russia1-hd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/velikiy-novgorod/russia1-hd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladikavkaz/russia1-hd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladimir/russia1-hd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia1-hd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yakutsk/russia1-hd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yoshkar-ola/russia1-hd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -10411,6 +10555,43 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/russia1-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -10522,7 +10703,118 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/anadyr/russia1-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/barnaul/russia1-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/belgorod/russia1-hd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/birobidgan/russia1-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -10633,6 +10925,43 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/russia1-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladimir/russia1-hd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -10671,6 +11000,43 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vologda/russia1-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -10781,6 +11147,80 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/gornoaltaysk/russia1-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/grozniy/russia1-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia1-hd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -10855,7 +11295,118 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO4y0CelYt0/russia1-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/russia1-hd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/igevsk/russia1-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/irkutsk/russia1-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -11151,6 +11702,80 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnodar/russia1-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/russia1-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/russia1-hd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -11189,6 +11814,43 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kurgan/russia1-hd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kursk/russia1-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -11299,6 +11961,43 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/magadan/russia1-hd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -11373,7 +12072,155 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/mahachkala/russia1-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/saransk/russia1-hd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/murmansk/russia1-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nazran/russia1-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -11595,6 +12442,43 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/perm/russia1-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -11633,6 +12517,80 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/russia1-hd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/salehad/russia1-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/russia1-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -11817,6 +12775,43 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/simferopol/russia1-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/velikiy-novgorod/russia1-hd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -11855,6 +12850,117 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/russia1-hd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/sochi/russia1-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/russia1-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/siktivkar/russia1-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -12113,6 +13219,80 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tumen/russia1-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulyanovsk/russia1-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ekaterinburg/russia1-hd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -12150,7 +13330,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/chita/russia1-hd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -12187,155 +13367,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/cheboksar/russia1-hd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/anadyr/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/barnaul/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/birobidgan/russia1-sd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/hantimansisk/russia1-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -12446,969 +13478,81 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/chita/russia1-hd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/cheboksar/russia1-hd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru"
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/elista/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/gornoaltaysk/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/grozniy/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/hantimansisk/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO4y0CelYt0/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/igevsk/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/irkutsk/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnodar/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kursk/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/mahachkala/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/murmansk/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nazran/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/perm/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/salehad/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/siktivkar/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/simferopol/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/sochi/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tumen/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulyanovsk/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/russia1-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1666",
-      "site_name": "Россия 1 HD",
-      "lang": "ru"
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vologda/russia1-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -13594,43 +13738,6 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia24.ru",
-      "feed": "SD",
-      "site": "tvprofil.com",
-      "site_id": "ba/tvprogram#rossija24",
-      "site_name": "Россиᴙ 24",
-      "lang": "hr"
-    },
-    "website": "http://vesti.ru/",
-    "launched": "2006-07-01",
-    "closed": null
-  },
-  {
-    "id": "Russia24.ru",
-    "name": "Russia-24",
-    "alt_names": [
-      "Россия-24"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -14000,7 +14107,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/cheboksar/russia24-sd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/velikiy-novgorod/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -14037,7 +14144,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia24-sd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -14074,7 +14181,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/cherkessk/russia24-sd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladikavkaz/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -14111,7 +14218,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chita/russia24-sd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladimir/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -14148,7 +14255,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ekaterinburg/russia24-sd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -14185,7 +14292,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/elista/russia24-sd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vologda/russia24-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia24.ru",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "ba/tvprogram#rossija24",
+      "site_name": "Россиᴙ 24",
+      "lang": "hr"
+    },
+    "website": "http://vesti.ru/",
+    "launched": "2006-07-01",
+    "closed": null
+  },
+  {
+    "id": "Russia24.ru",
+    "name": "Russia-24",
+    "alt_names": [
+      "Россия-24"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -14296,7 +14440,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ekaterinburg/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -14333,7 +14477,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/hantimansisk/russia24-sd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -14444,7 +14588,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/russia24-sd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yoshkar-ola/russia24-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia24.ru",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "ba/tvprogram#rossija24",
+      "site_name": "Россиᴙ 24",
+      "lang": "hr"
+    },
+    "website": "http://vesti.ru/",
+    "launched": "2006-07-01",
+    "closed": null
+  },
+  {
+    "id": "Russia24.ru",
+    "name": "Russia-24",
+    "alt_names": [
+      "Россия-24"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kazan/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -14555,43 +14736,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kazan/russia24-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia24.ru",
-      "feed": "SD",
-      "site": "tvprofil.com",
-      "site_id": "ba/tvprogram#rossija24",
-      "site_name": "Россиᴙ 24",
-      "lang": "hr"
-    },
-    "website": "http://vesti.ru/",
-    "launched": "2006-07-01",
-    "closed": null
-  },
-  {
-    "id": "Russia24.ru",
-    "name": "Russia-24",
-    "alt_names": [
-      "Россия-24"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -14630,43 +14774,6 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kirov/russia24-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia24.ru",
-      "feed": "SD",
-      "site": "tvprofil.com",
-      "site_id": "ba/tvprogram#rossija24",
-      "site_name": "Россиᴙ 24",
-      "lang": "hr"
-    },
-    "website": "http://vesti.ru/",
-    "launched": "2006-07-01",
-    "closed": null
-  },
-  {
-    "id": "Russia24.ru",
-    "name": "Russia-24",
-    "alt_names": [
-      "Россия-24"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kisil/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -14888,6 +14995,43 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kisil/russia24-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia24.ru",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "ba/tvprogram#rossija24",
+      "site_name": "Россиᴙ 24",
+      "lang": "hr"
+    },
+    "website": "http://vesti.ru/",
+    "launched": "2006-07-01",
+    "closed": null
+  },
+  {
+    "id": "Russia24.ru",
+    "name": "Russia-24",
+    "alt_names": [
+      "Россия-24"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/lipetsk/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -14962,7 +15106,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/mahachkala/russia24-sd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -14999,7 +15143,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia24-sd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/mahachkala/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -15073,7 +15217,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nalchik/russia24-sd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nazran/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -15110,7 +15254,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nazran/russia24-sd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nalchik/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -15406,7 +15550,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/petropavlosk/russia24-sd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/petrozavodsk/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -15443,7 +15587,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/petrozavodsk/russia24-sd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/petropavlosk/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -15665,6 +15809,43 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia24-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia24.ru",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "ba/tvprogram#rossija24",
+      "site_name": "Россиᴙ 24",
+      "lang": "hr"
+    },
+    "website": "http://vesti.ru/",
+    "launched": "2006-07-01",
+    "closed": null
+  },
+  {
+    "id": "Russia24.ru",
+    "name": "Russia-24",
+    "alt_names": [
+      "Россия-24"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saransk/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -15703,43 +15884,6 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia24-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia24.ru",
-      "feed": "SD",
-      "site": "tvprofil.com",
-      "site_id": "ba/tvprogram#rossija24",
-      "site_name": "Россиᴙ 24",
-      "lang": "hr"
-    },
-    "website": "http://vesti.ru/",
-    "launched": "2006-07-01",
-    "closed": null
-  },
-  {
-    "id": "Russia24.ru",
-    "name": "Russia-24",
-    "alt_names": [
-      "Россия-24"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/siktivkar/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -15887,43 +16031,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia24-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia24.ru",
-      "feed": "SD",
-      "site": "tvprofil.com",
-      "site_id": "ba/tvprogram#rossija24",
-      "site_name": "Россиᴙ 24",
-      "lang": "hr"
-    },
-    "website": "http://vesti.ru/",
-    "launched": "2006-07-01",
-    "closed": null
-  },
-  {
-    "id": "Russia24.ru",
-    "name": "Russia-24",
-    "alt_names": [
-      "Россия-24"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -15961,7 +16068,81 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/siktivkar/russia24-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia24.ru",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "ba/tvprogram#rossija24",
+      "site_name": "Россиᴙ 24",
+      "lang": "hr"
+    },
+    "website": "http://vesti.ru/",
+    "launched": "2006-07-01",
+    "closed": null
+  },
+  {
+    "id": "Russia24.ru",
+    "name": "Russia-24",
+    "alt_names": [
+      "Россия-24"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia24.ru",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "ba/tvprogram#rossija24",
+      "site_name": "Россиᴙ 24",
+      "lang": "hr"
+    },
+    "website": "http://vesti.ru/",
+    "launched": "2006-07-01",
+    "closed": null
+  },
+  {
+    "id": "Russia24.ru",
+    "name": "Russia-24",
+    "alt_names": [
+      "Россия-24"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tver/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -16109,117 +16290,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tver/russia24-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia24.ru",
-      "feed": "SD",
-      "site": "tvprofil.com",
-      "site_id": "ba/tvprogram#rossija24",
-      "site_name": "Россиᴙ 24",
-      "lang": "hr"
-    },
-    "website": "http://vesti.ru/",
-    "launched": "2006-07-01",
-    "closed": null
-  },
-  {
-    "id": "Russia24.ru",
-    "name": "Russia-24",
-    "alt_names": [
-      "Россия-24"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia24-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia24.ru",
-      "feed": "SD",
-      "site": "tvprofil.com",
-      "site_id": "ba/tvprogram#rossija24",
-      "site_name": "Россиᴙ 24",
-      "lang": "hr"
-    },
-    "website": "http://vesti.ru/",
-    "launched": "2006-07-01",
-    "closed": null
-  },
-  {
-    "id": "Russia24.ru",
-    "name": "Russia-24",
-    "alt_names": [
-      "Россия-24"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ugnosahalinsk/russia24-sd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia24.ru",
-      "feed": "SD",
-      "site": "tvprofil.com",
-      "site_id": "ba/tvprogram#rossija24",
-      "site_name": "Россиᴙ 24",
-      "lang": "hr"
-    },
-    "website": "http://vesti.ru/",
-    "launched": "2006-07-01",
-    "closed": null
-  },
-  {
-    "id": "Russia24.ru",
-    "name": "Russia-24",
-    "alt_names": [
-      "Россия-24"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -16294,7 +16364,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/velikiy-novgorod/russia24-sd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -16331,7 +16401,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladikavkaz/russia24-sd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -16368,7 +16438,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladimir/russia24-sd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/hantimansisk/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -16405,7 +16475,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/russia24-sd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/cheboksar/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -16442,7 +16512,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia24-sd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -16479,7 +16549,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vologda/russia24-sd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/cherkessk/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -16516,7 +16586,81 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chita/russia24-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia24.ru",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "ba/tvprogram#rossija24",
+      "site_name": "Россиᴙ 24",
+      "lang": "hr"
+    },
+    "website": "http://vesti.ru/",
+    "launched": "2006-07-01",
+    "closed": null
+  },
+  {
+    "id": "Russia24.ru",
+    "name": "Russia-24",
+    "alt_names": [
+      "Россия-24"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/elista/russia24-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia24.ru",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "ba/tvprogram#rossija24",
+      "site_name": "Россиᴙ 24",
+      "lang": "hr"
+    },
+    "website": "http://vesti.ru/",
+    "launched": "2006-07-01",
+    "closed": null
+  },
+  {
+    "id": "Russia24.ru",
+    "name": "Russia-24",
+    "alt_names": [
+      "Россия-24"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ugnosahalinsk/russia24-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -16627,7 +16771,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yoshkar-ola/russia24-sd/index.m3u8",
+    "stream_url": "https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,

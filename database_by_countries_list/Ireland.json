@@ -18,6 +18,35 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/cjXzWsI.png",
+    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=64dd0ce3-1a0f-4d0c-8ee3-21d8032923bf&serverSideAds=false",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.c15.studio/channels/formula-1-channel/",
+    "launched": "2024-04-25",
+    "closed": null
+  },
+  {
+    "id": "F1Channel.ie",
+    "name": "F1 Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "C15 Media Networks Ltd.",
+      "Formula One Group"
+    ],
+    "country_code": "IE",
+    "country_name": "Ireland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/cjXzWsI.png",
     "stream_url": "https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,

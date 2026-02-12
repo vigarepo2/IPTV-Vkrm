@@ -212,6 +212,35 @@
     "closed": null
   },
   {
+    "id": "CanalOnce.ve",
+    "name": "Canal Once",
+    "alt_names": [
+      "Canal 11 del Zulia",
+      "Niños Cantores Televisión"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "VE",
+    "country_name": "Venezuela",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/puM9ASa.png",
+    "stream_url": "https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://canal11delzulia.com/",
+    "tv_guide": null,
+    "website": "http://www.canal11delzulia.com.ve/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CatatumboTV.ve",
     "name": "Catatumbo TV",
     "alt_names": [],

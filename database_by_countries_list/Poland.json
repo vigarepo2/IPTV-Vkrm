@@ -33,39 +33,6 @@
     "closed": null
   },
   {
-    "id": "4FunKids.pl",
-    "name": "4 Fun Kids",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/2JO5Y8c.png",
-    "stream_url": "https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=filmboxextra_hd1",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "4FunKids.pl",
-      "feed": "SD",
-      "site": "tvprofil.com",
-      "site_id": "ba/tvprogram#4fun-gold",
-      "site_name": "4Fun Kids",
-      "lang": "hr"
-    },
-    "website": "https://4fun.tv/kids",
-    "launched": "2004-02-14",
-    "closed": null
-  },
-  {
     "id": "4FunTV.pl",
     "name": "4 Fun TV",
     "alt_names": [],
@@ -129,43 +96,6 @@
     },
     "website": "https://4fun.tv/",
     "launched": "2004-02-14",
-    "closed": null
-  },
-  {
-    "id": "13Ulica.pl",
-    "name": "13 Ulica",
-    "alt_names": [
-      "13th Street"
-    ],
-    "network": null,
-    "owners": [
-      "NBCUniversal"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/0gCNnLq.png",
-    "stream_url": "https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=nowa_tvhv",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "13Ulica.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "13-ulica-316",
-      "site_name": "13 Ulica",
-      "lang": "pl"
-    },
-    "website": "http://www.13ulica.pl/",
-    "launched": "2010-09-13",
     "closed": null
   },
   {
@@ -391,41 +321,6 @@
     "closed": null
   },
   {
-    "id": "ComedyCentral.pl",
-    "name": "Comedy Central",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Paramount Networks UK & Australia"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "comedy"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/Dysd5c51/comedycentral.png",
-    "stream_url": "https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=comedycentralpl",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ComedyCentral.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "comedy-central-63",
-      "site_name": "Comedy Central",
-      "lang": "pl"
-    },
-    "website": "http://www.comedycentral.pl/",
-    "launched": "2006-10-19",
-    "closed": null
-  },
-  {
     "id": "dlaCiebietv.pl",
     "name": "dlaCiebie.tv",
     "alt_names": [],
@@ -548,42 +443,6 @@
     },
     "website": "https://echo24.tv/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "EskaTV.pl",
-    "name": "Eska TV",
-    "alt_names": [],
-    "network": "Cyfrowy Polsat",
-    "owners": [
-      "Telewizja Polsat",
-      "Cyfrowy Polsat"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/N0eH0Cg.png",
-    "stream_url": "https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=eska__tvmusic",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "EskaTV.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "eska-tv-114",
-      "site_name": "Eska TV",
-      "lang": "pl"
-    },
-    "website": "https://www.eska.tv/",
-    "launched": "2008-08-08",
     "closed": null
   },
   {
@@ -754,74 +613,6 @@
     "closed": null
   },
   {
-    "id": "KinoPolska.pl",
-    "name": "Kino Polska",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "SPI International Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/lbl8K23.png",
-    "stream_url": "https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=kino_polska_tv",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "KinoPolska.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "kino-polska-324",
-      "site_name": "Kino Polska",
-      "lang": "pl"
-    },
-    "website": "http://kinopolska.pl/",
-    "launched": "2003-12-20",
-    "closed": null
-  },
-  {
-    "id": "KinoTV.pl",
-    "name": "Kino TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/sqjuXUO.png",
-    "stream_url": "https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=filmbox_kinotv",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "KinoTV.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "filmbox-84",
-      "site_name": "Kino TV",
-      "lang": "pl"
-    },
-    "website": "https://spiintl.com/channels/kinotv",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Mango.pl",
     "name": "Mango",
     "alt_names": [
@@ -944,7 +735,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg",
-    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69b683ba51e00084534a3/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false",
+    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69b683ba51e00084534a3/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=5c23aea5-bf01-44e2-a8cb-488d94945982&serverSideAds=false",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -1025,45 +816,6 @@
     "closed": null
   },
   {
-    "id": "ParamountNetwork.pl",
-    "name": "Paramount Network",
-    "alt_names": [
-      "Paramount Channel Poland",
-      "Viacom Blink!"
-    ],
-    "network": null,
-    "owners": [
-      "Paramount Global"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series",
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/Hxy2hJyh/paramountnetwork.png",
-    "stream_url": "https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=sportta",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ParamountNetwork.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "paramount-channel-hd-65",
-      "site_name": "Paramount Network",
-      "lang": "pl"
-    },
-    "website": "http://www.paramountchannel.pl/",
-    "launched": "2011-01-01",
-    "closed": null
-  },
-  {
     "id": "PFLMMA.pl",
     "name": "PFL MMA",
     "alt_names": [],
@@ -1101,7 +853,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1-width200-quality90.jpeg",
-    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6334a574605f140007e233c4/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false",
+    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6334a574605f140007e233c4/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=a75e3be3-2a62-495f-9797-dc69207a5708&serverSideAds=false",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -1181,43 +933,6 @@
     },
     "website": "https://www.polsat.pl/",
     "launched": "1992-12-05",
-    "closed": null
-  },
-  {
-    "id": "PolsatComedyCentralExtra.pl",
-    "name": "Polsat Comedy Central Extra",
-    "alt_names": [
-      "Comedy Central Family"
-    ],
-    "network": null,
-    "owners": [
-      "Paramount Networks EMEAA"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "comedy"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/6GOWgtE.png",
-    "stream_url": "https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=comedyfamily_sd",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PolsatComedyCentralExtra.pl",
-      "feed": "HD",
-      "site": "programtv.onet.pl",
-      "site_id": "comedy-central-family-hd-612",
-      "site_name": "Polsat Comedy Central Extra HD",
-      "lang": "pl"
-    },
-    "website": "http://comedycentral.pl/family",
-    "launched": "2011-01-14",
     "closed": null
   },
   {
@@ -1322,40 +1037,6 @@
     "closed": null
   },
   {
-    "id": "PolsatPlay.pl",
-    "name": "Polsat Play",
-    "alt_names": [],
-    "network": "Cyfrowy Polsat",
-    "owners": [
-      "Telewizja Polsat",
-      "Cyfrowy Polsat"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/B64TMhJX/polsatplay.png",
-    "stream_url": "https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=polsatplay_hd1",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PolsatPlay.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "polsat-play-21",
-      "site_name": "Polsat Play",
-      "lang": "pl"
-    },
-    "website": "http://www.polsatplay.pl/",
-    "launched": "2008-10-06",
-    "closed": null
-  },
-  {
     "id": "Puls2.pl",
     "name": "Puls 2",
     "alt_names": [],
@@ -1371,7 +1052,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/EOnzPiZ.png",
-    "stream_url": "https://vs2126.vcdn.biz/cacd1c6a99ee154b5c7d78a52d17e27b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157766541/rsid/2d20baa0-758f-43c1-ac66-0df23e9ae3a2/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.162.54*asn/u_srvc/81255/u_did/web_XkXatVzQiYuxwYoGXyXJfjfePaDX3Jzq/type.live/chunklist-sid775857816421306678-b4000000.m3u8",
+    "stream_url": "https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -1404,7 +1085,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/EOnzPiZ.png",
-    "stream_url": "https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8",
+    "stream_url": "https://vs2126.vcdn.biz/cacd1c6a99ee154b5c7d78a52d17e27b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157766541/rsid/2d20baa0-758f-43c1-ac66-0df23e9ae3a2/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.162.54*asn/u_srvc/81255/u_did/web_XkXatVzQiYuxwYoGXyXJfjfePaDX3Jzq/type.live/chunklist-sid775857816421306678-b4000000.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -2111,7 +1792,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/11e7c52e-a7fd-48f3-b4c4-9f25dd37c36b-width200-quality90.jpeg",
-    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false",
+    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=89e8423e-bb3a-4ec6-86b2-6741e774a40c&serverSideAds=false",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -2363,8 +2044,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://zapodaj.net/thumbs/821c90c93eee6.jpg",
-    "stream_url": "https://stream2.tvmazowsze.pl/tmp_hls/stream/index.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "http://stream.tvmazowsze.pl:5920/tmp_hls/stream/index.m3u8",
+    "stream_quality": "1080i",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -2389,8 +2070,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://zapodaj.net/thumbs/821c90c93eee6.jpg",
-    "stream_url": "http://stream.tvmazowsze.pl:5920/tmp_hls/stream/index.m3u8",
-    "stream_quality": "1080i",
+    "stream_url": "https://stream2.tvmazowsze.pl/tmp_hls/stream/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -2530,8 +2211,8 @@
     "closed": null
   },
   {
-    "id": "TVPABC.pl",
-    "name": "TVP ABC",
+    "id": "TVPHistoria.pl",
+    "name": "TVP Historia",
     "alt_names": [],
     "network": "TVP",
     "owners": [
@@ -2541,27 +2222,25 @@
     "country_name": "Poland",
     "subdivision": null,
     "city": null,
-    "categories": [
-      "kids"
-    ],
+    "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/wP2mpfM.png",
-    "stream_url": "https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=tv4_",
-    "stream_quality": "576p",
+    "logo": "https://i.imgur.com/Bc4QZiy.png",
+    "stream_url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvphistoria.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
-      "channel": "TVPABC.pl",
+      "channel": "TVPHistoria.pl",
       "feed": "SD",
       "site": "programtv.onet.pl",
-      "site_id": "tvp-abc-182",
-      "site_name": "TVP ABC",
+      "site_id": "tvp-historia-74",
+      "site_name": "TVP Historia",
       "lang": "pl"
     },
-    "website": "https://abc.tvp.pl/",
-    "launched": "2014-02-15",
+    "website": "https://historia.tvp.pl/",
+    "launched": "2007-05-03",
     "closed": null
   },
   {
@@ -2598,72 +2277,6 @@
     "closed": null
   },
   {
-    "id": "TVPHistoria.pl",
-    "name": "TVP Historia",
-    "alt_names": [],
-    "network": "TVP",
-    "owners": [
-      "Telewizja Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Bc4QZiy.png",
-    "stream_url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvphistoria.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVPHistoria.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-historia-74",
-      "site_name": "TVP Historia",
-      "lang": "pl"
-    },
-    "website": "https://historia.tvp.pl/",
-    "launched": "2007-05-03",
-    "closed": null
-  },
-  {
-    "id": "TVPInfo.pl",
-    "name": "TVP Info",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Telewizja Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/NMHjPBCf/tvpinfo.png",
-    "stream_url": "https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVPInfo.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-info-462",
-      "site_name": "TVP Info",
-      "lang": "pl"
-    },
-    "website": "https://www.tvp.info/",
-    "launched": "2007-10-06",
-    "closed": null
-  },
-  {
     "id": "TVPInfo.pl",
     "name": "TVP Info",
     "alt_names": [],
@@ -2697,10 +2310,10 @@
     "closed": null
   },
   {
-    "id": "TVPKultura.pl",
-    "name": "TVP Kultura",
+    "id": "TVPInfo.pl",
+    "name": "TVP Info",
     "alt_names": [],
-    "network": "TVP",
+    "network": null,
     "owners": [
       "Telewizja Polska"
     ],
@@ -2711,22 +2324,22 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/JU858Es.png",
-    "stream_url": "https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=fox_comedy24tv",
-    "stream_quality": "1080p",
+    "logo": "https://i.postimg.cc/NMHjPBCf/tvpinfo.png",
+    "stream_url": "https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
-      "channel": "TVPKultura.pl",
+      "channel": "TVPInfo.pl",
       "feed": "SD",
       "site": "programtv.onet.pl",
-      "site_id": "tvp-kultura-477",
-      "site_name": "TVP Kultura",
+      "site_id": "tvp-info-462",
+      "site_name": "TVP Info",
       "lang": "pl"
     },
-    "website": "https://tvpkultura.tvp.pl/",
-    "launched": "2005-04-24",
+    "website": "https://www.tvp.info/",
+    "launched": "2007-10-06",
     "closed": null
   },
   {
@@ -2829,8 +2442,8 @@
     "closed": null
   },
   {
-    "id": "TVPSport.pl",
-    "name": "TVP Sport",
+    "id": "TVPPolonia.pl",
+    "name": "TVP Polonia",
     "alt_names": [],
     "network": "TVP",
     "owners": [
@@ -2840,26 +2453,24 @@
     "country_name": "Poland",
     "subdivision": null,
     "city": null,
-    "categories": [
-      "sports"
-    ],
+    "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/JUZDOCO.png",
-    "stream_url": "https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=sportTVP_channeed",
+    "logo": "https://i.postimg.cc/yxTBwdmB/tvppolonia.png",
+    "stream_url": "https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
-      "channel": "TVPSport.pl",
+      "channel": "TVPPolonia.pl",
       "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-sport-40",
-      "site_name": "TVP Sport",
-      "lang": "pl"
+      "site": "web.magentatv.de",
+      "site_id": "473",
+      "site_name": "TVP Polonia",
+      "lang": "de"
     },
-    "website": "https://sport.tvp.pl/",
+    "website": "https://polonia.tvp.pl/",
     "launched": null,
     "closed": null
   },
@@ -2899,33 +2510,37 @@
     "closed": null
   },
   {
-    "id": "TVRepublika.pl",
-    "name": "TV Republika",
+    "id": "TVPWorld.pl",
+    "name": "TVP World",
     "alt_names": [],
-    "network": null,
-    "owners": [],
+    "network": "TVP",
+    "owners": [
+      "Telewizja Polska"
+    ],
     "country_code": "PL",
     "country_name": "Poland",
     "subdivision": null,
     "city": null,
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/ljpK6dZ.png",
-    "stream_url": "https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=jtv6",
+    "logo": "https://i.imgur.com/lB4MgRI.png",
+    "stream_url": "https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
-      "channel": "TVRepublika.pl",
+      "channel": "TVPWorld.pl",
       "feed": "SD",
       "site": "programtv.onet.pl",
-      "site_id": "tv-republika-18",
-      "site_name": "TV Republika",
+      "site_id": "tvp-world",
+      "site_name": "TVP World",
       "lang": "pl"
     },
-    "website": "http://telewizjarepublika.pl/",
+    "website": "https://tvpworld.com/",
     "launched": null,
     "closed": null
   },
@@ -3170,37 +2785,6 @@
       "lang": "pl"
     },
     "website": "http://wpolsce.pl/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "WPTV.pl",
-    "name": "WP TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://ocdn.eu/ptv2-images-transforms/1/NIbkrRsb2dvLW1pZ3JhdGVkL3dwLnBuZ5KVAmQAwsOVAgAowsM",
-    "stream_url": "https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=wp_hd",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "WPTV.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "wp-532",
-      "site_name": "WP",
-      "lang": "pl"
-    },
-    "website": "https://www.wp.pl/",
     "launched": null,
     "closed": null
   },

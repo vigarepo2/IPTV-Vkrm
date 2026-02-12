@@ -3103,7 +3103,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.postimg.cc/rwZbxkJf/lovenature.png",
-    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66df8a29b25d2b0008fc5fe0/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false",
+    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66df8a29b25d2b0008fc5fe0/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=9c47d595-65b3-4eb7-898a-b26f4ac54311&serverSideAds=false",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -4823,6 +4823,36 @@
     "closed": null
   },
   {
+    "id": "TamilEntertainmentTelevision.ca",
+    "name": "Tamil Entertainment Television",
+    "alt_names": [
+      "TET"
+    ],
+    "network": null,
+    "owners": [
+      "Tamil Entertainment Television Inc."
+    ],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/d/dd/Tamil_Entertainment_Television.png",
+    "stream_url": "https://origin-de-y376549.cdn.nextologies.com:444/4c3caf7294b3/fbbd0aee3d9a8260/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://tethd.tv/",
+    "launched": "2012-12-13",
+    "closed": null
+  },
+  {
     "id": "TamilVisionTV.ca",
     "name": "TamilVision-TV",
     "alt_names": [],
@@ -5688,32 +5718,6 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.zeetvcanada.ca/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ZeeTVCanada.ca",
-    "name": "Zee TV Canada",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Ethnic Channels Group"
-    ],
-    "country_code": "CA",
-    "country_name": "Canada",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/mARKUZ9.png",
-    "stream_url": "https://toober.keralive.workers.dev/4c3caf7294b3/c8bf99484885/playlist.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://oxolive.com/",
     "tv_guide": null,
     "website": "http://www.zeetvcanada.ca/",
     "launched": null,
