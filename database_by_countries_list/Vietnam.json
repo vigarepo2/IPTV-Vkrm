@@ -1410,6 +1410,32 @@
     "closed": null
   },
   {
+    "id": "VietnamToday.vn",
+    "name": "Vietnam Today",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "VTV"
+    ],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/xW9rY7s.png",
+    "stream_url": "https://amagi-live.ondemandkorea.com/amgplt0456.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://vietnamtoday.vtv.vn/",
+    "launched": "2025-09-07",
+    "closed": null
+  },
+  {
     "id": "VinhLongTV1.vn",
     "name": "Vinh Long TV 1",
     "alt_names": [],

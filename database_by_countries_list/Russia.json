@@ -615,41 +615,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/i2AP0hp.png",
-    "stream_url": "http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Ani.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "2042",
-      "site_name": "Ani",
-      "lang": "ru"
-    },
-    "website": "https://ani.tlum.ru/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Ani.ru",
-    "name": "Ani",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "VGTRK"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/i2AP0hp.png",
     "stream_url": "http://31.148.48.15/Ani/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -1321,6 +1286,45 @@
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/11.m3u8",
     "stream_quality": null,
     "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://televizor24tochka.ru/",
+    "tv_guide": {
+      "channel": "Carousel.ru",
+      "feed": "SD",
+      "site": "tv2go.t-2.net",
+      "site_id": "1000273",
+      "site_name": "Karousel",
+      "lang": "sl"
+    },
+    "website": "https://www.karusel-tv.ru/",
+    "launched": "2010-12-27",
+    "closed": null
+  },
+  {
+    "id": "Carousel.ru",
+    "name": "Carousel",
+    "alt_names": [
+      "Карусель",
+      "Karusel"
+    ],
+    "network": null,
+    "owners": [
+      "Channel One",
+      "VGTRK"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/4wmnx1W.png",
+    "stream_url": "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
@@ -1435,8 +1439,8 @@
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/8.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://televizor24tochka.ru/",
     "tv_guide": {
       "channel": "Channel5.ru",
       "feed": "SD",
@@ -1683,8 +1687,8 @@
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/4.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://televizor24tochka.ru/",
     "tv_guide": {
       "channel": "ChannelOne.ru",
       "feed": "SD",
@@ -2656,8 +2660,8 @@
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/17.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://televizor24tochka.ru/",
     "tv_guide": {
       "channel": "Domashniy.ru",
       "feed": "SD",
@@ -2890,41 +2894,6 @@
     },
     "website": "https://dumatv.ru/",
     "launched": "2018-01-28",
-    "closed": null
-  },
-  {
-    "id": "EGETV.ru",
-    "name": "EGE TV",
-    "alt_names": [
-      "ЕГЭ ТВ"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "education"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/XxJBLt4.png",
-    "stream_url": "http://194.143.148.28:8080/RT_DOC/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "EGETV.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "1956",
-      "site_name": "ЕГЭ ТВ",
-      "lang": "ru"
-    },
-    "website": "https://www.ege-tv.ru/",
-    "launched": null,
     "closed": null
   },
   {
@@ -3295,8 +3264,8 @@
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/19.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://televizor24tochka.ru/",
     "tv_guide": {
       "channel": "Friday.ru",
       "feed": "SD",
@@ -3767,34 +3736,6 @@
     "closed": null
   },
   {
-    "id": "KabbalaTV.ru",
-    "name": "Kabbala TV",
-    "alt_names": [
-      "Каббала ТВ"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/uaffIpV.png",
-    "stream_url": "https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://kab.tv/rus",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Kavkaz24.ru",
     "name": "Kavkaz 24",
     "alt_names": [
@@ -3827,69 +3768,6 @@
     },
     "website": "https://kavkaz24.tv/",
     "launched": "2019-12-05",
-    "closed": null
-  },
-  {
-    "id": "KHLPrime.ru",
-    "name": "KHL Prime",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/pwxT0ON.png",
-    "stream_url": "http://194.143.148.28:8080/KHL_HD/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.khl.ru/tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Kineko.ru",
-    "name": "Kineko",
-    "alt_names": [
-      "Кинеко"
-    ],
-    "network": null,
-    "owners": [
-      "Media Telecom"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Otfvlmf.png",
-    "stream_url": "http://194.143.148.28:8080/KINEKO/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Kineko.ru",
-      "feed": "SD",
-      "site": "tv.yandex.ru",
-      "site_id": "1478",
-      "site_name": "Кинеко",
-      "lang": "ru"
-    },
-    "website": "http://kineko.tv/",
-    "launched": "2022-10-01",
     "closed": null
   },
   {
@@ -4197,36 +4075,6 @@
       "lang": "ru"
     },
     "website": "https://www.kuhnyatv.ru/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "KulinarTV.ru",
-    "name": "Kulinar TV",
-    "alt_names": [
-      "Кулинар HD"
-    ],
-    "network": "Taurer",
-    "owners": [
-      "Taurer Media Alliance"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "cooking"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://smotret.tv/images/kulinar-tv.webp",
-    "stream_url": "https://api.alpaca.t62a.com/hls/9110/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
     "launched": null,
     "closed": null
   },
@@ -4635,80 +4483,6 @@
     "closed": null
   },
   {
-    "id": "Mama.ru",
-    "name": "Mama",
-    "alt_names": [
-      "Мама"
-    ],
-    "network": null,
-    "owners": [
-      "VGTRK"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/kmMIjjf.png",
-    "stream_url": "http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Mama.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "1366",
-      "site_name": "Мама",
-      "lang": "ru"
-    },
-    "website": "https://mama.tlum.ru/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "MatchArena.ru",
-    "name": "Match! Arena",
-    "alt_names": [
-      "Матч! Арена"
-    ],
-    "network": "Gazprom-Media",
-    "owners": [
-      "Gazprom Media"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/udTzwzu.png",
-    "stream_url": "http://194.143.148.28:8080/MatchArena/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MatchArena.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "2124",
-      "site_name": "МАТЧ! Арена HD",
-      "lang": "ru"
-    },
-    "website": "https://matchtv.ru/channel/arena",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "MatchStrana.ru",
     "name": "Match! Strana",
     "alt_names": [
@@ -5060,8 +4834,8 @@
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/22.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://televizor24tochka.ru/",
     "tv_guide": {
       "channel": "Mir.ru",
       "feed": "SD",
@@ -5327,43 +5101,6 @@
     "closed": null
   },
   {
-    "id": "MoyaPlaneta.ru",
-    "name": "Moya Planeta",
-    "alt_names": [
-      "Моя Планета"
-    ],
-    "network": null,
-    "owners": [
-      "VGTRK"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "outdoor"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/uIiAdBv.png",
-    "stream_url": "http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MoyaPlaneta.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "1334",
-      "site_name": "Моя Планета",
-      "lang": "ru"
-    },
-    "website": "https://www.moya-planeta.ru/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "MTVVolgograd.ru",
     "name": "MTV Volgograd",
     "alt_names": [
@@ -5389,43 +5126,6 @@
     "tv_guide": null,
     "website": "https://xn--b1ats.xn--80asehdb/",
     "launched": "1993-08-11",
-    "closed": null
-  },
-  {
-    "id": "Mult.ru",
-    "name": "Mult",
-    "alt_names": [
-      "Мульт"
-    ],
-    "network": null,
-    "owners": [
-      "VGTRK"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/xi351Fx.png",
-    "stream_url": "http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Mult.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "1825",
-      "site_name": "Мульт",
-      "lang": "ru"
-    },
-    "website": "http://mult-channel.ru/",
-    "launched": "2014-06-01",
     "closed": null
   },
   {
@@ -5491,44 +5191,6 @@
     "closed": null
   },
   {
-    "id": "Multimuzyka.ru",
-    "name": "Mult i muzyka",
-    "alt_names": [
-      "Мультимузыка",
-      "Мульт и музыка"
-    ],
-    "network": null,
-    "owners": [
-      "VGTRK"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/SYt6BZP.png",
-    "stream_url": "http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Multimuzyka.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "2325",
-      "site_name": "Мультимузыка",
-      "lang": "ru"
-    },
-    "website": "https://mult-music.tlum.ru/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "MuzSoyuz.ru",
     "name": "Muz Soyuz",
     "alt_names": [
@@ -5578,6 +5240,43 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/BtqrHmz.png",
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/20.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://televizor24tochka.ru/",
+    "tv_guide": {
+      "channel": "MuzTV.ru",
+      "feed": "SD",
+      "site": "tv.yandex.ru",
+      "site_id": "55",
+      "site_name": "МУЗ-ТВ",
+      "lang": "ru"
+    },
+    "website": "https://muz-tv.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MuzTV.ru",
+    "name": "Muz-TV",
+    "alt_names": [
+      "Муз-ТВ"
+    ],
+    "network": null,
+    "owners": [
+      "UTH Russia"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/BtqrHmz.png",
+    "stream_url": "https://streaming.televizor-24-tochka.ru/live/618.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -6383,8 +6082,8 @@
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/7.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://televizor24tochka.ru/",
     "tv_guide": {
       "channel": "NTV.ru",
       "feed": "HD",
@@ -6802,8 +6501,8 @@
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/12.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://televizor24tochka.ru/",
     "tv_guide": {
       "channel": "OTR.ru",
       "feed": "SD",
@@ -7609,8 +7308,8 @@
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/14.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://televizor24tochka.ru/",
     "tv_guide": {
       "channel": "RENTV.ru",
       "feed": "HD",
@@ -8199,38 +7898,42 @@
     "closed": null
   },
   {
-    "id": "RTGTV.ru",
-    "name": "RTG TV",
+    "id": "RTRPlaneta.ru",
+    "name": "RTR-Planeta",
     "alt_names": [
-      "Russian Travel Guide"
+      "РТР-Планета",
+      "Россия-РТР",
+      "Planeta-RTR"
     ],
-    "network": null,
-    "owners": [],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
     "country_code": "RU",
     "country_name": "Russia",
     "subdivision": null,
     "city": null,
     "categories": [
-      "travel"
+      "general"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/ZMKPAho.png",
-    "stream_url": "http://194.143.148.28:8080/RTG_HD/index.m3u8",
+    "logo": "https://i.imgur.com/T42cuYx.png",
+    "stream_url": "https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
-      "channel": "RTGTV.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1817",
-      "site_name": "Russian Travel Guide HD",
-      "lang": "ru"
+      "channel": "RTRPlaneta.ru",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "43389",
+      "site_name": "RTR Planeta",
+      "lang": "en"
     },
-    "website": "http://www.rtgtv.ru/channels/rtgtv",
-    "launched": null,
+    "website": "http://rtr-planeta.com/",
+    "launched": "2002-07-01",
     "closed": null
   },
   {
@@ -8255,7 +7958,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/T42cuYx.png",
-    "stream_url": "https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363",
+    "stream_url": "https://streaming.televizor-24-tochka.ru/live/211.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -13629,8 +13332,8 @@
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/5.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://televizor24tochka.ru/",
     "tv_guide": {
       "channel": "Russia1.ru",
       "feed": "HD",
@@ -16811,6 +16514,43 @@
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/10.m3u8",
     "stream_quality": null,
     "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://televizor24tochka.ru/",
+    "tv_guide": {
+      "channel": "Russia24.ru",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "ba/tvprogram#rossija24",
+      "site_name": "Россиᴙ 24",
+      "lang": "hr"
+    },
+    "website": "http://vesti.ru/",
+    "launched": "2006-07-01",
+    "closed": null
+  },
+  {
+    "id": "Russia24.ru",
+    "name": "Russia-24",
+    "alt_names": [
+      "Россия-24"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
+    "stream_url": "https://streaming.televizor-24-tochka.ru/live/30.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
@@ -17038,8 +16778,8 @@
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/9.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://televizor24tochka.ru/",
     "tv_guide": {
       "channel": "RussiaK.ru",
       "feed": "SD",
@@ -17237,39 +16977,6 @@
     },
     "website": "https://rusroman.ru/",
     "launched": "2012-03-01",
-    "closed": null
-  },
-  {
-    "id": "RUTV.ru",
-    "name": "RU.TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Z7HUU7V.png",
-    "stream_url": "https://hls-03-video.webcaramba.com/rutv/live.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RUTV.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "1346",
-      "site_name": "Ru.TV",
-      "lang": "ru"
-    },
-    "website": "https://ru.tv/",
-    "launched": "2006-10-01",
     "closed": null
   },
   {
@@ -17478,7 +17185,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://samaragis.ru/wp-includes/images/logo.png",
-    "stream_url": "http://45.67.57.9:8080/new/new/playlist.m3u8",
+    "stream_url": "https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -17570,78 +17277,21 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/sTOQLYl.png",
-    "stream_url": "https://live2.mediacdn.ru/sr1/sever/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Sever.ru",
-      "feed": "SD",
-      "site": "epg.iptvx.one",
-      "site_id": "sever",
-      "site_name": "Север",
-      "lang": "ru"
-    },
-    "website": "http://trksever.ru/",
-    "launched": "2010-01-01",
-    "closed": null
-  },
-  {
-    "id": "Sever.ru",
-    "name": "Sever",
-    "alt_names": [
-      "Север"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/sTOQLYl.png",
-    "stream_url": "https://live.mediacdn.ru/sr1/sever/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Sever.ru",
-      "feed": "SD",
-      "site": "epg.iptvx.one",
-      "site_id": "sever",
-      "site_name": "Север",
-      "lang": "ru"
-    },
-    "website": "http://trksever.ru/",
-    "launched": "2010-01-01",
-    "closed": null
-  },
-  {
-    "id": "SGDF24RU.ru",
-    "name": "SGDF24.RU",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/73XseJs.png",
-    "stream_url": "https://cdnfs.teonvi.com/sgdf/index.fmp4.m3u8",
+    "stream_url": "https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
-    "website": "http://sgdf24.ru/",
-    "launched": null,
+    "tv_guide": {
+      "channel": "Sever.ru",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "sever",
+      "site_name": "Север",
+      "lang": "ru"
+    },
+    "website": "http://trksever.ru/",
+    "launched": "2010-01-01",
     "closed": null
   },
   {
@@ -18431,8 +18081,8 @@
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/15.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://televizor24tochka.ru/",
     "tv_guide": {
       "channel": "Spas.ru",
       "feed": "SD",
@@ -18680,6 +18330,44 @@
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/16.m3u8",
     "stream_quality": null,
     "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://televizor24tochka.ru/",
+    "tv_guide": {
+      "channel": "STS.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1112",
+      "site_name": "СТС",
+      "lang": "ru"
+    },
+    "website": "https://ctc.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "STS.ru",
+    "name": "STS",
+    "alt_names": [
+      "СТС",
+      "CTC"
+    ],
+    "network": null,
+    "owners": [
+      "STS Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "family"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ilUzAeb.png",
+    "stream_url": "https://streaming.televizor-24-tochka.ru/live/296.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
@@ -18826,44 +18514,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/YBVZoDd.png",
-    "stream_url": "http://194.143.148.28:8080/CTC_LOVE/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "STSLove.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "1800",
-      "site_name": "СТС Love",
-      "lang": "ru"
-    },
-    "website": "https://www.ctclove.ru/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "STSLove.ru",
-    "name": "STS Love",
-    "alt_names": [
-      "СТС Love",
-      "CTC Love"
-    ],
-    "network": null,
-    "owners": [
-      "STS Media"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "family"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/YBVZoDd.png",
     "stream_url": "http://31.148.48.15/STS_Love/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -18942,41 +18592,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://xn--80adgql2bfcefn5k.xn--p1ai/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Subbota.ru",
-    "name": "Subbota!",
-    "alt_names": [
-      "Суббота!"
-    ],
-    "network": null,
-    "owners": [
-      "Gazprom Media"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/nsk8PpB.png",
-    "stream_url": "http://hls2.hd-tv.club/2_super/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Subbota.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "2338",
-      "site_name": "Суббота!",
-      "lang": "ru"
-    },
-    "website": "https://subbota.tv/",
     "launched": null,
     "closed": null
   },
@@ -19079,32 +18694,6 @@
     },
     "website": "https://in-news.ru/",
     "launched": "2012-01-01",
-    "closed": null
-  },
-  {
-    "id": "SvoyoTV.ru",
-    "name": "Svoyo TV",
-    "alt_names": [
-      "Своё ТВ"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/3cP2fmX.png",
-    "stream_url": "http://live.stv24.tv:8080/svoetv/HQ_video.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://stv24.tv/",
-    "launched": null,
     "closed": null
   },
   {
@@ -19583,6 +19172,43 @@
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/23.m3u8",
     "stream_quality": null,
     "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://televizor24tochka.ru/",
+    "tv_guide": {
+      "channel": "TNT.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2287",
+      "site_name": "ТНТ",
+      "lang": "ru"
+    },
+    "website": "http://tnt-online.ru/",
+    "launched": "1998-01-01",
+    "closed": null
+  },
+  {
+    "id": "TNT.ru",
+    "name": "TNT",
+    "alt_names": [
+      "ТНТ"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/T4A6rEI.png",
+    "stream_url": "https://streaming.televizor-24-tochka.ru/live/38.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
@@ -19783,8 +19409,8 @@
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/18.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://televizor24tochka.ru/",
     "tv_guide": {
       "channel": "TV3.ru",
       "feed": "SD",
@@ -19927,8 +19553,8 @@
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/13.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://televizor24tochka.ru/",
     "tv_guide": {
       "channel": "TVCentr.ru",
       "feed": "SD",
@@ -20943,41 +20569,6 @@
     "closed": null
   },
   {
-    "id": "ZharPtitsa.ru",
-    "name": "Zhar Ptitsa",
-    "alt_names": [
-      "Жар Птица"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/19R470V.png",
-    "stream_url": "http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8",
-    "stream_quality": "404p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ZharPtitsa.ru",
-      "feed": "SD",
-      "site": "tv.yandex.ru",
-      "site_id": "174",
-      "site_name": "Жар Птица",
-      "lang": "ru"
-    },
-    "website": "http://www.zhar-ptica.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "ZhivayaPlaneta.ru",
     "name": "Zhivaya Planeta",
     "alt_names": [
@@ -21175,6 +20766,43 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/4PAcpfM.png",
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/21.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://televizor24tochka.ru/",
+    "tv_guide": {
+      "channel": "Zvezda.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "986",
+      "site_name": "Звезда",
+      "lang": "ru"
+    },
+    "website": "https://tvzvezda.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Zvezda.ru",
+    "name": "Zvezda",
+    "alt_names": [
+      "Звезда"
+    ],
+    "network": null,
+    "owners": [
+      "Russian Ministry of Defence"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/4PAcpfM.png",
+    "stream_url": "https://streaming.televizor-24-tochka.ru/live/748.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,

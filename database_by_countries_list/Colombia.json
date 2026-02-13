@@ -1402,6 +1402,34 @@
     "closed": null
   },
   {
+    "id": "LaCantinaMemorias.co",
+    "name": "La Cantina Memorias",
+    "alt_names": [],
+    "network": "Memorias TV",
+    "owners": [
+      "Memorias Producciones"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/34751741_ico.png",
+    "stream_url": "https://video.xtrematv.com:3208/live/memoriaslacantinalive.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "LaHermandadSalsera.co",
     "name": "La Hermandad Salsera",
     "alt_names": [],
@@ -1677,6 +1705,34 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://memorias.tv/memorias-del-corazon/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MemoriasFMPopLatino.co",
+    "name": "Memorias FM Pop Latino",
+    "alt_names": [],
+    "network": "Memorias TV",
+    "owners": [
+      "Memorias Producciones"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/34751581_ico.png",
+    "stream_url": "https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },

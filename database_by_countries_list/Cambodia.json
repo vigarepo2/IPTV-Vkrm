@@ -218,6 +218,34 @@
     "closed": null
   },
   {
+    "id": "EBCGeneralEducation.kh",
+    "name": "EBC General Education",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Educational Broadcasting Cambodia"
+    ],
+    "country_code": "KH",
+    "country_name": "Cambodia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://elearning.ebc.edu.kh/pluginfile.php/1/theme_remui/logo/1770608989/ebc-logo.png",
+    "stream_url": "https://iptv.ebc.edu.kh/iptv/channel/1.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://ebc.edu.kh/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "FreshNews.kh",
     "name": "Fresh News",
     "alt_names": [],

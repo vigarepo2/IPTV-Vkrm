@@ -882,39 +882,6 @@
     "closed": null
   },
   {
-    "id": "AaseervathamTV.in",
-    "name": "Aaseervatham TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/GlfrYs7.png",
-    "stream_url": "https://mumt04.tangotv.in/AASEERVATHAMTV/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AaseervathamTV.in",
-      "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_AASEERVATHAM_TV",
-      "site_name": "Aaseervatham TV",
-      "lang": "en"
-    },
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Aastha.in",
     "name": "Aastha",
     "alt_names": [],
@@ -6083,34 +6050,6 @@
     "closed": null
   },
   {
-    "id": "DarshanaTV.in",
-    "name": "Darshana TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Sathyadhara Communications"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s142774_ld_h15_aa.png",
-    "stream_url": "https://mumt04.tangotv.in/DARSHANATV/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.darshanatv.in/",
-    "launched": "2012-01-01",
-    "closed": null
-  },
-  {
     "id": "DDArunPrabha.in",
     "name": "DD Arun Prabha",
     "alt_names": [],
@@ -6408,7 +6347,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s142779_ld_h15_aa.png",
-    "stream_url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8",
+    "stream_url": "http://103.78.149.54:8000/play/a024/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -6443,8 +6382,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s142779_ld_h15_aa.png",
-    "stream_url": "http://103.78.149.54:8000/play/a024/index.m3u8",
-    "stream_quality": "576p",
+    "stream_url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8",
+    "stream_quality": "504p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -6550,6 +6489,41 @@
     "logo": "https://dtil.tmsimg.com/assets/s142780_ld_h15_aa.png",
     "stream_url": "http://103.78.149.54:8000/play/a02s/index.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DDBihar.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "317",
+      "site_name": "DD Bihar",
+      "lang": "en"
+    },
+    "website": "https://prasarbharati.gov.in/doordarshan/",
+    "launched": "1990-10-13",
+    "closed": null
+  },
+  {
+    "id": "DDBihar.in",
+    "name": "DD Bihar",
+    "alt_names": [],
+    "network": "Doordarshan",
+    "owners": [
+      "Prasar Bharati"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s142780_ld_h15_aa.png",
+    "stream_url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/380b0765f87741a4812bc952ec6fbf21/index.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -6725,6 +6699,41 @@
     "logo": "https://i.imgur.com/zBg6Iuv.png",
     "stream_url": "http://103.78.149.54:8000/play/a02w/index.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DDChhattisgarh.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1216",
+      "site_name": "DD Chhattisgarh",
+      "lang": "en"
+    },
+    "website": "http://ddraipur.gov.in/",
+    "launched": "1994-01-01",
+    "closed": null
+  },
+  {
+    "id": "DDChhattisgarh.in",
+    "name": "DD Chhattisgarh",
+    "alt_names": [],
+    "network": "Doordarshan",
+    "owners": [
+      "Prasar Bharati"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/zBg6Iuv.png",
+    "stream_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/5078083881bc489ea14f4c85e7abe4d6/index.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -7388,8 +7397,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s142788_ld_h15_aa.png",
-    "stream_url": "https://mumt05.tangotv.in/DDKASHIR/index.m3u8",
-    "stream_quality": "576p",
+    "stream_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -7406,8 +7415,8 @@
     "closed": null
   },
   {
-    "id": "DDKisan.in",
-    "name": "DD Kisan",
+    "id": "DDKashir.in",
+    "name": "DD Kashir",
     "alt_names": [],
     "network": "Doordarshan",
     "owners": [
@@ -7418,27 +7427,26 @@
     "subdivision": null,
     "city": null,
     "categories": [
-      "education",
-      "outdoor"
+      "general"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s142789_ld_h9_aa.png",
-    "stream_url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8",
+    "logo": "https://dtil.tmsimg.com/assets/s142788_ld_h15_aa.png",
+    "stream_url": "https://mumt05.tangotv.in/DDKASHIR/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
-      "channel": "DDKisan.in",
+      "channel": "DDKashir.in",
       "feed": "SD",
       "site": "tataplay.com",
-      "site_id": "326",
-      "site_name": "DD Kisan",
+      "site_id": "325",
+      "site_name": "DD Kashir",
       "lang": "en"
     },
-    "website": "https://prasarbharati.gov.in/dd-kisan-homepage/",
-    "launched": "2015-05-26",
+    "website": "https://prasarbharati.gov.in/doordarshan/",
+    "launched": "1999-01-01",
     "closed": null
   },
   {
@@ -7498,6 +7506,42 @@
     "logo": "https://dtil.tmsimg.com/assets/s142789_ld_h9_aa.png",
     "stream_url": "http://103.78.149.54:8000/play/a02j/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DDKisan.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "326",
+      "site_name": "DD Kisan",
+      "lang": "en"
+    },
+    "website": "https://prasarbharati.gov.in/dd-kisan-homepage/",
+    "launched": "2015-05-26",
+    "closed": null
+  },
+  {
+    "id": "DDKisan.in",
+    "name": "DD Kisan",
+    "alt_names": [],
+    "network": "Doordarshan",
+    "owners": [
+      "Prasar Bharati"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "education",
+      "outdoor"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s142789_ld_h9_aa.png",
+    "stream_url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8",
+    "stream_quality": "504p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -7607,6 +7651,43 @@
     "logo": "https://dtil.tmsimg.com/assets/s142790_ld_h15_aa.png",
     "stream_url": "http://103.78.149.54:8000/play/a02u/index.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DDMadhyaPradesh.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "330",
+      "site_name": "DD Madhya Pradesh",
+      "lang": "en"
+    },
+    "website": "https://prasarbharati.gov.in/doordarshan/",
+    "launched": "1992-10-20",
+    "closed": null
+  },
+  {
+    "id": "DDMadhyaPradesh.in",
+    "name": "DD Madhya Pradesh",
+    "alt_names": [
+      "दूरदर्शन मध्यप्रदेश"
+    ],
+    "network": "Doordarshan",
+    "owners": [
+      "Prasar Bharati"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s142790_ld_h15_aa.png",
+    "stream_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b5256b391a7c4ae6977535b73fd6f591/index.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -8661,6 +8742,41 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/t8KCi4L.png",
+    "stream_url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/5b6bbbf682b741ecbe279f75a4a9a3e6/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DDRajasthan.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "332",
+      "site_name": "DD Rajasthan",
+      "lang": "en"
+    },
+    "website": "https://prasarbharati.gov.in/doordarshan/",
+    "launched": "1975-08-01",
+    "closed": null
+  },
+  {
+    "id": "DDRajasthan.in",
+    "name": "DD Rajasthan",
+    "alt_names": [],
+    "network": "Doordarshan",
+    "owners": [
+      "Prasar Bharati"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/t8KCi4L.png",
     "stream_url": "https://cdn-1.pishow.tv/live/34/master.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -9019,41 +9135,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png",
-    "stream_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "DDSports.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "223",
-      "site_name": "DD Sports",
-      "lang": "en"
-    },
-    "website": "http://doordarshan.gov.in/ddsports",
-    "launched": "1998-03-18",
-    "closed": null
-  },
-  {
-    "id": "DDSports.in",
-    "name": "DD Sports",
-    "alt_names": [],
-    "network": "Doordarshan",
-    "owners": [
-      "Prasar Bharati"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png",
     "stream_url": "http://103.78.149.54:8000/play/a02r/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -9091,6 +9172,41 @@
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png",
     "stream_url": "http://103.78.149.54:8000/play/a023/index.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DDSports.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "223",
+      "site_name": "DD Sports",
+      "lang": "en"
+    },
+    "website": "http://doordarshan.gov.in/ddsports",
+    "launched": "1998-03-18",
+    "closed": null
+  },
+  {
+    "id": "DDSports.in",
+    "name": "DD Sports",
+    "alt_names": [],
+    "network": "Doordarshan",
+    "owners": [
+      "Prasar Bharati"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png",
+    "stream_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -9410,7 +9526,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s142808_ld_h9_aa.png",
-    "stream_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8",
+    "stream_url": "http://103.78.149.54:8000/play/a02c/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -9445,8 +9561,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s142808_ld_h9_aa.png",
-    "stream_url": "http://103.78.149.54:8000/play/a02c/index.m3u8",
-    "stream_quality": "576p",
+    "stream_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8",
+    "stream_quality": "504p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -9550,6 +9666,41 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s142809_ld_h15_aa.png",
+    "stream_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a70323c56ac647c2a8c8fc34e4c73912/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DDUttarakhand.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1213",
+      "site_name": "DD Uttarakhand",
+      "lang": "en"
+    },
+    "website": null,
+    "launched": "2001-01-01",
+    "closed": null
+  },
+  {
+    "id": "DDUttarakhand.in",
+    "name": "DD Uttarakhand",
+    "alt_names": [],
+    "network": "Doordarshan",
+    "owners": [
+      "Prasar Bharati"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s142809_ld_h15_aa.png",
     "stream_url": "https://cdn-1.pishow.tv/live/17/master.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -9589,6 +9740,43 @@
     "logo": "https://dtil.tmsimg.com/assets/s142807_ld_h9_ab.png",
     "stream_url": "http://103.78.149.54:8000/play/a02o/index.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DDUttarPradesh.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "339",
+      "site_name": "DD Uttar Pradesh",
+      "lang": "en"
+    },
+    "website": "https://prasarbharati.gov.in/dd-uttar-praesh-homepage/",
+    "launched": "1975-11-27",
+    "closed": null
+  },
+  {
+    "id": "DDUttarPradesh.in",
+    "name": "DD Uttar Pradesh",
+    "alt_names": [
+      "दूरदर्शन उत्तर प्रदेश"
+    ],
+    "network": "Doordarshan",
+    "owners": [
+      "Prasar Bharati"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s142807_ld_h9_ab.png",
+    "stream_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/index.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -9700,6 +9888,43 @@
     "logo": "https://dtil.tmsimg.com/assets/s142810_ld_h15_aa.png",
     "stream_url": "http://103.78.149.54:8000/play/a02n/index.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DDYadagiri.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "548",
+      "site_name": "DD Yadagiri",
+      "lang": "en"
+    },
+    "website": "https://prasarbharati.gov.in/doordarshan/",
+    "launched": "1977-10-23",
+    "closed": null
+  },
+  {
+    "id": "DDYadagiri.in",
+    "name": "DD Yadagiri",
+    "alt_names": [
+      "DD Telangana"
+    ],
+    "network": "Doordarshan",
+    "owners": [
+      "Prasar Bharati"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s142810_ld_h15_aa.png",
+    "stream_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c89fa6d6f5864ac29670d6f91cb7e32a/index.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -22877,8 +23102,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143761_ld_h15_aa.png",
-    "stream_url": "http://103.78.149.54:8000/play/a02l/index.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "http://103.78.149.54:8000/play/a00t/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -22914,8 +23139,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143761_ld_h15_aa.png",
-    "stream_url": "http://103.78.149.54:8000/play/a00t/index.m3u8",
-    "stream_quality": "576p",
+    "stream_url": "http://103.78.149.54:8000/play/a02l/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -24291,39 +24516,6 @@
       "site": "tataplay.com",
       "site_id": "802",
       "site_name": "Studio One +",
-      "lang": "en"
-    },
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "StudioYuva.in",
-    "name": "Studio Yuva",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/BOhgz2T.png",
-    "stream_url": "https://mumt01.tangotv.in/STUDIOYUVA/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StudioYuva.in",
-      "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_STUDIO_YUVA",
-      "site_name": "Studio Yuva",
       "lang": "en"
     },
     "website": null,
