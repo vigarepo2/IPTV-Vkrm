@@ -1189,6 +1189,32 @@
     "closed": null
   },
   {
+    "id": "AlkassSHOOF2.qa",
+    "name": "Alkass SHOOF 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "QA",
+    "country_name": "Qatar",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://shoof.alkass.net/assets/images/shoof2.png",
+    "stream_url": "https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.alkass.net/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "AlkassSHOOF.qa",
     "name": "Alkass SHOOF",
     "alt_names": [],

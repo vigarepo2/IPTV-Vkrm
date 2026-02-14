@@ -13391,6 +13391,42 @@
     "closed": null
   },
   {
+    "id": "IndiaToday.in",
+    "name": "India Today",
+    "alt_names": [],
+    "network": "India Today Group",
+    "owners": [
+      "TV Today Network Ltd",
+      " Living Media India Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143197_ld_h15_aa.png",
+    "stream_url": "https://amg00644-amg00644c1-ondemandkorea-amesia-10266.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-indiatoday-ondemandkoreaamesia/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "IndiaToday.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1",
+      "site_name": "INDIA TODAY",
+      "lang": "en"
+    },
+    "website": "https://www.indiatoday.in/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "IndiaTV.in",
     "name": "India TV",
     "alt_names": [

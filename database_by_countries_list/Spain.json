@@ -2775,6 +2775,44 @@
     "closed": null
   },
   {
+    "id": "CMMTV.es",
+    "name": "CMM TV",
+    "alt_names": [
+      "Castilla-La Mancha Media"
+    ],
+    "network": null,
+    "owners": [
+      "Castilla-La Mancha Media"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general",
+      "public"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/276px-CMMedia.svg.png",
+    "stream_url": "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CMMTV.es",
+      "feed": "SD",
+      "site": "programacion-tv.elpais.com",
+      "site_id": "296",
+      "site_name": "Castilla - La Mancha TV",
+      "lang": "es"
+    },
+    "website": "https://www.cmmedia.es/",
+    "launched": "2001-12-13",
+    "closed": null
+  },
+  {
     "id": "Condavision.es",
     "name": "Condavision",
     "alt_names": [

@@ -3643,6 +3643,37 @@
     "closed": null
   },
   {
+    "id": "HunanTV.cn",
+    "name": "Hunan TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/DZdGG2TD/hunantv.png",
+    "stream_url": "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
+    "stream_quality": "2160p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HunanTV.cn",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000160",
+      "site_name": "Hunan TV",
+      "lang": "id"
+    },
+    "website": "https://www.mgtv.com/tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "HunanWomensChannel.cn",
     "name": "Hunan Womens Channel",
     "alt_names": [

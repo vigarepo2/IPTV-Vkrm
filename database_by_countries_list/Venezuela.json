@@ -683,6 +683,36 @@
     "closed": null
   },
   {
+    "id": "NortenaTv.ve",
+    "name": "Nortena Tv",
+    "alt_names": [
+      "RNTV RAdio Norteña Television"
+    ],
+    "network": null,
+    "owners": [
+      "Victor Alvarado"
+    ],
+    "country_code": "VE",
+    "country_name": "Venezuela",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU",
+    "stream_url": "https://vs20.live.opencaster.com/nortena933fm_00010364/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.xn--nortearadio-5db.com/",
+    "launched": "2023-04-10",
+    "closed": null
+  },
+  {
     "id": "OasisTelevision.ve",
     "name": "Oasis Television",
     "alt_names": [

@@ -30,6 +30,36 @@
     "closed": null
   },
   {
+    "id": "AbanteTV.ph",
+    "name": "Abante TV",
+    "alt_names": [
+      "Abante TeleTabloid"
+    ],
+    "network": null,
+    "owners": [
+      "Prage Management Corporation"
+    ],
+    "country_code": "PH",
+    "country_name": "Philippines",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg",
+    "stream_url": "https://streams.comclark.com/transcodesd/abante/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.abante.com.ph/",
+    "launched": "2024-10-01",
+    "closed": null
+  },
+  {
     "id": "ANC.ph",
     "name": "ANC",
     "alt_names": [],
@@ -82,6 +112,34 @@
     "logo": "https://i.imgur.com/iTH9Z0j.png",
     "stream_url": "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://bnc.ph/",
+    "launched": "2024-09-09",
+    "closed": null
+  },
+  {
+    "id": "BilyonaryoNewsChannel.ph",
+    "name": "Bilyonaryo News Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Prage Management Corporation"
+    ],
+    "country_code": "PH",
+    "country_name": "Philippines",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "business"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/iTH9Z0j.png",
+    "stream_url": "https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -288,6 +346,34 @@
     "closed": null
   },
   {
+    "id": "LivingAsiaChannel.ph",
+    "name": "Living Asia Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "CCI Asia Group Corp."
+    ],
+    "country_code": "PH",
+    "country_name": "Philippines",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "travel"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/q3UToRM.png",
+    "stream_url": "https://streams.comclark.com/pknsd/lac/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "MindanowNetworkTV.ph",
     "name": "Mindanow Network TV",
     "alt_names": [],
@@ -306,7 +392,7 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/xBlYirh.jpeg",
     "stream_url": "https://streams.comclark.com/overlay/mindanow/playlist.m3u8",
-    "stream_quality": "1080p",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -348,6 +434,34 @@
     },
     "website": "https://myx.global/",
     "launched": "2000-11-20",
+    "closed": null
+  },
+  {
+    "id": "NudgeSportsChannel.ph",
+    "name": "Nudge Sports Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Nudge Productions"
+    ],
+    "country_code": "PH",
+    "country_name": "Philippines",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TW0hapZ.png",
+    "stream_url": "https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://nudgeproductions.co/nudge-sports-channel",
+    "launched": null,
     "closed": null
   },
   {
