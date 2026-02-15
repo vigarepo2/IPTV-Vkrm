@@ -24940,6 +24940,39 @@
     "closed": null
   },
   {
+    "id": "SuriyanTV.in",
+    "name": "Suriyan TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/suriyantvtamil.png",
+    "stream_url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SuriyanTV.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1384",
+      "site_name": "SURIYAN TV",
+      "lang": "en"
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "SVBC2.in",
     "name": "SVBC 2",
     "alt_names": [

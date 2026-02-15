@@ -4366,6 +4366,34 @@
     "closed": null
   },
   {
+    "id": "AsianCultureTV.us",
+    "name": "Asian Culture TV",
+    "alt_names": [
+      "ACTV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/o1icKZu.png",
+    "stream_url": "https://cdn.vegasplus.us/vegas/actv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.actvus.com",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Aspire.us",
     "name": "Aspire",
     "alt_names": [],
@@ -7103,6 +7131,36 @@
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
     "referrer": "https://www.bloomberg.com/originals",
+    "tv_guide": null,
+    "website": "https://www.bloomberg.com/originals/live",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BloombergOriginals.us",
+    "name": "Bloomberg Originals",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Bloomberg L.P.",
+      "Michael Bloomberg",
+      "Bank of America"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "business"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png",
+    "stream_url": "https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
     "tv_guide": null,
     "website": "https://www.bloomberg.com/originals/live",
     "launched": null,
@@ -19421,6 +19479,32 @@
     "closed": null
   },
   {
+    "id": "FilAmTVNetwork.us",
+    "name": "FilAmTV Network",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nRiApdI.png",
+    "stream_url": "https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://filamtv.us",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "FilmesSuspense.us",
     "name": "Filmes Suspense",
     "alt_names": [],
@@ -31496,6 +31580,34 @@
     "closed": null
   },
   {
+    "id": "LatinoChannelTV.us",
+    "name": "Latino Channel TV",
+    "alt_names": [
+      "LaChTV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/FcLIOGp.png",
+    "stream_url": "https://cdn.vegasplus.us/vegas/latch/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "LatinZone.us",
     "name": "Latin Zone",
     "alt_names": [],
@@ -34897,6 +35009,62 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://moorpark.granicus.com/MediaPlayer.php?publish_id=113",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MRVTVChannel44.us",
+    "name": "MRVTV Channel 44",
+    "alt_names": [
+      "Mad River Valley TV Channel 44"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/QZcENP2.png",
+    "stream_url": "https://livestream.telvue.com/madrivervalleytv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://mrvtv.com/live-broadcasts/live-stream/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MRVTVChannel45.us",
+    "name": "MRVTV Channel 45",
+    "alt_names": [
+      "Mad River Valley TV Channel 45"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/QZcENP2.png",
+    "stream_url": "https://livestream.telvue.com/madrivervalleytv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://mrvtv.com/live-broadcasts/live-stream/",
     "launched": null,
     "closed": null
   },
@@ -41056,6 +41224,32 @@
     "website": "https://pac-12.com/",
     "launched": "2012-08-15",
     "closed": "2024-07-01"
+  },
+  {
+    "id": "PacificIslandNetwork.us",
+    "name": "Pacific Island Network",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/OtT1qYE.png",
+    "stream_url": "https://cdn.vegasplus.us/vegas/mpin/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
   },
   {
     "id": "PalmBeachesTV.us",
@@ -49215,6 +49409,110 @@
     },
     "website": "https://www.rvtv.tv/",
     "launched": "2023-07-03",
+    "closed": null
+  },
+  {
+    "id": "RVTVCivic.us",
+    "name": "RVTV Civic",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/cTLhQjo.png",
+    "stream_url": "https://livestream.telvue.com/roguevalleycmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://rvtv.sou.edu/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RVTVGrantsPass.us",
+    "name": "RVTV Grants Pass",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Vpv0P6t.png",
+    "stream_url": "https://livestream.telvue.com/roguevalleycmttv4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://rvtv.sou.edu/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RVTVPrime.us",
+    "name": "RVTV Prime",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/0Qd9Ic7.png",
+    "stream_url": "https://livestream.telvue.com/roguevalleycmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://rvtv.sou.edu/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RVTVVoices.us",
+    "name": "RVTV Voices",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/kOGQBZj.png",
+    "stream_url": "https://livestream.telvue.com/roguevalleycmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://rvtv.sou.edu/",
+    "launched": null,
     "closed": null
   },
   {
@@ -59194,6 +59492,32 @@
     "logo": "https://i.imgur.com/G7lONcu.png",
     "stream_url": "https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.vegaslifetv.us",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VegasLifeTV.us",
+    "name": "Vegas Life TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/G7lONcu.png",
+    "stream_url": "https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

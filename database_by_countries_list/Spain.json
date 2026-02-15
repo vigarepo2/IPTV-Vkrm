@@ -969,45 +969,6 @@
     "closed": null
   },
   {
-    "id": "Antena3.es",
-    "name": "Antena 3",
-    "alt_names": [
-      "Antena Tres",
-      "A3",
-      "Antena 3 HD"
-    ],
-    "network": null,
-    "owners": [
-      "Atresmedia Corporación de Medios de Comunicación SA"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/sfcFMV9F/antena3.png",
-    "stream_url": "http://176.65.146.237:8401/play/a0ae/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Antena3.es",
-      "feed": "National",
-      "site": "tv.sfr.fr",
-      "site_id": "1702",
-      "site_name": "Antena 3",
-      "lang": "fr"
-    },
-    "website": "https://www.antena3.com/",
-    "launched": "1990-01-25",
-    "closed": null
-  },
-  {
     "id": "APunt.es",
     "name": "A Punt",
     "alt_names": [
@@ -1323,37 +1284,6 @@
     "tv_guide": null,
     "website": "https://www.bdncom.cat/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BeMad.es",
-    "name": "Be Mad",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/fRxWg4QM/bemad.png",
-    "stream_url": "http://176.65.146.237:8401/play/a0aj/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BeMad.es",
-      "feed": "SD",
-      "site": "programacion-tv.elpais.com",
-      "site_id": "890",
-      "site_name": "Be Mad",
-      "lang": "es"
-    },
-    "website": "https://www.bemad.es/",
-    "launched": "2016-01-01",
     "closed": null
   },
   {
