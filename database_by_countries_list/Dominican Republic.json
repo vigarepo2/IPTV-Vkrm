@@ -554,6 +554,34 @@
     "closed": null
   },
   {
+    "id": "CamuTV.do",
+    "name": "Camu TV",
+    "alt_names": [
+      "Camú TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "DO",
+    "country_name": "Dominican Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/3d8cLm9.jpg",
+    "stream_url": "https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.camutv.net",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Canal4RD.do",
     "name": "Canal 4 RD",
     "alt_names": [
@@ -3373,7 +3401,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/vclDXV7.jpeg",
-    "stream_url": "https://stream.castr.com/5da89a909db964293ad13301/live_8252710021ba11f0b7e18b4de1df97ab/index.fmp4.m3u8",
+    "stream_url": "https://stream.castr.com/5da89a909db964293ad13301/live_0950055006c111f18f43137dc9c9d153/index.fmp4.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",
@@ -3424,7 +3452,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": null,
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3759-294x165-FFFFFF.jpg",
     "stream_url": "https://fox.hostlagarto.com:8081/morrotv/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -5536,7 +5564,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/M9A6hqR.png",
-    "stream_url": "https://stream.castr.com/5da89a909db964293ad13301/live_aec52a7076c411f0a58c4101395f61cc/index.fmp4.m3u8",
+    "stream_url": "https://stream.castr.com/5da89a909db964293ad13301/live_cb1a138006bf11f1ab1d51712fa9f1b0/index.fmp4.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",
@@ -5697,7 +5725,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/rSIB579.jpeg",
-    "stream_url": "https://stream.castr.com/5da89a909db964293ad13301/live_3d61f47076c511f089458d738ae60887/index.fmp4.m3u8",
+    "stream_url": "https://stream.castr.com/5da89a909db964293ad13301/live_3ca2dd7006c011f1a1d343392087972b/index.fmp4.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",

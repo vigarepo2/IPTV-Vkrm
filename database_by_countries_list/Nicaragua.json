@@ -464,7 +464,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/rJ3xUec.png",
+    "logo": "https://i.imgur.com/Lbi87xv.png",
     "stream_url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -499,7 +499,7 @@
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": "http://wmediosnicaragua.com/",
+    "website": "https://wtvnicaragua.com/",
     "launched": null,
     "closed": null
   },
@@ -527,7 +527,7 @@
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": "http://wmediosnicaragua.com/",
+    "website": "https://wtvnicaragua.com/",
     "launched": null,
     "closed": null
   }

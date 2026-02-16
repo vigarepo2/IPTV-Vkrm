@@ -116,7 +116,9 @@
     "country_name": "Serbia",
     "subdivision": null,
     "city": null,
-    "categories": [],
+    "categories": [
+      "education"
+    ],
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/NE48DJb.png",
