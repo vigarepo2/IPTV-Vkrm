@@ -1037,6 +1037,39 @@
     "closed": null
   },
   {
+    "id": "PolsatViasatNature.pl",
+    "name": "Polsat Viasat Nature",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TUcM0oS.png",
+    "stream_url": "https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc104/polsatviasatnaturehdraw/polsatviasatnaturehdraw.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatViasatNature.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-viasat-nature-413",
+      "site_name": "Polsat Viasat Nature HD",
+      "lang": "pl"
+    },
+    "website": "https://viasatnature.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Puls2.pl",
     "name": "Puls 2",
     "alt_names": [],
@@ -2785,6 +2818,37 @@
       "lang": "pl"
     },
     "website": "http://wpolsce.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "WPTV.pl",
+    "name": "WP TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://ocdn.eu/ptv2-images-transforms/1/NIbkrRsb2dvLW1pZ3JhdGVkL3dwLnBuZ5KVAmQAwsOVAgAowsM",
+    "stream_url": "https://liveovh011.cda.pl/P8IjbpepCvx7lF8FyJcdAQ/1755751084/2430238/enc109/wphdraw/wphdraw.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "WPTV.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "wp-532",
+      "site_name": "WP",
+      "lang": "pl"
+    },
+    "website": "https://www.wp.pl/",
     "launched": null,
     "closed": null
   },

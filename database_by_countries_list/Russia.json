@@ -2879,7 +2879,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/JvlO3PU.png",
-    "stream_url": "https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8",
+    "stream_url": "https://dumatv.iptv2022.com/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
@@ -3119,7 +3119,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/tXABQDE.png",
-    "stream_url": "https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v2a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1",
+    "stream_url": "https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -4394,34 +4394,6 @@
     "closed": null
   },
   {
-    "id": "LyubimoeIndijskoeKino.ru",
-    "name": "Lyubimoe Indijskoe Kino",
-    "alt_names": [
-      "Любимое Индийское Кино"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/hVptFue.png",
-    "stream_url": "https://v2.catcast.tv/content/41596/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Magnat.ru",
     "name": "Magnat",
     "alt_names": [],
@@ -4451,34 +4423,6 @@
       "lang": "ru"
     },
     "website": "https://tvmagnat.tv/pryamoy-efir/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "MalderMegahit.ru",
-    "name": "Malder Megahit",
-    "alt_names": [
-      "Малдер Мегахит"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Ow2Pawt.png",
-    "stream_url": "https://v2.catcast.tv/content/47689/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
     "launched": null,
     "closed": null
   },
@@ -20111,32 +20055,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.vetta.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "VHSTV.ru",
-    "name": "VHS TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/BHCwWBf.png",
-    "stream_url": "https://v2.catcast.tv/content/47609/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://vk.com/vhs_tv_live",
     "launched": null,
     "closed": null
   },

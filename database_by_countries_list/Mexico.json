@@ -2448,37 +2448,6 @@
     "closed": null
   },
   {
-    "id": "SonyChannel.mx",
-    "name": "Sony Channel",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/Wp7YZHMF/sonychannel.png",
-    "stream_url": "http://fl41.moveonjoy.com/Sony_Movie_Channel/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SonyChannel.mx",
-      "feed": "SD",
-      "site": "gatotv.com",
-      "site_id": "sony_mexico",
-      "site_name": "Sony México",
-      "lang": "es"
-    },
-    "website": "https://la.sonychannel.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "SQCSCanal4.mx",
     "name": "SQCS Canal 4",
     "alt_names": [],
