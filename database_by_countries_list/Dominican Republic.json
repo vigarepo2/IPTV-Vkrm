@@ -78,6 +78,32 @@
     "closed": null
   },
   {
+    "id": "AguilaTV.do",
+    "name": "Aguila TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "DO",
+    "country_name": "Dominican Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3770-294x165-FFFFFF.jpg",
+    "stream_url": "https://fox.hostlagarto.com:8081/aguilatv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.vivalivetv.com/channel/aguila-tv",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "AhoraTV.do",
     "name": "Ahora TV",
     "alt_names": [
@@ -130,6 +156,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://aiontelevision.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AlcarrizosTV.do",
+    "name": "Alcarrizos TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "DO",
+    "country_name": "Dominican Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/C3fdPYGs/Alcarrizo.jpg",
+    "stream_url": "https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://alcarrizostv.com/",
     "launched": null,
     "closed": null
   },
@@ -365,6 +417,32 @@
     "tv_guide": null,
     "website": "https://www.antena7.com.do/",
     "launched": "1991-08-13",
+    "closed": null
+  },
+  {
+    "id": "AtabalTV.do",
+    "name": "Atabal TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "DO",
+    "country_name": "Dominican Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://imgur.com/QWR9SOH.png",
+    "stream_url": "https://vdopanel.jlahozconsulting.com:3648/live/atabaltvlive.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.tvdominicana.net/livetv/watch/atabaltv/51",
+    "launched": null,
     "closed": null
   },
   {
@@ -2717,6 +2795,32 @@
     "closed": null
   },
   {
+    "id": "LagunaTV.do",
+    "name": "Laguna TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "DO",
+    "country_name": "Dominican Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dominicanchannels.com/wp-content/uploads/lagunatv.jpg",
+    "stream_url": "https://cnn.hostlagarto.com/lagutv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://dominicanchannels.com/laguna-tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "LaHoraTV.do",
     "name": "La Hora TV",
     "alt_names": [],
@@ -2843,6 +2947,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.vivalivetv.com/channel/la-ruta-tv",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "LaSultanadelEsteTV.do",
+    "name": "La Sultana del Este TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "DO",
+    "country_name": "Dominican Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/UNiyOvd.png",
+    "stream_url": "https://micanal.ovh/livestreams/544.EP3QGO4KPL66.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://lasultanadelestetv.com/",
     "launched": null,
     "closed": null
   },
@@ -4370,6 +4500,32 @@
     "closed": null
   },
   {
+    "id": "SistesurCanal49.do",
+    "name": "Sistesur Canal 49",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "DO",
+    "country_name": "Dominican Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/AXUGTAy.png",
+    "stream_url": "https://5790d294af2dc.streamlock.net:443/SISTESUR/SISTESUR/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://sistesur.com.do/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "SolucionTV.do",
     "name": "Solucion TV",
     "alt_names": [],
@@ -5253,6 +5409,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://dominicanchannels.com/tele-ola-cnal-44/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TelePoderTV.do",
+    "name": "Tele Poder TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "DO",
+    "country_name": "Dominican Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.telepoder.online/wp-content/uploads/2024/02/cropped-cropped-Logo-PoderTV2.png",
+    "stream_url": "https://cdn.telepoder.online:3229/dash/stream.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.telepoder.online/",
     "launched": null,
     "closed": null
   },

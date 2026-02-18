@@ -23073,6 +23073,32 @@
     "closed": null
   },
   {
+    "id": "SamayKolkata.in",
+    "name": "Samay Kolkata",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/3mrYZDG/cropped-LOGO-web1.jpg",
+    "stream_url": "https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://samaykolkata.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "SanaPlus.in",
     "name": "Sana Plus",
     "alt_names": [],

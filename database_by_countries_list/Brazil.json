@@ -1534,7 +1534,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.postimg.cc/mgpGyqRg/novotempo.png",
+    "logo": null,
     "stream_url": "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
