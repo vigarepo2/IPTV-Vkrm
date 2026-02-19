@@ -56333,6 +56333,41 @@
     "closed": null
   },
   {
+    "id": "UnivisionTlnovelas.us",
+    "name": "Univision Tlnovelas",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "TelevisaUnivision USA"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/512px-Univision_tlnovelas_%282019%29.svg.png",
+    "stream_url": "https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhuebPX8UYW2fAiSlZGjGoPc/m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "UnivisionTlnovelas.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "74550",
+      "site_name": "Univision Tlnovelas",
+      "lang": "en"
+    },
+    "website": "http://www.univision.com/tlnovelas",
+    "launched": "2012-03-01",
+    "closed": null
+  },
+  {
     "id": "UnsolvedMysteries.us",
     "name": "Unsolved Mysteries",
     "alt_names": [],

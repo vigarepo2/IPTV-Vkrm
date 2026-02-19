@@ -621,6 +621,32 @@
     "closed": null
   },
   {
+    "id": "GirasolTV.hn",
+    "name": "Girasol TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "HN",
+    "country_name": "Honduras",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/2t7A2yg.png",
+    "stream_url": "https://s.emisoras.tv:8081/girasoltv/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://girasolmultimedios.com/portal/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "GloboTV.hn",
     "name": "Globo TV",
     "alt_names": [],

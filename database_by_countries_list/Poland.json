@@ -2664,6 +2664,32 @@
     "closed": null
   },
   {
+    "id": "TVToya.pl",
+    "name": "TV Toya",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_TOYA_Nowe_Logo_od_2014.svg/512px-TV_TOYA_Nowe_Logo_od_2014.svg.png",
+    "stream_url": "https://cdn-14-go.toya.net.pl/drm/001_toyahd/manifest.mpd",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://tvtoya.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TVTrwam.pl",
     "name": "TV Trwam",
     "alt_names": [],

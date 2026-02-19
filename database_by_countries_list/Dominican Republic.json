@@ -5970,6 +5970,32 @@
     "closed": null
   },
   {
+    "id": "TourSpotTV.do",
+    "name": "Tour Spot TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "DO",
+    "country_name": "Dominican Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://imgur.com/khj869k.png",
+    "stream_url": "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8",
+    "stream_quality": "1280p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://toursporttv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TRA2.do",
     "name": "TRA 2",
     "alt_names": [],
