@@ -16077,6 +16077,34 @@
     "closed": null
   },
   {
+    "id": "LifeTV.in",
+    "name": "Life TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Life Television India Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/v1C0bdR/logo-1.png",
+    "stream_url": "https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://watchlifetv.net/",
+    "launched": "2013-01-01",
+    "closed": null
+  },
+  {
     "id": "LivingIndiaNews.in",
     "name": "Living India News",
     "alt_names": [],
@@ -23011,32 +23039,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://salvationtv.in/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SamayKolkata.in",
-    "name": "Samay Kolkata",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/3mrYZDG/cropped-LOGO-web1.jpg",
-    "stream_url": "https://5dd3981940faa.streamlock.net/kbcration/kbcration/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://samaykolkata.com/",
     "launched": null,
     "closed": null
   },

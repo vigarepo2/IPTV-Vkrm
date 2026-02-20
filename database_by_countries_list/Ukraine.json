@@ -1318,6 +1318,48 @@
     "closed": null
   },
   {
+    "id": "Pershyi.ua",
+    "name": "Pershyi",
+    "alt_names": [
+      "Перший",
+      "First",
+      "UΛ: Перший",
+      "Перший національний",
+      "УТ1",
+      "УТ",
+      "Suspilne TV",
+      "Suspilne Pershyi",
+      "UA:Pershyi",
+      "Pershyi Natsionalnyi",
+      "Pershyi kanal",
+      "UT-1",
+      "Ukrainske Telebachennia"
+    ],
+    "network": null,
+    "owners": [
+      "National Public Television and Radio Company of Ukraine"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/osTQLED.png",
+    "stream_url": "https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://tv.suspilne.media/",
+    "launched": "1939-02-01",
+    "closed": null
+  },
+  {
     "id": "PervyygorodskoyOdessa.ua",
     "name": "Pervyy gorodskoy. Odessa",
     "alt_names": [
@@ -1692,6 +1734,71 @@
     "tv_guide": null,
     "website": "https://skrypin.ua/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SuspilneKrym.ua",
+    "name": "Suspilne. Krym",
+    "alt_names": [
+      "Суспільне. Крим",
+      "UΛ: Крым",
+      "ТРК"
+    ],
+    "network": null,
+    "owners": [
+      "National Public Television and Radio Company of Ukraine"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/m7znCes.png",
+    "stream_url": "https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://crimea.suspilne.media/",
+    "launched": "1959-01-25",
+    "closed": null
+  },
+  {
+    "id": "SuspilneKultura.ua",
+    "name": "Suspilne. Kultura",
+    "alt_names": [
+      "Суспільне. Культура",
+      "Society Culture",
+      "UΛ: Культура",
+      "Культура"
+    ],
+    "network": null,
+    "owners": [
+      "National Public Television and Radio Company of Ukraine"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/hHMJV8e.png",
+    "stream_url": "https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://suspilne.media/culture/",
+    "launched": "2002-01-01",
     "closed": null
   },
   {
