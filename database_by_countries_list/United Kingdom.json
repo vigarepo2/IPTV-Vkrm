@@ -774,41 +774,6 @@
     "closed": null
   },
   {
-    "id": "BBCEarth.uk",
-    "name": "BBC Earth",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "BBC Studios"
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/nGSsUd4.png",
-    "stream_url": "https://tv.ddns.vn/tv/bbcearth/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BBCEarth.uk",
-      "feed": "Asia",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000102",
-      "site_name": "BBC Earth",
-      "lang": "id"
-    },
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "BBCFour.uk",
     "name": "BBC Four",
     "alt_names": [],
@@ -1045,41 +1010,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://www.bbc.co.uk/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BBCLifestyle.uk",
-    "name": "BBC Lifestyle",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "BBC Studios"
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "lifestyle"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/9mzJJ3y.png",
-    "stream_url": "https://tv.ddns.vn/tv/bbclifestyle/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BBCLifestyle.uk",
-      "feed": "Asia",
-      "site": "starhubtvplus.com",
-      "site_id": "85611254-47a9-4f7c-9469-a4ee8b9f65b1",
-      "site_name": "BBC Lifestyle",
-      "lang": "zh"
-    },
-    "website": "https://www.bbcstudios.com/",
     "launched": null,
     "closed": null
   },
@@ -9810,7 +9740,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "NollyAfrica.uk",
+      "feed": "SD",
+      "site": "distro.tv",
+      "site_id": "81815",
+      "site_name": "Nolly Africa HD",
+      "lang": "en"
+    },
     "website": "https://www.africanmoviechannel.tv/products-and-services",
     "launched": null,
     "closed": null

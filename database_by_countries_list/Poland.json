@@ -1806,7 +1806,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "TNAWrestlingChannel.pl",
+      "feed": "SD",
+      "site": "distro.tv",
+      "site_id": "78918",
+      "site_name": "TNA Wrestling Channel",
+      "lang": "en"
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -1830,7 +1837,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "TNAWrestlingChannel.pl",
+      "feed": "SD",
+      "site": "distro.tv",
+      "site_id": "78918",
+      "site_name": "TNA Wrestling Channel",
+      "lang": "en"
+    },
     "website": null,
     "launched": null,
     "closed": null

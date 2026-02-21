@@ -1802,6 +1802,38 @@
     "closed": null
   },
   {
+    "id": "SuspilneSport.ua",
+    "name": "Suspilne. Sport",
+    "alt_names": [
+      "Суспільне. Спорт",
+      "Social. Sport",
+      "UΛ: Спорт"
+    ],
+    "network": null,
+    "owners": [
+      "National Public Television and Radio Company of Ukraine"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/16IhU0M.png",
+    "stream_url": "https://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://suspilne.media/sport/",
+    "launched": "2019-05-21",
+    "closed": null
+  },
+  {
     "id": "Svarozhychy.ua",
     "name": "Svarozhychy",
     "alt_names": [

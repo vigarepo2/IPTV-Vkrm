@@ -2083,7 +2083,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "AmarUjala.in",
+      "feed": "SD",
+      "site": "distro.tv",
+      "site_id": "144758",
+      "site_name": "Amar Ujala",
+      "lang": "en"
+    },
     "website": "https://www.amarujala.com/",
     "launched": null,
     "closed": null
@@ -2111,7 +2118,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "AmarUjala.in",
+      "feed": "SD",
+      "site": "distro.tv",
+      "site_id": "144758",
+      "site_name": "Amar Ujala",
+      "lang": "en"
+    },
     "website": "https://www.amarujala.com/",
     "launched": null,
     "closed": null
@@ -2201,8 +2215,8 @@
     "tv_guide": {
       "channel": "AnandTV.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "DISTROTV_LIVETVCHANNEL_5327",
+      "site": "distro.tv",
+      "site_id": "140526",
       "site_name": "Anand Tv",
       "lang": "en"
     },
@@ -2234,8 +2248,8 @@
     "tv_guide": {
       "channel": "AnandTV.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "DISTROTV_LIVETVCHANNEL_5327",
+      "site": "distro.tv",
+      "site_id": "140526",
       "site_name": "Anand Tv",
       "lang": "en"
     },
@@ -3173,7 +3187,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png",
-    "stream_url": "http://103.78.149.54:8000/play/a00j/index.m3u8",
+    "stream_url": "http://163.61.227.29:8000/play/a04a/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -12253,7 +12267,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "GTCPunjabi.in",
+      "feed": "SD",
+      "site": "distro.tv",
+      "site_id": "144844",
+      "site_name": "GTC Punjabi",
+      "lang": "en"
+    },
     "website": null,
     "launched": "2025-12-10",
     "closed": null
@@ -12281,7 +12302,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "GTCPunjabi.in",
+      "feed": "SD",
+      "site": "distro.tv",
+      "site_id": "144844",
+      "site_name": "GTC Punjabi",
+      "lang": "en"
+    },
     "website": null,
     "launched": "2025-12-10",
     "closed": null
@@ -16041,7 +16069,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "KTVBangla.in",
+      "feed": "SD",
+      "site": "distro.tv",
+      "site_id": "140010",
+      "site_name": "KTV Bangla",
+      "lang": "en"
+    },
     "website": "https://www.tribetv.in/",
     "launched": "2021-08-09",
     "closed": null
@@ -16071,7 +16106,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "KTVBangla.in",
+      "feed": "SD",
+      "site": "distro.tv",
+      "site_id": "140010",
+      "site_name": "KTV Bangla",
+      "lang": "en"
+    },
     "website": "https://www.tribetv.in/",
     "launched": "2021-08-09",
     "closed": null
@@ -16356,9 +16398,9 @@
     "tv_guide": {
       "channel": "MahaaMax.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_MAHAA_MAX",
-      "site_name": "MAHAA MAX",
+      "site": "distro.tv",
+      "site_id": "140528",
+      "site_name": "Mahaa Max",
       "lang": "en"
     },
     "website": null,
@@ -16389,9 +16431,9 @@
     "tv_guide": {
       "channel": "MahaaMax.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_MAHAA_MAX",
-      "site_name": "MAHAA MAX",
+      "site": "distro.tv",
+      "site_id": "140528",
+      "site_name": "Mahaa Max",
       "lang": "en"
     },
     "website": null,
@@ -17901,9 +17943,9 @@
     "tv_guide": {
       "channel": "MunsifTV.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_MUNSIF_TV",
-      "site_name": "MUNSIF TV",
+      "site": "distro.tv",
+      "site_id": "140530",
+      "site_name": "Munsif Tv",
       "lang": "en"
     },
     "website": "https://munsifdaily.com/contact-us/",
@@ -17934,9 +17976,9 @@
     "tv_guide": {
       "channel": "MunsifTV.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_MUNSIF_TV",
-      "site_name": "MUNSIF TV",
+      "site": "distro.tv",
+      "site_id": "140530",
+      "site_name": "Munsif Tv",
       "lang": "en"
     },
     "website": "https://munsifdaily.com/contact-us/",
@@ -18533,6 +18575,41 @@
     },
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Nepal1.in",
+    "name": "Nepal 1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "TV Live India Pvt Ltd"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143584_ld_h15_aa.png",
+    "stream_url": "https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8",
+    "stream_quality": "396p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Nepal1.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "567",
+      "site_name": "Nepal 1",
+      "lang": "en"
+    },
+    "website": "http://www.nepal1tv.net/",
+    "launched": "2004-01-01",
     "closed": null
   },
   {
@@ -20634,6 +20711,32 @@
       "lang": "en"
     },
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PMCTelugu.in",
+    "name": "PMC Telugu",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/PMC_Telugu.png",
+    "stream_url": "https://mumbai-edge.smartplaytv.in/PMC/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.pmconlinetv.com/",
     "launched": null,
     "closed": null
   },
@@ -24701,8 +24804,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s142920_ld_h9_aa.png",
-    "stream_url": "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/hdntl=exp=1767018459~acl=/*~data=hdntl~hmac=85f3eb24914af4b01a9b5886a64ab34a6861689e7a16e85eac290f7dce45b41c/chunklist_b2628000.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "stream_quality": "396p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -25292,6 +25395,43 @@
     "closed": null
   },
   {
+    "id": "StarGold.in",
+    "name": "Star Gold",
+    "alt_names": [],
+    "network": "JioStar",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143815_ld_h15_aa.png",
+    "stream_url": "http://103.99.249.139/stargold/index.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarGold.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "632",
+      "site_name": "Star GOLD HD",
+      "lang": "en"
+    },
+    "website": "https://hotstar.com/",
+    "launched": "1999-01-01",
+    "closed": null
+  },
+  {
     "id": "StarGoldSelect.in",
     "name": "Star Gold Select",
     "alt_names": [],
@@ -25589,6 +25729,45 @@
     },
     "website": "https://www.startv.com/about-us/sports",
     "launched": "2007-01-01",
+    "closed": null
+  },
+  {
+    "id": "StarSports2Hindi.in",
+    "name": "Star Sports 2 Hindi",
+    "alt_names": [
+      "Sports18 1"
+    ],
+    "network": "Star Sports",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png",
+    "stream_url": "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarSports2Hindi.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1033",
+      "site_name": "Star Sports 2 Hindi HD",
+      "lang": "en"
+    },
+    "website": "https://jiohotstar.com/",
+    "launched": "2022-04-15",
     "closed": null
   },
   {
@@ -26203,7 +26382,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s160751_ld_h15_aa.png",
-    "stream_url": "http://103.78.149.54:8000/play/a00y/index.m3u8",
+    "stream_url": "http://163.61.227.29:8000/play/a04t/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -26724,8 +26903,8 @@
     "tv_guide": {
       "channel": "TabbarHits.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_TABBAR_HITS",
+      "site": "distro.tv",
+      "site_id": "136891",
       "site_name": "Tabbar Hits",
       "lang": "en"
     },
@@ -27569,6 +27748,32 @@
     },
     "website": "http://www.travelxp.tv/",
     "launched": "2011-02-02",
+    "closed": null
+  },
+  {
+    "id": "Tunes6.in",
+    "name": "Tunes 6",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/VUzMQ9S.png",
+    "stream_url": "https://stream.d6-pro.com/tunes6music/live/video.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
     "closed": null
   },
   {
@@ -29292,8 +29497,8 @@
     "tv_guide": {
       "channel": "YRFMusic.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "DISTROTV_LIVETVCHANNEL_5049",
+      "site": "distro.tv",
+      "site_id": "126108",
       "site_name": "YRF Music",
       "lang": "en"
     },
@@ -29327,8 +29532,8 @@
     "tv_guide": {
       "channel": "YRFMusic.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "DISTROTV_LIVETVCHANNEL_5049",
+      "site": "distro.tv",
+      "site_id": "126108",
       "site_name": "YRF Music",
       "lang": "en"
     },
@@ -29362,8 +29567,8 @@
     "tv_guide": {
       "channel": "YRFMusic.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "DISTROTV_LIVETVCHANNEL_5049",
+      "site": "distro.tv",
+      "site_id": "126108",
       "site_name": "YRF Music",
       "lang": "en"
     },
@@ -30179,6 +30384,41 @@
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png",
     "stream_url": "https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ZeeCinema.in",
+      "feed": "SD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000153_020076",
+      "site_name": "Zee Cinema",
+      "lang": "en"
+    },
+    "website": "https://zeecinema.zee5.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ZeeCinema.in",
+    "name": "Zee Cinema",
+    "alt_names": [],
+    "network": "Z",
+    "owners": [
+      "Zee Entertainment Enterprises Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png",
+    "stream_url": "http://103.99.249.139/zeecinema/index.m3u8",
+    "stream_quality": "480p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

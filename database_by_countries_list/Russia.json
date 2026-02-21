@@ -18458,6 +18458,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/YBVZoDd.png",
+    "stream_url": "https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "STSLove.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1800",
+      "site_name": "СТС Love",
+      "lang": "ru"
+    },
+    "website": "https://www.ctclove.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "STSLove.ru",
+    "name": "STS Love",
+    "alt_names": [
+      "СТС Love",
+      "CTC Love"
+    ],
+    "network": null,
+    "owners": [
+      "STS Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "family"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/YBVZoDd.png",
     "stream_url": "http://31.148.48.15/STS_Love/index.m3u8",
     "stream_quality": null,
     "stream_format": null,

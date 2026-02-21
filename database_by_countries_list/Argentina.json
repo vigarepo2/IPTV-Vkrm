@@ -122,6 +122,40 @@
     "closed": null
   },
   {
+    "id": "AlternaTV.ar",
+    "name": "AlternaTV",
+    "alt_names": [
+      "ALTERNATV",
+      "Alterna TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music",
+      "culture",
+      "entertainment",
+      "documentary",
+      "movies",
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://alternatv.ar/alternatv.png",
+    "stream_url": "https://tv.alterna.ar/stream/hls/live.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://alternatv.ar",
+    "launched": "2023-07-14",
+    "closed": null
+  },
+  {
     "id": "AmericaTV.ar",
     "name": "America TV",
     "alt_names": [
@@ -2285,6 +2319,39 @@
     },
     "website": "http://telefeinternacional.com.ar/",
     "launched": "1998-01-01",
+    "closed": null
+  },
+  {
+    "id": "TelefeRosario.ar",
+    "name": "Telefe Rosario",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Televisión Litoral"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/512px-Telefe_Rosario_%282018%29.png",
+    "stream_url": "https://cdn-cirion01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TelefeRosario.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#telefe-rosario",
+      "site_name": "Telefe Rosario",
+      "lang": "es"
+    },
+    "website": "http://rosario.telefe.com/",
+    "launched": null,
     "closed": null
   },
   {

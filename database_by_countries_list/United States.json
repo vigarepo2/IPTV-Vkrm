@@ -6911,7 +6911,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "BloombergOriginals.us",
+      "feed": "SD",
+      "site": "distro.tv",
+      "site_id": "50995",
+      "site_name": "Bloomberg Originals",
+      "lang": "en"
+    },
     "website": "https://www.bloomberg.com/originals/live",
     "launched": null,
     "closed": null
@@ -6941,7 +6948,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "BloombergOriginals.us",
+      "feed": "SD",
+      "site": "distro.tv",
+      "site_id": "50995",
+      "site_name": "Bloomberg Originals",
+      "lang": "en"
+    },
     "website": "https://www.bloomberg.com/originals/live",
     "launched": null,
     "closed": null
@@ -6971,7 +6985,14 @@
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
     "referrer": "https://www.bloomberg.com/originals",
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "BloombergOriginals.us",
+      "feed": "SD",
+      "site": "distro.tv",
+      "site_id": "50995",
+      "site_name": "Bloomberg Originals",
+      "lang": "en"
+    },
     "website": "https://www.bloomberg.com/originals/live",
     "launched": null,
     "closed": null
@@ -7001,7 +7022,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "BloombergOriginals.us",
+      "feed": "SD",
+      "site": "distro.tv",
+      "site_id": "50995",
+      "site_name": "Bloomberg Originals",
+      "lang": "en"
+    },
     "website": "https://www.bloomberg.com/originals/live",
     "launched": null,
     "closed": null
@@ -14615,7 +14643,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "DaystarTVEspanol.us",
+      "feed": "SD",
+      "site": "distro.tv",
+      "site_id": "144301",
+      "site_name": "Daystar Español",
+      "lang": "en"
+    },
     "website": "https://espanol.daystar.com/",
     "launched": null,
     "closed": null
@@ -15151,6 +15186,41 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
     "stream_url": "https://fl41.moveonjoy.com/DISNEY/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyChannel.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "12510",
+      "site_name": "Disney Channel West",
+      "lang": "en"
+    },
+    "website": "https://www.disney.com/",
+    "launched": "1983-04-18",
+    "closed": null
+  },
+  {
+    "id": "DisneyChannel.us",
+    "name": "Disney Channel",
+    "alt_names": [],
+    "network": "Disney Channels",
+    "owners": [
+      "The Walt Disney Company"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "stream_url": "https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwht95XgI8UhySeZgp7szKj3V/m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -16035,41 +16105,6 @@
     "closed": null
   },
   {
-    "id": "DreamWorksChannelAsia.us",
-    "name": "DreamWorks Channel Asia",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "NBCUniversal Media LLC"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "animation"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png",
-    "stream_url": "https://tv.ddns.vn/tv/dreamworks/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "DreamWorksChannelAsia.us",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000067",
-      "site_name": "Dream Works",
-      "lang": "id"
-    },
-    "website": "http://dreamworks-asia.com/",
-    "launched": "2015-08-01",
-    "closed": null
-  },
-  {
     "id": "DrGeneScott.us",
     "name": "Dr. Gene Scott",
     "alt_names": [],
@@ -16873,7 +16908,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "EstrellaGames.us",
+      "feed": "SD",
+      "site": "distro.tv",
+      "site_id": "83825",
+      "site_name": "Estrella Games",
+      "lang": "en"
+    },
     "website": "https://estrellatv.com/live/estrella-games/",
     "launched": null,
     "closed": null
@@ -16902,7 +16944,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "EstrellaGames.us",
+      "feed": "SD",
+      "site": "distro.tv",
+      "site_id": "83825",
+      "site_name": "Estrella Games",
+      "lang": "en"
+    },
     "website": "https://estrellatv.com/live/estrella-games/",
     "launched": null,
     "closed": null
@@ -16931,7 +16980,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "EstrellaGames.us",
+      "feed": "SD",
+      "site": "distro.tv",
+      "site_id": "83825",
+      "site_name": "Estrella Games",
+      "lang": "en"
+    },
     "website": "https://estrellatv.com/live/estrella-games/",
     "launched": null,
     "closed": null
@@ -25506,7 +25562,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "KaloopyTV.us",
+      "feed": "SD",
+      "site": "distro.tv",
+      "site_id": "73234",
+      "site_name": "Kaloopy",
+      "lang": "en"
+    },
     "website": "https://www.kaloopy.com/",
     "launched": null,
     "closed": null
@@ -33540,6 +33603,36 @@
     },
     "website": "https://www.msgnetworks.com/",
     "launched": "1976-01-01",
+    "closed": null
+  },
+  {
+    "id": "MSNOW.us",
+    "name": "MS NOW",
+    "alt_names": [
+      "MSNBC"
+    ],
+    "network": null,
+    "owners": [
+      "Versant Media Group Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/1280px-MS_NOW_logo.svg.png",
+    "stream_url": "http://41.205.93.154/MSNBC/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.ms.now/live",
+    "launched": "1996-07-15",
     "closed": null
   },
   {
@@ -47017,8 +47110,8 @@
     "tv_guide": {
       "channel": "RVTV.us",
       "feed": "HD",
-      "site": "airtelxstream.in",
-      "site_id": "DISTROTV_LIVETVCHANNEL_5384",
+      "site": "distro.tv",
+      "site_id": "144407",
       "site_name": "RVTV",
       "lang": "en"
     },
@@ -47050,8 +47143,8 @@
     "tv_guide": {
       "channel": "RVTV.us",
       "feed": "HD",
-      "site": "airtelxstream.in",
-      "site_id": "DISTROTV_LIVETVCHANNEL_5384",
+      "site": "distro.tv",
+      "site_id": "144407",
       "site_name": "RVTV",
       "lang": "en"
     },
@@ -59730,7 +59823,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "WillowSports.us",
+      "feed": "SD",
+      "site": "distro.tv",
+      "site_id": "135729",
+      "site_name": "Willow Sports",
+      "lang": "en"
+    },
     "website": "https://www.willow.tv/willow_sports",
     "launched": "2024-10-14",
     "closed": null
@@ -59759,7 +59859,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "WillowSports.us",
+      "feed": "SD",
+      "site": "distro.tv",
+      "site_id": "135729",
+      "site_name": "Willow Sports",
+      "lang": "en"
+    },
     "website": "https://www.willow.tv/willow_sports",
     "launched": "2024-10-14",
     "closed": null
@@ -59788,8 +59895,8 @@
     "tv_guide": {
       "channel": "WineWatchesWhiskey.us",
       "feed": "HD",
-      "site": "airtelxstream.in",
-      "site_id": "DISTROTV_LIVETVCHANNEL_5385",
+      "site": "distro.tv",
+      "site_id": "144408",
       "site_name": "Wine, Watches & Whiskey",
       "lang": "en"
     },
@@ -59821,8 +59928,8 @@
     "tv_guide": {
       "channel": "WineWatchesWhiskey.us",
       "feed": "HD",
-      "site": "airtelxstream.in",
-      "site_id": "DISTROTV_LIVETVCHANNEL_5385",
+      "site": "distro.tv",
+      "site_id": "144408",
       "site_name": "Wine, Watches & Whiskey",
       "lang": "en"
     },
@@ -61082,37 +61189,6 @@
       "lang": "en"
     },
     "website": "http://www.nbcnewyork.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "WNETDT1.us",
-    "name": "WNET-DT1",
-    "alt_names": [],
-    "network": "PBS",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",
-    "stream_url": "https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "WNETDT1.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "26182",
-      "site_name": "PBS (WNET-DT1) New York, NY",
-      "lang": "en"
-    },
-    "website": "http://www.wnet.org/",
     "launched": null,
     "closed": null
   },
