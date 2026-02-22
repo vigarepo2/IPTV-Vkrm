@@ -52394,32 +52394,6 @@
     "closed": null
   },
   {
-    "id": "TheLatinZoneTV.us",
-    "name": "The Latin Zone TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/2825-294x165-FFFFFF.jpg",
-    "stream_url": "https://cdn.mycloudstream.io/hls/live/broadcast/ka5ofgte/720p.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.vivalivetv.com/channel/the-latin-zone",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TheLoveBoat.us",
     "name": "The Love Boat",
     "alt_names": [],

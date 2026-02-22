@@ -532,6 +532,41 @@
     "closed": null
   },
   {
+    "id": "VantageMusic.ee",
+    "name": "Vantage Music",
+    "alt_names": [],
+    "network": "Vantage Television",
+    "owners": [
+      "Lulzy Broadcasting OÜ"
+    ],
+    "country_code": "EE",
+    "country_name": "Estonia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://vantagetv.ee/vantage_music.png",
+    "stream_url": "https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "VantageMusic.ee",
+      "feed": "SD",
+      "site": "vantagetv.ee",
+      "site_id": "vmusic",
+      "site_name": "Vantage Music",
+      "lang": "en"
+    },
+    "website": "https://vantagetv.ee",
+    "launched": "2025-11-30",
+    "closed": null
+  },
+  {
     "id": "VantageRock.ee",
     "name": "Vantage Rock",
     "alt_names": [],

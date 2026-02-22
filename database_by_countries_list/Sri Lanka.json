@@ -30,34 +30,6 @@
     "closed": null
   },
   {
-    "id": "ChannelEye.lk",
-    "name": "Channel Eye",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Sri Lanka Rupavahini Corporation"
-    ],
-    "country_code": "LK",
-    "country_name": "Sri Lanka",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/spOanQ5.png",
-    "stream_url": "https://edge4-moblive.yuppcdn.net/trans1sd/smil:nettv15.smil/playlist.m3u8",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.channeleye.lk/",
-    "launched": "2000-08-01",
-    "closed": null
-  },
-  {
     "id": "CharanaTV.lk",
     "name": "Charana TV",
     "alt_names": [],
@@ -110,32 +82,6 @@
     "tv_guide": null,
     "website": "https://www.hirutv.lk/",
     "launched": "2012-05-23",
-    "closed": null
-  },
-  {
-    "id": "ITN.lk",
-    "name": "ITN",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "LK",
-    "country_name": "Sri Lanka",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/NLu3guG.png",
-    "stream_url": "https://edge4-moblive.yuppcdn.net/transsd/smil:itn43.smil/playlist.m3u8",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.itntv.lk/",
-    "launched": null,
     "closed": null
   },
   {
@@ -299,32 +245,6 @@
     "closed": null
   },
   {
-    "id": "SiyathaTV.lk",
-    "name": "Siyatha TV",
-    "alt_names": [],
-    "network": "VOA",
-    "owners": [
-      "Voice of Asia Network Pvt Ltd"
-    ],
-    "country_code": "LK",
-    "country_name": "Sri Lanka",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/9Zc8G7i.png",
-    "stream_url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://siyathatv.lk/",
-    "launched": "2009-09-17",
-    "closed": null
-  },
-  {
     "id": "StarTamilTelevision.lk",
     "name": "Star Tamil Television",
     "alt_names": [],
@@ -482,39 +402,6 @@
     "tv_guide": null,
     "website": "http://tv1.lk/",
     "launched": "1992-12-14",
-    "closed": null
-  },
-  {
-    "id": "TVDerana.lk",
-    "name": "TV Derana",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Power House Pvt Ltd"
-    ],
-    "country_code": "LK",
-    "country_name": "Sri Lanka",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/vToOI2s.png",
-    "stream_url": "https://edge3-moblive.yuppcdn.net/transhd2/smil:detv04.smil/index.m3u8",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVDerana.lk",
-      "feed": "SD",
-      "site": "derana.lk",
-      "site_id": "#",
-      "site_name": "TV Derana",
-      "lang": "sn"
-    },
-    "website": "http://www.derana.lk/",
-    "launched": "2005-10-11",
     "closed": null
   },
   {
