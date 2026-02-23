@@ -14732,6 +14732,42 @@
     "closed": null
   },
   {
+    "id": "JayaPlus.in",
+    "name": "Jaya Plus",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sukhbir Singh Badal & Family"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture",
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143227_ld_h15_aa.png",
+    "stream_url": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "JayaPlus.in",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "67068",
+      "site_name": "Jaya Plus",
+      "lang": "en"
+    },
+    "website": "http://jayaplus.jayanewslive.com/Landing.aspx",
+    "launched": "1999-08-22",
+    "closed": null
+  },
+  {
     "id": "JayaTV.in",
     "name": "Jaya TV",
     "alt_names": [],
@@ -23198,39 +23234,6 @@
       "site": "tataplay.com",
       "site_id": "1284",
       "site_name": "Sana Plus TV",
-      "lang": "en"
-    },
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SanaTV.in",
-    "name": "Sana TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/CR7DGBv.png",
-    "stream_url": "https://galaxyott.live/hls/sanatv.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SanaTV.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "1805",
-      "site_name": "Sana Tv",
       "lang": "en"
     },
     "website": null,
