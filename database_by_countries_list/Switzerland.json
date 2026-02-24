@@ -716,6 +716,41 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/6ijbSTr.png",
+    "stream_url": "http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "LemanBleu.ch",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "244",
+      "site_name": "Léman Bleu Télévision",
+      "lang": "fr"
+    },
+    "website": "https://www.lemanbleu.ch/fr/Direct/Direct.html",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "LemanBleu.ch",
+    "name": "Leman Bleu",
+    "alt_names": [
+      "Léman Bleu"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "CH",
+    "country_name": "Switzerland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/6ijbSTr.png",
     "stream_url": "https://viamotionhsi.netplus.ch/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -753,41 +788,6 @@
     "logo": "https://i.imgur.com/6ijbSTr.png",
     "stream_url": "https://viamotionhsi.netplus.ch/live/eds/lemanbleu/browser-dash/lemanbleu.mpd",
     "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "LemanBleu.ch",
-      "feed": "SD",
-      "site": "tv.blue.ch",
-      "site_id": "244",
-      "site_name": "Léman Bleu Télévision",
-      "lang": "fr"
-    },
-    "website": "https://www.lemanbleu.ch/fr/Direct/Direct.html",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "LemanBleu.ch",
-    "name": "Leman Bleu",
-    "alt_names": [
-      "Léman Bleu"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "CH",
-    "country_name": "Switzerland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/6ijbSTr.png",
-    "stream_url": "http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

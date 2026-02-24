@@ -846,6 +846,41 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ciTJrnl.png",
+    "stream_url": "https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ZooMoo.sg",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000063",
+      "site_name": "Zoo Moo",
+      "lang": "id"
+    },
+    "website": "https://www.zoomoo.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ZooMoo.sg",
+    "name": "ZooMoo",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Rock Entertainment Holdings"
+    ],
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ciTJrnl.png",
     "stream_url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -882,41 +917,6 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ciTJrnl.png",
     "stream_url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ZooMoo.sg",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000063",
-      "site_name": "Zoo Moo",
-      "lang": "id"
-    },
-    "website": "https://www.zoomoo.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ZooMoo.sg",
-    "name": "ZooMoo",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Rock Entertainment Holdings"
-    ],
-    "country_code": "SG",
-    "country_name": "Singapore",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ciTJrnl.png",
-    "stream_url": "https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

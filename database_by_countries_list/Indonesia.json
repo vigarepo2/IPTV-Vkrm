@@ -230,6 +230,34 @@
     "closed": null
   },
   {
+    "id": "AstroBlitarTV.id",
+    "name": "Astro Blitar TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Kementerian Komunikasi dan Informatika Republik Indonesia"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/rORKbGw.png",
+    "stream_url": "https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://abtelevisi.com/",
+    "tv_guide": null,
+    "website": null,
+    "launched": "2016-11-16",
+    "closed": null
+  },
+  {
     "id": "AtambuaTV.id",
     "name": "Atambua TV",
     "alt_names": [],

@@ -1401,7 +1401,7 @@
     "stream_url": "https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "CarouselInternational.ru",
@@ -2736,7 +2736,7 @@
     "stream_url": "https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "DomashniyInternational.ru",
@@ -3339,7 +3339,7 @@
     "stream_url": "https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "FridayInternational.ru",
@@ -4427,6 +4427,43 @@
     "closed": null
   },
   {
+    "id": "MatchPlaneta.ru",
+    "name": "Match! Planeta",
+    "alt_names": [
+      "Матч! Планета"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/vhyMb9D.png",
+    "stream_url": "https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MatchPlaneta.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2121",
+      "site_name": "МАТЧ! Планета",
+      "lang": "ru"
+    },
+    "website": "https://matchtv.ru/",
+    "launched": "2016-01-25",
+    "closed": null
+  },
+  {
     "id": "MatchStrana.ru",
     "name": "Match! Strana",
     "alt_names": [
@@ -4705,6 +4742,43 @@
     "stream_quality": null,
     "stream_format": null,
     "user_agent": "WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Mir.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "717",
+      "site_name": "МИР",
+      "lang": "ru"
+    },
+    "website": "https://mirtv.ru/",
+    "launched": "1992-10-09",
+    "closed": null
+  },
+  {
+    "id": "Mir.ru",
+    "name": "Mir",
+    "alt_names": [
+      "Мир"
+    ],
+    "network": null,
+    "owners": [
+      "Commonwealth of Independent States"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/AqWaJT8.png",
+    "stream_url": "https://cdn4.skygo.mn/live/disk1/MIR/HLSv3-FTA/MIR.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "Mir.ru",
@@ -6575,7 +6649,7 @@
     "stream_url": "https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "PeretzInternational.ru",
@@ -6652,6 +6726,41 @@
     "tv_guide": null,
     "website": "https://republic-tv.ru/",
     "launched": "2014-05-27",
+    "closed": null
+  },
+  {
+    "id": "Pobeda.ru",
+    "name": "Pobeda",
+    "alt_names": [
+      "Победа"
+    ],
+    "network": null,
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/4KiYSln.png",
+    "stream_url": "https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Pobeda.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2487",
+      "site_name": "Победа",
+      "lang": "ru"
+    },
+    "website": "https://pobeda.tv/",
+    "launched": null,
     "closed": null
   },
   {
@@ -7326,7 +7435,7 @@
     "stream_url": "https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "RENTVInternational.ru",
@@ -18385,7 +18494,7 @@
     "stream_url": "https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "STSInternational.ru",
@@ -18461,7 +18570,7 @@
     "stream_url": "https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8",
     "stream_quality": "576i",
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "STSLove.ru",
@@ -18859,6 +18968,43 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/1H3h1HL.png",
+    "stream_url": "https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Telecafe.ru",
+      "feed": "SD",
+      "site": "tv2go.t-2.net",
+      "site_id": "1000456",
+      "site_name": "Telecafe",
+      "lang": "sl"
+    },
+    "website": "https://www.telecafe.ru/",
+    "launched": "2007-11-21",
+    "closed": null
+  },
+  {
+    "id": "Telecafe.ru",
+    "name": "Telecafe",
+    "alt_names": [
+      "Телекафе"
+    ],
+    "network": null,
+    "owners": [
+      "Digital telefamily"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "cooking"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/1H3h1HL.png",
     "stream_url": "http://31.148.48.15/Telekafe/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -19117,7 +19263,7 @@
     "stream_url": "https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "TNT4International.ru",
@@ -19265,7 +19411,7 @@
     "stream_url": "https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "TNTInternational.ru",
@@ -19580,6 +19726,42 @@
       "site": "tv.mail.ru",
       "site_id": "948",
       "site_name": "ТВ Центр",
+      "lang": "ru"
+    },
+    "website": "http://www.tvc.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVCentrInternational.ru",
+    "name": "TV Centr International",
+    "alt_names": [
+      "ТВ Центр International"
+    ],
+    "network": null,
+    "owners": [
+      "ТВ Центр International",
+      "ТВЦ"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/tsCOnBW.png",
+    "stream_url": "https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVCentrInternational.ru",
+      "feed": "SD",
+      "site": "tv.yandex.ru",
+      "site_id": "539",
+      "site_name": "ТВ Центр-International",
       "lang": "ru"
     },
     "website": "http://www.tvc.ru/",
@@ -20366,6 +20548,39 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Vremya.ru",
+    "name": "Vremya",
+    "alt_names": [
+      "Время"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/jZlj3ga.png",
+    "stream_url": "https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Vremya.ru",
+      "feed": "SD",
+      "site": "tv2go.t-2.net",
+      "site_id": "1000276",
+      "site_name": "Vremya",
+      "lang": "sl"
+    },
+    "website": "https://www.vremya.tv/",
     "launched": null,
     "closed": null
   },

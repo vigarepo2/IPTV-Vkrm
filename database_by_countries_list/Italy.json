@@ -4725,6 +4725,80 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png",
+    "stream_url": "https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Rai3.it",
+      "feed": "HD",
+      "site": "web.magentatv.de",
+      "site_id": "210",
+      "site_name": "Rai 3",
+      "lang": "de"
+    },
+    "website": "https://www.rai.it/rai3/",
+    "launched": "1979-12-15",
+    "closed": null
+  },
+  {
+    "id": "Rai3.it",
+    "name": "Rai 3",
+    "alt_names": [
+      "Rai Tre",
+      "Third Network",
+      "Rete 3"
+    ],
+    "network": null,
+    "owners": [
+      "Rai"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png",
+    "stream_url": "https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Rai3.it",
+      "feed": "HD",
+      "site": "web.magentatv.de",
+      "site_id": "210",
+      "site_name": "Rai 3",
+      "lang": "de"
+    },
+    "website": "https://www.rai.it/rai3/",
+    "launched": "1979-12-15",
+    "closed": null
+  },
+  {
+    "id": "Rai3.it",
+    "name": "Rai 3",
+    "alt_names": [
+      "Rai Tre",
+      "Third Network",
+      "Rete 3"
+    ],
+    "network": null,
+    "owners": [
+      "Rai"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png",
     "stream_url": "https://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -4875,80 +4949,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png",
     "stream_url": "http://stream.tvtap.net:8081/live/it-rai3.stream/playlist.m3u8",
     "stream_quality": "432p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Rai3.it",
-      "feed": "HD",
-      "site": "web.magentatv.de",
-      "site_id": "210",
-      "site_name": "Rai 3",
-      "lang": "de"
-    },
-    "website": "https://www.rai.it/rai3/",
-    "launched": "1979-12-15",
-    "closed": null
-  },
-  {
-    "id": "Rai3.it",
-    "name": "Rai 3",
-    "alt_names": [
-      "Rai Tre",
-      "Third Network",
-      "Rete 3"
-    ],
-    "network": null,
-    "owners": [
-      "Rai"
-    ],
-    "country_code": "IT",
-    "country_name": "Italy",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png",
-    "stream_url": "https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Rai3.it",
-      "feed": "HD",
-      "site": "web.magentatv.de",
-      "site_id": "210",
-      "site_name": "Rai 3",
-      "lang": "de"
-    },
-    "website": "https://www.rai.it/rai3/",
-    "launched": "1979-12-15",
-    "closed": null
-  },
-  {
-    "id": "Rai3.it",
-    "name": "Rai 3",
-    "alt_names": [
-      "Rai Tre",
-      "Third Network",
-      "Rete 3"
-    ],
-    "network": null,
-    "owners": [
-      "Rai"
-    ],
-    "country_code": "IT",
-    "country_name": "Italy",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png",
-    "stream_url": "https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8",
-    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

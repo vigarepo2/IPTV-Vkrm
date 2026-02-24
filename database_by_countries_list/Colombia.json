@@ -877,6 +877,43 @@
     "closed": null
   },
   {
+    "id": "CitytvBogota.co",
+    "name": "Citytv Bogota",
+    "alt_names": [
+      "Citytv Bogotá"
+    ],
+    "network": "Citytv",
+    "owners": [
+      "El Tiempo Casa Editorial"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/h7K9EW9.png",
+    "stream_url": "http://181.114.57.246:4000/play/u2H4dIJoRipgGI3A/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CitytvBogota.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "412",
+      "site_name": "City TV",
+      "lang": "es"
+    },
+    "website": "https://www.citytv.com.co/",
+    "launched": "1999-03-19",
+    "closed": null
+  },
+  {
     "id": "CMBTelevision.co",
     "name": "CMB Television",
     "alt_names": [
