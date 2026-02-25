@@ -4671,41 +4671,6 @@
     "closed": null
   },
   {
-    "id": "Rai2.it",
-    "name": "Rai 2",
-    "alt_names": [
-      "RAI Due"
-    ],
-    "network": null,
-    "owners": [
-      "Rai"
-    ],
-    "country_code": "IT",
-    "country_name": "Italy",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png",
-    "stream_url": "http://stream.tvtap.net:8081/live/it-rai2.stream/playlist.m3u8",
-    "stream_quality": "302p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Rai2.it",
-      "feed": "SD",
-      "site": "web.magentatv.de",
-      "site_id": "46",
-      "site_name": "Rai 2",
-      "lang": "de"
-    },
-    "website": "https://www.rai.it/rai2/",
-    "launched": "1961-11-04",
-    "closed": null
-  },
-  {
     "id": "Rai3.it",
     "name": "Rai 3",
     "alt_names": [
@@ -4799,80 +4764,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png",
-    "stream_url": "https://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Rai3.it",
-      "feed": "HD",
-      "site": "web.magentatv.de",
-      "site_id": "210",
-      "site_name": "Rai 3",
-      "lang": "de"
-    },
-    "website": "https://www.rai.it/rai3/",
-    "launched": "1979-12-15",
-    "closed": null
-  },
-  {
-    "id": "Rai3.it",
-    "name": "Rai 3",
-    "alt_names": [
-      "Rai Tre",
-      "Third Network",
-      "Rete 3"
-    ],
-    "network": null,
-    "owners": [
-      "Rai"
-    ],
-    "country_code": "IT",
-    "country_name": "Italy",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png",
-    "stream_url": "https://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Rai3.it",
-      "feed": "HD",
-      "site": "web.magentatv.de",
-      "site_id": "210",
-      "site_name": "Rai 3",
-      "lang": "de"
-    },
-    "website": "https://www.rai.it/rai3/",
-    "launched": "1979-12-15",
-    "closed": null
-  },
-  {
-    "id": "Rai3.it",
-    "name": "Rai 3",
-    "alt_names": [
-      "Rai Tre",
-      "Third Network",
-      "Rete 3"
-    ],
-    "network": null,
-    "owners": [
-      "Rai"
-    ],
-    "country_code": "IT",
-    "country_name": "Italy",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png",
     "stream_url": "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -4912,43 +4803,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png",
     "stream_url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709",
     "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Rai3.it",
-      "feed": "HD",
-      "site": "web.magentatv.de",
-      "site_id": "210",
-      "site_name": "Rai 3",
-      "lang": "de"
-    },
-    "website": "https://www.rai.it/rai3/",
-    "launched": "1979-12-15",
-    "closed": null
-  },
-  {
-    "id": "Rai3.it",
-    "name": "Rai 3",
-    "alt_names": [
-      "Rai Tre",
-      "Third Network",
-      "Rete 3"
-    ],
-    "network": null,
-    "owners": [
-      "Rai"
-    ],
-    "country_code": "IT",
-    "country_name": "Italy",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png",
-    "stream_url": "http://stream.tvtap.net:8081/live/it-rai3.stream/playlist.m3u8",
-    "stream_quality": "432p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -5015,39 +4869,6 @@
     "logo": "https://i.imgur.com/sEY21rg.png",
     "stream_url": "https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966",
     "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Rai4.it",
-      "feed": "SD",
-      "site": "tv.blue.ch",
-      "site_id": "330",
-      "site_name": "Rai 4",
-      "lang": "it"
-    },
-    "website": "https://www.rai.it/rai4/",
-    "launched": "2008-07-14",
-    "closed": null
-  },
-  {
-    "id": "Rai4.it",
-    "name": "Rai 4",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Rai"
-    ],
-    "country_code": "IT",
-    "country_name": "Italy",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/sEY21rg.png",
-    "stream_url": "http://stream.tvtap.net:8081/live/it-rai4.stream/playlist.m3u8",
-    "stream_quality": "302p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -5138,8 +4959,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/512px-Rai_5_-_Logo_2017.svg.png",
-    "stream_url": "http://stream.tvtap.net:8081/live/it-rai5.stream/playlist.m3u8",
-    "stream_quality": "302p",
+    "stream_url": "http://78.130.250.2:8023/play/a04o/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -5237,8 +5058,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/irAhPJM.png",
-    "stream_url": "http://188.60.179.180:8000/play/xxRaiGulpxx",
-    "stream_quality": "1080p",
+    "stream_url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -5270,8 +5091,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/irAhPJM.png",
-    "stream_url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953",
-    "stream_quality": "576p",
+    "stream_url": "http://78.130.250.2:8023/play/a04m/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -5285,39 +5106,6 @@
     },
     "website": "http://www.raigulp.rai.it/",
     "launched": "2007-06-01",
-    "closed": null
-  },
-  {
-    "id": "RaiItalia.it",
-    "name": "Rai Italia",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Rai"
-    ],
-    "country_code": "IT",
-    "country_name": "Italy",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/1nN4rEP.png",
-    "stream_url": "http://210.210.155.37/x6bnqe/s/s63/index2.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RaiItalia.it",
-      "feed": "Australia",
-      "site": "foxtel.com.au",
-      "site_id": "RAI-ITALIA/RAI",
-      "site_name": "RAI ITALIA",
-      "lang": "en"
-    },
-    "website": "http://www.raitalia.it/",
-    "launched": "1992-01-01",
     "closed": null
   },
   {
@@ -5470,11 +5258,10 @@
     "closed": null
   },
   {
-    "id": "RaiPremium.it",
-    "name": "Rai Premium",
+    "id": "RaiNews24.it",
+    "name": "Rai News 24",
     "alt_names": [
-      "Rai Sat Prem1um",
-      "Rai Sat Fiction"
+      "Rai News"
     ],
     "network": null,
     "owners": [
@@ -5484,25 +5271,27 @@
     "country_name": "Italy",
     "subdivision": null,
     "city": null,
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/40g5Urz.png",
-    "stream_url": "http://188.60.179.180:8000/play/a0oy",
+    "logo": "https://i.imgur.com/n2u57y3.png",
+    "stream_url": "http://78.130.250.2:8023/play/a04l/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
-      "channel": "RaiPremium.it",
+      "channel": "RaiNews24.it",
       "feed": "SD",
-      "site": "tv.blue.ch",
-      "site_id": "336",
-      "site_name": "Rai Premium",
-      "lang": "it"
+      "site": "tvtv.us",
+      "site_id": "78803",
+      "site_name": "Rai News 24",
+      "lang": "en"
     },
-    "website": "http://www.rai.it/raipremium/",
-    "launched": "2003-07-31",
+    "website": "https://www.rainews.it/",
+    "launched": "1999-04-26",
     "closed": null
   },
   {
@@ -5631,6 +5420,41 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png",
     "stream_url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RaiScuola.it",
+      "feed": "SD",
+      "site": "tv.sfr.fr",
+      "site_id": "789",
+      "site_name": "RAI SCUOLA",
+      "lang": "fr"
+    },
+    "website": "http://www.raiscuola.rai.it/",
+    "launched": "2009-10-19",
+    "closed": null
+  },
+  {
+    "id": "RaiScuola.it",
+    "name": "Rai Scuola",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Rai"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png",
+    "stream_url": "http://78.130.250.2:8023/play/a04h/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -5852,8 +5676,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/9gCxiDy.png",
-    "stream_url": "http://188.60.179.180:8000/play/xxRaiYoyo",
-    "stream_quality": "1080p",
+    "stream_url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -5890,8 +5714,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/9gCxiDy.png",
-    "stream_url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899",
-    "stream_quality": "576p",
+    "stream_url": "http://78.130.250.2:8023/play/a04d/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

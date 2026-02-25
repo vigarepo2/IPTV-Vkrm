@@ -7148,7 +7148,7 @@
   },
   {
     "id": "TV8.tr",
-    "name": "TV 8",
+    "name": "TV8",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -7156,7 +7156,9 @@
     "country_name": "Turkiye",
     "subdivision": null,
     "city": null,
-    "categories": [],
+    "categories": [
+      "general"
+    ],
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/300px-Tv8_Yeni_Logo.png",
@@ -7179,7 +7181,7 @@
   },
   {
     "id": "TV8.tr",
-    "name": "TV 8",
+    "name": "TV8",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -7187,7 +7189,9 @@
     "country_name": "Turkiye",
     "subdivision": null,
     "city": null,
-    "categories": [],
+    "categories": [
+      "general"
+    ],
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/300px-Tv8_Yeni_Logo.png",

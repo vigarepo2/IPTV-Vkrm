@@ -849,43 +849,6 @@
     "closed": null
   },
   {
-    "id": "JOABDTV.jp",
-    "name": "JOAB-DTV",
-    "alt_names": [
-      "NHK教育テレビジョン"
-    ],
-    "network": "NHK E",
-    "owners": [
-      "日本放送協会"
-    ],
-    "country_code": "JP",
-    "country_name": "Japan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "education"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/WxtftlO.png",
-    "stream_url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02",
-    "stream_quality": "544p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "JOABDTV.jp",
-      "feed": "SD",
-      "site": "tvguide.myjcom.jp",
-      "site_id": "2_1032_32737",
-      "site_name": "NHK東京　教育",
-      "lang": "ja"
-    },
-    "website": "https://www.nhk.or.jp/shutoken/",
-    "launched": "2003-12-01",
-    "closed": null
-  },
-  {
     "id": "JOAKDTV.jp",
     "name": "JOAK-DTV",
     "alt_names": [
@@ -1838,41 +1801,6 @@
     "closed": null
   },
   {
-    "id": "NHKBS.jp",
-    "name": "NHK BS",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Citizens of Japan"
-    ],
-    "country_code": "JP",
-    "country_name": "Japan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/t0uZcSR.png",
-    "stream_url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11",
-    "stream_quality": "544p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NHKBS.jp",
-      "feed": "SD",
-      "site": "tvguide.myjcom.jp",
-      "site_id": "3_101_4",
-      "site_name": "ＮＨＫ　ＢＳ",
-      "lang": "ja"
-    },
-    "website": "https://www.nhk.or.jp/",
-    "launched": "1984-05-12",
-    "closed": null
-  },
-  {
     "id": "NHKBSP4K.jp",
     "name": "NHK BSP4K",
     "alt_names": [],
@@ -2702,41 +2630,6 @@
     "logo": "https://i.imgur.com/jPAYT5F.png",
     "stream_url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20",
     "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "WOWOWLive.jp",
-      "feed": "SD",
-      "site": "tvguide.myjcom.jp",
-      "site_id": "3_192_4",
-      "site_name": "ＷＯＷＯＷライブ",
-      "lang": "ja"
-    },
-    "website": "http://www.wowow.co.jp/live_ch/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "WOWOWLive.jp",
-    "name": "WOWOW Live",
-    "alt_names": [
-      "WOWOWライブ"
-    ],
-    "network": null,
-    "owners": [
-      "WOWOW INC"
-    ],
-    "country_code": "JP",
-    "country_name": "Japan",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/jPAYT5F.png",
-    "stream_url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20",
-    "stream_quality": "544p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
