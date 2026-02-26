@@ -288,6 +288,43 @@
     "closed": null
   },
   {
+    "id": "KidZoneMax.ee",
+    "name": "KidZone Max",
+    "alt_names": [
+      "KidZone TV"
+    ],
+    "network": null,
+    "owners": [
+      "Duo Media Networks"
+    ],
+    "country_code": "EE",
+    "country_name": "Estonia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/qJSvxE2.png",
+    "stream_url": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://kidzonemax.lt",
+    "tv_guide": {
+      "channel": "KidZoneMax.ee",
+      "feed": "SD",
+      "site": "teliatv.ee",
+      "site_id": "ru#1086",
+      "site_name": "Kidzone Max",
+      "lang": "ru"
+    },
+    "website": "https://kidzonetv.ee/",
+    "launched": "2013-06-13",
+    "closed": null
+  },
+  {
     "id": "LifeTV.ee",
     "name": "Life TV",
     "alt_names": [],
