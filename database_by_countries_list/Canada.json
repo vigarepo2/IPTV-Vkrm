@@ -3040,41 +3040,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png",
-    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66df8a29b25d2b0008fc5fe0/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=9c47d595-65b3-4eb7-898a-b26f4ac54311",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "LoveNature.ca",
-      "feed": "SD",
-      "site": "ziggogo.tv",
-      "site_id": "NL_000191_019261",
-      "site_name": "Love Nature",
-      "lang": "nl"
-    },
-    "website": "https://tv.lovenature.com/",
-    "launched": "2006-03-12",
-    "closed": null
-  },
-  {
-    "id": "LoveNature.ca",
-    "name": "Love Nature",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Blue Ant Media"
-    ],
-    "country_code": "CA",
-    "country_name": "Canada",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "outdoor"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png",
     "stream_url": "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -3832,6 +3797,39 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
+    "tv_guide": {
+      "channel": "StingrayClassica.ca",
+      "feed": "SD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000129_020044",
+      "site_name": "Stingray Classica",
+      "lang": "nl"
+    },
+    "website": "https://classica.stingray.com/",
+    "launched": "1995-01-01",
+    "closed": null
+  },
+  {
+    "id": "StingrayClassica.ca",
+    "name": "Stingray Classica",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nh1k5RC.png",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
     "tv_guide": {
       "channel": "StingrayClassica.ca",
       "feed": "SD",

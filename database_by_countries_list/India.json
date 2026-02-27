@@ -26930,41 +26930,6 @@
     "closed": null
   },
   {
-    "id": "SunTV.in",
-    "name": "Sun TV",
-    "alt_names": [],
-    "network": "Sun",
-    "owners": [
-      "Sun TV Network"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s158021_ld_h15_aa.png",
-    "stream_url": "http://103.229.254.25:7001/play/a06x/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SunTV.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "521",
-      "site_name": "Sun TV HD",
-      "lang": "en"
-    },
-    "website": "http://www.sun.in/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "SuriyanTV.in",
     "name": "Suriyan TV",
     "alt_names": [],

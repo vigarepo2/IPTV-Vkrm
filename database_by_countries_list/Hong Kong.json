@@ -473,6 +473,44 @@
     "closed": null
   },
   {
+    "id": "PhoenixInfoNewsChannel.hk",
+    "name": "Phoenix InfoNews Channel",
+    "alt_names": [
+      "鳳凰衛視資訊台",
+      "凤凰资讯"
+    ],
+    "network": null,
+    "owners": [
+      "Phoenix Television"
+    ],
+    "country_code": "HK",
+    "country_name": "Hong Kong",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/mt4h3VO.png",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/s/s23/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "PhoenixInfoNewsChannel.hk",
+      "feed": "SD",
+      "site": "tv.sfr.fr",
+      "site_id": "369",
+      "site_name": "Phoenix Infonews",
+      "lang": "fr"
+    },
+    "website": "http://phtv.ifeng.com/phoenixinfonews/",
+    "launched": "2001-01-01",
+    "closed": null
+  },
+  {
     "id": "RTHKTV31.hk",
     "name": "RTHK TV 31",
     "alt_names": [
@@ -680,41 +718,6 @@
     },
     "website": "https://www.rthk.hk/",
     "launched": "2022-07-01",
-    "closed": null
-  },
-  {
-    "id": "tvNMoviesAsia.hk",
-    "name": "tvN Movies Asia",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "CJ E&M"
-    ],
-    "country_code": "HK",
-    "country_name": "Hong Kong",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/c4XvwO2.png",
-    "stream_url": "http://210.210.155.37/dr9445/h/h21/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "tvNMoviesAsia.hk",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000046",
-      "site_name": "TVN Movies",
-      "lang": "id"
-    },
-    "website": "https://tvnmovies.net/",
-    "launched": null,
     "closed": null
   }
 ]

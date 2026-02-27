@@ -1474,41 +1474,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png",
-    "stream_url": "https://dash4.antik.sk/live/test_cgtn/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CGTN.cn",
-      "feed": "SD",
-      "site": "webtv.delta.nl",
-      "site_id": "3125",
-      "site_name": "CGTN",
-      "lang": "en"
-    },
-    "website": "https://www.cgtn.com/tv",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "CGTN.cn",
-    "name": "CGTN",
-    "alt_names": [],
-    "network": "China Global Television Network",
-    "owners": [
-      "China Media Group"
-    ],
-    "country_code": "CN",
-    "country_name": "China",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png",
     "stream_url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -1562,11 +1527,9 @@
     "closed": null
   },
   {
-    "id": "CGTNArabic.cn",
-    "name": "CGTN Arabic",
-    "alt_names": [
-      "CGTN العربية"
-    ],
+    "id": "CGTN.cn",
+    "name": "CGTN",
+    "alt_names": [],
     "network": "China Global Television Network",
     "owners": [
       "China Media Group"
@@ -1580,22 +1543,22 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/AkFFrS7.png",
-    "stream_url": "https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png",
+    "stream_url": "https://dash4.antik.sk/live/test_cgtn/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
-      "channel": "CGTNArabic.cn",
+      "channel": "CGTN.cn",
       "feed": "SD",
-      "site": "sat.tv",
-      "site_id": "1#33#CGTN Arabic",
-      "site_name": "CGTN Arabic",
+      "site": "webtv.delta.nl",
+      "site_id": "3125",
+      "site_name": "CGTN",
       "lang": "en"
     },
-    "website": "https://arabic.cgtn.com/",
-    "launched": "2009-07-25",
+    "website": "https://www.cgtn.com/tv",
+    "launched": null,
     "closed": null
   },
   {
@@ -1673,9 +1636,11 @@
     "closed": null
   },
   {
-    "id": "CGTNDocumentary.cn",
-    "name": "CGTN Documentary",
-    "alt_names": [],
+    "id": "CGTNArabic.cn",
+    "name": "CGTN Arabic",
+    "alt_names": [
+      "CGTN العربية"
+    ],
     "network": "China Global Television Network",
     "owners": [
       "China Media Group"
@@ -1685,26 +1650,26 @@
     "subdivision": null,
     "city": null,
     "categories": [
-      "documentary"
+      "news"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/JHv0WxM.png",
-    "stream_url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
-    "stream_quality": "1080p",
+    "logo": "https://i.imgur.com/AkFFrS7.png",
+    "stream_url": "https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
-      "channel": "CGTNDocumentary.cn",
+      "channel": "CGTNArabic.cn",
       "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000155",
-      "site_name": "CGTN Documentary",
-      "lang": "id"
+      "site": "sat.tv",
+      "site_id": "1#33#CGTN Arabic",
+      "site_name": "CGTN Arabic",
+      "lang": "en"
     },
-    "website": "https://www.cgtn.com/channel/documentary",
-    "launched": "2011-01-01",
+    "website": "https://arabic.cgtn.com/",
+    "launched": "2009-07-25",
     "closed": null
   },
   {
@@ -1725,8 +1690,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/JHv0WxM.png",
-    "stream_url": "https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8",
-    "stream_quality": null,
+    "stream_url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1813,11 +1778,9 @@
     "closed": null
   },
   {
-    "id": "CGTNFrench.cn",
-    "name": "CGTN French",
-    "alt_names": [
-      "CGTN Français"
-    ],
+    "id": "CGTNDocumentary.cn",
+    "name": "CGTN Documentary",
+    "alt_names": [],
     "network": "China Global Television Network",
     "owners": [
       "China Media Group"
@@ -1827,26 +1790,26 @@
     "subdivision": null,
     "city": null,
     "categories": [
-      "news"
+      "documentary"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/BwhledK.png",
-    "stream_url": "https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8",
+    "logo": "https://i.imgur.com/JHv0WxM.png",
+    "stream_url": "https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
-      "channel": "CGTNFrench.cn",
+      "channel": "CGTNDocumentary.cn",
       "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "774",
-      "site_name": "CGTN-Français",
-      "lang": "fr"
+      "site": "visionplus.id",
+      "site_id": "00000000000000000155",
+      "site_name": "CGTN Documentary",
+      "lang": "id"
     },
-    "website": "https://francais.cgtn.com/",
-    "launched": null,
+    "website": "https://www.cgtn.com/channel/documentary",
+    "launched": "2011-01-01",
     "closed": null
   },
   {
@@ -1961,10 +1924,10 @@
     "closed": null
   },
   {
-    "id": "CGTNRussian.cn",
-    "name": "CGTN Russian",
+    "id": "CGTNFrench.cn",
+    "name": "CGTN French",
     "alt_names": [
-      "CGTN Pусский"
+      "CGTN Français"
     ],
     "network": "China Global Television Network",
     "owners": [
@@ -1979,21 +1942,21 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/nDWkCmL.png",
-    "stream_url": "https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8",
+    "logo": "https://i.imgur.com/BwhledK.png",
+    "stream_url": "https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
-      "channel": "CGTNRussian.cn",
+      "channel": "CGTNFrench.cn",
       "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "1528",
-      "site_name": "CGTN Русский",
-      "lang": "ru"
+      "site": "tv.sfr.fr",
+      "site_id": "774",
+      "site_name": "CGTN-Français",
+      "lang": "fr"
     },
-    "website": "https://russian.cgtn.com/",
+    "website": "https://francais.cgtn.com/",
     "launched": null,
     "closed": null
   },
@@ -2072,10 +2035,10 @@
     "closed": null
   },
   {
-    "id": "CGTNSpanish.cn",
-    "name": "CGTN Spanish",
+    "id": "CGTNRussian.cn",
+    "name": "CGTN Russian",
     "alt_names": [
-      "CGTN Español"
+      "CGTN Pусский"
     ],
     "network": "China Global Television Network",
     "owners": [
@@ -2090,21 +2053,21 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Poz3xfi.png",
-    "stream_url": "https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8",
+    "logo": "https://i.imgur.com/nDWkCmL.png",
+    "stream_url": "https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
-      "channel": "CGTNSpanish.cn",
+      "channel": "CGTNRussian.cn",
       "feed": "SD",
-      "site": "programacion.tcc.com.uy",
-      "site_id": "296",
-      "site_name": "CGTN Español HD",
-      "lang": "es"
+      "site": "tv.mail.ru",
+      "site_id": "1528",
+      "site_name": "CGTN Русский",
+      "lang": "ru"
     },
-    "website": "https://espanol.cgtn.com/",
+    "website": "https://russian.cgtn.com/",
     "launched": null,
     "closed": null
   },
@@ -2204,6 +2167,43 @@
     "logo": "https://i.imgur.com/Poz3xfi.png",
     "stream_url": "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CGTNSpanish.cn",
+      "feed": "SD",
+      "site": "programacion.tcc.com.uy",
+      "site_id": "296",
+      "site_name": "CGTN Español HD",
+      "lang": "es"
+    },
+    "website": "https://espanol.cgtn.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CGTNSpanish.cn",
+    "name": "CGTN Spanish",
+    "alt_names": [
+      "CGTN Español"
+    ],
+    "network": "China Global Television Network",
+    "owners": [
+      "China Media Group"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Poz3xfi.png",
+    "stream_url": "https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -2668,11 +2668,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/WqM6xnF.png",
-    "stream_url": "http://210.210.155.37/x6bnqe/s/s29/index.m3u8",
-    "stream_quality": "360p",
+    "stream_url": "https://op-group1-swiftservesd-1.dens.tv/s/s29/index.m3u8",
+    "stream_quality": "480p",
     "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
     "tv_guide": {
       "channel": "DragonTVInternational.cn",
       "feed": "SD",

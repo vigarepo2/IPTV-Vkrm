@@ -7545,6 +7545,41 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h226/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "RT.ru",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000150",
+      "site_name": "RT",
+      "lang": "id"
+    },
+    "website": "https://www.rt.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RT.ru",
+    "name": "RT",
+    "alt_names": [
+      "Russia Today"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png",
     "stream_url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,

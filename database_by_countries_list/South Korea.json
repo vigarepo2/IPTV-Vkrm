@@ -2853,42 +2853,6 @@
     "closed": null
   },
   {
-    "id": "tvN.kr",
-    "name": "tvN",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "CJ E&M"
-    ],
-    "country_code": "KR",
-    "country_name": "South Korea",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment",
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png",
-    "stream_url": "http://210.210.155.37/dr9445/h/h20/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "tvN.kr",
-      "feed": "SD",
-      "site": "m.tving.com",
-      "site_id": "C00551",
-      "site_name": "tvN",
-      "lang": "ko"
-    },
-    "website": "http://tvn.tving.com/tvn/",
-    "launched": "2006-10-09",
-    "closed": null
-  },
-  {
     "id": "WBSTV.kr",
     "name": "WBS TV",
     "alt_names": [

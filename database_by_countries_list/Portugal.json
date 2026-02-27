@@ -820,6 +820,41 @@
     "closed": null
   },
   {
+    "id": "RTPInternacional.pt",
+    "name": "RTP Internacional",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Rádio e Televisão de Portugal"
+    ],
+    "country_code": "PT",
+    "country_name": "Portugal",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/s/s38/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "RTPInternacional.pt",
+      "feed": "SD",
+      "site": "zap.co.ao",
+      "site_id": "2262",
+      "site_name": "RTP Internacional",
+      "lang": "pt"
+    },
+    "website": "http://www.rtp.pt/rtpinternacional",
+    "launched": "1992-06-10",
+    "closed": null
+  },
+  {
     "id": "RTPMadeira.pt",
     "name": "RTP Madeira",
     "alt_names": [],

@@ -1645,43 +1645,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/TG1T5Oh.png",
-    "stream_url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MilenioTelevision.mx",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "mx#milenio-tv",
-      "site_name": "Milenio TV",
-      "lang": "es"
-    },
-    "website": "https://www.milenio.com/mileniotv",
-    "launched": "2008-08-20",
-    "closed": null
-  },
-  {
-    "id": "MilenioTelevision.mx",
-    "name": "Milenio Television",
-    "alt_names": [
-      "Milenio Televisión"
-    ],
-    "network": null,
-    "owners": [
-      "Grupo Multimedios"
-    ],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/TG1T5Oh.png",
     "stream_url": "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -1752,34 +1715,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.multimedios.com/video/bajio-tv-en-vivo/v17351",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "MultimediosCDMX.mx",
-    "name": "Multimedios CDMX",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Grupo Multimedios"
-    ],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/4IGzNdq.png",
-    "stream_url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.multimedios.com/television",
     "launched": null,
     "closed": null
   },

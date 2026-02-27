@@ -2189,41 +2189,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png",
-    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca1da6c593a5d78f0e7edce/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=b88a96bf-b261-45e4-9b3a-329e701280b1",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "EuronewsEnglish.fr",
-      "feed": "SD",
-      "site": "ziggogo.tv",
-      "site_id": "NL_000117_019351",
-      "site_name": "Euronews",
-      "lang": "en"
-    },
-    "website": "https://www.euronews.com/",
-    "launched": "1993-01-01",
-    "closed": null
-  },
-  {
-    "id": "EuronewsEnglish.fr",
-    "name": "Euronews English",
-    "alt_names": [],
-    "network": "Euronews",
-    "owners": [
-      "Euronews SA"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png",
     "stream_url": "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -2384,82 +2349,6 @@
       "lang": "en"
     },
     "website": "https://fr.euronews.com/",
-    "launched": "1993-01-01",
-    "closed": null
-  },
-  {
-    "id": "EuronewsGerman.fr",
-    "name": "Euronews German",
-    "alt_names": [
-      "Euronews Deutsch",
-      " Euronews GE"
-    ],
-    "network": "Euronews",
-    "owners": [
-      "Euronews SA"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/8t9mdg9.png",
-    "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6639d7d4b18d700008da5316/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d8ac5-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0d21e0b-3cc9-4c67-81b6-e33e50a7d888",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "EuronewsGerman.fr",
-      "feed": "SD",
-      "site": "web.magentatv.de",
-      "site_id": "482",
-      "site_name": "Euronews Deutsch",
-      "lang": "de"
-    },
-    "website": "https://de.euronews.com/",
-    "launched": "1993-01-01",
-    "closed": null
-  },
-  {
-    "id": "EuronewsGerman.fr",
-    "name": "Euronews German",
-    "alt_names": [
-      "Euronews Deutsch",
-      " Euronews GE"
-    ],
-    "network": "Euronews",
-    "owners": [
-      "Euronews SA"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/8t9mdg9.png",
-    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6639d7d4b18d700008da5316/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=4222d24a-9969-4795-bd9a-859590453570",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "EuronewsGerman.fr",
-      "feed": "SD",
-      "site": "web.magentatv.de",
-      "site_id": "482",
-      "site_name": "Euronews Deutsch",
-      "lang": "de"
-    },
-    "website": "https://de.euronews.com/",
     "launched": "1993-01-01",
     "closed": null
   },
@@ -3668,8 +3557,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png",
-    "stream_url": "https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8",
-    "stream_quality": null,
+    "stream_url": "https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -3703,8 +3592,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png",
-    "stream_url": "https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -3774,41 +3663,6 @@
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png",
     "stream_url": "https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "France24.fr",
-      "feed": "French",
-      "site": "zap.co.ao",
-      "site_id": "2132",
-      "site_name": "France 24 Fr",
-      "lang": "pt"
-    },
-    "website": "https://www.france24.com/",
-    "launched": "2006-12-06",
-    "closed": null
-  },
-  {
-    "id": "France24.fr",
-    "name": "France 24",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "France Medias Monde"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png",
-    "stream_url": "https://dash4.antik.sk/live/test_france24_france/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -4090,6 +3944,41 @@
     "logo": "https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png",
     "stream_url": "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8",
     "stream_quality": "360p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "France24.fr",
+      "feed": "French",
+      "site": "zap.co.ao",
+      "site_id": "2132",
+      "site_name": "France 24 Fr",
+      "lang": "pt"
+    },
+    "website": "https://www.france24.com/",
+    "launched": "2006-12-06",
+    "closed": null
+  },
+  {
+    "id": "France24.fr",
+    "name": "France 24",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "France Medias Monde"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png",
+    "stream_url": "https://dash4.antik.sk/live/test_france24_france/playlist.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -5170,41 +5059,6 @@
     "closed": null
   },
   {
-    "id": "LCI.fr",
-    "name": "LCI",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "TF1 Group"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/DED8EXs.png",
-    "stream_url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "LCI.fr",
-      "feed": "SD",
-      "site": "zap.co.ao",
-      "site_id": "2321",
-      "site_name": "LCI",
-      "lang": "pt"
-    },
-    "website": "https://www.lci.fr/",
-    "launched": "1994-06-24",
-    "closed": null
-  },
-  {
     "id": "LCP.fr",
     "name": "LCP",
     "alt_names": [
@@ -6115,43 +5969,6 @@
     "closed": null
   },
   {
-    "id": "NickelodeonTeen.fr",
-    "name": "Nickelodeon Teen",
-    "alt_names": [
-      "Nickelodéon Teen"
-    ],
-    "network": "Nickelodeon",
-    "owners": [
-      "Paramount Networks EMEAA"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/OWRUPA4.png",
-    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f0d668b872e4400073acc68/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=4685dc00-4dac-4e55-8d62-ba7cb9384538",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NickelodeonTeen.fr",
-      "feed": "SD",
-      "site": "tvcesoir.fr",
-      "site_id": "78525270/nickelodeon-teen",
-      "site_name": "Nickelodéon Teen",
-      "lang": "fr"
-    },
-    "website": "http://www.nickelodeon.fr/",
-    "launched": "2014-11-19",
-    "closed": null
-  },
-  {
     "id": "NOVO19.fr",
     "name": "NOVO19",
     "alt_names": [],
@@ -6570,7 +6387,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": null,
+    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-medical-fr.png",
     "stream_url": "https://phd2hls.persiana.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -6598,7 +6415,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": null,
+    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-medical-fr.png",
     "stream_url": "https://tfnhls.wns.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -6879,7 +6696,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": null,
+    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-travel-fr.png",
     "stream_url": "https://ptravelhls.persiana.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -6907,7 +6724,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": null,
+    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-travel-fr.png",
     "stream_url": "https://mardomhls.wns.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -7099,6 +6916,39 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
+    "tv_guide": {
+      "channel": "QwestTV.fr",
+      "feed": "SD",
+      "site": "orangetv.orange.es",
+      "site_id": "1088",
+      "site_name": "Qwest TV",
+      "lang": "es"
+    },
+    "website": "https://www.qwest.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "QwestTV.fr",
+    "name": "Qwest TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/DjgNNHK.png",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h153/index2.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
     "tv_guide": {
       "channel": "QwestTV.fr",
       "feed": "SD",
@@ -9203,6 +9053,39 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
+    "tv_guide": {
+      "channel": "TV5MondeAsia.fr",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000163",
+      "site_name": "TV5Monde",
+      "lang": "id"
+    },
+    "website": "https://apac.tv5monde.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TV5MondeAsia.fr",
+    "name": "TV5Monde Asia",
+    "alt_names": [
+      "TV5Monde Asie"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/FRsRXRR.png",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h121/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
     "tv_guide": {
       "channel": "TV5MondeAsia.fr",
       "feed": "SD",

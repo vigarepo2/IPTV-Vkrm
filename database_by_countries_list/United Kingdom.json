@@ -686,41 +686,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/nGSsUd4.png",
-    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=87cf6f0d-5532-4d42-917b-8bd7d91fa9e6",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BBCEarth.uk",
-      "feed": "Asia",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000102",
-      "site_name": "BBC Earth",
-      "lang": "id"
-    },
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BBCEarth.uk",
-    "name": "BBC Earth",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "BBC Studios"
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/nGSsUd4.png",
     "stream_url": "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -1313,41 +1278,6 @@
     "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png",
     "stream_url": "https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BBCNews.uk",
-      "feed": "Africa",
-      "site": "ziggogo.tv",
-      "site_id": "NL_000116_019005",
-      "site_name": "BBC News",
-      "lang": "en"
-    },
-    "website": "https://www.bbc.co.uk/tv/bbcnews",
-    "launched": "1997-11-09",
-    "closed": null
-  },
-  {
-    "id": "BBCNews.uk",
-    "name": "BBC News",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "BBC Studios"
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png",
-    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=42d33420-ef8b-4af9-a6f6-30956f3765df",
-    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -7461,34 +7391,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",
-    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d91d2560bc8f0008a225e4/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=f88c4881-c244-43e3-8c4a-727505ef8151",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.plus.fifa.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "FIFAPlus.uk",
-    "name": "FIFA+",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "FIFA"
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",
     "stream_url": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -10173,41 +10075,6 @@
     "closed": null
   },
   {
-    "id": "Now90s00s.uk",
-    "name": "Now 90s00s",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Universal Music Group N.V."
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": null,
-    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/660c209e19ca71000846cf38/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=2b7ef17b-ed5f-4866-bf93-61d36d50a301",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Now90s00s.uk",
-      "feed": "Poland",
-      "site": "sky.com",
-      "site_id": "1103",
-      "site_name": "NOW 90s & 00s",
-      "lang": "en"
-    },
-    "website": "https://www.nowmusic.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "NOWRock.uk",
     "name": "NOW Rock",
     "alt_names": [
@@ -10360,48 +10227,6 @@
     "logo": "https://i.imgur.com/GuM4GnX.png",
     "stream_url": "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NOWRock.uk",
-      "feed": "SD",
-      "site": "virgintvgo.virginmedia.com",
-      "site_id": "2030",
-      "site_name": "NOW ROCK",
-      "lang": "en"
-    },
-    "website": "https://www.nowmusic.com/",
-    "launched": "2010-11-23",
-    "closed": null
-  },
-  {
-    "id": "NOWRock.uk",
-    "name": "NOW Rock",
-    "alt_names": [
-      "NOW 90s",
-      "Chilled 90s",
-      "Chilled TV",
-      "Planet Pop",
-      "Massive R&B",
-      "WTF"
-    ],
-    "network": null,
-    "owners": [
-      "Universal Music Group N.V."
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/GuM4GnX.png",
-    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6568a78d635c3c0008765f41/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=235852f5-79c0-4f3b-a4b0-50be6b509bd9",
-    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -10722,39 +10547,6 @@
     "website": "https://www.qvcuk.com/",
     "launched": null,
     "closed": null
-  },
-  {
-    "id": "RugbyPassTV.uk",
-    "name": "RugbyPass TV",
-    "alt_names": [
-      "Setanta Sports"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": null,
-    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66f137cb483d460008ece053/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=d4f92c58-faad-4b78-b8ec-ed4b48a8b450",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RugbyPassTV.uk",
-      "feed": "SD",
-      "site": "nowplayer.now.com",
-      "site_id": "679",
-      "site_name": "Premier Sports",
-      "lang": "zh"
-    },
-    "website": null,
-    "launched": null,
-    "closed": "2021-07-31"
   },
   {
     "id": "S4C.uk",
@@ -11179,32 +10971,6 @@
     "closed": null
   },
   {
-    "id": "Teletubbies.uk",
-    "name": "Teletubbies",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/J9iWjWL.png",
-    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66a10eeb46762a0008201e85/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=58555189-e4ef-4233-8389-40c64cae6693",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Thats70s.uk",
     "name": "That's 70s",
     "alt_names": [
@@ -11573,87 +11339,6 @@
     "closed": null
   },
   {
-    "id": "TopGear.uk",
-    "name": "Top Gear",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment",
-      "auto"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/S6Su6QH.png",
-    "stream_url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c109a4798def0008a6e03e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://pluto.tv/it/live-tv/64c109a4798def0008a6e03e",
-    "tv_guide": null,
-    "website": "https://www.topgear.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TopGear.uk",
-    "name": "Top Gear",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment",
-      "auto"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/S6Su6QH.png",
-    "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c109735dc1660008a4a2dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b215b51-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=55fb26fd-5dba-40cd-a0b1-8de7d0f78acb",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.topgear.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TopGear.uk",
-    "name": "Top Gear",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment",
-      "auto"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/S6Su6QH.png",
-    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/636adc255bcf470007d6e0e2/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=dd1de15f-4f66-4352-a770-d11197d566da",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.topgear.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Totalmusic80s.uk",
     "name": "Totalmusic 80s",
     "alt_names": [],
@@ -11815,42 +11500,6 @@
     "website": "https://trace.company/activities/television/trace-latina/",
     "launched": "2010-03-25",
     "closed": "2020-06-01"
-  },
-  {
-    "id": "TrueCrime.uk",
-    "name": "True Crime",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "AMC Networks International",
-      "Paramount Networks UK & Australia"
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/LK2NFst.png",
-    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6304fb268bd95300072d2198/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=58898504-2d6e-47f9-81a8-37a5851b40bc",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TrueCrime.uk",
-      "feed": "SD",
-      "site": "sky.com",
-      "site_id": "3352",
-      "site_name": "TRUE CRIME",
-      "lang": "en"
-    },
-    "website": "https://www.truecrime-tv.co.uk/",
-    "launched": "2023-11-22",
-    "closed": null
   },
   {
     "id": "TVOne.uk",

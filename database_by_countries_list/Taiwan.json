@@ -58,36 +58,6 @@
     "closed": null
   },
   {
-    "id": "CTiNews.tw",
-    "name": "CTi News",
-    "alt_names": [
-      "中天新聞台"
-    ],
-    "network": null,
-    "owners": [
-      "China Times Media Group"
-    ],
-    "country_code": "TW",
-    "country_name": "Taiwan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/FZONZEr.png",
-    "stream_url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.ctitv.com.tw/",
-    "launched": "1994-09-01",
-    "closed": null
-  },
-  {
     "id": "CTiVariety.tw",
     "name": "CTi Variety",
     "alt_names": [
@@ -284,34 +254,6 @@
     "closed": null
   },
   {
-    "id": "ETMall60.tw",
-    "name": "ET Mall 60",
-    "alt_names": [
-      "東森購物60"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "TW",
-    "country_name": "Taiwan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "shop"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/nvm6dyH.png",
-    "stream_url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.etmall.com.tw/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "FTV.tw",
     "name": "FTV",
     "alt_names": [
@@ -398,62 +340,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.ftv.com.tw/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "GeniusGoGoGo.tw",
-    "name": "Genius Go Go Go",
-    "alt_names": [
-      "天才衝衝衝"
-    ],
-    "network": "CTS",
-    "owners": [],
-    "country_code": "TW",
-    "country_name": "Taiwan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": null,
-    "stream_url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.cts.com.tw/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "GlobalNews.tw",
-    "name": "Global News",
-    "alt_names": [
-      "寰宇新聞台"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "TW",
-    "country_name": "Taiwan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://yt3.googleusercontent.com/N017-8I-vc4i_gbztqHFzM9Bap8EWKmsfPBu0HBWM6O4zGX1HBFn5DdLuWcwQLlPQ7F4ej8Mlw=s512-c-k-c0x00ffffff-no-rj",
-    "stream_url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.asiadigital.com.tw/archives/category/globalnews",
     "launched": null,
     "closed": null
   },
@@ -632,39 +518,6 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/SfcZyqm.png",
     "stream_url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TaiwanPlusTV.tw",
-      "feed": "SD",
-      "site": "taiwanplus.com",
-      "site_id": "#",
-      "site_name": "TaiwanPlus TV",
-      "lang": "en"
-    },
-    "website": "https://www.taiwanplus.com",
-    "launched": "2021-08-30",
-    "closed": null
-  },
-  {
-    "id": "TaiwanPlusTV.tw",
-    "name": "Taiwan Plus TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Ministry of Culture of Taiwan"
-    ],
-    "country_code": "TW",
-    "country_name": "Taiwan",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/SfcZyqm.png",
-    "stream_url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

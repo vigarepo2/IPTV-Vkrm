@@ -426,7 +426,7 @@
       "lang": "id"
     },
     "website": "https://makkahlive.net/tvquran.aspx",
-    "launched": null,
+    "launched": "2009-12-17",
     "closed": null
   },
   {
@@ -1313,6 +1313,39 @@
       "lang": "fr"
     },
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MakkahTV.sa",
+    "name": "Makkah TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "SA",
+    "country_name": "Saudi Arabia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/PRPcOi0.png",
+    "stream_url": "https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "MakkahTV.sa",
+      "feed": "SD",
+      "site": "vidio.com",
+      "site_id": "6852",
+      "site_name": "Makkah TV",
+      "lang": "id"
+    },
+    "website": "https://makkahtv.tv/",
     "launched": null,
     "closed": null
   },

@@ -1201,45 +1201,6 @@
     "closed": null
   },
   {
-    "id": "CuriosityChannel.de",
-    "name": "Curiosity Channel",
-    "alt_names": [
-      "Curiosity Channel powered by Spiegel",
-      "Spiegel TV Wissen",
-      "Spiegel TV Digital"
-    ],
-    "network": null,
-    "owners": [
-      "Spiegel Geschichte"
-    ],
-    "country_code": "DE",
-    "country_name": "Germany",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "education"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Curiosity_Channel_Logo_2023.svg/512px-Curiosity_Channel_Logo_2023.svg.png",
-    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6576c20fb3801200084786c9/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=bdd2b620-2d3a-4671-b8c1-46814844c83a",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CuriosityChannel.de",
-      "feed": "SD",
-      "site": "web.magentatv.de",
-      "site_id": "186",
-      "site_name": "Curiosity Channel",
-      "lang": "de"
-    },
-    "website": "https://www.curiositychannel.tv/",
-    "launched": "2011-10-04",
-    "closed": null
-  },
-  {
     "id": "DASDING908.de",
     "name": "DASDING 90.8",
     "alt_names": [],
@@ -2043,8 +2004,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/NXeygNk.png",
-    "stream_url": "https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8",
-    "stream_quality": null,
+    "stream_url": "https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -2079,8 +2040,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/NXeygNk.png",
-    "stream_url": "https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -3320,8 +3281,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/512px-MDR_Logo_2017.svg.png",
-    "stream_url": "https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8",
-    "stream_quality": null,
+    "stream_url": "https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -3348,8 +3309,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/512px-MDR_Logo_2017.svg.png",
-    "stream_url": "https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -3418,6 +3379,43 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
+    "tv_guide": {
+      "channel": "Motorvision.de",
+      "feed": "SD",
+      "site": "zap.co.ao",
+      "site_id": "2357",
+      "site_name": "Motorvision",
+      "lang": "pt"
+    },
+    "website": "https://motorvision.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Motorvision.de",
+    "name": "Motorvision",
+    "alt_names": [
+      "Motorvision TV"
+    ],
+    "network": null,
+    "owners": [
+      "German Car TV Programm GmbH"
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "auto"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/v4kj8pI.png",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
     "tv_guide": {
       "channel": "Motorvision.de",
       "feed": "SD",
@@ -3539,41 +3537,6 @@
     },
     "website": "https://www.muenchen.tv/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "N24Doku.de",
-    "name": "N24 Doku",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "WeltN24 GmbH"
-    ],
-    "country_code": "DE",
-    "country_name": "Germany",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/512px-N24Doku.svg.png",
-    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=939c80f7-ac0d-49f7-8660-35ad0164a681",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "N24Doku.de",
-      "feed": "SD",
-      "site": "web.magentatv.de",
-      "site_id": "553",
-      "site_name": "N24 Doku",
-      "lang": "de"
-    },
-    "website": "https://www.welt.de/tv-programm-n24-doku/",
-    "launched": "2016-09-17",
     "closed": null
   },
   {
@@ -5544,11 +5507,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/zZOk3nh.png",
-    "stream_url": "https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "http://85.187.13.40:18000/ProSieben",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
+    "referrer": "http://85.187.13.40:18000/",
     "tv_guide": {
       "channel": "ProSieben.de",
       "feed": "SD",
@@ -5579,11 +5542,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/zZOk3nh.png",
-    "stream_url": "http://85.187.13.40:18000/ProSieben",
-    "stream_quality": "576p",
+    "stream_url": "https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": "http://85.187.13.40:18000/",
+    "referrer": null,
     "tv_guide": {
       "channel": "ProSieben.de",
       "feed": "SD",
@@ -7626,36 +7589,6 @@
     "closed": null
   },
   {
-    "id": "TerraMaterWILD.de",
-    "name": "Terra Mater WILD",
-    "alt_names": [],
-    "network": "Autentic",
-    "owners": [
-      "Terra Mater Studios GmbH",
-      "Autentic GmbH",
-      "Beta Film GmbH"
-    ],
-    "country_code": "DE",
-    "country_name": "Germany",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/terramaterwild_white.png",
-    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65b923f90cb1a100088a03ab/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=4c0122a6-be03-476e-9a24-27eec95741dc",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.autentic.com/117/Channels.htm#terra_mater",
-    "launched": "2023-11-15",
-    "closed": null
-  },
-  {
     "id": "TideTV.de",
     "name": "Tide TV",
     "alt_names": [],
@@ -8407,8 +8340,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png",
-    "stream_url": "https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8",
-    "stream_quality": null,
+    "stream_url": "https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -8442,8 +8375,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/512px-WDR_Fernsehen_Logo_2018.svg.png",
-    "stream_url": "https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

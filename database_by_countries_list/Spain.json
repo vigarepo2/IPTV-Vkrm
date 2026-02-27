@@ -7246,41 +7246,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/5pMo7dL.png",
-    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63dac28760bc8f0008a7654b/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8dcf690b-c170-4ce5-a52a-2e9b5721396e",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RealMadridTV.es",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "3600",
-      "site_name": "REAL MADRID TV",
-      "lang": "fr"
-    },
-    "website": "https://www.realmadrid.com/real-madrid-tv",
-    "launched": "1999-02-14",
-    "closed": null
-  },
-  {
-    "id": "RealMadridTV.es",
-    "name": "Real Madrid TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Real Madrid Club de Fútbol"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/5pMo7dL.png",
     "stream_url": "http://176.65.146.237:8401/play/a0ak/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -8975,6 +8940,39 @@
     "is_nsfw": false,
     "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
     "stream_url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVEInternacionalEuropeAsia.es",
+      "feed": "SD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000047_019428",
+      "site_name": "TVE",
+      "lang": "es"
+    },
+    "website": "https://www.rtve.es/television/tve-internacional/asia/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVEInternacionalEuropeAsia.es",
+    "name": "TVE Internacional Europe-Asia",
+    "alt_names": [],
+    "network": "TVE",
+    "owners": [
+      "RTVE"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
+    "stream_url": "https://siarlive.psce.pw/channel5",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

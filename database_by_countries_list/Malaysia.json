@@ -137,72 +137,6 @@
     "closed": null
   },
   {
-    "id": "CinemaWorld.my",
-    "name": "CinemaWorld",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "MY",
-    "country_name": "Malaysia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/D2qNVZ7.png",
-    "stream_url": "http://210.210.155.35/dr9445/h/h04/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CinemaWorld.my",
-      "feed": "SD",
-      "site": "playtv.unifi.com.my",
-      "site_id": "20000080",
-      "site_name": "CinemaWorld HD",
-      "lang": "en"
-    },
-    "website": "https://cinemaworld.asia/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "CinemaWorld.my",
-    "name": "CinemaWorld",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "MY",
-    "country_name": "Malaysia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/D2qNVZ7.png",
-    "stream_url": "http://210.210.155.37/dr9445/h/h04/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CinemaWorld.my",
-      "feed": "SD",
-      "site": "playtv.unifi.com.my",
-      "site_id": "20000080",
-      "site_name": "CinemaWorld HD",
-      "lang": "en"
-    },
-    "website": "https://cinemaworld.asia/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "DuniaSinema.my",
     "name": "Dunia Sinema",
     "alt_names": [],
@@ -234,34 +168,6 @@
     "website": "https://unifi.com.my/tv",
     "launched": null,
     "closed": null
-  },
-  {
-    "id": "eGGNetwork.my",
-    "name": "eGG Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Astro"
-    ],
-    "country_code": "MY",
-    "country_name": "Malaysia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/VyYo7NF.png",
-    "stream_url": "http://210.210.155.37/uq2663/h/h22/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.egg.network/",
-    "launched": "2016-06-07",
-    "closed": "2023-01-23"
   },
   {
     "id": "MaahTV.my",

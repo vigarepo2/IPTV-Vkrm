@@ -452,6 +452,44 @@
     "closed": null
   },
   {
+    "id": "BeritaSatu.id",
+    "name": "BeritaSatu",
+    "alt_names": [
+      "IDTV",
+      "Investor Daily TV",
+      "BeritaSatu World",
+      "Swara"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "business"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/6pycF7Vx/300px-IDTV.png",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "BeritaSatu.id",
+      "feed": "SD",
+      "site": "indihometv.com",
+      "site_id": "idtv",
+      "site_name": "Berita Satu",
+      "lang": "id"
+    },
+    "website": "https://investor.id/livestream",
+    "launched": "2023-10-24",
+    "closed": null
+  },
+  {
     "id": "BeritaSatuEnglish.id",
     "name": "BeritaSatu English",
     "alt_names": [],
@@ -643,6 +681,35 @@
     "closed": null
   },
   {
+    "id": "BNChannel.id",
+    "name": "BN Channel",
+    "alt_names": [
+      "Business News Channel",
+      "BN TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BN_Channel.png/512px-BN_Channel.png",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h39/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BRTV.id",
     "name": "BRTV",
     "alt_names": [],
@@ -693,6 +760,84 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
+    "tv_guide": {
+      "channel": "BTV.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000015",
+      "site_name": "BTV",
+      "lang": "id"
+    },
+    "website": "https://www.beritasatu.tv/",
+    "launched": "1998-01-01",
+    "closed": null
+  },
+  {
+    "id": "BTV.id",
+    "name": "BTV",
+    "alt_names": [
+      "BeritaSatu TV",
+      "QTV",
+      "Q Channel"
+    ],
+    "network": null,
+    "owners": [
+      "B Universe"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "BTV.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000015",
+      "site_name": "BTV",
+      "lang": "id"
+    },
+    "website": "https://www.beritasatu.tv/",
+    "launched": "1998-01-01",
+    "closed": null
+  },
+  {
+    "id": "BTV.id",
+    "name": "BTV",
+    "alt_names": [
+      "BeritaSatu TV",
+      "QTV",
+      "Q Channel"
+    ],
+    "network": null,
+    "owners": [
+      "B Universe"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
     "tv_guide": {
       "channel": "BTV.id",
       "feed": "SD",
@@ -808,6 +953,37 @@
     "closed": "2023-11-30"
   },
   {
+    "id": "ChannelJowo.id",
+    "name": "Channel Jowo",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/13wWdvd.png",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h77/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "ChannelJowo.id",
+      "feed": "SD",
+      "site": "dens.tv",
+      "site_id": "137",
+      "site_name": "Channel Jowo",
+      "lang": "id"
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CNBCIndonesia.id",
     "name": "CNBC Indonesia",
     "alt_names": [],
@@ -911,6 +1087,39 @@
     "closed": null
   },
   {
+    "id": "DAAITV.id",
+    "name": "DAAI TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/YC7JCHo.png",
+    "stream_url": "https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "DAAITV.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000018",
+      "site_name": "DAAI TV",
+      "lang": "id"
+    },
+    "website": "https://www.daaitv.co.id/",
+    "launched": "2006-10-01",
+    "closed": null
+  },
+  {
     "id": "DavikaTV.id",
     "name": "Davika TV",
     "alt_names": [],
@@ -931,6 +1140,286 @@
     "referrer": "https://davikatv.co/livestreaming/",
     "tv_guide": null,
     "website": "https://davikatv.co/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DensFoodChannel.id",
+    "name": "Dens Food Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Digdaya Duta Digital"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "cooking"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h248/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "DensFoodChannel.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000251",
+      "site_name": "DENS Food Channel",
+      "lang": "id"
+    },
+    "website": "http://dens.tv",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DensFoodChannel.id",
+    "name": "Dens Food Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Digdaya Duta Digital"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "cooking"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "DensFoodChannel.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000251",
+      "site_name": "DENS Food Channel",
+      "lang": "id"
+    },
+    "website": "http://dens.tv",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DensLearningKnowledge.id",
+    "name": "Dens Learning & Knowledge",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Digdaya Duta Digital"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "DensLearningKnowledge.id",
+      "feed": "SD",
+      "site": "dens.tv",
+      "site_id": "1",
+      "site_name": "DensKnowledge",
+      "lang": "id"
+    },
+    "website": "http://dens.tv",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DensLifeStyle.id",
+    "name": "Dens Life & Style",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Digdaya Duta Digital"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "DensLifeStyle.id",
+      "feed": "SD",
+      "site": "dens.tv",
+      "site_id": "42",
+      "site_name": "DensLife&Style",
+      "lang": "id"
+    },
+    "website": "http://dens.tv",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DensPlay.id",
+    "name": "Dens Play",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Digdaya Duta Digital"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h225/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "DensPlay.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000252",
+      "site_name": "DENSPLAY Channel",
+      "lang": "id"
+    },
+    "website": "http://dens.tv",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DensPlay.id",
+    "name": "Dens Play",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Digdaya Duta Digital"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h246/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "DensPlay.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000252",
+      "site_name": "DENSPLAY Channel",
+      "lang": "id"
+    },
+    "website": "http://dens.tv",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DensShowBiz.id",
+    "name": "Dens ShowBiz",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Digdaya Duta Digital"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "DensShowBiz.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000253",
+      "site_name": "DENS Showbizz Channel",
+      "lang": "id"
+    },
+    "website": "http://dens.tv",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DensShowBiz.id",
+    "name": "Dens ShowBiz",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Digdaya Duta Digital"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "DensShowBiz.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000253",
+      "site_name": "DENS Showbizz Channel",
+      "lang": "id"
+    },
+    "website": "http://dens.tv",
     "launched": null,
     "closed": null
   },
@@ -1093,6 +1582,41 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
+    "tv_guide": {
+      "channel": "ElshintaTV.id",
+      "feed": "SD",
+      "site": "vidio.com",
+      "site_id": "10975",
+      "site_name": "Elshinta TV",
+      "lang": "id"
+    },
+    "website": "http://www.elshinta.tv/",
+    "launched": "2014-09-29",
+    "closed": null
+  },
+  {
+    "id": "ElshintaTV.id",
+    "name": "Elshinta TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Elsinta Media Group"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/x5uoy2H.png",
+    "stream_url": "https://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
     "tv_guide": {
       "channel": "ElshintaTV.id",
       "feed": "SD",
@@ -1304,6 +1828,41 @@
     "closed": null
   },
   {
+    "id": "Indosiar.id",
+    "name": "Indosiar",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Surya Citra Media"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "Indosiar.id",
+      "feed": "SD",
+      "site": "vidio.com",
+      "site_id": "205",
+      "site_name": "Indosiar",
+      "lang": "id"
+    },
+    "website": "https://www.indosiar.com/",
+    "launched": "1995-01-11",
+    "closed": null
+  },
+  {
     "id": "InspiraTV.id",
     "name": "Inspira TV",
     "alt_names": [],
@@ -1353,6 +1912,37 @@
     "tv_guide": null,
     "website": "https://izzah.tv/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "JakTV.id",
+    "name": "Jak TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/xyLLLOi.png",
+    "stream_url": "https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "JakTV.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000025",
+      "site_name": "JAK TV",
+      "lang": "id"
+    },
+    "website": "https://jak-tv.com/",
+    "launched": "2005-03-16",
     "closed": null
   },
   {
@@ -1831,6 +2421,76 @@
     "closed": null
   },
   {
+    "id": "KompasTV.id",
+    "name": "Kompas TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "PT Cipta Megaswara Televisi"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/bD6UHeZ.png",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "KompasTV.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000013",
+      "site_name": "Kompas TV",
+      "lang": "id"
+    },
+    "website": "https://www.kompas.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "KompasTV.id",
+    "name": "Kompas TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "PT Cipta Megaswara Televisi"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/bD6UHeZ.png",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "KompasTV.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000013",
+      "site_name": "Kompas TV",
+      "lang": "id"
+    },
+    "website": "https://www.kompas.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "KTV.id",
     "name": "KTV",
     "alt_names": [],
@@ -2008,6 +2668,43 @@
     "closed": null
   },
   {
+    "id": "MagnaChannel.id",
+    "name": "Magna Channel",
+    "alt_names": [
+      "Magna TV"
+    ],
+    "network": null,
+    "owners": [
+      "Media Group"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/tfJo0SO.png",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "MagnaChannel.id",
+      "feed": "SD",
+      "site": "vidio.com",
+      "site_id": "7230",
+      "site_name": "Magna TV",
+      "lang": "id"
+    },
+    "website": null,
+    "launched": "2020-07-16",
+    "closed": null
+  },
+  {
     "id": "MDTV.id",
     "name": "MDTV",
     "alt_names": [],
@@ -2026,6 +2723,68 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
+    "tv_guide": {
+      "channel": "MDTV.id",
+      "feed": "SD",
+      "site": "indihometv.com",
+      "site_id": "net",
+      "site_name": "MDTV",
+      "lang": "id"
+    },
+    "website": "https://mdtelevision.com/",
+    "launched": "2025-02-28",
+    "closed": null
+  },
+  {
+    "id": "MDTV.id",
+    "name": "MDTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/330px-MDTV_logo.svg.png",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "MDTV.id",
+      "feed": "SD",
+      "site": "indihometv.com",
+      "site_id": "net",
+      "site_name": "MDTV",
+      "lang": "id"
+    },
+    "website": "https://mdtelevision.com/",
+    "launched": "2025-02-28",
+    "closed": null
+  },
+  {
+    "id": "MDTV.id",
+    "name": "MDTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/330px-MDTV_logo.svg.png",
+    "stream_url": "https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
     "tv_guide": {
       "channel": "MDTV.id",
       "feed": "SD",
@@ -2193,6 +2952,43 @@
     "closed": null
   },
   {
+    "id": "Moji.id",
+    "name": "Moji",
+    "alt_names": [
+      "O Channel"
+    ],
+    "network": null,
+    "owners": [
+      "Elang Mahkota Teknologi"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/mM9zapJ.png",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "Moji.id",
+      "feed": "SD",
+      "site": "vidio.com",
+      "site_id": "206",
+      "site_name": "Moji",
+      "lang": "id"
+    },
+    "website": "https://moji.id/",
+    "launched": "2005-06-16",
+    "closed": null
+  },
+  {
     "id": "MQTV.id",
     "name": "MQTV",
     "alt_names": [],
@@ -2271,11 +3067,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/BTmcTQO.png",
-    "stream_url": "http://210.210.155.37/uq2663/h/h192/index.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8",
+    "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
     "tv_guide": {
       "channel": "MyCinema.id",
       "feed": "SD",
@@ -2285,43 +3081,6 @@
       "lang": "id"
     },
     "website": "http://ciptamutu.com/",
-    "launched": "2017-05-01",
-    "closed": null
-  },
-  {
-    "id": "MyCinemaAsia.id",
-    "name": "My Cinema Asia",
-    "alt_names": [
-      "MCA"
-    ],
-    "network": "IndiHome",
-    "owners": [
-      "MT Entertainment"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/4XVZLW0.png",
-    "stream_url": "http://210.210.155.37/uq2663/h/h193/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MyCinemaAsia.id",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000053",
-      "site_name": "My Cinema Asia",
-      "lang": "id"
-    },
-    "website": "http://www.ciptamutu.com/",
     "launched": "2017-05-01",
     "closed": null
   },
@@ -2343,11 +3102,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/IaCmCt9.png",
-    "stream_url": "http://210.210.155.37/uq2663/h/h194/index.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8",
+    "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
     "tv_guide": {
       "channel": "MyFamily.id",
       "feed": "SD",
@@ -2378,11 +3137,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/qzZFU6d.png",
-    "stream_url": "http://210.210.155.37/uq2663/h/h191/index.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8",
+    "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
     "tv_guide": {
       "channel": "MyKidz.id",
       "feed": "SD",
@@ -2393,58 +3152,6 @@
     },
     "website": "http://www.ciptamutu.com/",
     "launched": "2017-05-01",
-    "closed": null
-  },
-  {
-    "id": "NaDooCommerce.id",
-    "name": "NaDoo Commerce",
-    "alt_names": [],
-    "network": "NaDoo",
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "shop"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/bggnWvq.jpeg",
-    "stream_url": "https://op-krgroup1-swiftservehd-1.dens.tv/h/h126/live.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NaDooKorean.id",
-    "name": "NaDoo Korean",
-    "alt_names": [],
-    "network": "NaDoo",
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "shop"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/GWFiyOk.jpeg",
-    "stream_url": "https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
     "closed": null
   },
   {
@@ -2470,6 +3177,41 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
+    "tv_guide": {
+      "channel": "NusantaraTV.id",
+      "feed": "SD",
+      "site": "vidio.com",
+      "site_id": "7432",
+      "site_name": "Nusantara TV",
+      "lang": "id"
+    },
+    "website": "https://www.nusantaratv.com/",
+    "launched": "2015-11-10",
+    "closed": null
+  },
+  {
+    "id": "NusantaraTV.id",
+    "name": "Nusantara TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NT Corp"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/viun5hj.png",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
     "tv_guide": {
       "channel": "NusantaraTV.id",
       "feed": "SD",
@@ -2777,6 +3519,37 @@
     "closed": null
   },
   {
+    "id": "RajawaliTV.id",
+    "name": "Rajawali TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/dlsv1sl.png",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "RajawaliTV.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000011",
+      "site_name": "RTV",
+      "lang": "id"
+    },
+    "website": "https://www.rtv.co.id/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RakyatBengkuluTV.id",
     "name": "Rakyat Bengkulu TV",
     "alt_names": [],
@@ -2896,6 +3669,37 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
+    "tv_guide": {
+      "channel": "RodjaTV.id",
+      "feed": "SD",
+      "site": "indihometv.com",
+      "site_id": "rodjatv",
+      "site_name": "Rodja TV",
+      "lang": "id"
+    },
+    "website": "https://rodja.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RodjaTV.id",
+    "name": "Rodja TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/XwCeHlC.png",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
     "tv_guide": {
       "channel": "RodjaTV.id",
       "feed": "SD",
@@ -3099,6 +3903,39 @@
     "tv_guide": null,
     "website": "https://sangajitv.co.id/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SCTV.id",
+    "name": "SCTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/EMmOvnQ.png",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "SCTV.id",
+      "feed": "SD",
+      "site": "vidio.com",
+      "site_id": "204",
+      "site_name": "SCTV",
+      "lang": "id"
+    },
+    "website": "https://www.sctv.co.id/",
+    "launched": "1990-08-24",
     "closed": null
   },
   {
@@ -3798,6 +4635,37 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
+    "tv_guide": {
+      "channel": "tvOne.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000012",
+      "site_name": "TVOne",
+      "lang": "id"
+    },
+    "website": "https://www.tvonenews.com/",
+    "launched": "2002-07-30",
+    "closed": null
+  },
+  {
+    "id": "tvOne.id",
+    "name": "tvOne",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
     "tv_guide": {
       "channel": "tvOne.id",
       "feed": "SD",
@@ -4528,6 +5396,41 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+    "stream_url": "https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "TVRI.id",
+      "feed": "HD",
+      "site": "vidio.com",
+      "site_id": "6441",
+      "site_name": "TVRI",
+      "lang": "id"
+    },
+    "website": "http://tvri.go.id/",
+    "launched": "1962-08-24",
+    "closed": null
+  },
+  {
+    "id": "TVRI.id",
+    "name": "TVRI",
+    "alt_names": [
+      "TVRI Nasional"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
     "stream_url": "https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8",
     "stream_quality": "480p",
     "stream_format": null,
@@ -4918,6 +5821,41 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
+    "tv_guide": {
+      "channel": "TVRISport.id",
+      "feed": "SD",
+      "site": "dens.tv",
+      "site_id": "118",
+      "site_name": "TVRI Sport",
+      "lang": "id"
+    },
+    "website": null,
+    "launched": "2010-12-21",
+    "closed": null
+  },
+  {
+    "id": "TVRISport.id",
+    "name": "TVRI Sport",
+    "alt_names": [],
+    "network": "TVRI",
+    "owners": [
+      "LPP TVRI"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
     "tv_guide": {
       "channel": "TVRISport.id",
       "feed": "SD",

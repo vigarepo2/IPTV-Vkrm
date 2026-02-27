@@ -214,32 +214,6 @@
     "closed": null
   },
   {
-    "id": "BMCNews.br",
-    "name": "BM&C News",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/pOUY2Uz.png",
-    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/666c9c60a7efd40008f552f0/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8c530424-556e-4d0f-b64e-9e2d82496a7b",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://bmcnews.com.br/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "BoasNovas.br",
     "name": "Boas Novas",
     "alt_names": [],
@@ -1332,41 +1306,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png",
     "stream_url": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "JovemPanNews.br",
-      "feed": "SD",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/br#6317ba014d4d040007227f72",
-      "site_name": "Jovem Pan NEWS",
-      "lang": "pt"
-    },
-    "website": "https://jovempan.com.br/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "JovemPanNews.br",
-    "name": "Jovem Pan News",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Antonio Augusto Amaral de Carvalho Filho"
-    ],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png",
-    "stream_url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6317ba014d4d040007227f72/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=26b2cac3-cfab-4f9a-b3e0-df3e41a9abbb",
-    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

@@ -593,37 +593,6 @@
     "closed": null
   },
   {
-    "id": "CanalClaro.cl",
-    "name": "Canal Claro",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CL",
-    "country_name": "Chile",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Kgjfd3J.png",
-    "stream_url": "https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?appVersion=1&deviceDNT=0&deviceId=spencer&deviceMake=safari&deviceModel=web&deviceType=web&deviceVersion=1&servertSideAds=false&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CanalClaro.cl",
-      "feed": "SD",
-      "site": "siba.com.co",
-      "site_id": "395",
-      "site_name": "Canal Claro",
-      "lang": "es"
-    },
-    "website": "http://www.clarochile.cl/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "CanalISB.cl",
     "name": "Canal ISB",
     "alt_names": [],

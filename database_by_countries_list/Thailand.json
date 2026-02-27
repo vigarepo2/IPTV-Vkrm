@@ -2191,5 +2191,29 @@
     "website": "http://www.zabbtv.com/",
     "launched": null,
     "closed": null
+  },
+  {
+    "id": "ZeeNung.th",
+    "name": "Zee Nung",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "TH",
+    "country_name": "Thailand",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/OqlxU7t.png",
+    "stream_url": "https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.zeenung.com/",
+    "launched": null,
+    "closed": null
   }
 ]

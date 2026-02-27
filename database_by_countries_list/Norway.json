@@ -1,38 +1,5 @@
 [
   {
-    "id": "AutoMotorogSportTV.no",
-    "name": "Auto Motor og Sport TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "NO",
-    "country_name": "Norway",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "auto"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/0YJYgR7.png",
-    "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c7954-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=419fb478-b5bb-4f2f-b6f0-d53563fbc250",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AutoMotorogSportTV.no",
-      "feed": "SD",
-      "site": "tv.blue.ch",
-      "site_id": "1616",
-      "site_name": "auto motor und sport",
-      "lang": "de"
-    },
-    "website": "http://automotorogsporttv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "CanalMotor.no",
     "name": "Canal Motor",
     "alt_names": [],
