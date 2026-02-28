@@ -3933,6 +3933,34 @@
     "closed": null
   },
   {
+    "id": "B4UHitz.in",
+    "name": "B4U Hitz",
+    "alt_names": [],
+    "network": "B4U",
+    "owners": [
+      "B4U Television Network India Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "http://115.42.65.142:9981/stream/channelid/1099703605",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://b4umovies.in/",
+    "launched": "2000-09-03",
+    "closed": null
+  },
+  {
     "id": "B4UKadak.in",
     "name": "B4U Kadak",
     "alt_names": [],

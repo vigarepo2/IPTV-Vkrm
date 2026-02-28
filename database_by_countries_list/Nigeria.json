@@ -729,6 +729,69 @@
     "closed": null
   },
   {
+    "id": "LoveWorldUK.ng",
+    "name": "LoveWorld UK",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Believers' Love World Incorporated"
+    ],
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/JgHbDmF.png",
+    "stream_url": "https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:lwukweb.smil/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "LoveWorldUK.ng",
+      "feed": "SD",
+      "site": "sky.com",
+      "site_id": "1228",
+      "site_name": "LoveWorld HD",
+      "lang": "en"
+    },
+    "website": "https://loveworlduk.org/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "LoveWorldUSA.ng",
+    "name": "LoveWorld USA",
+    "alt_names": [],
+    "network": "LoveWorld Network",
+    "owners": [
+      "Believers' Love World Incorporated"
+    ],
+    "country_code": "NG",
+    "country_name": "Nigeria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/LWU/ngrp:lwu.stream_all/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.loveworldusa.org/",
+    "launched": "2017-01-01",
+    "closed": null
+  },
+  {
     "id": "MastersTV.ng",
     "name": "Master's TV",
     "alt_names": [],

@@ -6433,6 +6433,41 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png",
+    "stream_url": "https://buzzrota-ono.amagi.tv/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Buzzr.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "93430",
+      "site_name": "Buzzr",
+      "lang": "en"
+    },
+    "website": "https://buzzrtv.com/",
+    "launched": "2015-06-01",
+    "closed": null
+  },
+  {
+    "id": "Buzzr.us",
+    "name": "Buzzr",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RTL Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png",
     "stream_url": "https://aegis-cloudfront-1.tubi.video/d4038326-a3e3-4aba-b1f1-f0526c912c74/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -29498,6 +29533,41 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png",
+    "stream_url": "https://amg00217-newsmax-amg00217c2-zeasn-us-2412.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxn1-zeasnus/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NewsmaxTV.us",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "0#99991194",
+      "site_name": "Newsmax2",
+      "lang": "en"
+    },
+    "website": "https://www.newsmaxtv.com/",
+    "launched": "2014-06-16",
+    "closed": null
+  },
+  {
+    "id": "NewsmaxTV.us",
+    "name": "Newsmax TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Newsmax"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png",
     "stream_url": "https://tvpass.org/live/NewsmaxTV/hd",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -42426,6 +42496,41 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/37K0AZX.png",
+    "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "USATODAY.us",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607",
+      "site_name": "USA TODAY",
+      "lang": "en"
+    },
+    "website": "https://www.usatoday.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "USATODAY.us",
+    "name": "USA TODAY",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "USA TODAY Co. Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/37K0AZX.png",
     "stream_url": "https://usatodaynews-xumo.amagi.tv/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -48006,8 +48111,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/p3HXpSv.png",
-    "stream_url": "https://amg00884-nbcuniversal-nbcnsf-pcr-xumo-78jf2.amagi.tv/playlist.m3u8",
-    "stream_quality": null,
+    "stream_url": "https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

@@ -1244,45 +1244,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/4wmnx1W.png",
-    "stream_url": "http://31.148.48.15/Karusel_HD/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Carousel.ru",
-      "feed": "SD",
-      "site": "tv2go.t-2.net",
-      "site_id": "1000273",
-      "site_name": "Karousel",
-      "lang": "sl"
-    },
-    "website": "https://www.karusel-tv.ru/",
-    "launched": "2010-12-27",
-    "closed": null
-  },
-  {
-    "id": "Carousel.ru",
-    "name": "Carousel",
-    "alt_names": [
-      "Карусель",
-      "Karusel"
-    ],
-    "network": null,
-    "owners": [
-      "Channel One",
-      "VGTRK"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/4wmnx1W.png",
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/11.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -1323,6 +1284,45 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/4wmnx1W.png",
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Carousel.ru",
+      "feed": "SD",
+      "site": "tv2go.t-2.net",
+      "site_id": "1000273",
+      "site_name": "Karousel",
+      "lang": "sl"
+    },
+    "website": "https://www.karusel-tv.ru/",
+    "launched": "2010-12-27",
+    "closed": null
+  },
+  {
+    "id": "Carousel.ru",
+    "name": "Carousel",
+    "alt_names": [
+      "Карусель",
+      "Karusel"
+    ],
+    "network": null,
+    "owners": [
+      "Channel One",
+      "VGTRK"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/4wmnx1W.png",
+    "stream_url": "http://31.148.48.15/Karusel_HD/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
