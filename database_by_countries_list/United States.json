@@ -5886,6 +5886,43 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/OuogLHx.png",
+    "stream_url": "https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BloombergTV.us",
+      "feed": "US",
+      "site": "xumo.tv",
+      "site_id": "0#99991149",
+      "site_name": "Bloomberg Originals",
+      "lang": "en"
+    },
+    "website": "https://www.bloomberg.com/live/us/btv",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BloombergTV.us",
+    "name": "Bloomberg TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Bloomberg L.P.",
+      "Michael Bloomberg",
+      "Bank of America"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "business"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/OuogLHx.png",
     "stream_url": "https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8",
     "stream_quality": "2160p",
     "stream_format": null,
@@ -12448,6 +12485,44 @@
     "closed": "2005-02-21"
   },
   {
+    "id": "DroneTV.us",
+    "name": "DroneTV",
+    "alt_names": [
+      "DroneTV by AirVuz"
+    ],
+    "network": null,
+    "owners": [
+      "AirVuz LLC"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "relax",
+      "travel"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/S71C9RJC/dronetv.webp",
+    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8?ads.vf=hSBeWdMc_Oi",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DroneTV.us",
+      "feed": "SD",
+      "site": "distro.tv",
+      "site_id": "129395",
+      "site_name": "DroneTV",
+      "lang": "en"
+    },
+    "website": "https://www.airvuz.com/dronetv",
+    "launched": "2020-09-19",
+    "closed": null
+  },
+  {
     "id": "DryBarComedyPlus.us",
     "name": "Dry Bar Comedy+",
     "alt_names": [],
@@ -12465,6 +12540,39 @@
     "logo": "https://i.imgur.com/3N2C60N.png",
     "stream_url": "https://drybar-drybarcomedy-1-au.samsung.wurl.tv/playlist.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DryBarComedyPlus.us",
+      "feed": "SD",
+      "site": "i.mjh.nz",
+      "site_id": "SamsungTVPlus/us#USAJ30000039U",
+      "site_name": "Dry Bar Comedy",
+      "lang": "en"
+    },
+    "website": "https://www.drybarcomedy.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DryBarComedyPlus.us",
+    "name": "Dry Bar Comedy+",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/3N2C60N.png",
+    "stream_url": "https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -12763,6 +12871,34 @@
     "tv_guide": null,
     "website": "http://ebstv.tv/",
     "launched": "2008-01-01",
+    "closed": null
+  },
+  {
+    "id": "EKeepingUp.us",
+    "name": "E! Keeping Up",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Versant Media Group Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9F7VYDM.png",
+    "stream_url": "https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2023-06-29",
     "closed": null
   },
   {
@@ -15267,6 +15403,80 @@
     },
     "website": "https://foxsoul.tv/",
     "launched": "2020-01-13",
+    "closed": null
+  },
+  {
+    "id": "FoxSports2.us",
+    "name": "Fox Sports 2",
+    "alt_names": [
+      "FS2"
+    ],
+    "network": "Fox Sports",
+    "owners": [
+      "Fox Sports Media Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/LHtxKI8.png",
+    "stream_url": "https://tvpass.org/live/FoxSports2/hd",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FoxSports2.us",
+      "feed": "HD",
+      "site": "tvguide.com",
+      "site_id": "9200009884",
+      "site_name": "FOX Sports 2",
+      "lang": "en"
+    },
+    "website": "https://www.foxsports.com/",
+    "launched": "2013-08-17",
+    "closed": null
+  },
+  {
+    "id": "FoxSports2.us",
+    "name": "Fox Sports 2",
+    "alt_names": [
+      "FS2"
+    ],
+    "network": "Fox Sports",
+    "owners": [
+      "Fox Sports Media Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/LHtxKI8.png",
+    "stream_url": "https://tvpass.org/live/FoxSports2/sd",
+    "stream_quality": "360p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FoxSports2.us",
+      "feed": "HD",
+      "site": "tvguide.com",
+      "site_id": "9200009884",
+      "site_name": "FOX Sports 2",
+      "lang": "en"
+    },
+    "website": "https://www.foxsports.com/",
+    "launched": "2013-08-17",
     "closed": null
   },
   {
@@ -17961,6 +18171,32 @@
     "closed": null
   },
   {
+    "id": "HmongStarTV.us",
+    "name": "Hmong Star TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/dRsacao.png",
+    "stream_url": "https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.hmongstartv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "HmongTVNetwork.us",
     "name": "Hmong TV Network",
     "alt_names": [],
@@ -18967,6 +19203,32 @@
     },
     "website": "http://www.ifc.com/",
     "launched": "1994-09-01",
+    "closed": null
+  },
+  {
+    "id": "ImanTV.us",
+    "name": "Iman TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Vo6cEYi.png",
+    "stream_url": "https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://iman-tv.com/",
+    "launched": null,
     "closed": null
   },
   {
@@ -21332,6 +21594,34 @@
       "lang": "en"
     },
     "website": "https://www.kidsflix.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "KidsPangTV.us",
+    "name": "Kids Pang TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "SAMG Entertainment Co Ltd"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/mhAAIa2.png",
+    "stream_url": "https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://watch.plex.tv/live-tv/channel/kids-pang-tv",
     "launched": null,
     "closed": null
   },
@@ -26885,6 +27175,32 @@
     "closed": null
   },
   {
+    "id": "MMATV.us",
+    "name": "MMA TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Qxco1eW.png",
+    "stream_url": "http://31.148.48.15/M1_Global/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.mmatv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "MMCTVUSA.us",
     "name": "MMC TV USA",
     "alt_names": [
@@ -27057,6 +27373,76 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://www.moviestvnetwork.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MovieSphere.us",
+    "name": "MovieSphere",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Lionsgate"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/h1ejU90.png",
+    "stream_url": "https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MovieSphere.us",
+      "feed": "SD",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/all#5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f",
+      "site_name": "MOVIESPHERE",
+      "lang": "en"
+    },
+    "website": "https://watch.plex.tv/live-tv/channel/moviesphere",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MovieSphere.us",
+    "name": "MovieSphere",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Lionsgate"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/h1ejU90.png",
+    "stream_url": "https://amg00353-amg00353c32-samsung-nz-3588.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MovieSphere.us",
+      "feed": "SD",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/all#5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f",
+      "site_name": "MOVIESPHERE",
+      "lang": "en"
+    },
+    "website": "https://watch.plex.tv/live-tv/channel/moviesphere",
     "launched": null,
     "closed": null
   },
@@ -27374,6 +27760,66 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/1280px-MS_NOW_logo.svg.png",
     "stream_url": "http://41.205.93.154/MSNBC/index.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.ms.now/live",
+    "launched": "1996-07-15",
+    "closed": null
+  },
+  {
+    "id": "MSNOW.us",
+    "name": "MS NOW",
+    "alt_names": [
+      "MSNBC"
+    ],
+    "network": null,
+    "owners": [
+      "Versant Media Group Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/1280px-MS_NOW_logo.svg.png",
+    "stream_url": "https://tvpass.org/live/MSNBC/hd",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.ms.now/live",
+    "launched": "1996-07-15",
+    "closed": null
+  },
+  {
+    "id": "MSNOW.us",
+    "name": "MS NOW",
+    "alt_names": [
+      "MSNBC"
+    ],
+    "network": null,
+    "owners": [
+      "Versant Media Group Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/1280px-MS_NOW_logo.svg.png",
+    "stream_url": "https://tvpass.org/live/MSNBC/sd",
+    "stream_quality": "360p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -28127,6 +28573,34 @@
     "closed": null
   },
   {
+    "id": "NATTV.us",
+    "name": "NAT TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "TWC Electronics"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/a7tNaD5.png",
+    "stream_url": "https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.nattv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "NBATV.us",
     "name": "NBA TV",
     "alt_names": [],
@@ -28159,6 +28633,35 @@
     },
     "website": "http://www.nba.com/nba_tv/",
     "launched": "1999-11-02",
+    "closed": null
+  },
+  {
+    "id": "NBCComedyVault.us",
+    "name": "NBC Comedy Vault",
+    "alt_names": [],
+    "network": "NBC",
+    "owners": [
+      "NBCUniversal",
+      "Comcast Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nydZWwg.png",
+    "stream_url": "https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2023-06-29",
     "closed": null
   },
   {
@@ -28507,6 +29010,37 @@
     "logo": "https://i.imgur.com/EzNf2Yx.png",
     "stream_url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.nbcsports.com/now",
+    "launched": "2023-06-29",
+    "closed": null
+  },
+  {
+    "id": "NBCSportsNOW.us",
+    "name": "NBC Sports NOW",
+    "alt_names": [
+      "NBC Sports"
+    ],
+    "network": "NBC",
+    "owners": [
+      "NBCUniversal",
+      "Comcast Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/EzNf2Yx.png",
+    "stream_url": "https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -32239,6 +32773,66 @@
     },
     "website": "https://watch.plex.tv/live-tv/channel/pbs-nature",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PBSRetro.us",
+    "name": "PBS Retro",
+    "alt_names": [],
+    "network": "PBS",
+    "owners": [
+      "PBS Distribution",
+      "Public Media Distribution LLC"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids",
+      "classic"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/3iWzQqw.png",
+    "stream_url": "https://amg02333-pbs-amg02333c6-firetv-us-4236.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2024-04-23",
+    "closed": null
+  },
+  {
+    "id": "PBSRetro.us",
+    "name": "PBS Retro",
+    "alt_names": [],
+    "network": "PBS",
+    "owners": [
+      "PBS Distribution",
+      "Public Media Distribution LLC"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids",
+      "classic"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/3iWzQqw.png",
+    "stream_url": "https://d2spdq8rliqjem.cloudfront.net/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/ac2206ef-c654-4325-8725-85d995901b62/live.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2024-04-23",
     "closed": null
   },
   {
@@ -40825,6 +41419,39 @@
     "closed": null
   },
   {
+    "id": "TrueCrimeNetwork.us",
+    "name": "True Crime Network",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/512px-True_Crime_Network_logo.svg.png",
+    "stream_url": "https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TrueCrimeNetwork.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "91496",
+      "site_name": "True Crime Network",
+      "lang": "en"
+    },
+    "website": "https://www.truecrimenetworktv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TrueCrimeNow.us",
     "name": "True Crime Now",
     "alt_names": [],
@@ -47403,6 +48030,37 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/512px-PIX11_2017.svg.png",
     "stream_url": "https://dvrfl04.tulix.tv/teleup-wpix/mpegts",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "WPIXDT1.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "20373",
+      "site_name": "CW (WPIX-DT1) NY",
+      "lang": "en"
+    },
+    "website": "https://pix11.com/",
+    "launched": "1948-06-15",
+    "closed": null
+  },
+  {
+    "id": "WPIXDT1.us",
+    "name": "WPIX-DT1",
+    "alt_names": [],
+    "network": "The CW",
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/512px-PIX11_2017.svg.png",
+    "stream_url": "https://e1.thetvapp.to/hls/WPIX/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,

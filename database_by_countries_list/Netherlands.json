@@ -797,6 +797,34 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://cdn.uc.assets.prezly.com/1b9c9500-cb43-449b-9eb6-9579640ec904/InFast_portrait-red.png",
+    "stream_url": "https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.in.tv/channels/infast",
+    "launched": "2022-09-14",
+    "closed": null
+  },
+  {
+    "id": "INFAST.nl",
+    "name": "INFAST",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Insight TV"
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://cdn.uc.assets.prezly.com/1b9c9500-cb43-449b-9eb6-9579640ec904/InFast_portrait-red.png",
     "stream_url": "https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -889,6 +917,146 @@
     "tv_guide": null,
     "website": "https://www.in.tv/channels/infast",
     "launched": "2022-09-14",
+    "closed": null
+  },
+  {
+    "id": "INFAST.nl",
+    "name": "INFAST",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Insight TV"
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://cdn.uc.assets.prezly.com/1b9c9500-cb43-449b-9eb6-9579640ec904/InFast_portrait-red.png",
+    "stream_url": "https://amg00861-terninternation-lifestyle-samsungnz-e3zqy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungnz/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.in.tv/channels/infast",
+    "launched": "2022-09-14",
+    "closed": null
+  },
+  {
+    "id": "INFAST.nl",
+    "name": "INFAST",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Insight TV"
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://cdn.uc.assets.prezly.com/1b9c9500-cb43-449b-9eb6-9579640ec904/InFast_portrait-red.png",
+    "stream_url": "https://lifestyle-rakuten.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.in.tv/channels/infast",
+    "launched": "2022-09-14",
+    "closed": null
+  },
+  {
+    "id": "INFAST.nl",
+    "name": "INFAST",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Insight TV"
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://cdn.uc.assets.prezly.com/1b9c9500-cb43-449b-9eb6-9579640ec904/InFast_portrait-red.png",
+    "stream_url": "https://amg00861-terncloud-amg00861c5-cineverse-us-963.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestyleushd-cineverseus/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.in.tv/channels/infast",
+    "launched": "2022-09-14",
+    "closed": null
+  },
+  {
+    "id": "INTRAVEL.nl",
+    "name": "INTRAVEL",
+    "alt_names": [],
+    "network": "Insight TV",
+    "owners": [
+      "Insight TV"
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "travel"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://cdn.uc.assets.prezly.com/394f887e-bb39-4228-b126-93914e375b13/-/preview/2000x2000/-/resize/1600/INTRAVEL_PortraitColor.png",
+    "stream_url": "https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.in.tv/channels/intravel",
+    "launched": "2023-10-12",
+    "closed": null
+  },
+  {
+    "id": "INTRAVEL.nl",
+    "name": "INTRAVEL",
+    "alt_names": [],
+    "network": "Insight TV",
+    "owners": [
+      "Insight TV"
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "travel"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://cdn.uc.assets.prezly.com/394f887e-bb39-4228-b126-93914e375b13/-/preview/2000x2000/-/resize/1600/INTRAVEL_PortraitColor.png",
+    "stream_url": "https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.in.tv/channels/intravel",
+    "launched": "2023-10-12",
     "closed": null
   },
   {
@@ -3476,6 +3644,32 @@
     "closed": null
   },
   {
+    "id": "RTVRijnmondExtra.nl",
+    "name": "RTV Rijnmond Extra",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/mlrd5ia.png",
+    "stream_url": "http://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.rijnmond.nl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RTVRijnstreekTV.nl",
     "name": "RTV Rijnstreek TV",
     "alt_names": [],
@@ -4875,6 +5069,41 @@
     },
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "XITE.nl",
+    "name": "XITE",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Derk Nijssen"
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/jxuwGRi.png",
+    "stream_url": "https://xite-rakuten.amagi.tv/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "XITE.nl",
+      "feed": "SD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000025_019708",
+      "site_name": "XITE",
+      "lang": "nl"
+    },
+    "website": "https://xite.com/",
+    "launched": "2008-05-21",
     "closed": null
   },
   {

@@ -88,6 +88,34 @@
     "closed": null
   },
   {
+    "id": "CTS.tw",
+    "name": "CTS",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Taiwan Broadcasting System"
+    ],
+    "country_code": "TW",
+    "country_name": "Taiwan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png",
+    "stream_url": "rtmp://59.124.75.138:1935/sat/tv111",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.cts.com.tw/",
+    "launched": "1971-01-31",
+    "closed": null
+  },
+  {
     "id": "CTSNews.tw",
     "name": "CTS News",
     "alt_names": [

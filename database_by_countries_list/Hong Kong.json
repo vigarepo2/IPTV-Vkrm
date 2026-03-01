@@ -719,5 +719,35 @@
     "website": "https://www.rthk.hk/",
     "launched": "2022-07-01",
     "closed": null
+  },
+  {
+    "id": "RTHKTV35.hk",
+    "name": "RTHK TV 35",
+    "alt_names": [
+      "港台電視35"
+    ],
+    "network": "RTHK",
+    "owners": [
+      "RTHK"
+    ],
+    "country_code": "HK",
+    "country_name": "Hong Kong",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/FQmNKDS.png",
+    "stream_url": "https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.rthk.hk/tv",
+    "launched": "2023-06-15",
+    "closed": null
   }
 ]

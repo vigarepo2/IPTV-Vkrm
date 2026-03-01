@@ -1429,6 +1429,35 @@
     "closed": null
   },
   {
+    "id": "ITVDeportes.mx",
+    "name": "ITV Deportes",
+    "alt_names": [
+      "InternetvDeportes"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment",
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://iili.io/J1kV1Bn.png",
+    "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "JaliscoTV.mx",
     "name": "Jalisco TV",
     "alt_names": [
@@ -2235,6 +2264,30 @@
     "logo": "https://i.imgur.com/kYtAR26.png",
     "stream_url": "https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://rcgmedia.mx/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RCGTV.mx",
+    "name": "RCG TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/kYtAR26.png",
+    "stream_url": "https://video1.getstreamhosting.com:1936/8246/8246/playlist.m3u8",
+    "stream_quality": "432p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

@@ -904,6 +904,34 @@
     "closed": null
   },
   {
+    "id": "CricketGold.au",
+    "name": "Cricket Gold",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Cricket Australia (CA)"
+    ],
+    "country_code": "AU",
+    "country_name": "Australia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png",
+    "stream_url": "https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.cricket.com.au/cricket-gold",
+    "launched": "2023-10-25",
+    "closed": null
+  },
+  {
     "id": "CTBPerth.au",
     "name": "CTB Perth",
     "alt_names": [],
@@ -1071,6 +1099,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://intvaustralia.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MissionAsia.au",
+    "name": "Mission Asia",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AU",
+    "country_name": "Australia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/B5mKwF6.png",
+    "stream_url": "https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://missionasia.org/",
     "launched": null,
     "closed": null
   },

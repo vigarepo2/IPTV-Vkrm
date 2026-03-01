@@ -833,6 +833,41 @@
     "closed": null
   },
   {
+    "id": "BFM2.fr",
+    "name": "BFM2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RMC BFM"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://alloforfait.fr/wp-content/uploads/2024/03/logo-bfm2-300x200.jpg",
+    "stream_url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BFM2.fr",
+      "feed": "HD",
+      "site": "tv.sfr.fr",
+      "site_id": "4092",
+      "site_name": "BFM2",
+      "lang": "fr"
+    },
+    "website": "https://www.bfmtv.com/en-direct/bfm2/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BFMAlsace.fr",
     "name": "BFM Alsace",
     "alt_names": [],
@@ -1746,6 +1781,36 @@
     "closed": null
   },
   {
+    "id": "CineWestern.fr",
+    "name": "Cine Western",
+    "alt_names": [
+      "Ciné Western"
+    ],
+    "network": null,
+    "owners": [
+      "Zylo"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/tteOFkL.png",
+    "stream_url": "https://f7ad58aa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1dQX0hMUw/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://communityzylo7.wixsite.com/cine-western-fr",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CNews.fr",
     "name": "CNews",
     "alt_names": [],
@@ -2337,6 +2402,44 @@
     "logo": "https://i.imgur.com/5A0Wnrv.png",
     "stream_url": "https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EuronewsFrench.fr",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "3900",
+      "site_name": "Euronews Français",
+      "lang": "en"
+    },
+    "website": "https://fr.euronews.com/",
+    "launched": "1993-01-01",
+    "closed": null
+  },
+  {
+    "id": "EuronewsFrench.fr",
+    "name": "Euronews French",
+    "alt_names": [
+      "Euronews Français",
+      " Euronews FR"
+    ],
+    "network": "Euronews",
+    "owners": [
+      "Euronews SA"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5A0Wnrv.png",
+    "stream_url": "https://euronews-live-fra-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/eyJzdGlkIjoiYjA1ZmVmMzAtYjhkZC00Y2E5LThkM2ItMTRkNjE1MjdmYjE0IiwibWt0IjoiZnIiLCJjaCI6NjU2NCwicHRmIjo1fQ==/26032/euronews-fr.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

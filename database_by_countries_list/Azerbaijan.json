@@ -26,6 +26,32 @@
     "closed": null
   },
   {
+    "id": "AnewZTV.az",
+    "name": "AnewZ TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AZ",
+    "country_name": "Azerbaijan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Lwgdbuu.png",
+    "stream_url": "https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://anewz.tv/",
+    "launched": "2024-07-04",
+    "closed": null
+  },
+  {
     "id": "ARB24.az",
     "name": "ARB 24",
     "alt_names": [],
@@ -311,6 +337,43 @@
     "closed": null
   },
   {
+    "id": "IctimaiTV.az",
+    "name": "Ictimai TV",
+    "alt_names": [
+      "İctimai TV"
+    ],
+    "network": null,
+    "owners": [
+      "Public Television and Radio Broadcasting Company"
+    ],
+    "country_code": "AZ",
+    "country_name": "Azerbaijan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/HzY4VMo.png",
+    "stream_url": "https://node19.connect.az:9081/tv/live/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "IctimaiTV.az",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2800",
+      "site_name": "Ictimai TV",
+      "lang": "az"
+    },
+    "website": "https://itv.az/",
+    "launched": "2005-08-29",
+    "closed": null
+  },
+  {
     "id": "KapazTV.az",
     "name": "Kapaz TV",
     "alt_names": [],
@@ -371,6 +434,32 @@
     },
     "website": "https://spacetv.az/",
     "launched": "1997-10-12",
+    "closed": null
+  },
+  {
+    "id": "StartTV.az",
+    "name": "Start TV",
+    "alt_names": [
+      "Kanal S"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "AZ",
+    "country_name": "Azerbaijan",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.lyngsat.com/logo/tv/ss/start-tv-az.png",
+    "stream_url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://kanal-s.az/",
+    "launched": null,
     "closed": null
   },
   {

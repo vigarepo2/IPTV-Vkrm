@@ -9288,6 +9288,38 @@
     "closed": null
   },
   {
+    "id": "MrBeanAnimated.uk",
+    "name": "Mr Bean Animated",
+    "alt_names": [
+      "Mr. Bean: The Animated Series",
+      "mr Bean"
+    ],
+    "network": null,
+    "owners": [
+      "Banijay Rights"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
+    "stream_url": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2024-06-21",
+    "closed": null
+  },
+  {
     "id": "MrBeanLiveAction.uk",
     "name": "Mr Bean Live Action",
     "alt_names": [
@@ -9581,6 +9613,32 @@
       "lang": "en"
     },
     "website": "https://mutv.manutd.com",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MyTimeMovieNetwork.uk",
+    "name": "MyTime Movie Network",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/pw4NZK1.png",
+    "stream_url": "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://mytimemovienetwork.com/",
     "launched": null,
     "closed": null
   },
@@ -10845,6 +10903,32 @@
     "closed": null
   },
   {
+    "id": "SparkTV.uk",
+    "name": "Spark TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "GoTV Media ltd"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/svc98Kg.png",
+    "stream_url": "https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.sparkchannel.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TalkingPicturesTV.uk",
     "name": "Talking Pictures TV",
     "alt_names": [],
@@ -11336,6 +11420,33 @@
     },
     "website": "https://www.togethertv.com/",
     "launched": "2000-09-18",
+    "closed": null
+  },
+  {
+    "id": "TopGear.uk",
+    "name": "Top Gear",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment",
+      "auto"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/S6Su6QH.png",
+    "stream_url": "https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.topgear.com/",
+    "launched": null,
     "closed": null
   },
   {
@@ -12016,6 +12127,34 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png",
     "stream_url": "https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2016-07-28",
+    "closed": null
+  },
+  {
+    "id": "ZeeOne.uk",
+    "name": "Zee One",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Zee Entertainment Enterprises"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png",
+    "stream_url": "https://87e3eec452134557a82da031f54a1899.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_ZeeMagic/playlist.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

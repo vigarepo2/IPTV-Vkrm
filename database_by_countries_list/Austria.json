@@ -1525,6 +1525,39 @@
     "closed": null
   },
   {
+    "id": "RedBullTV.at",
+    "name": "Red Bull TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AT",
+    "country_name": "Austria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/8c78JM28/image.png",
+    "stream_url": "https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RedBullTV.at",
+      "feed": "SD",
+      "site": "web.magentatv.de",
+      "site_id": "5027",
+      "site_name": "Red Bull TV",
+      "lang": "de"
+    },
+    "website": "https://www.redbull.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RTV.at",
     "name": "RTV",
     "alt_names": [],
@@ -1778,6 +1811,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://swamiji.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TheCyclingChannel.at",
+    "name": "The Cycling Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AT",
+    "country_name": "Austria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpbjHW_j4DfsuAn4278ebtzhibMvY7KSOyow&s",
+    "stream_url": "https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.streemfire.com/thecyclingchannel",
     "launched": null,
     "closed": null
   },

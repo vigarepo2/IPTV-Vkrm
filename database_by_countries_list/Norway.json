@@ -120,6 +120,321 @@
     "closed": null
   },
   {
+    "id": "NRK1.no",
+    "name": "NRK1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NRK"
+    ],
+    "country_code": "NO",
+    "country_name": "Norway",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9tj8ds7.png",
+    "stream_url": "https://nrk-live-no.akamaized.net/nrk1_dk8/muxed.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NRK1.no",
+      "feed": "SD",
+      "site": "tv24.se",
+      "site_id": "nrk1",
+      "site_name": "NRK1 Norge",
+      "lang": "sv"
+    },
+    "website": "http://www.nrk.no/nrk1/",
+    "launched": "1960-08-20",
+    "closed": null
+  },
+  {
+    "id": "NRK1.no",
+    "name": "NRK1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NRK"
+    ],
+    "country_code": "NO",
+    "country_name": "Norway",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9tj8ds7.png",
+    "stream_url": "https://nrk-live-no.akamaized.net/nrk1_dk10/muxed.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NRK1.no",
+      "feed": "SD",
+      "site": "tv24.se",
+      "site_id": "nrk1",
+      "site_name": "NRK1 Norge",
+      "lang": "sv"
+    },
+    "website": "http://www.nrk.no/nrk1/",
+    "launched": "1960-08-20",
+    "closed": null
+  },
+  {
+    "id": "NRK1.no",
+    "name": "NRK1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NRK"
+    ],
+    "country_code": "NO",
+    "country_name": "Norway",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9tj8ds7.png",
+    "stream_url": "https://nrk-live-no.akamaized.net/nrk1_dk4/muxed.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NRK1.no",
+      "feed": "SD",
+      "site": "tv24.se",
+      "site_id": "nrk1",
+      "site_name": "NRK1 Norge",
+      "lang": "sv"
+    },
+    "website": "http://www.nrk.no/nrk1/",
+    "launched": "1960-08-20",
+    "closed": null
+  },
+  {
+    "id": "NRK1.no",
+    "name": "NRK1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NRK"
+    ],
+    "country_code": "NO",
+    "country_name": "Norway",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9tj8ds7.png",
+    "stream_url": "https://nrk-live-no.akamaized.net/nrk1_dk5/muxed.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NRK1.no",
+      "feed": "SD",
+      "site": "tv24.se",
+      "site_id": "nrk1",
+      "site_name": "NRK1 Norge",
+      "lang": "sv"
+    },
+    "website": "http://www.nrk.no/nrk1/",
+    "launched": "1960-08-20",
+    "closed": null
+  },
+  {
+    "id": "NRK1.no",
+    "name": "NRK1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NRK"
+    ],
+    "country_code": "NO",
+    "country_name": "Norway",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9tj8ds7.png",
+    "stream_url": "https://nrk-live-no.akamaized.net/nrk1_dk3/muxed.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NRK1.no",
+      "feed": "SD",
+      "site": "tv24.se",
+      "site_id": "nrk1",
+      "site_name": "NRK1 Norge",
+      "lang": "sv"
+    },
+    "website": "http://www.nrk.no/nrk1/",
+    "launched": "1960-08-20",
+    "closed": null
+  },
+  {
+    "id": "NRK1.no",
+    "name": "NRK1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NRK"
+    ],
+    "country_code": "NO",
+    "country_name": "Norway",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9tj8ds7.png",
+    "stream_url": "https://nrk-live-no.akamaized.net/nrk1_dk2/muxed.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NRK1.no",
+      "feed": "SD",
+      "site": "tv24.se",
+      "site_id": "nrk1",
+      "site_name": "NRK1 Norge",
+      "lang": "sv"
+    },
+    "website": "http://www.nrk.no/nrk1/",
+    "launched": "1960-08-20",
+    "closed": null
+  },
+  {
+    "id": "NRK1.no",
+    "name": "NRK1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NRK"
+    ],
+    "country_code": "NO",
+    "country_name": "Norway",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9tj8ds7.png",
+    "stream_url": "https://nrk-live-no.akamaized.net/nrk1_dk7/muxed.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NRK1.no",
+      "feed": "SD",
+      "site": "tv24.se",
+      "site_id": "nrk1",
+      "site_name": "NRK1 Norge",
+      "lang": "sv"
+    },
+    "website": "http://www.nrk.no/nrk1/",
+    "launched": "1960-08-20",
+    "closed": null
+  },
+  {
+    "id": "NRK1.no",
+    "name": "NRK1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NRK"
+    ],
+    "country_code": "NO",
+    "country_name": "Norway",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9tj8ds7.png",
+    "stream_url": "https://nrk-live-no.akamaized.net/nrk1_dk9/muxed.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NRK1.no",
+      "feed": "SD",
+      "site": "tv24.se",
+      "site_id": "nrk1",
+      "site_name": "NRK1 Norge",
+      "lang": "sv"
+    },
+    "website": "http://www.nrk.no/nrk1/",
+    "launched": "1960-08-20",
+    "closed": null
+  },
+  {
+    "id": "NRK1.no",
+    "name": "NRK1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NRK"
+    ],
+    "country_code": "NO",
+    "country_name": "Norway",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9tj8ds7.png",
+    "stream_url": "https://nrk-live-no.akamaized.net/nrk1_dk6/muxed.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NRK1.no",
+      "feed": "SD",
+      "site": "tv24.se",
+      "site_id": "nrk1",
+      "site_name": "NRK1 Norge",
+      "lang": "sv"
+    },
+    "website": "http://www.nrk.no/nrk1/",
+    "launched": "1960-08-20",
+    "closed": null
+  },
+  {
     "id": "NRK2.no",
     "name": "NRK2",
     "alt_names": [],
@@ -222,6 +537,36 @@
     },
     "website": "http://www.nrksuper.no/",
     "launched": "2006-05-21",
+    "closed": null
+  },
+  {
+    "id": "NRKTegnsprak.no",
+    "name": "NRK Tegnsprak",
+    "alt_names": [
+      "NRK Tegnspråk"
+    ],
+    "network": null,
+    "owners": [
+      "NRK"
+    ],
+    "country_code": "NO",
+    "country_name": "Norway",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/VCpWG3h.png",
+    "stream_url": "https://nrk-live-no.akamaized.net/nrk_tegnspraak/muxed.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.nrk.no/hjelp/nrks-tilbud-til-horselshemmede-1.6613906",
+    "launched": "2001-10-01",
     "closed": null
   },
   {

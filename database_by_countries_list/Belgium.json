@@ -1159,6 +1159,32 @@
     "closed": null
   },
   {
+    "id": "TVcom.be",
+    "name": "TVcom",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BE",
+    "country_name": "Belgium",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/3KuRD19.png",
+    "stream_url": "https://tvlocales-live.freecaster.com/tvcom/95d2f656-ba85-4e13-affc-f1936be1a86d/95d2f656-ba85-4e13-affc-f1936be1a86d.isml/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.tvcom.be/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TVLux.be",
     "name": "TV Lux",
     "alt_names": [],

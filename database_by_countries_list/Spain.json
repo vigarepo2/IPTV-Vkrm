@@ -7229,6 +7229,30 @@
     "closed": null
   },
   {
+    "id": "RakutenViki.es",
+    "name": "Rakuten Viki",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/pbyd1g2.png",
+    "stream_url": "https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.viki.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RealMadridTV.es",
     "name": "Real Madrid TV",
     "alt_names": [],
@@ -9107,6 +9131,36 @@
     "logo": "https://i.ibb.co/j98NY8Mr/starcolor.png",
     "stream_url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.rtve.es/comercial/distribucion-canales/star/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVEStar.es",
+    "name": "TVE Star",
+    "alt_names": [
+      "Star TVE"
+    ],
+    "network": "TVE",
+    "owners": [
+      "RTVE"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/j98NY8Mr/starcolor.png",
+    "stream_url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

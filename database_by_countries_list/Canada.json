@@ -158,6 +158,58 @@
     "closed": null
   },
   {
+    "id": "ApnaPunjabTV.ca",
+    "name": "Apna Punjab TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/IM4D8Wz.png",
+    "stream_url": "https://mumt03.tangotv.in/APNAPUNJAB/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.apnapunjab.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AzStarTV.ca",
+    "name": "Az Star TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/di3XX5L.png",
+    "stream_url": "https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.azstartv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "AzStarTV.ca",
     "name": "Az Star TV",
     "alt_names": [],
@@ -1410,41 +1462,6 @@
     "tv_guide": null,
     "website": "https://vancouver.citynews.ca/video/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "CIVMDT.ca",
-    "name": "CIVM-DT",
-    "alt_names": [],
-    "network": "Tele-Quebec",
-    "owners": [
-      "Government of Quebec"
-    ],
-    "country_code": "CA",
-    "country_name": "Canada",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "education"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png",
-    "stream_url": "https://bcovlive-a.akamaihd.net/4b1c462c86094bae93b65adc84e43afc/us-west-2/6101674910001/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CIVMDT.ca",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "63040",
-      "site_name": "Télé-Québec",
-      "lang": "fr"
-    },
-    "website": "https://www.telequebec.tv/",
-    "launched": "1975-01-19",
     "closed": null
   },
   {
@@ -2962,6 +2979,39 @@
     "closed": null
   },
   {
+    "id": "LegislativeAssemblyofOntario.ca",
+    "name": "Legislative Assembly of Ontario",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "legislative"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/n24MrsX.png",
+    "stream_url": "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "LegislativeAssemblyofOntario.ca",
+      "feed": "SD",
+      "site": "tvpassport.com",
+      "site_id": "ontario-legislature/417",
+      "site_name": "Ontario Legislature",
+      "lang": "en"
+    },
+    "website": "https://www.ola.org/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "LegislativeAssemblyTVNunavut.ca",
     "name": "Legislative Assembly TV Nunavut",
     "alt_names": [],
@@ -3091,6 +3141,36 @@
     "website": "https://tv.lovenature.com/",
     "launched": "2006-03-12",
     "closed": null
+  },
+  {
+    "id": "MelodyHits.ca",
+    "name": "Melody Hits",
+    "alt_names": [
+      "ميلودي هيتس"
+    ],
+    "network": null,
+    "owners": [
+      "Ethnic Channels Group"
+    ],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/OOMkVrU.png",
+    "stream_url": "https://mumt03.tangotv.in/MELODYHITS/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.melody.net/",
+    "launched": "2002-10-01",
+    "closed": "2014-02-03"
   },
   {
     "id": "MHZ.ca",
@@ -5402,6 +5482,39 @@
     "logo": "https://en.tvpunjab.com/storage/2022/03/logo-2022.png",
     "stream_url": "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVPunjab.ca",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1581",
+      "site_name": "TV Punjab",
+      "lang": "en"
+    },
+    "website": "https://tvpunjab.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVPunjab.ca",
+    "name": "TV Punjab",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://en.tvpunjab.com/storage/2022/03/logo-2022.png",
+    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv-punjab/master.m3u8?ads.vf=FKWvIiyQPz8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

@@ -303,6 +303,39 @@
     "closed": null
   },
   {
+    "id": "AlQanat9.tr",
+    "name": "Al Qanat 9",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "TR",
+    "country_name": "Turkiye",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/HC91Mho.png",
+    "stream_url": "https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AlQanat9.tr",
+      "feed": "SD",
+      "site": "sat.tv",
+      "site_id": "1#33#Al Qanat 9",
+      "site_name": "Al Qanat 9",
+      "lang": "en"
+    },
+    "website": "https://alqanat9.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "AlRafidainTV.tr",
     "name": "Al-Rafidain TV",
     "alt_names": [],
@@ -1691,6 +1724,36 @@
     "tv_guide": null,
     "website": "http://www.edessatv.com/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ElsharqTV.tr",
+    "name": "Elsharq TV",
+    "alt_names": [
+      "الشرق"
+    ],
+    "network": null,
+    "owners": [
+      "Ayman Nour"
+    ],
+    "country_code": "TR",
+    "country_name": "Turkiye",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/8vmfZb5.png",
+    "stream_url": "https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://elsharq.tv/",
+    "launched": "2014-01-01",
     "closed": null
   },
   {
@@ -3746,6 +3809,58 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.kanal38.com.tr/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Kanal58.tr",
+    "name": "Kanal 58",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "TR",
+    "country_name": "Turkiye",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Rgc66sv.png",
+    "stream_url": "https://edge1.socialsmart.tv/kanal58/bant1/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://kanal58.com.tr/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Kanal58.tr",
+    "name": "Kanal 58",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "TR",
+    "country_name": "Turkiye",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Rgc66sv.png",
+    "stream_url": "https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://kanal58.com.tr/",
     "launched": null,
     "closed": null
   },
@@ -6229,6 +6344,37 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/28AyWHe.png",
+    "stream_url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TMB.tr",
+      "feed": "SD",
+      "site": "tvplus.com.tr",
+      "site_id": "tmb-tv/2280",
+      "site_name": "TMB TV",
+      "lang": "tr"
+    },
+    "website": "https://www.tmb.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TMB.tr",
+    "name": "TMB",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "TR",
+    "country_name": "Turkiye",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/28AyWHe.png",
     "stream_url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -6651,6 +6797,44 @@
     },
     "website": "https://www.trtdiyanetcocuk.net.tr/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TRTEBA.tr",
+    "name": "TRT EBA",
+    "alt_names": [
+      "TRT EBA TV Ortaokul",
+      "TRT Okul"
+    ],
+    "network": null,
+    "owners": [
+      "TRT"
+    ],
+    "country_code": "TR",
+    "country_name": "Turkiye",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRT_EBA_TV_logo.svg/400px-TRT_EBA_TV_logo.svg.png",
+    "stream_url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TRTEBA.tr",
+      "feed": "SD",
+      "site": "tvplus.com.tr",
+      "site_id": "trt-eba/2300",
+      "site_name": "TRT EBA",
+      "lang": "tr"
+    },
+    "website": "https://eba.gov.tr/",
+    "launched": "2024-01-10",
     "closed": null
   },
   {
@@ -7112,6 +7296,34 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://www.tvbir.com.tr/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "tv2.tr",
+    "name": "tv2",
+    "alt_names": [
+      "Teve2"
+    ],
+    "network": null,
+    "owners": [
+      "Demirören Group"
+    ],
+    "country_code": "TR",
+    "country_name": "Turkiye",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/rsoSLih.png",
+    "stream_url": "https://demiroren-live.daioncdn.net/teve2/teve2.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.tv2.com.tr/",
     "launched": null,
     "closed": null
   },

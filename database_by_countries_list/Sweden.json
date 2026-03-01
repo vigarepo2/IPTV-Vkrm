@@ -64,6 +64,34 @@
     "closed": null
   },
   {
+    "id": "AznewsTV.se",
+    "name": "Aznews TV",
+    "alt_names": [
+      "Azerbaijan News TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "SE",
+    "country_name": "Sweden",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Kw17XfP.png",
+    "stream_url": "https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.aznews.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "DiTV.se",
     "name": "Di TV",
     "alt_names": [],

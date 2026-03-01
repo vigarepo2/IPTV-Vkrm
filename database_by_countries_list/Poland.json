@@ -151,6 +151,37 @@
     "closed": null
   },
   {
+    "id": "BTB.pl",
+    "name": "BTB",
+    "alt_names": [
+      "Telewizja BTB",
+      "Bombaska Telewizja Boża"
+    ],
+    "network": "Telewizja BTB",
+    "owners": [
+      "Telewizja BTB"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/U8mcRal.png",
+    "stream_url": "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://btb.j00r.us/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BTBMusic.pl",
     "name": "BTB Music",
     "alt_names": [],
@@ -754,6 +785,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NewsWorld.pl",
+    "name": "NewsWorld",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e58c409f-711e-4690-98de-e92a88440011-width200-quality90.jpeg",
+    "stream_url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.rakuten.tv/pl/live_channels/newsworld",
     "launched": null,
     "closed": null
   },

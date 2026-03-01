@@ -1842,5 +1842,43 @@
     "website": "https://adtv.ae/ar/live/YAS%20Sports%20Channel",
     "launched": null,
     "closed": null
+  },
+  {
+    "id": "ZeeAlwan.ae",
+    "name": "Zee Alwan",
+    "alt_names": [
+      "زي ألوان"
+    ],
+    "network": "ZEE",
+    "owners": [
+      "Zee Entertainment Enterprises"
+    ],
+    "country_code": "AE",
+    "country_name": "United Arab Emirates",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series",
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/OLuCox7.png",
+    "stream_url": "https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ZeeAlwan.ae",
+      "feed": "SD",
+      "site": "elcinema.com",
+      "site_id": "1261",
+      "site_name": "Zee alwan",
+      "lang": "en"
+    },
+    "website": "https://www.zeealwan.com/",
+    "launched": "2012-10-10",
+    "closed": null
   }
 ]

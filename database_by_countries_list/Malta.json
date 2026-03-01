@@ -1,5 +1,35 @@
 [
   {
+    "id": "NET.mt",
+    "name": "NET",
+    "alt_names": [
+      "NET Television"
+    ],
+    "network": null,
+    "owners": [
+      "NET Media"
+    ],
+    "country_code": "MT",
+    "country_name": "Malta",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/K4Uve1n.png",
+    "stream_url": "http://80.79.6.221:25461/smash/public/22",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://netondemand.mt/",
+    "launched": "1998-06-10",
+    "closed": null
+  },
+  {
     "id": "One.mt",
     "name": "One",
     "alt_names": [],
