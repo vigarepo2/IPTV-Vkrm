@@ -15707,6 +15707,34 @@
     "closed": null
   },
   {
+    "id": "KairaliArabia.in",
+    "name": "Kairali Arabia",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Kairali TV Network"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/BBEfplL.png",
+    "stream_url": "https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.kairaliarabia.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "KairaliNews.in",
     "name": "Kairali News",
     "alt_names": [],
@@ -17985,6 +18013,62 @@
     },
     "website": "https://tv.mathrubhumi.com/",
     "launched": "2013-01-23",
+    "closed": null
+  },
+  {
+    "id": "MaxMovies.in",
+    "name": "Max Movies",
+    "alt_names": [],
+    "network": "Max",
+    "owners": [
+      "Max Group"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://livetv.ashokadigital.net/upload/logo/1732168422_WhatsApp%20Image%202024-11-21%20at%2010.18.47%20AM.jpeg",
+    "stream_url": "https://live.maxtn.in/maxmovies/maxmovies/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://maxtn.in/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MaxMusic.in",
+    "name": "Max Music",
+    "alt_names": [],
+    "network": "Max",
+    "owners": [
+      "Max Group"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://livetv.ashokadigital.net/upload/logo/1732168750_WhatsApp%20Image%202024-11-21%20at%2011.05.55%20AM%20(1).jpeg",
+    "stream_url": "https://live.maxtn.in/maxmusic/maxmusic/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://maxtn.in/",
+    "launched": null,
     "closed": null
   },
   {
@@ -21475,6 +21559,34 @@
     },
     "website": "https://odishatv.in/",
     "launched": "1997-04-17",
+    "closed": null
+  },
+  {
+    "id": "OliTV.in",
+    "name": "Oli TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Oli Digital"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/XfvTQyJn/main-removebg-preview.png",
+    "stream_url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://olidigital.in/",
+    "launched": null,
     "closed": null
   },
   {

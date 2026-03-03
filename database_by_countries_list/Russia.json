@@ -22128,6 +22128,36 @@
     "closed": null
   },
   {
+    "id": "TsargradTV.ru",
+    "name": "Tsargrad TV",
+    "alt_names": [
+      "Царьград ТВ"
+    ],
+    "network": null,
+    "owners": [
+      "Tsargrad Media Group"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/34RINpb.png",
+    "stream_url": "https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=is_mLq_kjPYLsOJ4qj85tw&e=2070278263&scheme=https",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://tsargrad.tv/",
+    "launched": "2015-04-12",
+    "closed": null
+  },
+  {
     "id": "TV3.ru",
     "name": "TV-3",
     "alt_names": [

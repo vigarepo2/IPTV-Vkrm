@@ -1922,41 +1922,6 @@
     "closed": null
   },
   {
-    "id": "RotanaCinemaKSA.sa",
-    "name": "Rotana Cinema KSA",
-    "alt_names": [
-      "روتانا سينما السعودية"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "SA",
-    "country_name": "Saudi Arabia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/pGgp38I.png",
-    "stream_url": "https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RotanaCinemaKSA.sa",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "795",
-      "site_name": "Rotana Cinema",
-      "lang": "fr"
-    },
-    "website": "http://www.cinema.rotana.net/",
-    "launched": "2004-12-31",
-    "closed": null
-  },
-  {
     "id": "RotanaClassic.sa",
     "name": "Rotana Classic",
     "alt_names": [
@@ -1979,41 +1944,6 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": "https://rotana.net/",
-    "tv_guide": {
-      "channel": "RotanaClassic.sa",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "31977",
-      "site_name": "Rotana Classic",
-      "lang": "en"
-    },
-    "website": "https://rotana.net/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RotanaClassic.sa",
-    "name": "Rotana Classic",
-    "alt_names": [
-      "روتانا كلاسيك"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "SA",
-    "country_name": "Saudi Arabia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "classic"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/pMMUvkt.png",
-    "stream_url": "https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
     "tv_guide": {
       "channel": "RotanaClassic.sa",
       "feed": "SD",

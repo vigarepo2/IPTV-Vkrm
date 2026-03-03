@@ -5389,7 +5389,7 @@
     "id": "BloombergOriginals.us",
     "name": "Bloomberg Originals",
     "alt_names": [],
-    "network": null,
+    "network": "Bloomberg",
     "owners": [
       "Bloomberg L.P.",
       "Michael Bloomberg",
@@ -5400,6 +5400,7 @@
     "subdivision": null,
     "city": null,
     "categories": [
+      "documentary",
       "business"
     ],
     "languages": [],
@@ -5419,14 +5420,14 @@
       "lang": "en"
     },
     "website": "https://www.bloomberg.com/originals/live",
-    "launched": null,
+    "launched": "2023-02-01",
     "closed": null
   },
   {
     "id": "BloombergOriginals.us",
     "name": "Bloomberg Originals",
     "alt_names": [],
-    "network": null,
+    "network": "Bloomberg",
     "owners": [
       "Bloomberg L.P.",
       "Michael Bloomberg",
@@ -5437,6 +5438,7 @@
     "subdivision": null,
     "city": null,
     "categories": [
+      "documentary",
       "business"
     ],
     "languages": [],
@@ -5456,14 +5458,14 @@
       "lang": "en"
     },
     "website": "https://www.bloomberg.com/originals/live",
-    "launched": null,
+    "launched": "2023-02-01",
     "closed": null
   },
   {
     "id": "BloombergOriginals.us",
     "name": "Bloomberg Originals",
     "alt_names": [],
-    "network": null,
+    "network": "Bloomberg",
     "owners": [
       "Bloomberg L.P.",
       "Michael Bloomberg",
@@ -5474,43 +5476,7 @@
     "subdivision": null,
     "city": null,
     "categories": [
-      "business"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png",
-    "stream_url": "https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BloombergOriginals.us",
-      "feed": "SD",
-      "site": "distro.tv",
-      "site_id": "50995",
-      "site_name": "Bloomberg Originals",
-      "lang": "en"
-    },
-    "website": "https://www.bloomberg.com/originals/live",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BloombergOriginals.us",
-    "name": "Bloomberg Originals",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Bloomberg L.P.",
-      "Michael Bloomberg",
-      "Bank of America"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
+      "documentary",
       "business"
     ],
     "languages": [],
@@ -5530,14 +5496,14 @@
       "lang": "en"
     },
     "website": "https://www.bloomberg.com/originals/live",
-    "launched": null,
+    "launched": "2023-02-01",
     "closed": null
   },
   {
-    "id": "BloombergQuicktake.us",
-    "name": "Bloomberg Quicktake",
+    "id": "BloombergOriginals.us",
+    "name": "Bloomberg Originals",
     "alt_names": [],
-    "network": null,
+    "network": "Bloomberg",
     "owners": [
       "Bloomberg L.P.",
       "Michael Bloomberg",
@@ -5548,33 +5514,72 @@
     "subdivision": null,
     "city": null,
     "categories": [
-      "general"
+      "documentary",
+      "business"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/T4HwPUn.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png",
+    "stream_url": "https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BloombergOriginals.us",
+      "feed": "SD",
+      "site": "distro.tv",
+      "site_id": "50995",
+      "site_name": "Bloomberg Originals",
+      "lang": "en"
+    },
+    "website": "https://www.bloomberg.com/originals/live",
+    "launched": "2023-02-01",
+    "closed": null
+  },
+  {
+    "id": "BloombergOriginals.us",
+    "name": "Bloomberg Originals",
+    "alt_names": [],
+    "network": "Bloomberg",
+    "owners": [
+      "Bloomberg L.P.",
+      "Michael Bloomberg",
+      "Bank of America"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary",
+      "business"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png",
     "stream_url": "https://bloomberg.com/media-manifest/streams/qt.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
-      "channel": "BloombergQuicktake.us",
+      "channel": "BloombergOriginals.us",
       "feed": "SD",
-      "site": "i.mjh.nz",
-      "site_id": "SamsungTVPlus/us#USAJ30000041W",
+      "site": "distro.tv",
+      "site_id": "50995",
       "site_name": "Bloomberg Originals",
       "lang": "en"
     },
-    "website": "https://www.bloomberg.com/qt",
-    "launched": null,
+    "website": "https://www.bloomberg.com/originals/live",
+    "launched": "2023-02-01",
     "closed": null
   },
   {
-    "id": "BloombergQuicktake.us",
-    "name": "Bloomberg Quicktake",
+    "id": "BloombergOriginals.us",
+    "name": "Bloomberg Originals",
     "alt_names": [],
-    "network": null,
+    "network": "Bloomberg",
     "owners": [
       "Bloomberg L.P.",
       "Michael Bloomberg",
@@ -5585,26 +5590,27 @@
     "subdivision": null,
     "city": null,
     "categories": [
-      "general"
+      "documentary",
+      "business"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/T4HwPUn.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png",
     "stream_url": "https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8",
-    "stream_quality": "720p",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
-      "channel": "BloombergQuicktake.us",
+      "channel": "BloombergOriginals.us",
       "feed": "SD",
-      "site": "i.mjh.nz",
-      "site_id": "SamsungTVPlus/us#USAJ30000041W",
+      "site": "distro.tv",
+      "site_id": "50995",
       "site_name": "Bloomberg Originals",
       "lang": "en"
     },
-    "website": "https://www.bloomberg.com/qt",
-    "launched": null,
+    "website": "https://www.bloomberg.com/originals/live",
+    "launched": "2023-02-01",
     "closed": null
   },
   {
@@ -27393,7 +27399,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/h1ejU90.png",
+    "logo": "https://i.imgur.com/0sfk3yp.png",
     "stream_url": "https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -27428,7 +27434,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/h1ejU90.png",
+    "logo": "https://i.imgur.com/0sfk3yp.png",
     "stream_url": "https://amg00353-amg00353c32-samsung-nz-3588.playouts.now.amagi.tv/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -27463,7 +27469,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/h1ejU90.png",
+    "logo": "https://i.imgur.com/0sfk3yp.png",
     "stream_url": "https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -27498,7 +27504,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/h1ejU90.png",
+    "logo": "https://i.imgur.com/0sfk3yp.png",
     "stream_url": "https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -47171,37 +47177,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png",
-    "stream_url": "http://46.151.196.243/play/Y5v1n1Qxf3Kd-l9oc4PGlK3DzxwnjkoBkTl59dVAmBE/m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "WNBCDT1.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "20459",
-      "site_name": "NBC (WNBC-DT1) New York, NY",
-      "lang": "en"
-    },
-    "website": "http://www.nbcnewyork.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "WNBCDT1.us",
-    "name": "WNBC-DT1",
-    "alt_names": [],
-    "network": "NBC",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png",
     "stream_url": "https://tvpass.org/live/WNBCDT1/hd",
     "stream_quality": "720p",
     "stream_format": null,
@@ -48495,6 +48470,32 @@
       "lang": "en"
     },
     "website": "http://www.wsoctv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "WSOCNow.us",
+    "name": "WSOC Now",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/tUb1mdc.png",
+    "stream_url": "https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.wsoctv.com/video/",
     "launched": null,
     "closed": null
   },

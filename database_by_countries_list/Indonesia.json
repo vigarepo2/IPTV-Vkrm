@@ -2705,6 +2705,34 @@
     "closed": null
   },
   {
+    "id": "MBGTV.id",
+    "name": "MBG TV",
+    "alt_names": [
+      "Makan Bergizi Gratis TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "legislative"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/t7GsFJN.jpeg",
+    "stream_url": "https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://jupnasgizi.com/",
+    "launched": "2026-02-20",
+    "closed": null
+  },
+  {
     "id": "MDTV.id",
     "name": "MDTV",
     "alt_names": [],
