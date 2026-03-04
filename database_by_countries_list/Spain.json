@@ -4219,6 +4219,43 @@
     "closed": null
   },
   {
+    "id": "Historia.es",
+    "name": "Historia",
+    "alt_names": [
+      "História"
+    ],
+    "network": null,
+    "owners": [
+      "AMC Networks Inc."
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/VUy8xIG.png",
+    "stream_url": "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Historia.es",
+      "feed": "SD",
+      "site": "programacion-tv.elpais.com",
+      "site_id": "148",
+      "site_name": "Historia",
+      "lang": "es"
+    },
+    "website": "https://tuamc.tv/canal-historia/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "HOLAPlay.es",
     "name": "HOLA! Play",
     "alt_names": [
@@ -4975,7 +5012,91 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/RBcD49X.png",
+    "stream_url": "https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://lovetvchannels.com/en/our-channels/#planet",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "LoveThePlanet.es",
+    "name": "Love The Planet",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Love TV Channels"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/RBcD49X.png",
     "stream_url": "https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://lovetvchannels.com/en/our-channels/#planet",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "LoveThePlanet.es",
+    "name": "Love The Planet",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Love TV Channels"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/RBcD49X.png",
+    "stream_url": "https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://lovetvchannels.com/en/our-channels/#planet",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "LoveThePlanet.es",
+    "name": "Love The Planet",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Love TV Channels"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/RBcD49X.png",
+    "stream_url": "https://amg01821-amg01821c11-rlaxx-gb-10459.playouts.now.amagi.tv/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

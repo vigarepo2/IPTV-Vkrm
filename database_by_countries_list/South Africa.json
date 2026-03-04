@@ -869,6 +869,37 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Vhv5gjN.png",
+    "stream_url": "https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://wildearth.tv/",
+    "launched": "2020-08-25",
+    "closed": null
+  },
+  {
+    "id": "WildEarth.za",
+    "name": "WildEarth",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "WildEarth Media (Pty) Ltd."
+    ],
+    "country_code": "ZA",
+    "country_name": "South Africa",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "outdoor",
+      "relax",
+      "documentary",
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Vhv5gjN.png",
     "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,

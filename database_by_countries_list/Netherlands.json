@@ -1004,6 +1004,34 @@
     "closed": null
   },
   {
+    "id": "INFAST.nl",
+    "name": "INFAST",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Insight TV"
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://cdn.uc.assets.prezly.com/1b9c9500-cb43-449b-9eb6-9579640ec904/InFast_portrait-red.png",
+    "stream_url": "https://insighttv-samsung-us.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.in.tv/channels/infast",
+    "launched": "2022-09-14",
+    "closed": null
+  },
+  {
     "id": "INTRAVEL.nl",
     "name": "INTRAVEL",
     "alt_names": [],
@@ -1278,6 +1306,41 @@
     "is_nsfw": false,
     "logo": "https://cdn.uc.assets.prezly.com/1e0b2617-b145-4489-9d63-ba8438489f26/InWonder_portrait-black.png",
     "stream_url": "https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "InWonder.nl",
+      "feed": "SD",
+      "site": "i.mjh.nz",
+      "site_id": "SamsungTVPlus/us#USBA300023G8",
+      "site_name": "InWonder",
+      "lang": "en"
+    },
+    "website": "https://www.in.tv/channels/inwonder",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "InWonder.nl",
+    "name": "InWonder",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Insight TV"
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "science"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://cdn.uc.assets.prezly.com/1e0b2617-b145-4489-9d63-ba8438489f26/InWonder_portrait-black.png",
+    "stream_url": "https://amg00861-terninternation-inwonderushd-samsungus-gqtpa.amagi.tv/playlist/amg00861-terninternation-inwonderushd-samsungus/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -5177,6 +5240,118 @@
     "closed": null
   },
   {
+    "id": "XITEClassicCountry.nl",
+    "name": "XITE Classic Country",
+    "alt_names": [],
+    "network": "XITE",
+    "owners": [
+      "XITE Networks"
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/XQrMCkT.png",
+    "stream_url": "https://pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://xite.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "XITEHits.nl",
+    "name": "XITE Hits",
+    "alt_names": [],
+    "network": "XITE",
+    "owners": [
+      "XITE Networks"
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/N51Rp7E.png",
+    "stream_url": "https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "XITEJustChill.nl",
+    "name": "XITE Just Chill",
+    "alt_names": [],
+    "network": "XITE",
+    "owners": [
+      "XITE Networks"
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://provider-static.plex.tv/epg/cms/production/927dd614-017d-49dd-9eb9-0ed79d09084e/xitejustchill_logo_light_-_Arlette_FiranRDX.png",
+    "stream_url": "https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://xite.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "XITEReggaeVibes.nl",
+    "name": "XITE Reggae Vibes",
+    "alt_names": [],
+    "network": "XITE",
+    "owners": [
+      "XITE Networks"
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://provider-static.plex.tv/epg/cms/production/c7506335-967f-46a9-917a-2a35475cd96c/xitereggaevibes_logo_light_-_Arlette_FiranRDX.png",
+    "stream_url": "https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://xite.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "XITERockxMetal.nl",
     "name": "XITE Rock x Metal",
     "alt_names": [],
@@ -5195,6 +5370,34 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/szDM09P.png",
     "stream_url": "https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://xite.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "XITERockxMetal.nl",
+    "name": "XITE Rock x Metal",
+    "alt_names": [],
+    "network": "XITE",
+    "owners": [
+      "XITE Networks"
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/szDM09P.png",
+    "stream_url": "https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

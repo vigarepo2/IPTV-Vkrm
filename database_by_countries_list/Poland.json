@@ -2157,58 +2157,6 @@
     "closed": null
   },
   {
-    "id": "TVMazowsze.pl",
-    "name": "TV Mazowsze",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://zapodaj.net/thumbs/821c90c93eee6.jpg",
-    "stream_url": "http://stream.tvmazowsze.pl:5920/tmp_hls/stream/index.m3u8",
-    "stream_quality": "1080i",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.tvmazowsze.pl/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVMazowsze.pl",
-    "name": "TV Mazowsze",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://zapodaj.net/thumbs/821c90c93eee6.jpg",
-    "stream_url": "https://stream2.tvmazowsze.pl/tmp_hls/stream/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.tvmazowsze.pl/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TVOkazje.pl",
     "name": "TV Okazje",
     "alt_names": [],

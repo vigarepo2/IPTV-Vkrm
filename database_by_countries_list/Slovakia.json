@@ -146,6 +146,43 @@
     "closed": null
   },
   {
+    "id": "ducktv.sk",
+    "name": "ducktv",
+    "alt_names": [
+      "Bebe TV"
+    ],
+    "network": null,
+    "owners": [
+      "Mega Max Media s.r.o."
+    ],
+    "country_code": "SK",
+    "country_name": "Slovakia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/gRFQ35W.png",
+    "stream_url": "https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ducktv.sk",
+      "feed": "HD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000215_020005",
+      "site_name": "ducktv",
+      "lang": "nl"
+    },
+    "website": "https://www.ducktv.tv/",
+    "launched": "2007-10-01",
+    "closed": null
+  },
+  {
     "id": "Dvojka.sk",
     "name": "Dvojka",
     "alt_names": [],

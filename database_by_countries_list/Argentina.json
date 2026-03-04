@@ -2467,6 +2467,39 @@
     "closed": null
   },
   {
+    "id": "Telefe.ar",
+    "name": "Telefe",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Televisión Litoral"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png",
+    "stream_url": "http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/telefe_720.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Telefe.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#telefe",
+      "site_name": "Telefe",
+      "lang": "es"
+    },
+    "website": "https://telefe.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TelefeRosario.ar",
     "name": "Telefe Rosario",
     "alt_names": [],

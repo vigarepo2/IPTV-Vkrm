@@ -2306,6 +2306,32 @@
     "closed": null
   },
   {
+    "id": "GrjngoWesternMovies.de",
+    "name": "Grjngo Western Movies",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/wFqhK3p.png",
+    "stream_url": "https://pb-rtme7tnh9wa6k.akamaized.net/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.grjngo.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Hamburg1.de",
     "name": "Hamburg 1",
     "alt_names": [],

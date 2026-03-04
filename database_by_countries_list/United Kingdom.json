@@ -686,6 +686,41 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/nGSsUd4.png",
+    "stream_url": "https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BBCEarth.uk",
+      "feed": "Asia",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000102",
+      "site_name": "BBC Earth",
+      "lang": "id"
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BBCEarth.uk",
+    "name": "BBC Earth",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BBC Studios"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nGSsUd4.png",
     "stream_url": "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -1030,7 +1065,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png",
+    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -1065,7 +1100,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png",
+    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -1100,7 +1135,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png",
+    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd",
     "stream_quality": "720p",
     "stream_format": null,
@@ -1135,7 +1170,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png",
+    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -1170,7 +1205,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png",
+    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8",
     "stream_quality": "540p",
     "stream_format": null,
@@ -1205,7 +1240,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png",
+    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8",
     "stream_quality": "540p",
     "stream_format": null,
@@ -1240,7 +1275,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png",
+    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd",
     "stream_quality": "720p",
     "stream_format": null,
@@ -1275,7 +1310,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png",
+    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -1310,7 +1345,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png",
+    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -1345,7 +1380,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png",
+    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://tv.ddns.vn/tv/bbcworldnews/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -1380,7 +1415,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png",
+    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -1415,9 +1450,44 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png",
+    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BBCNews.uk",
+      "feed": "Africa",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000116_019005",
+      "site_name": "BBC News",
+      "lang": "en"
+    },
+    "website": "https://www.bbc.co.uk/tv/bbcnews",
+    "launched": "1997-11-09",
+    "closed": null
+  },
+  {
+    "id": "BBCNews.uk",
+    "name": "BBC News",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BBC Studios"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -7570,6 +7640,34 @@
     "closed": null
   },
   {
+    "id": "FIFAPlus.uk",
+    "name": "FIFA+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "FIFA"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",
+    "stream_url": "https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.plus.fifa.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "FIFAPlusWomen.uk",
     "name": "FIFA+ Women",
     "alt_names": [],
@@ -9218,6 +9316,41 @@
     "closed": null
   },
   {
+    "id": "MoonbugKids.uk",
+    "name": "Moonbug Kids",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Moonbug Entertainment"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/vZHtxQb.png",
+    "stream_url": "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MoonbugKids.uk",
+      "feed": "SD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000229_000000",
+      "site_name": "Moonbug",
+      "lang": "en"
+    },
+    "website": "https://www.moonbug.com/channel",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "More4.uk",
     "name": "More4",
     "alt_names": [],
@@ -9310,6 +9443,38 @@
     "is_nsfw": false,
     "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
     "stream_url": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2024-06-21",
+    "closed": null
+  },
+  {
+    "id": "MrBeanAnimated.uk",
+    "name": "Mr Bean Animated",
+    "alt_names": [
+      "Mr. Bean: The Animated Series",
+      "mr Bean"
+    ],
+    "network": null,
+    "owners": [
+      "Banijay Rights"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
+    "stream_url": "https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -10607,6 +10772,39 @@
     "closed": null
   },
   {
+    "id": "RugbyPassTV.uk",
+    "name": "RugbyPass TV",
+    "alt_names": [
+      "Setanta Sports"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "https://dt1kh32hg3tft.cloudfront.net/v1/world_rugby_rugbypasstv_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RugbyPassTV.uk",
+      "feed": "SD",
+      "site": "nowplayer.now.com",
+      "site_id": "679",
+      "site_name": "Premier Sports",
+      "lang": "zh"
+    },
+    "website": null,
+    "launched": null,
+    "closed": "2021-07-31"
+  },
+  {
     "id": "S4C.uk",
     "name": "S4C",
     "alt_names": [],
@@ -11055,6 +11253,32 @@
     "closed": null
   },
   {
+    "id": "Teletubbies.uk",
+    "name": "Teletubbies",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/J9iWjWL.png",
+    "stream_url": "https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Thats70s.uk",
     "name": "That's 70s",
     "alt_names": [
@@ -11420,6 +11644,33 @@
     },
     "website": "https://www.togethertv.com/",
     "launched": "2000-09-18",
+    "closed": null
+  },
+  {
+    "id": "TopGear.uk",
+    "name": "Top Gear",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment",
+      "auto"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/S6Su6QH.png",
+    "stream_url": "https://d1daq1khzqxpku.cloudfront.net/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.topgear.com/",
+    "launched": null,
     "closed": null
   },
   {

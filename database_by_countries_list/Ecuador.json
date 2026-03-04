@@ -593,6 +593,34 @@
     "closed": null
   },
   {
+    "id": "EducaTV.ec",
+    "name": "Educa TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Gobierno del Ecuador"
+    ],
+    "country_code": "EC",
+    "country_name": "Ecuador",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/lY9Bx2u.png",
+    "stream_url": "https://avm.ecuamedia.net/educatv/live/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://educa.ec/",
+    "launched": "2014-12-02",
+    "closed": null
+  },
+  {
     "id": "ElSolNetworkTV.ec",
     "name": "El Sol Network TV",
     "alt_names": [],

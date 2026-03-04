@@ -855,6 +855,41 @@
     "closed": null
   },
   {
+    "id": "RTPInternacional.pt",
+    "name": "RTP Internacional",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Rádio e Televisão de Portugal"
+    ],
+    "country_code": "PT",
+    "country_name": "Portugal",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png",
+    "stream_url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8",
+    "stream_quality": "504p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RTPInternacional.pt",
+      "feed": "SD",
+      "site": "zap.co.ao",
+      "site_id": "2262",
+      "site_name": "RTP Internacional",
+      "lang": "pt"
+    },
+    "website": "http://www.rtp.pt/rtpinternacional",
+    "launched": "1992-06-10",
+    "closed": null
+  },
+  {
     "id": "RTPMadeira.pt",
     "name": "RTP Madeira",
     "alt_names": [],
@@ -924,6 +959,76 @@
     },
     "website": "http://www.rtp.pt/rtpmemoria/",
     "launched": "2004-10-04",
+    "closed": null
+  },
+  {
+    "id": "RTPNoticias.pt",
+    "name": "RTP Noticias",
+    "alt_names": [
+      "RTP 3"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "PT",
+    "country_name": "Portugal",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Bm2XEHH.png",
+    "stream_url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RTPNoticias.pt",
+      "feed": "HD",
+      "site": "vodafone.pt",
+      "site_id": "7187",
+      "site_name": "RTP Noticias",
+      "lang": "pt"
+    },
+    "website": "http://www.rtp.pt/noticias/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RTPNoticias.pt",
+    "name": "RTP Noticias",
+    "alt_names": [
+      "RTP 3"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "PT",
+    "country_name": "Portugal",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Bm2XEHH.png",
+    "stream_url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8",
+    "stream_quality": "504p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RTPNoticias.pt",
+      "feed": "HD",
+      "site": "vodafone.pt",
+      "site_id": "7187",
+      "site_name": "RTP Noticias",
+      "lang": "pt"
+    },
+    "website": "http://www.rtp.pt/noticias/",
+    "launched": null,
     "closed": null
   },
   {

@@ -62,6 +62,34 @@
     "closed": null
   },
   {
+    "id": "ARDBTV.kh",
+    "name": "ARDB TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Agricultural and Rural Development Bank"
+    ],
+    "country_code": "KH",
+    "country_name": "Cambodia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "outdoor"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/yOncWla.png",
+    "stream_url": "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://ardbtv.ardb.com.kh/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BayonTV.kh",
     "name": "Bayon TV",
     "alt_names": [
@@ -237,30 +265,6 @@
     "logo": "https://i.imgur.com/jgVJt2G.png",
     "stream_url": "http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tv9.com.kh/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "CTV9.kh",
-    "name": "CTV 9",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "KH",
-    "country_name": "Cambodia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/jgVJt2G.png",
-    "stream_url": "https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8",
-    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -695,6 +699,32 @@
     "tv_guide": null,
     "website": "https://mytv.com.kh/",
     "launched": "2008-01-01",
+    "closed": null
+  },
+  {
+    "id": "NiceTV.kh",
+    "name": "Nice TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "KH",
+    "country_name": "Cambodia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/6usooLc.png",
+    "stream_url": "http://43.252.18.195:5080/live/streams/Netflix.playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://nicetv.asia/",
+    "launched": null,
     "closed": null
   },
   {
