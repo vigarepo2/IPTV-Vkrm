@@ -865,46 +865,6 @@
     "closed": null
   },
   {
-    "id": "AndaluciaTelevision.es",
-    "name": "Andalucia Television",
-    "alt_names": [
-      "Andalucía Televisión",
-      "Andalucía TV",
-      "Canal Sur HD"
-    ],
-    "network": null,
-    "owners": [
-      "Radio y Television de Andalucia"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general",
-      "public"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg",
-    "stream_url": "http://176.65.146.237:8401/play/a09g/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AndaluciaTelevision.es",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "2530",
-      "site_name": "ANDALUCIA TV",
-      "lang": "fr"
-    },
-    "website": "https://www.canalsur.es/tv_directo-1193.html",
-    "launched": "2015-02-28",
-    "closed": null
-  },
-  {
     "id": "AnimeVision.es",
     "name": "Anime Vision",
     "alt_names": [
@@ -1249,39 +1209,6 @@
     "closed": null
   },
   {
-    "id": "Atreseries.es",
-    "name": "Atreseries",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png",
-    "stream_url": "http://176.65.146.237:8401/play/a0ai/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Atreseries.es",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "1761",
-      "site_name": "Atres Series",
-      "lang": "fr"
-    },
-    "website": "http://atreseries.atresmedia.com/",
-    "launched": "2015-12-22",
-    "closed": null
-  },
-  {
     "id": "AtreseriesInternacional.es",
     "name": "Atreseries Internacional",
     "alt_names": [],
@@ -1445,43 +1372,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.biosferadigital.com/estaticas/biosferatvdirecto/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BomCine.es",
-    "name": "Bom Cine",
-    "alt_names": [
-      "Squirrel 3"
-    ],
-    "network": null,
-    "owners": [
-      "Squirrel Media"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://bomcine.com/img/ico/logo-bom-negro.svg",
-    "stream_url": "http://176.65.146.237:8401/play/a09d/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BomCine.es",
-      "feed": "SD",
-      "site": "orangetv.orange.es",
-      "site_id": "2063",
-      "site_name": "Bom Cine",
-      "lang": "es"
-    },
-    "website": "https://www.bomcine.com/",
     "launched": null,
     "closed": null
   },
@@ -2296,45 +2186,6 @@
     "closed": null
   },
   {
-    "id": "CanalSur.es",
-    "name": "Canal Sur",
-    "alt_names": [
-      "Andalucía Televisión",
-      "Andalucía TV"
-    ],
-    "network": null,
-    "owners": [
-      "Radio y Televisión de Andalucía"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general",
-      "public"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg",
-    "stream_url": "http://176.65.146.237:8401/play/a09c/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CanalSur.es",
-      "feed": "SD",
-      "site": "orangetv.orange.es",
-      "site_id": "1035",
-      "site_name": "CanalSur",
-      "lang": "es"
-    },
-    "website": "http://canalsur.es/television",
-    "launched": "1989-02-28",
-    "closed": null
-  },
-  {
     "id": "CanalSurAndalucia.es",
     "name": "Canal Sur Andalucia",
     "alt_names": [
@@ -3145,41 +2996,6 @@
     "closed": null
   },
   {
-    "id": "Cuatro.es",
-    "name": "Cuatro",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Mediaset Espana"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/NYLnABb.png",
-    "stream_url": "http://176.65.146.237:8401/play/a09s/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Cuatro.es",
-      "feed": "SD",
-      "site": "programacion-tv.elpais.com",
-      "site_id": "496",
-      "site_name": "Cuatro",
-      "lang": "es"
-    },
-    "website": "https://www.cuatro.com/",
-    "launched": "2005-11-07",
-    "closed": null
-  },
-  {
     "id": "CugatTV.es",
     "name": "Cugat TV",
     "alt_names": [],
@@ -3283,41 +3099,6 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Divinity.es",
-    "name": "Divinity",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Mediaset Espana"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "lifestyle"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/o7fvEr6.png",
-    "stream_url": "http://176.65.146.237:8401/play/a09q/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Divinity.es",
-      "feed": "SD",
-      "site": "programacion-tv.elpais.com",
-      "site_id": "697",
-      "site_name": "Divinity",
-      "lang": "es"
-    },
-    "website": "http://www.divinity.es/",
-    "launched": "2011-03-11",
     "closed": null
   },
   {
@@ -3585,41 +3366,6 @@
     "tv_guide": null,
     "website": "https://www.empordadigital.cat/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Energy.es",
-    "name": "Energy",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Mediaset Espana"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Energy.svg",
-    "stream_url": "http://176.65.146.237:8401/play/a0ac/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Energy.es",
-      "feed": "SD",
-      "site": "programacion-tv.elpais.com",
-      "site_id": "709",
-      "site_name": "Energy",
-      "lang": "es"
-    },
-    "website": "http://www.telecinco.es/energy/",
-    "launched": "2012-01-09",
     "closed": null
   },
   {
@@ -4438,80 +4184,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
-    "stream_url": "http://176.65.146.237:8401/play/a095/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "La1.es",
-      "feed": "SD",
-      "site": "tv-programme.telecablesat.fr",
-      "site_id": "206",
-      "site_name": "TVE 1",
-      "lang": "fr"
-    },
-    "website": "http://www.rtve.es/television/",
-    "launched": "1956-10-28",
-    "closed": null
-  },
-  {
-    "id": "La1.es",
-    "name": "La 1",
-    "alt_names": [],
-    "network": "TVE",
-    "owners": [
-      "RTVE"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general",
-      "public"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
     "stream_url": "https://ztnr.rtve.es/ztnr/1688877.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "La1.es",
-      "feed": "SD",
-      "site": "tv-programme.telecablesat.fr",
-      "site_id": "206",
-      "site_name": "TVE 1",
-      "lang": "fr"
-    },
-    "website": "http://www.rtve.es/television/",
-    "launched": "1956-10-28",
-    "closed": null
-  },
-  {
-    "id": "La1.es",
-    "name": "La 1",
-    "alt_names": [],
-    "network": "TVE",
-    "owners": [
-      "RTVE"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general",
-      "public"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
-    "stream_url": "http://176.65.146.237:8401/play/a09u/index.m3u8",
-    "stream_quality": "2160p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -4774,39 +4448,6 @@
     },
     "website": "https://www.telemadrid.es/",
     "launched": "2001-03-19",
-    "closed": null
-  },
-  {
-    "id": "LaSexta.es",
-    "name": "La Sexta",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/aKV5voq.png",
-    "stream_url": "http://176.65.146.237:8401/play/a0af/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "LaSexta.es",
-      "feed": "SD",
-      "site": "programacion-tv.elpais.com",
-      "site_id": "510",
-      "site_name": "laSexta",
-      "lang": "es"
-    },
-    "website": "https://www.lasexta.com/",
-    "launched": "2001-04-01",
     "closed": null
   },
   {
@@ -5215,41 +4856,6 @@
     "closed": null
   },
   {
-    "id": "Mega.es",
-    "name": "Mega",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Atresmedia"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Udrt2eK.png",
-    "stream_url": "http://176.65.146.237:8401/play/a0a5/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Mega.es",
-      "feed": "SD",
-      "site": "programacion-tv.elpais.com",
-      "site_id": "841",
-      "site_name": "Mega",
-      "lang": "es"
-    },
-    "website": "https://mega.atresmedia.com/",
-    "launched": "2015-07-01",
-    "closed": null
-  },
-  {
     "id": "Mijas340TV.es",
     "name": "Mijas 3.40TV",
     "alt_names": [],
@@ -5613,44 +5219,6 @@
     "closed": null
   },
   {
-    "id": "Neox.es",
-    "name": "Neox",
-    "alt_names": [
-      "Neox 8",
-      "Antena.Neox"
-    ],
-    "network": null,
-    "owners": [
-      "Atresmedia"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png",
-    "stream_url": "http://176.65.146.237:8401/play/a0ag/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Neox.es",
-      "feed": "SD",
-      "site": "programacion-tv.elpais.com",
-      "site_id": "508",
-      "site_name": "Neox",
-      "lang": "es"
-    },
-    "website": "http://www.antena3.com/neox/",
-    "launched": "2005-11-30",
-    "closed": null
-  },
-  {
     "id": "Nortevision.es",
     "name": "Nortevision",
     "alt_names": [
@@ -5674,41 +5242,6 @@
     "tv_guide": null,
     "website": "http://nortevision.es/directo/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Nova.es",
-    "name": "Nova",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Atresmedia"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "lifestyle"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Vx1F4o5.png",
-    "stream_url": "http://176.65.146.237:8401/play/a0ah/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Nova.es",
-      "feed": "SD",
-      "site": "programacion-tv.elpais.com",
-      "site_id": "509",
-      "site_name": "Nova",
-      "lang": "es"
-    },
-    "website": "http://nova.atresmedia.com/",
-    "launched": "2005-11-30",
     "closed": null
   },
   {
@@ -7391,41 +6924,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/5pMo7dL.png",
-    "stream_url": "http://176.65.146.237:8401/play/a0ak/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RealMadridTV.es",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "3600",
-      "site_name": "REAL MADRID TV",
-      "lang": "fr"
-    },
-    "website": "https://www.realmadrid.com/real-madrid-tv",
-    "launched": "1999-02-14",
-    "closed": null
-  },
-  {
-    "id": "RealMadridTV.es",
-    "name": "Real Madrid TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Real Madrid Club de Fútbol"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/5pMo7dL.png",
     "stream_url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
     "stream_quality": "404p",
     "stream_format": null,
@@ -7777,65 +7275,6 @@
     "closed": null
   },
   {
-    "id": "Squirrel2.es",
-    "name": "Squirrel 2",
-    "alt_names": [
-      "Squirrel Dos"
-    ],
-    "network": null,
-    "owners": [
-      "Squirrel Media"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/BDv4ubA.png",
-    "stream_url": "http://176.65.146.237:8401/play/a09i/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://squirreltv.es/",
-    "launched": "2026-01-01",
-    "closed": null
-  },
-  {
-    "id": "Squirrel.es",
-    "name": "Squirrel",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Squirrel Media"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies",
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/9y8VcBr.png",
-    "stream_url": "http://176.65.146.237:8401/play/a09h/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://squirreltv.es/",
-    "launched": "2025-01-07",
-    "closed": null
-  },
-  {
     "id": "STZTelebista.es",
     "name": "STZ Telebista",
     "alt_names": [],
@@ -8062,41 +7501,6 @@
       "lang": "es"
     },
     "website": "https://www.telebilbao.es/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Telecinco.es",
-    "name": "Telecinco",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Mediaset España"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png",
-    "stream_url": "http://176.65.146.237:8401/play/a09r/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Telecinco.es",
-      "feed": "SD",
-      "site": "programacion-tv.elpais.com",
-      "site_id": "1",
-      "site_name": "Telecinco",
-      "lang": "es"
-    },
-    "website": "https://www.telecinco.es/",
     "launched": null,
     "closed": null
   },
@@ -8463,37 +7867,6 @@
     "closed": null
   },
   {
-    "id": "TEN.es",
-    "name": "TEN",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ZpaeqyN.png",
-    "stream_url": "http://176.65.146.237:8401/play/a0al/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TEN.es",
-      "feed": "SD",
-      "site": "orangetv.orange.es",
-      "site_id": "12054",
-      "site_name": "Ten",
-      "lang": "es"
-    },
-    "website": "https://tentv.es/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TodoNovelas.es",
     "name": "Todo Novelas",
     "alt_names": [],
@@ -8547,41 +7920,6 @@
     "tv_guide": null,
     "website": "http://www.todonovelas.es/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Trece.es",
-    "name": "Trece",
-    "alt_names": [
-      "13tv"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/512px-Trece.svg.png",
-    "stream_url": "http://176.65.146.237:8401/play/a0a9/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Trece.es",
-      "feed": "SD",
-      "site": "orangetv.orange.es",
-      "site_id": "1017",
-      "site_name": "TR3CE",
-      "lang": "es"
-    },
-    "website": "https://www.cope.es/trecetv",
-    "launched": "2010-01-01",
     "closed": null
   },
   {
@@ -9725,37 +9063,6 @@
     "tv_guide": null,
     "website": "https://www.ventdelnord.tv/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Veo7.es",
-    "name": "Veo7",
-    "alt_names": [
-      "Veo Televisión"
-    ],
-    "network": null,
-    "owners": [
-      "Unidad Editorial"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies",
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/kklTIMm.png",
-    "stream_url": "http://176.65.146.237:8401/play/a09k/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.veo7.com/",
-    "launched": "2005-11-30",
     "closed": null
   },
   {

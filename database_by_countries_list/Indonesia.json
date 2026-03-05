@@ -1915,6 +1915,32 @@
     "closed": null
   },
   {
+    "id": "JakartaGlobeNewsChannel.id",
+    "name": "Jakarta Globe News Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/B6GFBy9C/In_Shot_20260121_203812695.png",
+    "stream_url": "https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglobe/srtoutput/manifest.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "JakTV.id",
     "name": "Jak TV",
     "alt_names": [],
@@ -2702,6 +2728,30 @@
     },
     "website": null,
     "launched": "2020-07-16",
+    "closed": null
+  },
+  {
+    "id": "MatrixTVYogyakarta.id",
+    "name": "Matrix TV Yogyakarta",
+    "alt_names": [],
+    "network": "Stara TV",
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://stream.matrixtv.id/logo",
+    "stream_url": "https://stream.matrixtv.id/hls/0/stream.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://stream.matrixtv.id/",
+    "tv_guide": null,
+    "website": "https://stream.matrixtv.id/",
+    "launched": null,
     "closed": null
   },
   {

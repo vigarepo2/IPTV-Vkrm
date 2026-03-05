@@ -2612,6 +2612,39 @@
     "closed": null
   },
   {
+    "id": "TN.ar",
+    "name": "TN",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/vFwPhPS.png",
+    "stream_url": "http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/tn_720.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TN.ar",
+      "feed": "SD",
+      "site": "nuevosiglo.com.uy",
+      "site_id": "TN",
+      "site_name": "TN",
+      "lang": "es"
+    },
+    "website": "https://tn.com.ar/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TVManaArgentina.ar",
     "name": "TV Mana Argentina",
     "alt_names": [
