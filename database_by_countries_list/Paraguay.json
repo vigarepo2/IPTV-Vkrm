@@ -120,6 +120,34 @@
     "closed": null
   },
   {
+    "id": "Canal5TVMax.py",
+    "name": "Canal 5 TV Max",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Tv Max Cable S.A."
+    ],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/6oihaDM.png",
+    "stream_url": "https://video.wilohosting.com:19360/tvmax/tvmax.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://tvmaxsa.com.py/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CaritasTV.py",
     "name": "Caritas TV",
     "alt_names": [

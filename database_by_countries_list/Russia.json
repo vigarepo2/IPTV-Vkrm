@@ -5489,7 +5489,7 @@
     "stream_url": "https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "MatchPlaneta.ru",
@@ -5929,7 +5929,7 @@
     "stream_url": "https://cdn4.skygo.mn/live/disk1/MIR/HLSv3-FTA/MIR.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "Mir.ru",
@@ -8300,7 +8300,7 @@
     "stream_url": "https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "Pobeda.ru",
@@ -21338,7 +21338,7 @@
     "stream_url": "https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "Telecafe.ru",
@@ -22397,7 +22397,7 @@
     "stream_url": "https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "TVCentrInternational.ru",
@@ -23287,7 +23287,7 @@
     "stream_url": "https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "Vremya.ru",
